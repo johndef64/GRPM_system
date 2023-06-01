@@ -1,0 +1,413 @@
+,Preferred Label,Semantic Types Label,mesh_id
+0,Cytochrome P-450 CYP1A2 Inhibitors,Pharmacologic Substance,D065609
+1,Cytochrome P-450 CYP1A2 Inhibitors,Pharmacologic Substance,D065609
+2,Cytochrome P-450 CYP1A2 Inhibitors,Pharmacologic Substance,D065609
+3,Cytochrome P-450 CYP1A2 Inducers,Pharmacologic Substance,D065694
+4,Cytochrome P-450 CYP1A2 Inducers,Pharmacologic Substance,D065694
+5,Cytochrome P-450 CYP1A2 Inducers,Pharmacologic Substance,D065694
+6,Cytochrome P-450 CYP1A2,"Amino Acid, Peptide, or Protein",D019388
+7,Cytochrome P-450 CYP1A2,"Amino Acid, Peptide, or Protein",D019388
+8,Cytochrome P-450 CYP1A2,Enzyme,D019388
+9,Cytochrome P-450 CYP1A2,Enzyme,D019388
+10,Cytochrome P-450 CYP1A2,"Amino Acid, Peptide, or Protein",D019388
+11,Cytochrome P-450 CYP1A2,"Amino Acid, Peptide, or Protein",D019388
+12,Cytochrome P-450 CYP1A2,Enzyme,D019388
+13,Cytochrome P-450 CYP1A2,Enzyme,D019388
+14,Cytochrome P-450 CYP1A2,"Amino Acid, Peptide, or Protein",D019388
+15,Cytochrome P-450 CYP1A2,"Amino Acid, Peptide, or Protein",D019388
+16,Cytochrome P-450 CYP1A2,Enzyme,D019388
+17,Cytochrome P-450 CYP1A2,Enzyme,D019388
+18,"Radiation, Ionizing",Natural Phenomenon or Process,D011839
+19,Food Additives,Food,D005503
+20,Pesticides,Hazardous or Poisonous Substance,D010575
+21,"Air Pollutants, Radioactive",Hazardous or Poisonous Substance,D000396
+22,"Air Pollutants, Occupational",Hazardous or Poisonous Substance,D000395
+23,Air Pollutants,Hazardous or Poisonous Substance,D000393
+24,Soil Pollutants,Hazardous or Poisonous Substance,D012989
+25,"Soil Pollutants, Radioactive",Hazardous or Poisonous Substance,D012990
+26,"Water Pollutants, Chemical",Hazardous or Poisonous Substance,D014874
+27,Environmental Pollutants,Hazardous or Poisonous Substance,D004785
+28,"Toxicity Tests, Acute",Diagnostic Procedure,D023382
+29,"Toxicity Tests, Acute",Diagnostic Procedure,D023382
+30,"Toxicity Tests, Acute",Diagnostic Procedure,D023382
+31,Toxicogenetics,Biomedical Occupation or Discipline,D043922
+32,Polypharmacy,Therapeutic or Preventive Procedure,D019338
+33,Liver Transplantation,Therapeutic or Preventive Procedure,D016031
+34,Liver Transplantation,Therapeutic or Preventive Procedure,D016031
+35,"Liver Diseases, Alcoholic",Disease or Syndrome,D008108
+36,"Liver Diseases, Alcoholic",Disease or Syndrome,D008108
+37,"Liver Diseases, Alcoholic",Disease or Syndrome,D008108
+38,Forensic Toxicology,Occupation or Discipline,D053593
+39,Toxicology,Biomedical Occupation or Discipline,D014116
+40,Liver Regeneration,Organ or Tissue Function,D008115
+41,Liver Regeneration,Organ or Tissue Function,D008115
+42,Liver Function Tests,Laboratory Procedure,D008111
+43,Liver Function Tests,Laboratory Procedure,D008111
+44,Acute-On-Chronic Liver Failure,Disease or Syndrome,D065290
+45,Acute-On-Chronic Liver Failure,Disease or Syndrome,D065290
+46,"Liver Failure, Acute",Disease or Syndrome,D017114
+47,"Liver Failure, Acute",Disease or Syndrome,D017114
+48,Liver Failure,Disease or Syndrome,D017093
+49,Liver Failure,Disease or Syndrome,D017093
+50,"Liver Cirrhosis, Experimental",Experimental Model of Disease,D008106
+51,"Liver Cirrhosis, Experimental",Experimental Model of Disease,D008106
+52,"Liver Diseases, Parasitic",Disease or Syndrome,D008109
+53,"Liver Diseases, Parasitic",Disease or Syndrome,D008109
+54,Liver Diseases,Disease or Syndrome,D008107
+55,Liver Diseases,Disease or Syndrome,D008107
+56,Liver Diseases,Finding,D008107
+57,Liver Diseases,Finding,D008107
+58,Liver Diseases,Disease or Syndrome,D008107
+59,Liver Diseases,Disease or Syndrome,D008107
+60,Liver Diseases,Finding,D008107
+61,Liver Diseases,Finding,D008107
+62,Oxidative Stress,Cell or Molecular Dysfunction,D018384
+63,Cytochrome P-450 CYP3A Inducers,Pharmacologic Substance,D065701
+64,Cytochrome P-450 Enzyme Inhibitors,Pharmacologic Substance,D065607
+65,Cytochrome P-450 Enzyme Inhibitors,Pharmacologic Substance,D065607
+66,Cytochrome P-450 Enzyme Inducers,Pharmacologic Substance,D065693
+67,Cytochrome P-450 CYP2D6 Inducers,Pharmacologic Substance,D065699
+68,Cytochrome P-450 CYP2D6 Inhibitors,Pharmacologic Substance,D065690
+69,Cytochrome P-450 CYP3A Inhibitors,Pharmacologic Substance,D065692
+70,Cytochrome P-450 CYP2B6 Inducers,Pharmacologic Substance,D065695
+71,Cytochrome P-450 CYP2E1 Inhibitors,Pharmacologic Substance,D065691
+72,Cytochrome P-450 CYP2C19 Inhibitors,Pharmacologic Substance,D065689
+73,Cytochrome P-450 CYP2B6 Inhibitors,Pharmacologic Substance,D065686
+74,Cytochrome P-450 CYP2C8 Inhibitors,Pharmacologic Substance,D065687
+75,Cytochrome P-450 CYP2B6,"Amino Acid, Peptide, or Protein",D065702
+76,Cytochrome P-450 CYP2B6,"Amino Acid, Peptide, or Protein",D065702
+77,Cytochrome P-450 CYP2B6,Enzyme,D065702
+78,Cytochrome P-450 CYP2B6,Enzyme,D065702
+79,Cytochrome P-450 CYP4A,"Amino Acid, Peptide, or Protein",D042926
+80,Cytochrome P-450 CYP4A,"Amino Acid, Peptide, or Protein",D042926
+81,Cytochrome P-450 CYP4A,Enzyme,D042926
+82,Cytochrome P-450 CYP4A,Enzyme,D042926
+83,Cytochrome P-450 CYP2D6,"Amino Acid, Peptide, or Protein",D019389
+84,Cytochrome P-450 CYP2D6,"Amino Acid, Peptide, or Protein",D019389
+85,Cytochrome P-450 CYP2D6,Enzyme,D019389
+86,Cytochrome P-450 CYP2D6,Enzyme,D019389
+87,Cytochrome P-450 Enzyme System,"Amino Acid, Peptide, or Protein",D003577
+88,Cytochrome P-450 Enzyme System,"Amino Acid, Peptide, or Protein",D003577
+89,Cytochrome P-450 Enzyme System,Enzyme,D003577
+90,Cytochrome P-450 Enzyme System,Enzyme,D003577
+91,Cytochrome P-450 Enzyme System,"Amino Acid, Peptide, or Protein",D003577
+92,Cytochrome P-450 Enzyme System,"Amino Acid, Peptide, or Protein",D003577
+93,Cytochrome P-450 Enzyme System,Enzyme,D003577
+94,Cytochrome P-450 Enzyme System,Enzyme,D003577
+95,Cytochrome P-450 CYP2B1,"Amino Acid, Peptide, or Protein",D019362
+96,Cytochrome P-450 CYP2B1,"Amino Acid, Peptide, or Protein",D019362
+97,Cytochrome P-450 CYP2B1,Enzyme,D019362
+98,Cytochrome P-450 CYP2B1,Enzyme,D019362
+99,Cytochrome P-450 CYP1A1,"Amino Acid, Peptide, or Protein",D019363
+100,Cytochrome P-450 CYP1A1,"Amino Acid, Peptide, or Protein",D019363
+101,Cytochrome P-450 CYP1A1,Enzyme,D019363
+102,Cytochrome P-450 CYP1A1,Enzyme,D019363
+103,Cytochrome P-450 CYP3A,"Amino Acid, Peptide, or Protein",D051544
+104,Cytochrome P-450 CYP3A,"Amino Acid, Peptide, or Protein",D051544
+105,Cytochrome P-450 CYP3A,Enzyme,D051544
+106,Cytochrome P-450 CYP3A,Enzyme,D051544
+107,Cytochrome P-450 CYP2E1,"Amino Acid, Peptide, or Protein",D019392
+108,Cytochrome P-450 CYP2E1,"Amino Acid, Peptide, or Protein",D019392
+109,Cytochrome P-450 CYP2E1,Enzyme,D019392
+110,Cytochrome P-450 CYP2E1,Enzyme,D019392
+111,Cytochrome P-450 CYP2C19,"Amino Acid, Peptide, or Protein",D065731
+112,Cytochrome P-450 CYP2C19,"Amino Acid, Peptide, or Protein",D065731
+113,Cytochrome P-450 CYP2C19,Enzyme,D065731
+114,Cytochrome P-450 CYP2C19,Enzyme,D065731
+115,Cytochrome P-450 CYP2C9,"Amino Acid, Peptide, or Protein",D065729
+116,Cytochrome P-450 CYP2C9,"Amino Acid, Peptide, or Protein",D065729
+117,Cytochrome P-450 CYP2C9,Enzyme,D065729
+118,Cytochrome P-450 CYP2C9,Enzyme,D065729
+119,Cytochrome P-450 CYP2C8,"Amino Acid, Peptide, or Protein",D065727
+120,Cytochrome P-450 CYP2C8,"Amino Acid, Peptide, or Protein",D065727
+121,Cytochrome P-450 CYP2C8,Enzyme,D065727
+122,Cytochrome P-450 CYP2C8,Enzyme,D065727
+123,Cytochrome P-450 CYP2J2,"Amino Acid, Peptide, or Protein",D000090762
+124,Cytochrome P-450 CYP2J2,"Amino Acid, Peptide, or Protein",D000090762
+125,Cytochrome P-450 CYP2J2,Enzyme,D000090762
+126,Cytochrome P-450 CYP2J2,Enzyme,D000090762
+127,Cytochrome P-450 CYP11B2,"Amino Acid, Peptide, or Protein",D019405
+128,Cytochrome P-450 CYP11B2,"Amino Acid, Peptide, or Protein",D019405
+129,Cytochrome P-450 CYP11B2,Enzyme,D019405
+130,Cytochrome P-450 CYP11B2,Enzyme,D019405
+131,Cytochrome P-450 CYP1B1,"Amino Acid, Peptide, or Protein",D065633
+132,Cytochrome P-450 CYP1B1,"Amino Acid, Peptide, or Protein",D065633
+133,Cytochrome P-450 CYP1B1,Enzyme,D065633
+134,Cytochrome P-450 CYP1B1,Enzyme,D065633
+135,Cytochrome P-450 CYP2A6,"Amino Acid, Peptide, or Protein",D065637
+136,Cytochrome P-450 CYP2A6,"Amino Acid, Peptide, or Protein",D065637
+137,Cytochrome P-450 CYP2A6,Enzyme,D065637
+138,Cytochrome P-450 CYP2A6,Enzyme,D065637
+139,"Receptors, Aryl Hydrocarbon","Amino Acid, Peptide, or Protein",D018336
+140,"Receptors, Aryl Hydrocarbon","Amino Acid, Peptide, or Protein",D018336
+141,"Receptors, Aryl Hydrocarbon",Receptor,D018336
+142,"Receptors, Aryl Hydrocarbon",Receptor,D018336
+143,Metabolome,Natural Phenomenon or Process,D055442
+144,Metabolome,Natural Phenomenon or Process,D055442
+145,Metabolome,Physiologic Function,D055442
+146,Metabolome,Physiologic Function,D055442
+147,Glutathione,Pharmacologic Substance,D005978
+148,Glutathione,Pharmacologic Substance,D005978
+149,Glutathione,Pharmacologic Substance,D005978
+150,Glutathione,Pharmacologic Substance,D005978
+151,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+152,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+153,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+154,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+155,Glutathione,Biologically Active Substance,D005978
+156,Glutathione,Biologically Active Substance,D005978
+157,Glutathione,Biologically Active Substance,D005978
+158,Glutathione,Biologically Active Substance,D005978
+159,Glutathione,Laboratory or Test Result,D005978
+160,Glutathione,Laboratory or Test Result,D005978
+161,Glutathione,Laboratory or Test Result,D005978
+162,Glutathione,Laboratory or Test Result,D005978
+163,Glutathione Disulfide,Pharmacologic Substance,D019803
+164,Glutathione Disulfide,Pharmacologic Substance,D019803
+165,Glutathione Disulfide,Pharmacologic Substance,D019803
+166,Glutathione Disulfide,"Amino Acid, Peptide, or Protein",D019803
+167,Glutathione Disulfide,"Amino Acid, Peptide, or Protein",D019803
+168,Glutathione Disulfide,"Amino Acid, Peptide, or Protein",D019803
+169,Glutathione Disulfide,Biologically Active Substance,D019803
+170,Glutathione Disulfide,Biologically Active Substance,D019803
+171,Glutathione Disulfide,Biologically Active Substance,D019803
+172,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
+173,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
+174,Glutathione Peroxidase,Enzyme,D005979
+175,Glutathione Peroxidase,Enzyme,D005979
+176,Glutathione S-Transferase pi,"Amino Acid, Peptide, or Protein",D051549
+177,Glutathione S-Transferase pi,"Amino Acid, Peptide, or Protein",D051549
+178,Glutathione S-Transferase pi,Enzyme,D051549
+179,Glutathione S-Transferase pi,Enzyme,D051549
+180,Protein Disulfide Reductase (Glutathione),"Amino Acid, Peptide, or Protein",D011490
+181,Protein Disulfide Reductase (Glutathione),"Amino Acid, Peptide, or Protein",D011490
+182,Protein Disulfide Reductase (Glutathione),Enzyme,D011490
+183,Protein Disulfide Reductase (Glutathione),Enzyme,D011490
+184,Glutathione Synthase,"Amino Acid, Peptide, or Protein",D005981
+185,Glutathione Synthase,"Amino Acid, Peptide, or Protein",D005981
+186,Glutathione Synthase,Enzyme,D005981
+187,Glutathione Synthase,Enzyme,D005981
+188,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
+189,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
+190,Glutathione Transferase,Enzyme,D005982
+191,Glutathione Transferase,Enzyme,D005982
+192,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
+193,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
+194,Glutathione Transferase,Enzyme,D005982
+195,Glutathione Transferase,Enzyme,D005982
+196,Glutathione Reductase,"Amino Acid, Peptide, or Protein",D005980
+197,Glutathione Reductase,"Amino Acid, Peptide, or Protein",D005980
+198,Glutathione Reductase,Enzyme,D005980
+199,Glutathione Reductase,Enzyme,D005980
+200,Phospholipid Hydroperoxide Glutathione Peroxidase,Gene or Genome,D000080662
+201,Uridine Diphosphate Glucuronic Acid,Biologically Active Substance,D014535
+202,Uridine Diphosphate Glucuronic Acid,Biologically Active Substance,D014535
+203,Uridine Diphosphate Glucuronic Acid,"Nucleic Acid, Nucleoside, or Nucleotide",D014535
+204,Uridine Diphosphate Glucuronic Acid,"Nucleic Acid, Nucleoside, or Nucleotide",D014535
+205,Mixed Function Oxygenases,"Amino Acid, Peptide, or Protein",D006899
+206,Mixed Function Oxygenases,"Amino Acid, Peptide, or Protein",D006899
+207,Mixed Function Oxygenases,Enzyme,D006899
+208,Mixed Function Oxygenases,Enzyme,D006899
+209,Aryl Hydrocarbon Hydroxylases,"Amino Acid, Peptide, or Protein",D001189
+210,Aryl Hydrocarbon Hydroxylases,"Amino Acid, Peptide, or Protein",D001189
+211,Aryl Hydrocarbon Hydroxylases,Enzyme,D001189
+212,Aryl Hydrocarbon Hydroxylases,Enzyme,D001189
+213,Carboxylesterase,"Amino Acid, Peptide, or Protein",D043182
+214,Carboxylesterase,"Amino Acid, Peptide, or Protein",D043182
+215,Carboxylesterase,Enzyme,D043182
+216,Carboxylesterase,Enzyme,D043182
+217,Hepatocytes,Cell,D022781
+218,Toxicity Tests,Diagnostic Procedure,D018675
+219,Toxicity Tests,Diagnostic Procedure,D018675
+221,"Liver Neoplasms, Experimental",Neoplastic Process,D008114
+222,"Liver Neoplasms, Experimental",Neoplastic Process,D008114
+223,"Liver Neoplasms, Experimental",Experimental Model of Disease,D008114
+224,"Liver Neoplasms, Experimental",Experimental Model of Disease,D008114
+225,"Liver Neoplasms, Experimental",Neoplastic Process,D008114
+226,"Liver Neoplasms, Experimental",Neoplastic Process,D008114
+227,"Liver Neoplasms, Experimental",Experimental Model of Disease,D008114
+228,"Liver Neoplasms, Experimental",Experimental Model of Disease,D008114
+229,Metabolomics,Biomedical Occupation or Discipline,D055432
+230,Liver Extracts,Pharmacologic Substance,D008110
+231,Liver Extracts,Pharmacologic Substance,D008110
+232,Liver Extracts,Pharmacologic Substance,D008110
+233,Liver Extracts,Organic Chemical,D008110
+234,Liver Extracts,Organic Chemical,D008110
+235,Liver Extracts,Organic Chemical,D008110
+236,Liver Extracts,Biologically Active Substance,D008110
+237,Liver Extracts,Biologically Active Substance,D008110
+238,Liver Extracts,Biologically Active Substance,D008110
+239,"Phosphofructokinase-1, Liver Type","Amino Acid, Peptide, or Protein",D025501
+240,"Phosphofructokinase-1, Liver Type","Amino Acid, Peptide, or Protein",D025501
+241,"Phosphofructokinase-1, Liver Type",Enzyme,D025501
+242,"Phosphofructokinase-1, Liver Type",Enzyme,D025501
+243,Liver X Receptors,"Amino Acid, Peptide, or Protein",D000071518
+244,Liver X Receptors,"Amino Acid, Peptide, or Protein",D000071518
+245,Liver X Receptors,Receptor,D000071518
+246,Liver X Receptors,Receptor,D000071518
+247,Liver-Specific Organic Anion Transporter 1,"Amino Acid, Peptide, or Protein",D027381
+248,Liver-Specific Organic Anion Transporter 1,"Amino Acid, Peptide, or Protein",D027381
+249,Liver-Specific Organic Anion Transporter 1,Biologically Active Substance,D027381
+250,Liver-Specific Organic Anion Transporter 1,Biologically Active Substance,D027381
+251,"Glycogen Phosphorylase, Liver Form","Amino Acid, Peptide, or Protein",D025001
+252,"Glycogen Phosphorylase, Liver Form","Amino Acid, Peptide, or Protein",D025001
+253,"Glycogen Phosphorylase, Liver Form",Enzyme,D025001
+254,"Glycogen Phosphorylase, Liver Form",Enzyme,D025001
+255,Liver Glycogen,Organic Chemical,D008112
+256,Liver Glycogen,Organic Chemical,D008112
+257,Liver Glycogen,Biologically Active Substance,D008112
+258,Liver Glycogen,Biologically Active Substance,D008112
+259,Chemical and Drug Induced Liver Injury,Injury or Poisoning,D056486
+260,Chemical and Drug Induced Liver Injury,Injury or Poisoning,D056486
+261,Chemical and Drug Induced Liver Injury,Disease or Syndrome,D056486
+262,Chemical and Drug Induced Liver Injury,Disease or Syndrome,D056486
+263,"Liver Cirrhosis, Alcoholic",Disease or Syndrome,D008104
+264,Liver Abscess,Disease or Syndrome,D008100
+265,"Liver Abscess, Amebic",Disease or Syndrome,D008101
+266,Liver Cirrhosis,Disease or Syndrome,D008103
+267,"Liver Cirrhosis, Biliary",Disease or Syndrome,D008105
+268,"Liver Abscess, Pyogenic",Disease or Syndrome,D046290
+269,"Chemical and Drug Induced Liver Injury, Chronic",Disease or Syndrome,D056487
+270,Fatty Liver,Disease or Syndrome,D005234
+271,"Fatty Liver, Alcoholic",Disease or Syndrome,D005235
+272,Non-alcoholic Fatty Liver Disease,Disease or Syndrome,D065626
+273,End Stage Liver Disease,Disease or Syndrome,D058625
+274,"Microsomes, Liver",Cell Component,D008862
+275,"Mitochondria, Liver",Cell Component,D008930
+276,Liver Circulation,Organ or Tissue Function,D008102
+277,"Adenoma, Liver Cell",Neoplastic Process,D018248
+279,Liver,"Body Part, Organ, or Organ Component",D008099
+280,Angiotensin-Converting Enzyme Inhibitors,Pharmacologic Substance,D000806
+281,Enzyme Inhibitors,Pharmacologic Substance,D004791
+282,Enzyme Induction,Genetic Function,D004790
+283,Oxidoreductases,"Amino Acid, Peptide, or Protein",D010088
+284,Oxidoreductases,"Amino Acid, Peptide, or Protein",D010088
+285,Oxidoreductases,Enzyme,D010088
+286,Oxidoreductases,Enzyme,D010088
+287,"Oxidoreductases, N-Demethylating","Amino Acid, Peptide, or Protein",D010089
+288,"Oxidoreductases, N-Demethylating","Amino Acid, Peptide, or Protein",D010089
+289,"Oxidoreductases, N-Demethylating",Enzyme,D010089
+290,"Oxidoreductases, N-Demethylating",Enzyme,D010089
+291,Oxidoreductases Acting on CH-NH Group Donors,"Amino Acid, Peptide, or Protein",D000587
+292,Oxidoreductases Acting on CH-NH Group Donors,"Amino Acid, Peptide, or Protein",D000587
+293,Oxidoreductases Acting on CH-NH Group Donors,Enzyme,D000587
+294,Oxidoreductases Acting on CH-NH Group Donors,Enzyme,D000587
+295,Oxidoreductases Acting on Sulfur Group Donors,"Amino Acid, Peptide, or Protein",D050862
+296,Oxidoreductases Acting on Sulfur Group Donors,"Amino Acid, Peptide, or Protein",D050862
+297,Oxidoreductases Acting on Sulfur Group Donors,Enzyme,D050862
+298,Oxidoreductases Acting on Sulfur Group Donors,Enzyme,D050862
+299,Oxidoreductases Acting on Aldehyde or Oxo Group Donors,"Amino Acid, Peptide, or Protein",D050837
+300,Oxidoreductases Acting on Aldehyde or Oxo Group Donors,"Amino Acid, Peptide, or Protein",D050837
+301,Oxidoreductases Acting on Aldehyde or Oxo Group Donors,Enzyme,D050837
+302,Oxidoreductases Acting on Aldehyde or Oxo Group Donors,Enzyme,D050837
+303,"NADH, NADPH Oxidoreductases","Amino Acid, Peptide, or Protein",D009247
+304,"NADH, NADPH Oxidoreductases","Amino Acid, Peptide, or Protein",D009247
+305,"NADH, NADPH Oxidoreductases",Enzyme,D009247
+306,"NADH, NADPH Oxidoreductases",Enzyme,D009247
+307,Ketone Oxidoreductases,"Amino Acid, Peptide, or Protein",D007658
+308,Ketone Oxidoreductases,"Amino Acid, Peptide, or Protein",D007658
+309,Ketone Oxidoreductases,Enzyme,D007658
+310,Ketone Oxidoreductases,Enzyme,D007658
+311,"Oxidoreductases, O-Demethylating","Amino Acid, Peptide, or Protein",D010090
+312,"Oxidoreductases, O-Demethylating","Amino Acid, Peptide, or Protein",D010090
+313,"Oxidoreductases, O-Demethylating",Enzyme,D010090
+314,"Oxidoreductases, O-Demethylating",Enzyme,D010090
+315,Oxidoreductases Acting on CH-CH Group Donors,"Amino Acid, Peptide, or Protein",D044925
+316,Oxidoreductases Acting on CH-CH Group Donors,"Amino Acid, Peptide, or Protein",D044925
+317,Oxidoreductases Acting on CH-CH Group Donors,Enzyme,D044925
+318,Oxidoreductases Acting on CH-CH Group Donors,Enzyme,D044925
+319,Aldehyde Oxidoreductases,"Amino Acid, Peptide, or Protein",D000445
+320,Aldehyde Oxidoreductases,"Amino Acid, Peptide, or Protein",D000445
+321,Aldehyde Oxidoreductases,Enzyme,D000445
+322,Aldehyde Oxidoreductases,Enzyme,D000445
+323,Oxidoreductases Acting on CH-NH2 Group Donors,"Amino Acid, Peptide, or Protein",D050891
+324,Oxidoreductases Acting on CH-NH2 Group Donors,"Amino Acid, Peptide, or Protein",D050891
+325,Oxidoreductases Acting on CH-NH2 Group Donors,Enzyme,D050891
+326,Oxidoreductases Acting on CH-NH2 Group Donors,Enzyme,D050891
+327,Amino Acid Oxidoreductases,"Amino Acid, Peptide, or Protein",D000594
+328,Amino Acid Oxidoreductases,"Amino Acid, Peptide, or Protein",D000594
+329,Amino Acid Oxidoreductases,Enzyme,D000594
+330,Amino Acid Oxidoreductases,Enzyme,D000594
+331,Intramolecular Oxidoreductases,"Amino Acid, Peptide, or Protein",D019746
+332,Intramolecular Oxidoreductases,"Amino Acid, Peptide, or Protein",D019746
+333,Intramolecular Oxidoreductases,Enzyme,D019746
+334,Intramolecular Oxidoreductases,Enzyme,D019746
+335,Alcohol Oxidoreductases,"Amino Acid, Peptide, or Protein",D000429
+336,Alcohol Oxidoreductases,"Amino Acid, Peptide, or Protein",D000429
+337,Alcohol Oxidoreductases,Enzyme,D000429
+338,Alcohol Oxidoreductases,Enzyme,D000429
+339,NAD (+) and NADP (+) Dependent Alcohol Oxidoreductases,"Amino Acid, Peptide, or Protein",D064430
+340,NAD (+) and NADP (+) Dependent Alcohol Oxidoreductases,"Amino Acid, Peptide, or Protein",D064430
+341,NAD (+) and NADP (+) Dependent Alcohol Oxidoreductases,Enzyme,D064430
+342,NAD (+) and NADP (+) Dependent Alcohol Oxidoreductases,Enzyme,D064430
+343,Toxicokinetics,Biomedical Occupation or Discipline,D066007
+344,Transcytosis,Cell Function,D057900
+345,Exocytosis,Cell Function,D005089
+346,Endocytosis,Cell Function,D004705
+347,Facilitated Diffusion,Molecular Function,D055459
+348,"Active Transport, Cell Nucleus",Cell Function,D021581
+349,Biological Transport,Cell Function,D001692
+350,"Biological Transport, Active",Physiologic Function,D001693
+352,Blood-Retinal Barrier,Organ or Tissue Function,D001813
+353,Blood-Brain Barrier,"Body Part, Organ, or Organ Component",D001812
+354,Metabolic Clearance Rate,Laboratory or Test Result,D008657
+355,Metabolic Clearance Rate,Laboratory or Test Result,D008657
+356,Metabolic Clearance Rate,Clinical Attribute,D008657
+357,Metabolic Clearance Rate,Clinical Attribute,D008657
+358,Mucociliary Clearance,Clinical Attribute,D009079
+359,Half-Life,Temporal Concept,D006207
+360,Peritoneal Absorption,Organ or Tissue Function,D065629
+361,Gastric Absorption,Organ or Tissue Function,D065570
+362,Intestinal Absorption,Organ or Tissue Function,D007408
+363,Skin Absorption,Organ or Tissue Function,D012869
+364,"Absorption, Physiological",Organ or Tissue Function,D065567
+365,"Absorption, Physiological",Organ or Tissue Function,D065567
+366,"Absorption, Physiological",Organism Attribute,D065567
+367,"Absorption, Physiological",Organism Attribute,D065567
+368,Gastrointestinal Absorption,Organ or Tissue Function,D065569
+369,Respiratory Tract Absorption,Organ or Tissue Function,D065589
+370,Intramuscular Absorption,Organ or Tissue Function,D065586
+371,"Absorption, Radiation",Natural Phenomenon or Process,D065638
+372,"Absorption, Physicochemical",Natural Phenomenon or Process,D065966
+374,Fluorescent Treponemal Antibody-Absorption Test,Laboratory Procedure,D016508
+375,Absorption,Organism Function,D000042
+376,"Conjugation, Genetic",Genetic Function,D003227
+377,"Conjugation, Genetic",Genetic Function,D003227
+378,Acetylation,Molecular Function,D000107
+379,Methylation,Molecular Function,D008745
+381,Congenital Disorders of Glycosylation,Disease or Syndrome,D018981
+382,Glycosylation,Natural Phenomenon or Process,D006031
+383,Glycosylation,Natural Phenomenon or Process,D006031
+384,Glycosylation,Molecular Function,D006031
+385,Glycosylation,Molecular Function,D006031
+386,Amination,Natural Phenomenon or Process,D000586
+387,Deamination,Natural Phenomenon or Process,D003641
+388,Dealkylation,Natural Phenomenon or Process,D003640
+389,Hydroxylation,Natural Phenomenon or Process,D006900
+390,Oxidation-Reduction,Molecular Function,D010084
+391,Biotransformation,Organism Function,D001711
+392,Calcium Metabolism Disorders,Disease or Syndrome,D002128
+393,Glucose Metabolism Disorders,Disease or Syndrome,D044882
+394,"Fructose Metabolism, Inborn Errors",Disease or Syndrome,D015318
+395,"Steroid Metabolism, Inborn Errors",Disease or Syndrome,D043202
+396,Iron Metabolism Disorders,Disease or Syndrome,D019189
+397,Lipid Metabolism Disorders,Disease or Syndrome,D052439
+402,"Metal Metabolism, Inborn Errors",Disease or Syndrome,D008664
+403,"Lipid Metabolism, Inborn Errors",Disease or Syndrome,D008052
+404,Phosphorus Metabolism Disorders,Disease or Syndrome,D010760
+405,"Purine-Pyrimidine Metabolism, Inborn Errors",Disease or Syndrome,D011686
+406,"Carbohydrate Metabolism, Inborn Errors",Disease or Syndrome,D002239
+407,"Amino Acid Metabolism, Inborn Errors",Disease or Syndrome,D000592
+408,"Pyruvate Metabolism, Inborn Errors",Disease or Syndrome,D015323
+409,Secondary Metabolism,Molecular Function,D064210
+410,Lipid Metabolism,Molecular Function,D050356
+411,Carbohydrate Metabolism,Molecular Function,D050260
+416,Metabolism,Organism Function,D008660
+417,Metabolism,Organism Function,D008660
+418,Metabolism,Biologic Function,D008660
+419,Metabolism,Biologic Function,D008660
+420,Basal Metabolism,Organism Function,D001481
+421,Xenobiotics,Biologically Active Substance,D015262
+422,Xenobiotics,Biologically Active Substance,D015262
+423,Xenobiotics,Hazardous or Poisonous Substance,D015262
+424,Xenobiotics,Hazardous or Poisonous Substance,D015262

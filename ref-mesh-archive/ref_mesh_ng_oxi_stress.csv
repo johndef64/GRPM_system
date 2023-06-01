@@ -1,0 +1,260 @@
+,Preferred Label,Semantic Types Label,mesh_id
+0,Superoxide Dismutase-1,"Amino Acid, Peptide, or Protein",D000072105
+1,Superoxide Dismutase-1,"Amino Acid, Peptide, or Protein",D000072105
+2,Superoxide Dismutase-1,Enzyme,D000072105
+3,Superoxide Dismutase-1,Enzyme,D000072105
+4,Superoxide Dismutase-1,"Amino Acid, Peptide, or Protein",D000072105
+5,Superoxide Dismutase-1,"Amino Acid, Peptide, or Protein",D000072105
+6,Superoxide Dismutase-1,Enzyme,D000072105
+7,Superoxide Dismutase-1,Enzyme,D000072105
+8,Reactive Nitrogen Species,Inorganic Chemical,D026361
+9,C-Reactive Protein,"Amino Acid, Peptide, or Protein",D002097
+10,C-Reactive Protein,"Amino Acid, Peptide, or Protein",D002097
+11,C-Reactive Protein,Immunologic Factor,D002097
+12,C-Reactive Protein,Immunologic Factor,D002097
+13,Tumor Necrosis Factor-alpha,"Amino Acid, Peptide, or Protein",D014409
+14,Tumor Necrosis Factor-alpha,"Amino Acid, Peptide, or Protein",D014409
+15,Tumor Necrosis Factor-alpha,Immunologic Factor,D014409
+16,Tumor Necrosis Factor-alpha,Immunologic Factor,D014409
+17,Inflammation Mediators,Pharmacologic Substance,D018836
+18,Neurogenic Inflammation,Injury or Poisoning,D020078
+19,Inflammation,Pathologic Function,D007249
+20,DNA Damage,Cell or Molecular Dysfunction,D004249
+21,Receptor for Advanced Glycation End Products,"Amino Acid, Peptide, or Protein",D000067759
+22,Receptor for Advanced Glycation End Products,"Amino Acid, Peptide, or Protein",D000067759
+23,Receptor for Advanced Glycation End Products,Receptor,D000067759
+24,Receptor for Advanced Glycation End Products,Receptor,D000067759
+25,Protein Carbonylation,Molecular Function,D050050
+26,"Receptors, Oxidized LDL","Amino Acid, Peptide, or Protein",D051131
+27,"Receptors, Oxidized LDL","Amino Acid, Peptide, or Protein",D051131
+28,"Receptors, Oxidized LDL",Receptor,D051131
+29,"Receptors, Oxidized LDL",Receptor,D051131
+30,Isoprostanes,Organic Chemical,D028421
+31,Isoprostanes,Organic Chemical,D028421
+32,Isoprostanes,Biologically Active Substance,D028421
+33,Isoprostanes,Biologically Active Substance,D028421
+34,F2-Isoprostanes,Organic Chemical,D028441
+35,F2-Isoprostanes,Organic Chemical,D028441
+36,F2-Isoprostanes,Biologically Active Substance,D028441
+37,F2-Isoprostanes,Biologically Active Substance,D028441
+38,Malondialdehyde,Organic Chemical,D008315
+39,Malondialdehyde,Organic Chemical,D008315
+40,Malondialdehyde,Biologically Active Substance,D008315
+41,Malondialdehyde,Biologically Active Substance,D008315
+42,Lipid Peroxidation,Molecular Function,D015227
+43,Peroxynitrous Acid,Biologically Active Substance,D030421
+44,Peroxynitrous Acid,Biologically Active Substance,D030421
+45,Peroxynitrous Acid,Inorganic Chemical,D030421
+46,Peroxynitrous Acid,Inorganic Chemical,D030421
+47,Nitric Oxide,Pharmacologic Substance,D009569
+48,Nitric Oxide,Pharmacologic Substance,D009569
+49,Nitric Oxide,Inorganic Chemical,D009569
+50,Nitric Oxide,Inorganic Chemical,D009569
+51,Nitric Oxide Donors,Pharmacologic Substance,D020030
+52,Nitric Oxide Synthase Type I,"Amino Acid, Peptide, or Protein",D052248
+53,Nitric Oxide Synthase Type I,"Amino Acid, Peptide, or Protein",D052248
+54,Nitric Oxide Synthase Type I,Enzyme,D052248
+55,Nitric Oxide Synthase Type I,Enzyme,D052248
+56,Nitric Oxide Synthase Type II,"Amino Acid, Peptide, or Protein",D052247
+57,Nitric Oxide Synthase Type II,"Amino Acid, Peptide, or Protein",D052247
+58,Nitric Oxide Synthase Type II,Enzyme,D052247
+59,Nitric Oxide Synthase Type II,Enzyme,D052247
+60,Nitric Oxide Synthase,"Amino Acid, Peptide, or Protein",D019001
+61,Nitric Oxide Synthase,"Amino Acid, Peptide, or Protein",D019001
+62,Nitric Oxide Synthase,Enzyme,D019001
+63,Nitric Oxide Synthase,Enzyme,D019001
+64,Nitric Oxide Synthase Type III,"Amino Acid, Peptide, or Protein",D052250
+65,Nitric Oxide Synthase Type III,"Amino Acid, Peptide, or Protein",D052250
+66,Nitric Oxide Synthase Type III,Enzyme,D052250
+67,Nitric Oxide Synthase Type III,Enzyme,D052250
+68,Hydroxyl Radical,Inorganic Chemical,D017665
+69,Superoxides,Pharmacologic Substance,D013481
+70,Superoxides,Pharmacologic Substance,D013481
+71,Superoxides,Organic Chemical,D013481
+72,Superoxides,Organic Chemical,D013481
+73,Hydrogen Peroxide,Pharmacologic Substance,D006861
+74,Hydrogen Peroxide,Pharmacologic Substance,D006861
+75,Hydrogen Peroxide,Pharmacologic Substance,D006861
+76,Hydrogen Peroxide,"Indicator, Reagent, or Diagnostic Aid",D006861
+77,Hydrogen Peroxide,"Indicator, Reagent, or Diagnostic Aid",D006861
+78,Hydrogen Peroxide,"Indicator, Reagent, or Diagnostic Aid",D006861
+79,Hydrogen Peroxide,Inorganic Chemical,D006861
+80,Hydrogen Peroxide,Inorganic Chemical,D006861
+81,Hydrogen Peroxide,Inorganic Chemical,D006861
+82,Free Radicals,Inorganic Chemical,D005609
+83,Reactive Oxygen Species,Biologically Active Substance,D017382
+84,Reactive Oxygen Species,Biologically Active Substance,D017382
+85,Reactive Oxygen Species,"Element, Ion, or Isotope",D017382
+86,Reactive Oxygen Species,"Element, Ion, or Isotope",D017382
+87,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
+88,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
+89,Glutathione Peroxidase,Enzyme,D005979
+90,Glutathione Peroxidase,Enzyme,D005979
+91,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
+92,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
+93,Glutathione Peroxidase,Enzyme,D005979
+94,Glutathione Peroxidase,Enzyme,D005979
+95,Phospholipid Hydroperoxide Glutathione Peroxidase,Gene or Genome,D000080662
+96,Phospholipid Hydroperoxide Glutathione Peroxidase,Gene or Genome,D000080662
+97,Catalase,"Amino Acid, Peptide, or Protein",D002374
+98,Catalase,"Amino Acid, Peptide, or Protein",D002374
+99,Catalase,Enzyme,D002374
+100,Catalase,Enzyme,D002374
+101,Superoxide Dismutase,Pharmacologic Substance,D013482
+102,Superoxide Dismutase,Pharmacologic Substance,D013482
+103,Superoxide Dismutase,Pharmacologic Substance,D013482
+104,Superoxide Dismutase,"Amino Acid, Peptide, or Protein",D013482
+105,Superoxide Dismutase,"Amino Acid, Peptide, or Protein",D013482
+106,Superoxide Dismutase,"Amino Acid, Peptide, or Protein",D013482
+107,Superoxide Dismutase,Enzyme,D013482
+108,Superoxide Dismutase,Enzyme,D013482
+109,Superoxide Dismutase,Enzyme,D013482
+110,Glutathione,Pharmacologic Substance,D005978
+111,Glutathione,Pharmacologic Substance,D005978
+112,Glutathione,Pharmacologic Substance,D005978
+113,Glutathione,Pharmacologic Substance,D005978
+114,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+115,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+116,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+117,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+118,Glutathione,Biologically Active Substance,D005978
+119,Glutathione,Biologically Active Substance,D005978
+120,Glutathione,Biologically Active Substance,D005978
+121,Glutathione,Biologically Active Substance,D005978
+122,Glutathione,Laboratory or Test Result,D005978
+123,Glutathione,Laboratory or Test Result,D005978
+124,Glutathione,Laboratory or Test Result,D005978
+125,Glutathione,Laboratory or Test Result,D005978
+126,Glutathione Disulfide,Pharmacologic Substance,D019803
+127,Glutathione Disulfide,Pharmacologic Substance,D019803
+128,Glutathione Disulfide,Pharmacologic Substance,D019803
+129,Glutathione Disulfide,"Amino Acid, Peptide, or Protein",D019803
+130,Glutathione Disulfide,"Amino Acid, Peptide, or Protein",D019803
+131,Glutathione Disulfide,"Amino Acid, Peptide, or Protein",D019803
+132,Glutathione Disulfide,Biologically Active Substance,D019803
+133,Glutathione Disulfide,Biologically Active Substance,D019803
+134,Glutathione Disulfide,Biologically Active Substance,D019803
+135,Glutathione S-Transferase pi,"Amino Acid, Peptide, or Protein",D051549
+136,Glutathione S-Transferase pi,"Amino Acid, Peptide, or Protein",D051549
+137,Glutathione S-Transferase pi,Enzyme,D051549
+138,Glutathione S-Transferase pi,Enzyme,D051549
+139,Protein Disulfide Reductase (Glutathione),"Amino Acid, Peptide, or Protein",D011490
+140,Protein Disulfide Reductase (Glutathione),"Amino Acid, Peptide, or Protein",D011490
+141,Protein Disulfide Reductase (Glutathione),Enzyme,D011490
+142,Protein Disulfide Reductase (Glutathione),Enzyme,D011490
+143,Glutathione Synthase,"Amino Acid, Peptide, or Protein",D005981
+144,Glutathione Synthase,"Amino Acid, Peptide, or Protein",D005981
+145,Glutathione Synthase,Enzyme,D005981
+146,Glutathione Synthase,Enzyme,D005981
+147,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
+148,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
+149,Glutathione Transferase,Enzyme,D005982
+150,Glutathione Transferase,Enzyme,D005982
+151,Glutathione Reductase,"Amino Acid, Peptide, or Protein",D005980
+152,Glutathione Reductase,"Amino Acid, Peptide, or Protein",D005980
+153,Glutathione Reductase,Enzyme,D005980
+154,Glutathione Reductase,Enzyme,D005980
+155,Vitamin E,Pharmacologic Substance,D014810
+156,Vitamin E,Pharmacologic Substance,D014810
+157,Vitamin E,Pharmacologic Substance,D014810
+158,Vitamin E,Organic Chemical,D014810
+159,Vitamin E,Organic Chemical,D014810
+160,Vitamin E,Organic Chemical,D014810
+161,Vitamin E,Vitamin,D014810
+162,Vitamin E,Vitamin,D014810
+163,Vitamin E,Vitamin,D014810
+164,Vitamin E Deficiency,Disease or Syndrome,D014811
+165,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
+166,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
+167,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
+168,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
+169,Carotenoids,Pharmacologic Substance,D002338
+170,Carotenoids,Pharmacologic Substance,D002338
+171,Carotenoids,Pharmacologic Substance,D002338
+172,Carotenoids,Organic Chemical,D002338
+173,Carotenoids,Organic Chemical,D002338
+174,Carotenoids,Organic Chemical,D002338
+175,Carotenoids,Biologically Active Substance,D002338
+176,Carotenoids,Biologically Active Substance,D002338
+177,Carotenoids,Biologically Active Substance,D002338
+178,Flavonoids,Pharmacologic Substance,D005419
+179,Flavonoids,Pharmacologic Substance,D005419
+180,Flavonoids,Pharmacologic Substance,D005419
+181,Flavonoids,Organic Chemical,D005419
+182,Flavonoids,Organic Chemical,D005419
+183,Flavonoids,Organic Chemical,D005419
+184,Flavonoids,Vitamin,D005419
+185,Flavonoids,Vitamin,D005419
+186,Flavonoids,Vitamin,D005419
+187,Polyphenols,Pharmacologic Substance,D059808
+188,Polyphenols,Pharmacologic Substance,D059808
+189,Polyphenols,Organic Chemical,D059808
+190,Polyphenols,Organic Chemical,D059808
+191,Antioxidants,Pharmacologic Substance,D000975
+192,Antioxidants,Pharmacologic Substance,D000975
+193,Antioxidants,Pharmacologic Substance,D000975
+194,Antioxidants,Pharmacologic Substance,D000975
+195,Antioxidants,Biologically Active Substance,D000975
+196,Antioxidants,Biologically Active Substance,D000975
+197,Antioxidants,Biologically Active Substance,D000975
+198,Antioxidants,Biologically Active Substance,D000975
+199,Antioxidants,Molecular Function,D000975
+200,Antioxidants,Molecular Function,D000975
+201,Antioxidants,Molecular Function,D000975
+202,Antioxidants,Molecular Function,D000975
+203,Antioxidants,Physiologic Function,D000975
+204,Antioxidants,Physiologic Function,D000975
+205,Antioxidants,Physiologic Function,D000975
+206,Antioxidants,Physiologic Function,D000975
+207,Food Additives,Food,D005503
+208,Food Additives,Food,D005503
+211,Food Hypersensitivity,Pathologic Function,D005512
+212,Food Hypersensitivity,Pathologic Function,D005512
+217,Foodborne Diseases,Injury or Poisoning,D005517
+218,Food Addiction,Mental or Behavioral Dysfunction,D000073932
+219,Food Addiction,Mental or Behavioral Dysfunction,D000073932
+220,Food Addiction,Finding,D000073932
+221,Food Addiction,Finding,D000073932
+222,Food Insecurity,Finding,D000084884
+223,Food Insecurity,Finding,D000084884
+224,Food Insecurity,Functional Concept,D000084884
+225,Food Insecurity,Functional Concept,D000084884
+227,Food Contamination,Phenomenon or Process,D005506
+228,Food Contamination,Phenomenon or Process,D005506
+229,Food Contamination,Human-caused Phenomenon or Process,D005506
+230,Food Contamination,Human-caused Phenomenon or Process,D005506
+231,United States Food and Drug Administration,Health Care Related Organization,D014486
+232,Raw Foods,Food,D066256
+234,"Food, Preserved",Food,D057141
+235,Fast Foods,Food,D057140
+236,Functional Food,Food,D055951
+237,Fermented Foods,Food,D000074421
+238,Soy Foods,Food,D045730
+239,Food,Food,D005502
+240,Infant Food,Food,D007225
+241,"Food, Organic",Food,D058870
+242,Food Ingredients,Food,D000074385
+243,"Food, Genetically Modified",Food,D030841
+244,"Food, Fortified",Food,D005527
+245,Food-Drug Interactions,Natural Phenomenon or Process,D018565
+246,Food-Drug Interactions,Natural Phenomenon or Process,D018565
+247,Food-Drug Interactions,Pathologic Function,D018565
+248,Food-Drug Interactions,Pathologic Function,D018565
+250,Access to Healthy Foods,Qualitative Concept,D000091483
+251,Food Preferences,Qualitative Concept,D005518
+252,Food Preferences,Qualitative Concept,D005518
+253,Food Preferences,Individual Behavior,D005518
+254,Food Preferences,Individual Behavior,D005518
+256,Food Security,Qualitative Concept,D000082302
+259,Food Supply,Quantitative Concept,D005523
+260,Food Assistance,Occupational Activity,D063105
+261,Food Assistance,Occupational Activity,D063105
+262,Food Assistance,Governmental or Regulatory Activity,D063105
+263,Food Assistance,Governmental or Regulatory Activity,D063105
+265,Food Safety,Occupational Activity,D059022
+266,Food Handling,Occupational Activity,D005511
+267,Food Preservation,Occupational Activity,D005519
+268,Food Fussiness,Individual Behavior,D000081010
+269,Food Coloring Agents,Chemical Viewed Functionally,D005505
+270,Food Preservatives,Chemical Viewed Functionally,D005520
+271,Oxidative Stress,Cell or Molecular Dysfunction,D018384
