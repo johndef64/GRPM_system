@@ -1,0 +1,56 @@
+,Gene name,Gene type,Gene description
+0,,TEC,"novel transcript with similarity to B melanoma antigen family, member 2 BAGE2"
+1,,TEC,TEC
+2,,TEC,novel transcript
+3,,TEC,tec
+4,LINC00552,TEC,long intergenic non-protein coding RNA 552 [Source:HGNC Symbol;Acc:HGNC:43692]
+5,ZBTB7C-AS2,TEC,ZBTB7C antisense RNA 2 [Source:HGNC Symbol;Acc:HGNC:24918]
+6,,TEC,"novel transcript, antisense to APOB"
+7,C18orf15,TEC,chromosome 18 putative open reading frame 15 [Source:HGNC Symbol;Acc:HGNC:26447]
+8,LINC03032,TEC,long intergenic non-protein coding RNA 3032 [Source:HGNC Symbol;Acc:HGNC:56192]
+9,,artifact,"novel protein, similar to DNA (cytosine-5-)-methyltransferase 3-like DNMT3L"
+10,,artifact,"novel protein, similar to PWP2 periodic tryptophan protein homolog (yeast) PWP2"
+11,,artifact,"novel protein, similar to chromosome 21 open reading frame 33 C21orf33"
+12,,artifact,"novel transcript, antisense to CH507-9B2.3"
+13,,artifact,"novel protein, similar to inducible T-cell co-stimulator ligand ICOSLG"
+14,,artifact,"novel protein, similar to trafficking protein particle complex 10 TRAPPC10"
+15,C8orf17,TEC,chromosome 8 putative open reading frame 17 [Source:HGNC Symbol;Acc:HGNC:17737]
+16,PRAL,TEC,p53 regulation associated lncRNA [Source:HGNC Symbol;Acc:HGNC:52646]
+17,,artifact,fem-1 homolog a (C. elegans) (FEM1A) pseudogene
+18,,artifact,cystathionine-beta-synthase like
+19,,artifact,U2 small nuclear RNA auxiliary factor 1-like 5
+20,,artifact,"novel protein, similar to crystallin, alpha A CRYAA"
+21,,artifact,novel histone H2B family protein
+22,,artifact,heat shock transcription factor 2 binding protein (HSF2BP) pseudogene
+23,,artifact,novel transcript
+24,,artifact,"novel protein, similar to salt-inducible kinase 1 SIK1"
+25,,artifact,small integral membrane protein 11B
+26,,artifact,novel protein identical to C21orf140
+27,,artifact,novel protein
+28,,artifact,"potassium channel, voltage gated subfamily E regulatory beta subunit 1B"
+29,,TEC,ataxin 8
+30,LINC01101,TEC,long intergenic non-protein coding RNA 1101 [Source:HGNC Symbol;Acc:HGNC:25923]
+31,,TEC,TWC
+32,FLJ30679,TEC,uncharacterized protein FLJ30679 [Source:NCBI gene (formerly Entrezgene);Acc:146512]
+33,CECR9,TEC,"cat eye syndrome chromosome region, candidate 9 [Source:HGNC Symbol;Acc:HGNC:1847]"
+34,PWAR5,TEC,Prader Willi/Angelman region RNA 5 [Source:HGNC Symbol;Acc:HGNC:30090]
+35,,TEC,"novel transcript, antisense to RNF40"
+36,GPC3-AS1,TEC,GPC3 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:52897]
+37,PWAR1,TEC,Prader Willi/Angelman region RNA 1 [Source:HGNC Symbol;Acc:HGNC:30089]
+38,DNM1P41,TEC,dynamin 1 pseudogene 41 [Source:HGNC Symbol;Acc:HGNC:35191]
+39,RBM12B-AS1,TEC,RBM12B antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:28818]
+40,FLJ42393,TEC,uncharacterized LOC401105 [Source:NCBI gene (formerly Entrezgene);Acc:401105]
+41,,TEC,TEC gene
+42,,TEC,"novel transcript, sense intronic to KCTD13"
+43,RN7SKP23,TEC,RN7SK pseudogene 23 [Source:HGNC Symbol;Acc:HGNC:45747]
+44,C20orf181,TEC,chromosome 20 putative open reading frame 181 [Source:HGNC Symbol;Acc:HGNC:16174]
+45,SMG6-IT1,TEC,SMG6 intronic transcript 1 [Source:HGNC Symbol;Acc:HGNC:1220]
+46,,TEC,"novel transcript, sense intronic to MLLT1"
+47,,TEC,"novel transcript, antisense to titin"
+48,,TEC,novel transcript similar to small nucleolar RNA host gene 7 (non-protein coding) (SNHG7)
+49,FLJ38576,TEC,uncharacterized LOC651430 [Source:NCBI gene (formerly Entrezgene);Acc:651430]
+50,GABARAPL3,TEC,GABA type A receptor associated protein like 3 pseudogene [Source:NCBI gene (formerly Entrezgene);Acc:23766]
+51,SLC7A2-IT1,TEC,SLC7A2 intronic transcript 1 [Source:HGNC Symbol;Acc:HGNC:54925]
+52,,TEC,"novel transcript, sense intronic to C6orf163"
+53,PRO1804,TEC,uncharacterized LOC100133319 [Source:NCBI gene (formerly Entrezgene);Acc:100133319]
+54,,TEC,"novel transcript, sense intronic to RASSF5"
