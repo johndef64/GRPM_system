@@ -1,0 +1,781 @@
+,Preferred Label,Semantic Types Label,mesh_id
+0,Arbovirus Infections,Disease or Syndrome,D001102
+1,Arbovirus Infections,Disease or Syndrome,D001102
+2,Parvoviridae Infections,Disease or Syndrome,D010322
+3,Parvoviridae Infections,Disease or Syndrome,D010322
+4,Poxviridae Infections,Disease or Syndrome,D011213
+5,Poxviridae Infections,Disease or Syndrome,D011213
+6,Adenoviridae Infections,Disease or Syndrome,D000257
+7,Adenoviridae Infections,Disease or Syndrome,D000257
+8,Papillomavirus Infections,Disease or Syndrome,D030361
+9,Papillomavirus Infections,Disease or Syndrome,D030361
+10,Paramyxoviridae Infections,Disease or Syndrome,D018184
+11,Paramyxoviridae Infections,Disease or Syndrome,D018184
+12,Viral Hepatitis Vaccines,Pharmacologic Substance,D014761
+13,Viral Hepatitis Vaccines,Pharmacologic Substance,D014761
+14,Viral Hepatitis Vaccines,Immunologic Factor,D014761
+15,Viral Hepatitis Vaccines,Immunologic Factor,D014761
+16,Viral Hepatitis Vaccines,Pharmacologic Substance,D014761
+17,Viral Hepatitis Vaccines,Pharmacologic Substance,D014761
+18,Viral Hepatitis Vaccines,Immunologic Factor,D014761
+19,Viral Hepatitis Vaccines,Immunologic Factor,D014761
+20,"Hemorrhagic Fevers, Viral",Disease or Syndrome,D006482
+21,Flaviviridae Infections,Disease or Syndrome,D018178
+22,Flaviviridae Infections,Disease or Syndrome,D018178
+23,Rhabdoviridae Infections,Disease or Syndrome,D018353
+24,Rhabdoviridae Infections,Disease or Syndrome,D018353
+25,Orthomyxoviridae Infections,Disease or Syndrome,D009976
+26,Orthomyxoviridae Infections,Disease or Syndrome,D009976
+27,"Leprosy, Paucibacillary",Disease or Syndrome,D056005
+28,"Leprosy, Multibacillary",Disease or Syndrome,D056006
+29,"Leprosy, Lepromatous",Disease or Syndrome,D015440
+30,"Leprosy, Tuberculoid",Disease or Syndrome,D015441
+31,Leprosy,Disease or Syndrome,D007918
+32,Hepatitis C Antibodies,"Amino Acid, Peptide, or Protein",D018937
+33,Hepatitis C Antibodies,"Amino Acid, Peptide, or Protein",D018937
+34,Hepatitis C Antibodies,Immunologic Factor,D018937
+35,Hepatitis C Antibodies,Immunologic Factor,D018937
+36,Hepatitis C Antibodies,"Amino Acid, Peptide, or Protein",D018937
+37,Hepatitis C Antibodies,"Amino Acid, Peptide, or Protein",D018937
+38,Hepatitis C Antibodies,Immunologic Factor,D018937
+39,Hepatitis C Antibodies,Immunologic Factor,D018937
+40,Hepatitis C Antigens,Organic Chemical,D018936
+41,Hepatitis C Antigens,Organic Chemical,D018936
+42,Hepatitis C Antigens,Immunologic Factor,D018936
+43,Hepatitis C Antigens,Immunologic Factor,D018936
+44,Hepatitis C Antigens,Organic Chemical,D018936
+45,Hepatitis C Antigens,Organic Chemical,D018936
+46,Hepatitis C Antigens,Immunologic Factor,D018936
+47,Hepatitis C Antigens,Immunologic Factor,D018936
+48,"Hepatitis C, Chronic",Disease or Syndrome,D019698
+49,"Hepatitis C, Chronic",Disease or Syndrome,D019698
+50,Hepatitis C,Disease or Syndrome,D006526
+51,Hepatitis C,Disease or Syndrome,D006526
+52,Hepatitis B Vaccines,Pharmacologic Substance,D017325
+53,Hepatitis B Vaccines,Pharmacologic Substance,D017325
+54,Hepatitis B Vaccines,Pharmacologic Substance,D017325
+55,Hepatitis B Vaccines,"Amino Acid, Peptide, or Protein",D017325
+56,Hepatitis B Vaccines,"Amino Acid, Peptide, or Protein",D017325
+57,Hepatitis B Vaccines,"Amino Acid, Peptide, or Protein",D017325
+58,Hepatitis B Vaccines,Immunologic Factor,D017325
+59,Hepatitis B Vaccines,Immunologic Factor,D017325
+60,Hepatitis B Vaccines,Immunologic Factor,D017325
+61,Hepatitis B Vaccines,Pharmacologic Substance,D017325
+62,Hepatitis B Vaccines,Pharmacologic Substance,D017325
+63,Hepatitis B Vaccines,Pharmacologic Substance,D017325
+64,Hepatitis B Vaccines,"Amino Acid, Peptide, or Protein",D017325
+65,Hepatitis B Vaccines,"Amino Acid, Peptide, or Protein",D017325
+66,Hepatitis B Vaccines,"Amino Acid, Peptide, or Protein",D017325
+67,Hepatitis B Vaccines,Immunologic Factor,D017325
+68,Hepatitis B Vaccines,Immunologic Factor,D017325
+69,Hepatitis B Vaccines,Immunologic Factor,D017325
+70,Hepatitis B Antibodies,Pharmacologic Substance,D006510
+71,Hepatitis B Antibodies,Pharmacologic Substance,D006510
+72,Hepatitis B Antibodies,Pharmacologic Substance,D006510
+73,Hepatitis B Antibodies,"Amino Acid, Peptide, or Protein",D006510
+74,Hepatitis B Antibodies,"Amino Acid, Peptide, or Protein",D006510
+75,Hepatitis B Antibodies,"Amino Acid, Peptide, or Protein",D006510
+76,Hepatitis B Antibodies,Immunologic Factor,D006510
+77,Hepatitis B Antibodies,Immunologic Factor,D006510
+78,Hepatitis B Antibodies,Immunologic Factor,D006510
+79,Hepatitis B Antibodies,Pharmacologic Substance,D006510
+80,Hepatitis B Antibodies,Pharmacologic Substance,D006510
+81,Hepatitis B Antibodies,Pharmacologic Substance,D006510
+82,Hepatitis B Antibodies,"Amino Acid, Peptide, or Protein",D006510
+83,Hepatitis B Antibodies,"Amino Acid, Peptide, or Protein",D006510
+84,Hepatitis B Antibodies,"Amino Acid, Peptide, or Protein",D006510
+85,Hepatitis B Antibodies,Immunologic Factor,D006510
+86,Hepatitis B Antibodies,Immunologic Factor,D006510
+87,Hepatitis B Antibodies,Immunologic Factor,D006510
+88,Hepatitis B Antigens,Pharmacologic Substance,D006511
+89,Hepatitis B Antigens,Pharmacologic Substance,D006511
+90,Hepatitis B Antigens,Pharmacologic Substance,D006511
+91,Hepatitis B Antigens,"Amino Acid, Peptide, or Protein",D006511
+92,Hepatitis B Antigens,"Amino Acid, Peptide, or Protein",D006511
+93,Hepatitis B Antigens,"Amino Acid, Peptide, or Protein",D006511
+94,Hepatitis B Antigens,Immunologic Factor,D006511
+95,Hepatitis B Antigens,Immunologic Factor,D006511
+96,Hepatitis B Antigens,Immunologic Factor,D006511
+97,Hepatitis B Antigens,Pharmacologic Substance,D006511
+98,Hepatitis B Antigens,Pharmacologic Substance,D006511
+99,Hepatitis B Antigens,Pharmacologic Substance,D006511
+100,Hepatitis B Antigens,"Amino Acid, Peptide, or Protein",D006511
+101,Hepatitis B Antigens,"Amino Acid, Peptide, or Protein",D006511
+102,Hepatitis B Antigens,"Amino Acid, Peptide, or Protein",D006511
+103,Hepatitis B Antigens,Immunologic Factor,D006511
+104,Hepatitis B Antigens,Immunologic Factor,D006511
+105,Hepatitis B Antigens,Immunologic Factor,D006511
+106,Hepatitis B Surface Antigens,Pharmacologic Substance,D006514
+107,Hepatitis B Surface Antigens,Pharmacologic Substance,D006514
+108,Hepatitis B Surface Antigens,Pharmacologic Substance,D006514
+109,Hepatitis B Surface Antigens,"Amino Acid, Peptide, or Protein",D006514
+110,Hepatitis B Surface Antigens,"Amino Acid, Peptide, or Protein",D006514
+111,Hepatitis B Surface Antigens,"Amino Acid, Peptide, or Protein",D006514
+112,Hepatitis B Surface Antigens,Immunologic Factor,D006514
+113,Hepatitis B Surface Antigens,Immunologic Factor,D006514
+114,Hepatitis B Surface Antigens,Immunologic Factor,D006514
+115,Hepatitis B Surface Antigens,Pharmacologic Substance,D006514
+116,Hepatitis B Surface Antigens,Pharmacologic Substance,D006514
+117,Hepatitis B Surface Antigens,Pharmacologic Substance,D006514
+118,Hepatitis B Surface Antigens,"Amino Acid, Peptide, or Protein",D006514
+119,Hepatitis B Surface Antigens,"Amino Acid, Peptide, or Protein",D006514
+120,Hepatitis B Surface Antigens,"Amino Acid, Peptide, or Protein",D006514
+121,Hepatitis B Surface Antigens,Immunologic Factor,D006514
+122,Hepatitis B Surface Antigens,Immunologic Factor,D006514
+123,Hepatitis B Surface Antigens,Immunologic Factor,D006514
+124,Hepatitis B e Antigens,"Amino Acid, Peptide, or Protein",D006513
+125,Hepatitis B e Antigens,"Amino Acid, Peptide, or Protein",D006513
+126,Hepatitis B e Antigens,Immunologic Factor,D006513
+127,Hepatitis B e Antigens,Immunologic Factor,D006513
+128,Hepatitis B e Antigens,"Amino Acid, Peptide, or Protein",D006513
+129,Hepatitis B e Antigens,"Amino Acid, Peptide, or Protein",D006513
+130,Hepatitis B e Antigens,Immunologic Factor,D006513
+131,Hepatitis B e Antigens,Immunologic Factor,D006513
+132,Hepatitis B Core Antigens,Immunologic Factor,D006512
+133,Hepatitis B Core Antigens,Immunologic Factor,D006512
+134,Hepatitis B,Disease or Syndrome,D006509
+135,Hepatitis B,Disease or Syndrome,D006509
+136,"Hepatitis B, Chronic",Disease or Syndrome,D019694
+137,"Hepatitis B, Chronic",Disease or Syndrome,D019694
+138,"Hepatitis B Virus, Duck",Virus,D015611
+139,"Hepatitis B Virus, Duck",Virus,D015611
+140,"Hepatitis B Virus, Woodchuck",Virus,D017919
+141,"Hepatitis B Virus, Woodchuck",Virus,D017919
+142,Hepatitis B virus,Virus,D006515
+143,Hepatitis B virus,Virus,D006515
+144,"Poliovirus Vaccine, Inactivated",Pharmacologic Substance,D011054
+145,"Poliovirus Vaccine, Inactivated",Pharmacologic Substance,D011054
+146,"Poliovirus Vaccine, Inactivated",Immunologic Factor,D011054
+147,"Poliovirus Vaccine, Inactivated",Immunologic Factor,D011054
+148,"Poliovirus Vaccine, Oral",Pharmacologic Substance,D011055
+149,"Poliovirus Vaccine, Oral",Pharmacologic Substance,D011055
+150,"Poliovirus Vaccine, Oral",Immunologic Factor,D011055
+151,"Poliovirus Vaccine, Oral",Immunologic Factor,D011055
+152,Poliovirus Vaccines,Pharmacologic Substance,D023321
+153,Poliovirus Vaccines,Pharmacologic Substance,D023321
+154,Poliovirus Vaccines,Pharmacologic Substance,D023321
+155,Poliovirus Vaccines,Organic Chemical,D023321
+156,Poliovirus Vaccines,Organic Chemical,D023321
+157,Poliovirus Vaccines,Organic Chemical,D023321
+158,Poliovirus Vaccines,Immunologic Factor,D023321
+159,Poliovirus Vaccines,Immunologic Factor,D023321
+160,Poliovirus Vaccines,Immunologic Factor,D023321
+161,Poliomyelitis,Disease or Syndrome,D011051
+162,Poliovirus,Virus,D017955
+163,Chickenpox Vaccine,Pharmacologic Substance,D019433
+164,Chickenpox Vaccine,Pharmacologic Substance,D019433
+165,Chickenpox Vaccine,Immunologic Factor,D019433
+166,Chickenpox Vaccine,Immunologic Factor,D019433
+167,Chickenpox,Disease or Syndrome,D002644
+168,Rabies Vaccines,Pharmacologic Substance,D011819
+169,Rabies Vaccines,Pharmacologic Substance,D011819
+170,Rabies Vaccines,Pharmacologic Substance,D011819
+171,Rabies Vaccines,Organic Chemical,D011819
+172,Rabies Vaccines,Organic Chemical,D011819
+173,Rabies Vaccines,Organic Chemical,D011819
+174,Rabies Vaccines,Immunologic Factor,D011819
+175,Rabies Vaccines,Immunologic Factor,D011819
+176,Rabies Vaccines,Immunologic Factor,D011819
+177,Rabies,Disease or Syndrome,D011818
+178,Rabies virus,Virus,D011820
+179,West Nile Fever,Disease or Syndrome,D014901
+180,Hantavirus Infections,Disease or Syndrome,D018778
+181,Hantavirus Infections,Disease or Syndrome,D018778
+182,COVID-19,Disease or Syndrome,D000086382
+183,COVID-19,Disease or Syndrome,D000086382
+184,COVID-19,Phenomenon or Process,D000086382
+185,COVID-19,Phenomenon or Process,D000086382
+186,COVID-19 Testing,Laboratory Procedure,D000086742
+187,COVID-19 Serological Testing,Laboratory Procedure,D000087124
+188,COVID-19 Nucleic Acid Testing,Laboratory Procedure,D000087123
+189,COVID-19 Vaccines,Clinical Drug,D000086663
+190,Zika Virus Infection,Disease or Syndrome,D000071243
+191,Zika Virus Infection,Disease or Syndrome,D000071243
+192,Dengue Vaccines,Pharmacologic Substance,D053059
+193,Dengue Vaccines,Pharmacologic Substance,D053059
+194,Dengue Vaccines,Immunologic Factor,D053059
+195,Dengue Vaccines,Immunologic Factor,D053059
+196,Severe Dengue,Disease or Syndrome,D019595
+197,Dengue,Disease or Syndrome,D003715
+198,Dengue Virus,Virus,D003716
+199,Neonatal Sepsis,Disease or Syndrome,D000071074
+200,Sepsis,Disease or Syndrome,D018805
+201,Sepsis,Disease or Syndrome,D018805
+202,Sepsis,Pathologic Function,D018805
+203,Sepsis,Pathologic Function,D018805
+204,Sepsis-Associated Encephalopathy,Disease or Syndrome,D065166
+205,Sepsis-Associated Encephalopathy,Disease or Syndrome,D065166
+206,Sepsis-Associated Encephalopathy,Mental or Behavioral Dysfunction,D065166
+207,Sepsis-Associated Encephalopathy,Mental or Behavioral Dysfunction,D065166
+208,Acquired Immunodeficiency Syndrome,Disease or Syndrome,D000163
+209,Simian Acquired Immunodeficiency Syndrome,Disease or Syndrome,D016097
+210,Feline Acquired Immunodeficiency Syndrome,Disease or Syndrome,D016181
+211,Murine Acquired Immunodeficiency Syndrome,Experimental Model of Disease,D016183
+212,"Parasitic Diseases, Animal",Disease or Syndrome,D010273
+213,"Parasitic Diseases, Animal",Disease or Syndrome,D010273
+214,Mucormycosis,Disease or Syndrome,D009091
+215,Blastomycosis,Disease or Syndrome,D001759
+216,Coccidioidomycosis,Disease or Syndrome,D003047
+217,Histoplasmosis,Disease or Syndrome,D006660
+218,Cryptococcosis,Disease or Syndrome,D003453
+219,"Candidiasis, Vulvovaginal",Disease or Syndrome,D002181
+220,"Candidiasis, Vulvovaginal",Disease or Syndrome,D002181
+221,"Candidiasis, Chronic Mucocutaneous",Disease or Syndrome,D002178
+222,Candidiasis,Disease or Syndrome,D002177
+223,"Candidiasis, Cutaneous",Disease or Syndrome,D002179
+224,"Candidiasis, Invasive",Disease or Syndrome,D058365
+225,"Candidiasis, Oral",Disease or Syndrome,D002180
+226,Invasive Pulmonary Aspergillosis,Disease or Syndrome,D055744
+227,Pulmonary Aspergillosis,Disease or Syndrome,D055732
+228,Aspergillosis,Disease or Syndrome,D001228
+229,"Aspergillosis, Allergic Bronchopulmonary",Disease or Syndrome,D001229
+230,Mycoses,Disease or Syndrome,D009181
+231,Chagas Disease,Disease or Syndrome,D014355
+232,"Leishmaniasis, Mucocutaneous",Disease or Syndrome,D007897
+233,"Leishmaniasis, Mucocutaneous",Disease or Syndrome,D007897
+234,"Leishmaniasis, Visceral",Disease or Syndrome,D007898
+235,"Leishmaniasis, Visceral",Disease or Syndrome,D007898
+236,"Toxoplasmosis, Congenital",Disease or Syndrome,D014125
+237,"Toxoplasmosis, Congenital",Disease or Syndrome,D014125
+238,Coccidiosis,Disease or Syndrome,D003048
+239,Babesiosis,Disease or Syndrome,D001404
+240,Cryptosporidiosis,Disease or Syndrome,D003457
+241,Trichomonas Vaginitis,Disease or Syndrome,D014247
+242,Giardiasis,Disease or Syndrome,D005873
+243,Amebiasis,Disease or Syndrome,D000562
+244,"Toxoplasmosis, Animal",Disease or Syndrome,D014124
+245,"Toxoplasmosis, Ocular",Disease or Syndrome,D014126
+246,Toxoplasmosis,Disease or Syndrome,D014123
+247,"Toxoplasmosis, Cerebral",Disease or Syndrome,D016781
+248,"Trypanosomiasis, African",Disease or Syndrome,D014353
+249,Trypanosomiasis,Disease or Syndrome,D014352
+250,Leishmaniasis Vaccines,Pharmacologic Substance,D054332
+251,Leishmaniasis Vaccines,Pharmacologic Substance,D054332
+252,Leishmaniasis Vaccines,Immunologic Factor,D054332
+253,Leishmaniasis Vaccines,Immunologic Factor,D054332
+254,Leishmaniasis,Disease or Syndrome,D007896
+255,"Leishmaniasis, Cutaneous",Disease or Syndrome,D016773
+256,Malaria Vaccines,Pharmacologic Substance,D017780
+257,Malaria Vaccines,Pharmacologic Substance,D017780
+258,Malaria Vaccines,Immunologic Factor,D017780
+259,Malaria Vaccines,Immunologic Factor,D017780
+260,Malaria,Disease or Syndrome,D008288
+261,"Malaria, Falciparum",Disease or Syndrome,D016778
+262,"Malaria, Cerebral",Disease or Syndrome,D016779
+263,"Malaria, Vivax",Disease or Syndrome,D016780
+264,"Protozoan Infections, Animal",Disease or Syndrome,D011529
+265,"Protozoan Infections, Animal",Disease or Syndrome,D011529
+266,"Protozoan Infections, Animal",Disease or Syndrome,D011529
+267,Viral Vaccines,Pharmacologic Substance,D014765
+268,Viral Vaccines,Pharmacologic Substance,D014765
+269,Viral Vaccines,Immunologic Factor,D014765
+270,Viral Vaccines,Immunologic Factor,D014765
+271,Retroviridae Infections,Disease or Syndrome,D012192
+272,Retroviridae Infections,Disease or Syndrome,D012192
+273,Herpesviridae Infections,Disease or Syndrome,D006566
+274,Herpesviridae Infections,Disease or Syndrome,D006566
+275,Middle East Respiratory Syndrome Coronavirus,Virus,D065207
+276,Severe Acute Respiratory Syndrome,Disease or Syndrome,D045169
+277,Coronavirus Infections,Disease or Syndrome,D018352
+278,Coronavirus Infections,Disease or Syndrome,D018352
+279,Rotavirus Infections,Disease or Syndrome,D012400
+280,Rotavirus Infections,Disease or Syndrome,D012400
+281,Hepatitis delta Antigens,Pharmacologic Substance,D035923
+282,Hepatitis delta Antigens,Pharmacologic Substance,D035923
+283,Hepatitis delta Antigens,Immunologic Factor,D035923
+284,Hepatitis delta Antigens,Immunologic Factor,D035923
+285,Hepatitis A Virus Cellular Receptor 1,"Amino Acid, Peptide, or Protein",D000072596
+286,Hepatitis A Virus Cellular Receptor 1,"Amino Acid, Peptide, or Protein",D000072596
+287,Hepatitis A Virus Cellular Receptor 1,"Amino Acid, Peptide, or Protein",D000072596
+288,Hepatitis A Virus Cellular Receptor 1,Receptor,D000072596
+289,Hepatitis A Virus Cellular Receptor 1,Receptor,D000072596
+290,Hepatitis A Virus Cellular Receptor 1,Receptor,D000072596
+291,Hepatitis A Virus Cellular Receptor 1,Immunologic Factor,D000072596
+292,Hepatitis A Virus Cellular Receptor 1,Immunologic Factor,D000072596
+293,Hepatitis A Virus Cellular Receptor 1,Immunologic Factor,D000072596
+294,Hepatitis A Antibodies,"Amino Acid, Peptide, or Protein",D035922
+295,Hepatitis A Antibodies,"Amino Acid, Peptide, or Protein",D035922
+296,Hepatitis A Antibodies,Immunologic Factor,D035922
+297,Hepatitis A Antibodies,Immunologic Factor,D035922
+298,Hepatitis Antibodies,"Amino Acid, Peptide, or Protein",D006508
+299,Hepatitis Antibodies,"Amino Acid, Peptide, or Protein",D006508
+300,Hepatitis Antibodies,Immunologic Factor,D006508
+301,Hepatitis Antibodies,Immunologic Factor,D006508
+302,Hepatitis A Virus Cellular Receptor 2,"Amino Acid, Peptide, or Protein",D000072597
+303,Hepatitis A Virus Cellular Receptor 2,"Amino Acid, Peptide, or Protein",D000072597
+304,Hepatitis A Virus Cellular Receptor 2,Receptor,D000072597
+305,Hepatitis A Virus Cellular Receptor 2,Receptor,D000072597
+306,Hepatitis Antigens,Immunologic Factor,D018963
+307,Hepatitis E,Disease or Syndrome,D016751
+308,"Hepatitis D, Chronic",Disease or Syndrome,D019701
+309,Hepatitis,Disease or Syndrome,D006505
+310,Hepatitis A,Disease or Syndrome,D006506
+311,"Hepatitis, Autoimmune",Disease or Syndrome,D019693
+312,Hepatitis D,Disease or Syndrome,D003699
+313,"Hepatitis, Chronic",Disease or Syndrome,D006521
+314,"Hepatitis, Animal",Disease or Syndrome,D006520
+315,"Hepatitis, Viral, Animal",Disease or Syndrome,D006524
+316,"Hepatitis, Viral, Human",Disease or Syndrome,D006525
+317,"Hepatitis, Alcoholic",Disease or Syndrome,D006519
+318,Hepatitis E virus,Virus,D016752
+319,"Hepatitis A Virus, Human",Virus,D017957
+320,Hepatitis Delta Virus,Virus,D003698
+321,Hepatitis A virus,Virus,D030041
+322,"Hepatitis Virus, Duck",Virus,D004371
+323,Hepatitis Viruses,Virus,D006518
+324,Epstein-Barr Virus Infections,Disease or Syndrome,D020031
+325,Epstein-Barr Virus Infections,Disease or Syndrome,D020031
+326,Cytomegalovirus Infections,Disease or Syndrome,D003586
+327,Cytomegalovirus Infections,Disease or Syndrome,D003586
+328,Herpes Simplex Virus Vaccines,Pharmacologic Substance,D022301
+329,Herpes Simplex Virus Vaccines,Pharmacologic Substance,D022301
+330,Herpes Simplex Virus Vaccines,Immunologic Factor,D022301
+331,Herpes Simplex Virus Vaccines,Immunologic Factor,D022301
+332,Herpes Simplex Virus Protein Vmw65,"Amino Acid, Peptide, or Protein",D017405
+333,Herpes Simplex Virus Protein Vmw65,"Amino Acid, Peptide, or Protein",D017405
+334,Herpes Simplex Virus Protein Vmw65,Immunologic Factor,D017405
+335,Herpes Simplex Virus Protein Vmw65,Immunologic Factor,D017405
+336,Herpes Simplex,Disease or Syndrome,D006561
+337,"Encephalitis, Herpes Simplex",Disease or Syndrome,D020803
+338,"Encephalitis, Herpes Simplex",Disease or Syndrome,D020803
+339,AIDS-Related Opportunistic Infections,Disease or Syndrome,D017088
+340,AIDS-Related Opportunistic Infections,Disease or Syndrome,D017088
+341,AIDS-Related Opportunistic Infections,Disease or Syndrome,D017088
+342,HIV Infections,Disease or Syndrome,D015658
+343,HIV Infections,Disease or Syndrome,D015658
+344,"Pneumonia, Viral",Disease or Syndrome,D011024
+345,"Pneumonia, Viral",Disease or Syndrome,D011024
+346,Rubella Vaccine,Pharmacologic Substance,D012411
+347,Rubella Vaccine,Pharmacologic Substance,D012411
+348,Rubella Vaccine,Pharmacologic Substance,D012411
+349,Rubella Vaccine,"Amino Acid, Peptide, or Protein",D012411
+350,Rubella Vaccine,"Amino Acid, Peptide, or Protein",D012411
+351,Rubella Vaccine,"Amino Acid, Peptide, or Protein",D012411
+352,Rubella Vaccine,Immunologic Factor,D012411
+353,Rubella Vaccine,Immunologic Factor,D012411
+354,Rubella Vaccine,Immunologic Factor,D012411
+355,Measles-Mumps-Rubella Vaccine,Pharmacologic Substance,D022542
+356,Measles-Mumps-Rubella Vaccine,Pharmacologic Substance,D022542
+357,Measles-Mumps-Rubella Vaccine,Pharmacologic Substance,D022542
+358,Measles-Mumps-Rubella Vaccine,"Amino Acid, Peptide, or Protein",D022542
+359,Measles-Mumps-Rubella Vaccine,"Amino Acid, Peptide, or Protein",D022542
+360,Measles-Mumps-Rubella Vaccine,"Amino Acid, Peptide, or Protein",D022542
+361,Measles-Mumps-Rubella Vaccine,Immunologic Factor,D022542
+362,Measles-Mumps-Rubella Vaccine,Immunologic Factor,D022542
+363,Measles-Mumps-Rubella Vaccine,Immunologic Factor,D022542
+364,Measles-Mumps-Rubella Vaccine,Pharmacologic Substance,D022542
+365,Measles-Mumps-Rubella Vaccine,Pharmacologic Substance,D022542
+366,Measles-Mumps-Rubella Vaccine,Pharmacologic Substance,D022542
+367,Measles-Mumps-Rubella Vaccine,"Amino Acid, Peptide, or Protein",D022542
+368,Measles-Mumps-Rubella Vaccine,"Amino Acid, Peptide, or Protein",D022542
+369,Measles-Mumps-Rubella Vaccine,"Amino Acid, Peptide, or Protein",D022542
+370,Measles-Mumps-Rubella Vaccine,Immunologic Factor,D022542
+371,Measles-Mumps-Rubella Vaccine,Immunologic Factor,D022542
+372,Measles-Mumps-Rubella Vaccine,Immunologic Factor,D022542
+373,Measles-Mumps-Rubella Vaccine,Pharmacologic Substance,D022542
+374,Measles-Mumps-Rubella Vaccine,Pharmacologic Substance,D022542
+375,Measles-Mumps-Rubella Vaccine,Pharmacologic Substance,D022542
+376,Measles-Mumps-Rubella Vaccine,"Amino Acid, Peptide, or Protein",D022542
+377,Measles-Mumps-Rubella Vaccine,"Amino Acid, Peptide, or Protein",D022542
+378,Measles-Mumps-Rubella Vaccine,"Amino Acid, Peptide, or Protein",D022542
+379,Measles-Mumps-Rubella Vaccine,Immunologic Factor,D022542
+380,Measles-Mumps-Rubella Vaccine,Immunologic Factor,D022542
+381,Measles-Mumps-Rubella Vaccine,Immunologic Factor,D022542
+382,Rubella,Disease or Syndrome,D012409
+383,Rubella virus,Virus,D012412
+384,Mumps,Disease or Syndrome,D009107
+385,Mumps virus,Virus,D009109
+386,Measles Vaccine,Pharmacologic Substance,D008458
+387,Measles Vaccine,Pharmacologic Substance,D008458
+388,Measles Vaccine,Immunologic Factor,D008458
+389,Measles Vaccine,Immunologic Factor,D008458
+390,Measles,Disease or Syndrome,D008457
+391,Measles virus,Virus,D008459
+392,Common Cold,Disease or Syndrome,D003139
+393,Common Cold,Disease or Syndrome,D003139
+394,Common Cold,Disease or Syndrome,D003139
+395,Common Cold,Finding,D003139
+396,Common Cold,Finding,D003139
+397,Common Cold,Finding,D003139
+398,Common Cold,Sign or Symptom,D003139
+399,Common Cold,Sign or Symptom,D003139
+400,Common Cold,Sign or Symptom,D003139
+401,Respiratory Syncytial Virus Infections,Disease or Syndrome,D018357
+402,Respiratory Syncytial Virus Infections,Disease or Syndrome,D018357
+403,"Influenza, Human",Disease or Syndrome,D007251
+404,"Tuberculosis, Pulmonary",Disease or Syndrome,D014397
+405,"Tuberculosis, Pulmonary",Disease or Syndrome,D014397
+406,Cholera Vaccines,Pharmacologic Substance,D022121
+407,Cholera Vaccines,Pharmacologic Substance,D022121
+408,Cholera Vaccines,Immunologic Factor,D022121
+409,Cholera Vaccines,Immunologic Factor,D022121
+410,Cholera Toxin,"Amino Acid, Peptide, or Protein",D002772
+411,Cholera Toxin,"Amino Acid, Peptide, or Protein",D002772
+412,Cholera Toxin,"Amino Acid, Peptide, or Protein",D002772
+413,Cholera Toxin,"Amino Acid, Peptide, or Protein",D002772
+414,Cholera Toxin,Immunologic Factor,D002772
+415,Cholera Toxin,Immunologic Factor,D002772
+416,Cholera Toxin,Immunologic Factor,D002772
+417,Cholera Toxin,Immunologic Factor,D002772
+418,Cholera Toxin,Enzyme,D002772
+419,Cholera Toxin,Enzyme,D002772
+420,Cholera Toxin,Enzyme,D002772
+421,Cholera Toxin,Enzyme,D002772
+422,Cholera Toxin,Hazardous or Poisonous Substance,D002772
+423,Cholera Toxin,Hazardous or Poisonous Substance,D002772
+424,Cholera Toxin,Hazardous or Poisonous Substance,D002772
+425,Cholera Toxin,Hazardous or Poisonous Substance,D002772
+426,Cholera,Disease or Syndrome,D002771
+427,Q Fever,Disease or Syndrome,D011778
+428,Rickettsia Infections,Disease or Syndrome,D012282
+429,Rickettsia Infections,Disease or Syndrome,D012282
+430,Anthrax Vaccines,Pharmacologic Substance,D022122
+431,Anthrax Vaccines,Pharmacologic Substance,D022122
+432,Anthrax Vaccines,Pharmacologic Substance,D022122
+433,Anthrax Vaccines,"Amino Acid, Peptide, or Protein",D022122
+434,Anthrax Vaccines,"Amino Acid, Peptide, or Protein",D022122
+435,Anthrax Vaccines,"Amino Acid, Peptide, or Protein",D022122
+436,Anthrax Vaccines,Immunologic Factor,D022122
+437,Anthrax Vaccines,Immunologic Factor,D022122
+438,Anthrax Vaccines,Immunologic Factor,D022122
+439,Anthrax,Disease or Syndrome,D000881
+440,Tularemia,Disease or Syndrome,D014406
+441,Brucellosis,Disease or Syndrome,D002006
+442,"Brucellosis, Bovine",Disease or Syndrome,D002007
+443,Yersinia Infections,Disease or Syndrome,D015009
+444,Yersinia Infections,Disease or Syndrome,D015009
+445,Vibrio Infections,Disease or Syndrome,D014735
+446,Vibrio Infections,Disease or Syndrome,D014735
+447,Helicobacter Infections,Disease or Syndrome,D016481
+448,Helicobacter Infections,Disease or Syndrome,D016481
+449,Listeriosis,Disease or Syndrome,D008088
+450,Escherichia coli Infections,Disease or Syndrome,D004927
+451,Escherichia coli Infections,Disease or Syndrome,D004927
+452,Campylobacter Infections,Disease or Syndrome,D002169
+453,Campylobacter Infections,Disease or Syndrome,D002169
+454,"Salmonella Infections, Animal",Disease or Syndrome,D012481
+455,"Salmonella Infections, Animal",Disease or Syndrome,D012481
+456,Salmonella Infections,Disease or Syndrome,D012480
+457,Salmonella Infections,Disease or Syndrome,D012480
+458,Haemophilus Infections,Disease or Syndrome,D006192
+459,Haemophilus Infections,Disease or Syndrome,D006192
+460,Diphtheria-Tetanus-Pertussis Vaccine,Pharmacologic Substance,D015721
+461,Diphtheria-Tetanus-Pertussis Vaccine,Pharmacologic Substance,D015721
+462,Diphtheria-Tetanus-Pertussis Vaccine,Immunologic Factor,D015721
+463,Diphtheria-Tetanus-Pertussis Vaccine,Immunologic Factor,D015721
+464,Diphtheria-Tetanus-Pertussis Vaccine,Pharmacologic Substance,D015721
+465,Diphtheria-Tetanus-Pertussis Vaccine,Pharmacologic Substance,D015721
+466,Diphtheria-Tetanus-Pertussis Vaccine,Immunologic Factor,D015721
+467,Diphtheria-Tetanus-Pertussis Vaccine,Immunologic Factor,D015721
+468,Diphtheria-Tetanus-Pertussis Vaccine,Pharmacologic Substance,D015721
+469,Diphtheria-Tetanus-Pertussis Vaccine,Pharmacologic Substance,D015721
+470,Diphtheria-Tetanus-Pertussis Vaccine,Immunologic Factor,D015721
+471,Diphtheria-Tetanus-Pertussis Vaccine,Immunologic Factor,D015721
+472,Diphtheria-Tetanus-acellular Pertussis Vaccines,Pharmacologic Substance,D022681
+473,Diphtheria-Tetanus-acellular Pertussis Vaccines,Pharmacologic Substance,D022681
+474,Diphtheria-Tetanus-acellular Pertussis Vaccines,Immunologic Factor,D022681
+475,Diphtheria-Tetanus-acellular Pertussis Vaccines,Immunologic Factor,D022681
+476,Diphtheria-Tetanus-acellular Pertussis Vaccines,Pharmacologic Substance,D022681
+477,Diphtheria-Tetanus-acellular Pertussis Vaccines,Pharmacologic Substance,D022681
+478,Diphtheria-Tetanus-acellular Pertussis Vaccines,Immunologic Factor,D022681
+479,Diphtheria-Tetanus-acellular Pertussis Vaccines,Immunologic Factor,D022681
+480,Diphtheria-Tetanus-acellular Pertussis Vaccines,Pharmacologic Substance,D022681
+481,Diphtheria-Tetanus-acellular Pertussis Vaccines,Pharmacologic Substance,D022681
+482,Diphtheria-Tetanus-acellular Pertussis Vaccines,Immunologic Factor,D022681
+483,Diphtheria-Tetanus-acellular Pertussis Vaccines,Immunologic Factor,D022681
+484,Diphtheria Toxin,"Amino Acid, Peptide, or Protein",D004167
+485,Diphtheria Toxin,"Amino Acid, Peptide, or Protein",D004167
+486,Diphtheria Toxin,"Amino Acid, Peptide, or Protein",D004167
+487,Diphtheria Toxin,Biologically Active Substance,D004167
+488,Diphtheria Toxin,Biologically Active Substance,D004167
+489,Diphtheria Toxin,Biologically Active Substance,D004167
+490,Diphtheria Toxin,Hazardous or Poisonous Substance,D004167
+491,Diphtheria Toxin,Hazardous or Poisonous Substance,D004167
+492,Diphtheria Toxin,Hazardous or Poisonous Substance,D004167
+493,Diphtheria,Disease or Syndrome,D004165
+494,Diphtheria-Tetanus Vaccine,Clinical Drug,D022422
+495,Diphtheria-Tetanus Vaccine,Clinical Drug,D022422
+496,Tetanus Toxin,Pharmacologic Substance,D013744
+497,Tetanus Toxin,Pharmacologic Substance,D013744
+498,Tetanus Toxin,Pharmacologic Substance,D013744
+499,Tetanus Toxin,"Amino Acid, Peptide, or Protein",D013744
+500,Tetanus Toxin,"Amino Acid, Peptide, or Protein",D013744
+501,Tetanus Toxin,"Amino Acid, Peptide, or Protein",D013744
+502,Tetanus Toxin,Hazardous or Poisonous Substance,D013744
+503,Tetanus Toxin,Hazardous or Poisonous Substance,D013744
+504,Tetanus Toxin,Hazardous or Poisonous Substance,D013744
+505,Tetanus Toxoid,Pharmacologic Substance,D013745
+506,Tetanus Toxoid,Pharmacologic Substance,D013745
+507,Tetanus Toxoid,Pharmacologic Substance,D013745
+508,Tetanus Toxoid,"Amino Acid, Peptide, or Protein",D013745
+509,Tetanus Toxoid,"Amino Acid, Peptide, or Protein",D013745
+510,Tetanus Toxoid,"Amino Acid, Peptide, or Protein",D013745
+511,Tetanus Toxoid,Immunologic Factor,D013745
+512,Tetanus Toxoid,Immunologic Factor,D013745
+513,Tetanus Toxoid,Immunologic Factor,D013745
+514,Tetanus,Disease or Syndrome,D013742
+515,Pertussis Vaccine,Pharmacologic Substance,D010567
+516,Pertussis Vaccine,Pharmacologic Substance,D010567
+517,Pertussis Vaccine,Pharmacologic Substance,D010567
+518,Pertussis Vaccine,"Amino Acid, Peptide, or Protein",D010567
+519,Pertussis Vaccine,"Amino Acid, Peptide, or Protein",D010567
+520,Pertussis Vaccine,"Amino Acid, Peptide, or Protein",D010567
+521,Pertussis Vaccine,Immunologic Factor,D010567
+522,Pertussis Vaccine,Immunologic Factor,D010567
+523,Pertussis Vaccine,Immunologic Factor,D010567
+524,Pertussis Toxin,"Amino Acid, Peptide, or Protein",D037342
+525,Pertussis Toxin,"Amino Acid, Peptide, or Protein",D037342
+526,Pertussis Toxin,"Amino Acid, Peptide, or Protein",D037342
+527,Pertussis Toxin,Enzyme,D037342
+528,Pertussis Toxin,Enzyme,D037342
+529,Pertussis Toxin,Enzyme,D037342
+530,Pertussis Toxin,Hazardous or Poisonous Substance,D037342
+531,Pertussis Toxin,Hazardous or Poisonous Substance,D037342
+532,Pertussis Toxin,Hazardous or Poisonous Substance,D037342
+533,Meningococcal Infections,Disease or Syndrome,D008589
+534,Meningococcal Infections,Disease or Syndrome,D008589
+535,Clostridium Infections,Injury or Poisoning,D003015
+536,Clostridium Infections,Injury or Poisoning,D003015
+537,Clostridium Infections,Disease or Syndrome,D003015
+538,Clostridium Infections,Disease or Syndrome,D003015
+539,Clostridium Infections,Injury or Poisoning,D003015
+540,Clostridium Infections,Injury or Poisoning,D003015
+541,Clostridium Infections,Disease or Syndrome,D003015
+542,Clostridium Infections,Disease or Syndrome,D003015
+543,Streptococcal Infections,Disease or Syndrome,D013290
+544,Streptococcal Infections,Disease or Syndrome,D013290
+545,Staphylococcal Infections,Disease or Syndrome,D013203
+546,Staphylococcal Infections,Disease or Syndrome,D013203
+547,Mycobacterium Infections,Disease or Syndrome,D009164
+548,Mycobacterium Infections,Disease or Syndrome,D009164
+549,"Mycobacterium Infections, Nontuberculous",Disease or Syndrome,D009165
+550,"Mycobacterium Infections, Nontuberculous",Disease or Syndrome,D009165
+551,Legionellosis,Disease or Syndrome,D007876
+552,Lyme Disease,Disease or Syndrome,D008193
+553,Syphilis,Disease or Syndrome,D013587
+554,Syphilis Serodiagnosis,Diagnostic Procedure,D013588
+555,Syphilis Serodiagnosis,Diagnostic Procedure,D013588
+556,Syphilis Serodiagnosis,Laboratory Procedure,D013588
+557,Syphilis Serodiagnosis,Laboratory Procedure,D013588
+558,Gonorrhea,Disease or Syndrome,D006069
+559,Chlamydia Infections,Disease or Syndrome,D002690
+560,Chlamydia Infections,Disease or Syndrome,D002690
+561,"Sexually Transmitted Diseases, Bacterial",Disease or Syndrome,D015231
+562,"Sexually Transmitted Diseases, Bacterial",Disease or Syndrome,D015231
+563,Tuberculosis Vaccines,Pharmacologic Substance,D032581
+564,Tuberculosis Vaccines,Pharmacologic Substance,D032581
+565,Tuberculosis Vaccines,Immunologic Factor,D032581
+566,Tuberculosis Vaccines,Immunologic Factor,D032581
+567,"Tuberculosis, Central Nervous System",Disease or Syndrome,D020306
+568,Tuberculosis,Disease or Syndrome,D014376
+569,"Tuberculosis, Pleural",Disease or Syndrome,D014396
+570,"Tuberculosis, Spinal",Disease or Syndrome,D014399
+571,"Tuberculosis, Ocular",Disease or Syndrome,D014392
+572,"Tuberculosis, Miliary",Disease or Syndrome,D014391
+573,"Tuberculosis, Meningeal",Disease or Syndrome,D014390
+574,"Tuberculosis, Osteoarticular",Disease or Syndrome,D014394
+575,"Tuberculosis, Female Genital",Disease or Syndrome,D014384
+576,"Tuberculosis, Lymph Node",Disease or Syndrome,D014388
+577,"Tuberculosis, Bovine",Disease or Syndrome,D014380
+578,"Tuberculosis, Gastrointestinal",Disease or Syndrome,D014385
+579,Latent Tuberculosis,Disease or Syndrome,D055985
+580,"Tuberculosis, Multidrug-Resistant",Disease or Syndrome,D018088
+581,Extensively Drug-Resistant Tuberculosis,Disease or Syndrome,D054908
+582,"Pneumonia, Pneumocystis",Disease or Syndrome,D011020
+583,"Pneumonia, Progressive Interstitial, of Sheep",Disease or Syndrome,D011021
+584,"Pneumonia, Staphylococcal",Disease or Syndrome,D011023
+585,"Pneumonia of Swine, Mycoplasmal",Disease or Syndrome,D045729
+586,"Pneumonia, Mycoplasma",Disease or Syndrome,D011019
+587,"Pneumonia, Pneumococcal",Disease or Syndrome,D011018
+588,"Pneumonia, Aspiration",Disease or Syndrome,D011015
+589,Pneumonia,Disease or Syndrome,D011014
+590,Pneumonia,Disease or Syndrome,D011014
+591,Pneumonia,Experimental Model of Disease,D011014
+592,Pneumonia,Experimental Model of Disease,D011014
+593,"Pneumonia, Bacterial",Disease or Syndrome,D018410
+594,Cryptogenic Organizing Pneumonia,Disease or Syndrome,D018549
+595,Idiopathic Interstitial Pneumonias,Disease or Syndrome,D054988
+596,"Pneumonia, Ventilator-Associated",Disease or Syndrome,D053717
+597,Japanese Encephalitis Vaccines,Pharmacologic Substance,D022321
+598,Japanese Encephalitis Vaccines,Pharmacologic Substance,D022321
+599,Japanese Encephalitis Vaccines,Pharmacologic Substance,D022321
+600,Japanese Encephalitis Vaccines,"Amino Acid, Peptide, or Protein",D022321
+601,Japanese Encephalitis Vaccines,"Amino Acid, Peptide, or Protein",D022321
+602,Japanese Encephalitis Vaccines,"Amino Acid, Peptide, or Protein",D022321
+603,Japanese Encephalitis Vaccines,Immunologic Factor,D022321
+604,Japanese Encephalitis Vaccines,Immunologic Factor,D022321
+605,Japanese Encephalitis Vaccines,Immunologic Factor,D022321
+606,Encephalitis,Disease or Syndrome,D004660
+607,"Encephalitis, Varicella Zoster",Disease or Syndrome,D020804
+608,"Encephalitis, Viral",Disease or Syndrome,D018792
+609,Limbic Encephalitis,Disease or Syndrome,D020363
+610,"Encephalitis, Arbovirus",Disease or Syndrome,D004671
+611,"Encephalitis, Tick-Borne",Disease or Syndrome,D004675
+612,"Encephalitis, Japanese",Disease or Syndrome,D004672
+613,"Encephalitis, California",Disease or Syndrome,D004670
+614,Anti-N-Methyl-D-Aspartate Receptor Encephalitis,Disease or Syndrome,D060426
+615,Infectious Encephalitis,Disease or Syndrome,D000069544
+616,"Encephalitis Virus, California",Virus,D002141
+617,"Encephalitis Virus, Western Equine",Virus,D004667
+618,"Encephalitis Virus, Venezuelan Equine",Virus,D004666
+619,"Encephalitis Virus, Japanese",Virus,D004664
+620,"Encephalitis Virus, Eastern Equine",Virus,D004663
+621,"Encephalitis Viruses, Tick-Borne",Virus,D004669
+622,"Encephalitis Viruses, Japanese",Virus,D018349
+623,"Encephalitis Virus, Murray Valley",Virus,D018068
+624,"Meningitis, Bacterial",Disease or Syndrome,D016920
+625,"Meningitis, Fungal",Disease or Syndrome,D016921
+626,"Meningitis, Cryptococcal",Disease or Syndrome,D016919
+627,Meningitis,Disease or Syndrome,D008581
+628,"Meningitis, Haemophilus",Disease or Syndrome,D008583
+629,"Meningitis, Meningococcal",Disease or Syndrome,D008585
+630,"Meningitis, Pneumococcal",Disease or Syndrome,D008586
+631,"Meningitis, Pneumococcal",Disease or Syndrome,D008586
+632,"Meningitis, Pneumococcal",Experimental Model of Disease,D008586
+633,"Meningitis, Pneumococcal",Experimental Model of Disease,D008586
+634,"Meningitis, Aseptic",Disease or Syndrome,D008582
+635,"Meningitis, Viral",Disease or Syndrome,D008587
+636,Cardiovascular Infections,Disease or Syndrome,D053821
+637,Cardiovascular Infections,Disease or Syndrome,D053821
+638,"Eye Infections, Bacterial",Disease or Syndrome,D015818
+639,"Eye Infections, Bacterial",Disease or Syndrome,D015818
+640,Eye Infections,Disease or Syndrome,D015817
+641,Eye Infections,Disease or Syndrome,D015817
+642,"Eye Infections, Parasitic",Disease or Syndrome,D015822
+643,"Eye Infections, Parasitic",Disease or Syndrome,D015822
+644,"Eye Infections, Fungal",Disease or Syndrome,D015821
+645,"Eye Infections, Fungal",Disease or Syndrome,D015821
+646,"Eye Infections, Viral",Disease or Syndrome,D015828
+647,"Eye Infections, Viral",Disease or Syndrome,D015828
+648,Central Nervous System Infections,Disease or Syndrome,D002494
+649,Central Nervous System Infections,Disease or Syndrome,D002494
+650,Respiratory Tract Infections,Disease or Syndrome,D012141
+651,Respiratory Tract Infections,Disease or Syndrome,D012141
+652,Urinary Tract Infections,Disease or Syndrome,D014552
+653,Urinary Tract Infections,Disease or Syndrome,D014552
+654,Surgical Wound Infection,Pathologic Function,D013530
+655,Surgical Wound Infection,Pathologic Function,D013530
+656,Blood-Borne Pathogens,Organism,D017848
+657,Sexually Transmitted Diseases,Disease or Syndrome,D012749
+658,"Sexually Transmitted Diseases, Viral",Disease or Syndrome,D015229
+659,Community-Acquired Infections,Disease or Syndrome,D017714
+660,Community-Acquired Infections,Disease or Syndrome,D017714
+661,Foodborne Diseases,Injury or Poisoning,D005517
+662,Viral Zoonoses,Disease or Syndrome,D000086965
+663,Zoonoses,Disease or Syndrome,D015047
+664,Bacterial Zoonoses,Disease or Syndrome,D000086966
+665,Opportunistic Infections,Disease or Syndrome,D009894
+666,Opportunistic Infections,Disease or Syndrome,D009894
+667,Superinfection,Disease or Syndrome,D015163
+668,Cross Infection,Disease or Syndrome,D003428
+669,Cross Infection,Disease or Syndrome,D003428
+670,"Drug Resistance, Viral",Organism Attribute,D024882
+671,"Drug Resistance, Bacterial",Organism Attribute,D024881
+672,"Drug Resistance, Microbial",Organism Attribute,D004352
+673,Microbial Sensitivity Tests,Laboratory Procedure,D008826
+674,Parasitic Diseases,Disease or Syndrome,D010272
+675,Protozoan Infections,Disease or Syndrome,D011528
+676,Protozoan Infections,Disease or Syndrome,D011528
+677,Slow Virus Diseases,Disease or Syndrome,D012897
+678,Virus Diseases,Disease or Syndrome,D014777
+679,Central Nervous System Bacterial Infections,Disease or Syndrome,D020806
+680,Central Nervous System Bacterial Infections,Disease or Syndrome,D020806
+681,Bacterial Infections,Disease or Syndrome,D001424
+682,Bacterial Infections,Disease or Syndrome,D001424
+683,Gram-Negative Bacterial Infections,Disease or Syndrome,D016905
+684,Gram-Negative Bacterial Infections,Disease or Syndrome,D016905
+685,Gram-Positive Bacterial Infections,Disease or Syndrome,D016908
+686,Gram-Positive Bacterial Infections,Disease or Syndrome,D016908
+687,"Communicable Diseases, Imported",Disease or Syndrome,D000076263
+688,"Communicable Diseases, Emerging",Disease or Syndrome,D021821
+689,Communicable Diseases,Disease or Syndrome,D003141
+690,National Institute of Allergy and Infectious Diseases (U.S.),Health Care Related Organization,D054579
+691,Trematode Infections,Disease or Syndrome,D014201
+692,Persistent Infection,Disease or Syndrome,D000088562
+693,Staphylococcal Skin Infections,Disease or Syndrome,D013207
+694,Flavobacteriaceae Infections,Disease or Syndrome,D045826
+695,Moraxellaceae Infections,Disease or Syndrome,D045828
+696,Proteus Infections,Disease or Syndrome,D011512
+697,HTLV-II Infections,Disease or Syndrome,D015491
+698,HTLV-I Infections,Disease or Syndrome,D015490
+699,Nocardia Infections,Disease or Syndrome,D009617
+700,Fusobacterium Infections,Disease or Syndrome,D005674
+701,Varicella Zoster Virus Infection,Disease or Syndrome,D000073618
+702,Bacteroides Infections,Disease or Syndrome,D001442
+703,Picornaviridae Infections,Disease or Syndrome,D010850
+704,Bacteroidaceae Infections,Disease or Syndrome,D016866
+705,Ureaplasma Infections,Disease or Syndrome,D016869
+706,Serratia Infections,Disease or Syndrome,D016868
+707,Latent Infection,Disease or Syndrome,D000085343
+708,Latent Infection,Disease or Syndrome,D000085343
+709,Latent Infection,Pathologic Function,D000085343
+710,Latent Infection,Pathologic Function,D000085343
+711,Morbillivirus Infections,Disease or Syndrome,D018185
+712,Cardiovirus Infections,Disease or Syndrome,D018188
+713,Pneumovirus Infections,Disease or Syndrome,D018186
+714,Pestivirus Infections,Disease or Syndrome,D018182
+715,Soft Tissue Infections,Disease or Syndrome,D018461
+716,Trichomonas Infections,Disease or Syndrome,D014245
+717,"Adenovirus Infections, Human",Disease or Syndrome,D000258
+718,Henipavirus Infections,Disease or Syndrome,D045464
+719,Avulavirus Infections,Disease or Syndrome,D045463
+720,Corynebacterium Infections,Disease or Syndrome,D003354
+721,Reproductive Tract Infections,Disease or Syndrome,D060737
+722,Spirochaetales Infections,Disease or Syndrome,D013145
+723,Reoviridae Infections,Disease or Syndrome,D012088
+724,Coxsackievirus Infections,Disease or Syndrome,D003384
+725,Acinetobacter Infections,Disease or Syndrome,D000151
+726,DNA Virus Infections,Disease or Syndrome,D004266
+727,Central Nervous System Parasitic Infections,Disease or Syndrome,D020807
+728,Deltaretrovirus Infections,Disease or Syndrome,D006800
+729,Lentivirus Infections,Disease or Syndrome,D016180
+730,Chlamydophila Infections,Disease or Syndrome,D023521
+731,Treponemal Infections,Disease or Syndrome,D014211
+732,Enterovirus Infections,Disease or Syndrome,D004769
+733,Pneumococcal Infections,Disease or Syndrome,D011008
+734,Caliciviridae Infections,Disease or Syndrome,D017250
+735,Roseolovirus Infections,Disease or Syndrome,D019349
+736,Burkholderia Infections,Disease or Syndrome,D019121
+737,Echovirus Infections,Disease or Syndrome,D004457
+738,Rubulavirus Infections,Disease or Syndrome,D019351
+739,Astroviridae Infections,Disease or Syndrome,D019350
+740,Bunyaviridae Infections,Disease or Syndrome,D002044
+741,Actinomycetales Infections,Disease or Syndrome,D000193
+742,Intraabdominal Infections,Disease or Syndrome,D059413
+743,Arenaviridae Infections,Disease or Syndrome,D001117
+744,Spirurida Infections,Disease or Syndrome,D017205
+745,Strongylida Infections,Disease or Syndrome,D017206
+746,Yersinia pseudotuberculosis Infections,Disease or Syndrome,D015012
+747,Mycoplasma Infections,Disease or Syndrome,D009175
+748,Central Nervous System Fungal Infections,Disease or Syndrome,D020314
+749,Actinobacillus Infections,Disease or Syndrome,D000189
+750,Coronaviridae Infections,Disease or Syndrome,D003333
+751,Blastocystis Infections,Disease or Syndrome,D016776
+752,Ciliophora Infections,Disease or Syndrome,D016770
+753,Mononegavirales Infections,Disease or Syndrome,D018701
+754,Filoviridae Infections,Disease or Syndrome,D018702
+755,Asymptomatic Infections,Disease or Syndrome,D058345
+756,Alphavirus Infections,Disease or Syndrome,D018354
+757,Enterobacteriaceae Infections,Disease or Syndrome,D004756
+758,Borrelia Infections,Disease or Syndrome,D001899
+759,Rickettsiaceae Infections,Disease or Syndrome,D012288
+760,Circoviridae Infections,Disease or Syndrome,D018173
+761,Birnaviridae Infections,Disease or Syndrome,D018175
+762,Torovirus Infections,Disease or Syndrome,D018176
+763,Flavivirus Infections,Disease or Syndrome,D018177
+764,Bartonella Infections,Disease or Syndrome,D001474
+765,Klebsiella Infections,Disease or Syndrome,D007710
+766,Piscirickettsiaceae Infections,Disease or Syndrome,D044225
+767,Respirovirus Infections,Disease or Syndrome,D010253
+768,Invasive Fungal Infections,Disease or Syndrome,D000072742
+769,Polyomavirus Infections,Disease or Syndrome,D027601
+770,RNA Virus Infections,Disease or Syndrome,D012327
+771,Mycobacterium avium-intracellulare Infection,Disease or Syndrome,D015270
+772,Nematode Infections,Disease or Syndrome,D009349
+773,Pseudomonas Infections,Disease or Syndrome,D011552
+774,Infection Control,Health Care Activity,D017053
+775,Infections,Pathologic Function,D007239
+776,Catheter-Related Infections,Pathologic Function,D055499
+777,Prosthesis-Related Infections,Pathologic Function,D016459
+778,Wound Infection,Pathologic Function,D014946
+779,Tumor Virus Infections,Neoplastic Process,D014412

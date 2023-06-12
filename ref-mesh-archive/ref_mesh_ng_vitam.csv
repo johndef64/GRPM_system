@@ -1,0 +1,883 @@
+,Preferred Label,Semantic Types Label,mesh_id
+0,Menkes Kinky Hair Syndrome,Disease or Syndrome,D007706
+1,Maple Syrup Urine Disease,Disease or Syndrome,D008375
+2,Malabsorption Syndromes,Disease or Syndrome,D008286
+3,Magnesium Deficiency,Disease or Syndrome,D008275
+4,"Hypophosphatemia, Familial",Disease or Syndrome,D007015
+5,"Hypophosphatemia, Familial",Disease or Syndrome,D007015
+6,Hypophosphatasia,Disease or Syndrome,D007014
+7,Hypervitaminosis A,Disease or Syndrome,D006986
+8,Hyperhomocysteinemia,Disease or Syndrome,D020138
+9,Homocystinuria,Disease or Syndrome,D006712
+10,"Hemoglobinuria, Paroxysmal",Disease or Syndrome,D006457
+11,Hartnup Disease,Disease or Syndrome,D006250
+12,Glucosephosphate Dehydrogenase Deficiency,Disease or Syndrome,D005955
+13,Mannosidase Deficiency Diseases,Disease or Syndrome,D044904
+14,Deficiency Diseases,Disease or Syndrome,D003677
+15,Hereditary Complement Deficiency Diseases,Disease or Syndrome,D000081208
+16,Copper-Transporting ATPases,"Amino Acid, Peptide, or Protein",D000073840
+17,Copper-Transporting ATPases,"Amino Acid, Peptide, or Protein",D000073840
+18,Copper-Transporting ATPases,Enzyme,D000073840
+19,Copper-Transporting ATPases,Enzyme,D000073840
+20,"Blindness, Cortical",Disease or Syndrome,D019575
+21,Biotinidase Deficiency,Disease or Syndrome,D028921
+22,Biotinidase Deficiency,Disease or Syndrome,D028921
+23,Avitaminosis,Disease or Syndrome,D001361
+24,"Anemia, Sideroblastic",Disease or Syndrome,D000756
+25,"Anemia, Pernicious",Disease or Syndrome,D000752
+26,"Anemia, Megaloblastic",Disease or Syndrome,D000749
+27,"Anemia, Iron-Deficiency",Disease or Syndrome,D018798
+28,Silicon Dioxide,Inorganic Chemical,D012822
+29,Borates,Chemical Viewed Structurally,D001881
+30,Fluorides,Pharmacologic Substance,D005459
+31,Fluorides,Pharmacologic Substance,D005459
+32,Fluorides,Inorganic Chemical,D005459
+33,Fluorides,Inorganic Chemical,D005459
+34,Manganese Compounds,Inorganic Chemical,D017895
+35,Magnesium Compounds,Inorganic Chemical,D017616
+36,Selenium Compounds,Inorganic Chemical,D018036
+37,Iron Compounds,Chemical Viewed Structurally,D058085
+38,Zinc Compounds,Inorganic Chemical,D017967
+39,Choline Deficiency,Disease or Syndrome,D002796
+40,Choline Deficiency,Disease or Syndrome,D002796
+41,Thiamine Deficiency,Disease or Syndrome,D013832
+42,Thiamine Deficiency,Disease or Syndrome,D013832
+43,Riboflavin Deficiency,Disease or Syndrome,D012257
+44,Riboflavin Deficiency,Disease or Syndrome,D012257
+45,Protein-Energy Malnutrition,Disease or Syndrome,D011502
+46,Protein-Energy Malnutrition,Disease or Syndrome,D011502
+47,Protein-Energy Malnutrition,Pathologic Function,D011502
+48,Protein-Energy Malnutrition,Pathologic Function,D011502
+49,Protein-Energy Malnutrition,Disease or Syndrome,D011502
+50,Protein-Energy Malnutrition,Disease or Syndrome,D011502
+51,Protein-Energy Malnutrition,Pathologic Function,D011502
+52,Protein-Energy Malnutrition,Pathologic Function,D011502
+53,Lipid Metabolism Disorders,Disease or Syndrome,D052439
+54,Phosphorus Metabolism Disorders,Disease or Syndrome,D010760
+55,Iron Metabolism Disorders,Disease or Syndrome,D019189
+56,Calcium Metabolism Disorders,Disease or Syndrome,D002128
+57,"Creatine Kinase, BB Form","Amino Acid, Peptide, or Protein",D052276
+58,"Creatine Kinase, BB Form","Amino Acid, Peptide, or Protein",D052276
+59,"Creatine Kinase, BB Form",Enzyme,D052276
+60,"Creatine Kinase, BB Form",Enzyme,D052276
+61,"Creatine Kinase, MB Form","Amino Acid, Peptide, or Protein",D052279
+62,"Creatine Kinase, MB Form","Amino Acid, Peptide, or Protein",D052279
+63,"Creatine Kinase, MB Form",Enzyme,D052279
+64,"Creatine Kinase, MB Form",Enzyme,D052279
+65,Creatine,"Amino Acid, Peptide, or Protein",D003401
+66,Creatine,"Amino Acid, Peptide, or Protein",D003401
+67,Creatine,Biologically Active Substance,D003401
+68,Creatine,Biologically Active Substance,D003401
+69,Creatine Kinase,"Amino Acid, Peptide, or Protein",D003402
+70,Creatine Kinase,"Amino Acid, Peptide, or Protein",D003402
+71,Creatine Kinase,Enzyme,D003402
+72,Creatine Kinase,Enzyme,D003402
+73,"Creatine Kinase, Mitochondrial Form","Amino Acid, Peptide, or Protein",D052281
+74,"Creatine Kinase, Mitochondrial Form","Amino Acid, Peptide, or Protein",D052281
+75,"Creatine Kinase, Mitochondrial Form",Enzyme,D052281
+76,"Creatine Kinase, Mitochondrial Form",Enzyme,D052281
+77,"Creatine Kinase, MM Form","Amino Acid, Peptide, or Protein",D052283
+78,"Creatine Kinase, MM Form","Amino Acid, Peptide, or Protein",D052283
+79,"Creatine Kinase, MM Form",Enzyme,D052283
+80,"Creatine Kinase, MM Form",Enzyme,D052283
+81,Glutathione,Pharmacologic Substance,D005978
+82,Glutathione,Pharmacologic Substance,D005978
+83,Glutathione,Pharmacologic Substance,D005978
+84,Glutathione,Pharmacologic Substance,D005978
+85,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+86,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+87,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+88,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+89,Glutathione,Biologically Active Substance,D005978
+90,Glutathione,Biologically Active Substance,D005978
+91,Glutathione,Biologically Active Substance,D005978
+92,Glutathione,Biologically Active Substance,D005978
+93,Glutathione,Laboratory or Test Result,D005978
+94,Glutathione,Laboratory or Test Result,D005978
+95,Glutathione,Laboratory or Test Result,D005978
+96,Glutathione,Laboratory or Test Result,D005978
+97,Glutathione Disulfide,Pharmacologic Substance,D019803
+98,Glutathione Disulfide,Pharmacologic Substance,D019803
+99,Glutathione Disulfide,Pharmacologic Substance,D019803
+100,Glutathione Disulfide,"Amino Acid, Peptide, or Protein",D019803
+101,Glutathione Disulfide,"Amino Acid, Peptide, or Protein",D019803
+102,Glutathione Disulfide,"Amino Acid, Peptide, or Protein",D019803
+103,Glutathione Disulfide,Biologically Active Substance,D019803
+104,Glutathione Disulfide,Biologically Active Substance,D019803
+105,Glutathione Disulfide,Biologically Active Substance,D019803
+106,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
+107,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
+108,Glutathione Peroxidase,Enzyme,D005979
+109,Glutathione Peroxidase,Enzyme,D005979
+110,Glutathione S-Transferase pi,"Amino Acid, Peptide, or Protein",D051549
+111,Glutathione S-Transferase pi,"Amino Acid, Peptide, or Protein",D051549
+112,Glutathione S-Transferase pi,Enzyme,D051549
+113,Glutathione S-Transferase pi,Enzyme,D051549
+114,Protein Disulfide Reductase (Glutathione),"Amino Acid, Peptide, or Protein",D011490
+115,Protein Disulfide Reductase (Glutathione),"Amino Acid, Peptide, or Protein",D011490
+116,Protein Disulfide Reductase (Glutathione),Enzyme,D011490
+117,Protein Disulfide Reductase (Glutathione),Enzyme,D011490
+118,Glutathione Synthase,"Amino Acid, Peptide, or Protein",D005981
+119,Glutathione Synthase,"Amino Acid, Peptide, or Protein",D005981
+120,Glutathione Synthase,Enzyme,D005981
+121,Glutathione Synthase,Enzyme,D005981
+122,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
+123,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
+124,Glutathione Transferase,Enzyme,D005982
+125,Glutathione Transferase,Enzyme,D005982
+126,Glutathione Reductase,"Amino Acid, Peptide, or Protein",D005980
+127,Glutathione Reductase,"Amino Acid, Peptide, or Protein",D005980
+128,Glutathione Reductase,Enzyme,D005980
+129,Glutathione Reductase,Enzyme,D005980
+130,Phospholipid Hydroperoxide Glutathione Peroxidase,Gene or Genome,D000080662
+131,Inositol,Pharmacologic Substance,D007294
+132,Inositol,Pharmacologic Substance,D007294
+133,Inositol,Pharmacologic Substance,D007294
+134,Inositol,Organic Chemical,D007294
+135,Inositol,Organic Chemical,D007294
+136,Inositol,Organic Chemical,D007294
+137,Inositol,Vitamin,D007294
+138,Inositol,Vitamin,D007294
+139,Inositol,Vitamin,D007294
+140,"Inositol 1,4,5-Trisphosphate Receptors","Amino Acid, Peptide, or Protein",D053496
+141,"Inositol 1,4,5-Trisphosphate Receptors","Amino Acid, Peptide, or Protein",D053496
+142,"Inositol 1,4,5-Trisphosphate Receptors",Receptor,D053496
+143,"Inositol 1,4,5-Trisphosphate Receptors",Receptor,D053496
+144,Inositol Oxygenase,"Amino Acid, Peptide, or Protein",D050562
+145,Inositol Oxygenase,"Amino Acid, Peptide, or Protein",D050562
+146,Inositol Oxygenase,Enzyme,D050562
+147,Inositol Oxygenase,Enzyme,D050562
+148,Inositol Polyphosphate 5-Phosphatases,"Amino Acid, Peptide, or Protein",D000072181
+149,Inositol Polyphosphate 5-Phosphatases,"Amino Acid, Peptide, or Protein",D000072181
+150,Inositol Polyphosphate 5-Phosphatases,Enzyme,D000072181
+151,Inositol Polyphosphate 5-Phosphatases,Enzyme,D000072181
+152,Myo-Inositol-1-Phosphate Synthase,"Amino Acid, Peptide, or Protein",D007296
+153,Myo-Inositol-1-Phosphate Synthase,"Amino Acid, Peptide, or Protein",D007296
+154,Myo-Inositol-1-Phosphate Synthase,Enzyme,D007296
+155,Myo-Inositol-1-Phosphate Synthase,Enzyme,D007296
+156,CDP-Diacylglycerol-Inositol 3-Phosphatidyltransferase,"Amino Acid, Peptide, or Protein",D051607
+157,CDP-Diacylglycerol-Inositol 3-Phosphatidyltransferase,"Amino Acid, Peptide, or Protein",D051607
+158,CDP-Diacylglycerol-Inositol 3-Phosphatidyltransferase,Enzyme,D051607
+159,CDP-Diacylglycerol-Inositol 3-Phosphatidyltransferase,Enzyme,D051607
+160,Inositol Phosphates,Organic Chemical,D007295
+161,"Inositol 1,4,5-Trisphosphate",Organic Chemical,D015544
+162,"Inositol 1,4,5-Trisphosphate",Organic Chemical,D015544
+163,"Inositol 1,4,5-Trisphosphate",Biologically Active Substance,D015544
+164,"Inositol 1,4,5-Trisphosphate",Biologically Active Substance,D015544
+165,Taurine,Pharmacologic Substance,D013654
+166,Taurine,Pharmacologic Substance,D013654
+167,Taurine,Pharmacologic Substance,D013654
+168,Taurine,"Amino Acid, Peptide, or Protein",D013654
+169,Taurine,"Amino Acid, Peptide, or Protein",D013654
+170,Taurine,"Amino Acid, Peptide, or Protein",D013654
+171,Taurine,Biologically Active Substance,D013654
+172,Taurine,Biologically Active Substance,D013654
+173,Taurine,Biologically Active Substance,D013654
+174,Carnitine,Pharmacologic Substance,D002331
+175,Carnitine,Pharmacologic Substance,D002331
+176,Carnitine,Pharmacologic Substance,D002331
+177,Carnitine,Pharmacologic Substance,D002331
+178,Carnitine,"Amino Acid, Peptide, or Protein",D002331
+179,Carnitine,"Amino Acid, Peptide, or Protein",D002331
+180,Carnitine,"Amino Acid, Peptide, or Protein",D002331
+181,Carnitine,"Amino Acid, Peptide, or Protein",D002331
+182,Carnitine,Organic Chemical,D002331
+183,Carnitine,Organic Chemical,D002331
+184,Carnitine,Organic Chemical,D002331
+185,Carnitine,Organic Chemical,D002331
+186,Carnitine,Vitamin,D002331
+187,Carnitine,Vitamin,D002331
+188,Carnitine,Vitamin,D002331
+189,Carnitine,Vitamin,D002331
+190,Carnitine O-Palmitoyltransferase,"Amino Acid, Peptide, or Protein",D002334
+191,Carnitine O-Palmitoyltransferase,"Amino Acid, Peptide, or Protein",D002334
+192,Carnitine O-Palmitoyltransferase,Enzyme,D002334
+193,Carnitine O-Palmitoyltransferase,Enzyme,D002334
+194,Carnitine O-Acetyltransferase,"Amino Acid, Peptide, or Protein",D002332
+195,Carnitine O-Acetyltransferase,"Amino Acid, Peptide, or Protein",D002332
+196,Carnitine O-Acetyltransferase,Enzyme,D002332
+197,Carnitine O-Acetyltransferase,Enzyme,D002332
+198,Carnitine Acyltransferases,"Amino Acid, Peptide, or Protein",D002333
+199,Carnitine Acyltransferases,"Amino Acid, Peptide, or Protein",D002333
+200,Carnitine Acyltransferases,Enzyme,D002333
+201,Carnitine Acyltransferases,Enzyme,D002333
+202,Cholinesterase Reactivators,Pharmacologic Substance,D002801
+203,Cholinesterase Inhibitors,Pharmacologic Substance,D002800
+204,Cholinesterase Inhibitors,Pharmacologic Substance,D002800
+205,Cholinesterase Inhibitors,Organic Chemical,D002800
+206,Cholinesterase Inhibitors,Organic Chemical,D002800
+207,Cholinergic Antagonists,Pharmacologic Substance,D018680
+208,Choline,Pharmacologic Substance,D002794
+209,Choline,Pharmacologic Substance,D002794
+210,Choline,Pharmacologic Substance,D002794
+211,Choline,Organic Chemical,D002794
+212,Choline,Organic Chemical,D002794
+213,Choline,Organic Chemical,D002794
+214,Choline,Biologically Active Substance,D002794
+215,Choline,Biologically Active Substance,D002794
+216,Choline,Biologically Active Substance,D002794
+217,Cholinergic Agonists,Pharmacologic Substance,D018679
+218,Cholinergic Agents,Pharmacologic Substance,D018678
+219,Cholinergic Agents,Pharmacologic Substance,D018678
+220,Cholinergic Agents,Pharmacologic Substance,D018678
+221,Cholinergic Agents,Finding,D018678
+222,Cholinergic Agents,Finding,D018678
+223,Cholinergic Agents,Finding,D018678
+224,Cholinergic Agents,Physiologic Function,D018678
+225,Cholinergic Agents,Physiologic Function,D018678
+226,Cholinergic Agents,Physiologic Function,D018678
+227,Cytidine Diphosphate Choline,Pharmacologic Substance,D003566
+228,Cytidine Diphosphate Choline,Pharmacologic Substance,D003566
+229,Cytidine Diphosphate Choline,"Nucleic Acid, Nucleoside, or Nucleotide",D003566
+230,Cytidine Diphosphate Choline,"Nucleic Acid, Nucleoside, or Nucleotide",D003566
+231,Cholinesterases,"Amino Acid, Peptide, or Protein",D002802
+232,Cholinesterases,"Amino Acid, Peptide, or Protein",D002802
+233,Cholinesterases,Enzyme,D002802
+234,Cholinesterases,Enzyme,D002802
+235,Choline O-Acetyltransferase,"Amino Acid, Peptide, or Protein",D002795
+236,Choline O-Acetyltransferase,"Amino Acid, Peptide, or Protein",D002795
+237,Choline O-Acetyltransferase,Enzyme,D002795
+238,Choline O-Acetyltransferase,Enzyme,D002795
+239,Diacylglycerol Cholinephosphotransferase,"Amino Acid, Peptide, or Protein",D002798
+240,Diacylglycerol Cholinephosphotransferase,"Amino Acid, Peptide, or Protein",D002798
+241,Diacylglycerol Cholinephosphotransferase,Enzyme,D002798
+242,Diacylglycerol Cholinephosphotransferase,Enzyme,D002798
+243,Choline Kinase,"Amino Acid, Peptide, or Protein",D002797
+244,Choline Kinase,"Amino Acid, Peptide, or Protein",D002797
+245,Choline Kinase,Enzyme,D002797
+246,Choline Kinase,Enzyme,D002797
+247,Choline Dehydrogenase,"Amino Acid, Peptide, or Protein",D050545
+248,Choline Dehydrogenase,"Amino Acid, Peptide, or Protein",D050545
+249,Choline Dehydrogenase,Enzyme,D050545
+250,Choline Dehydrogenase,Enzyme,D050545
+251,Choline-Phosphate Cytidylyltransferase,"Amino Acid, Peptide, or Protein",D019916
+252,Choline-Phosphate Cytidylyltransferase,"Amino Acid, Peptide, or Protein",D019916
+253,Choline-Phosphate Cytidylyltransferase,Enzyme,D019916
+254,Choline-Phosphate Cytidylyltransferase,Enzyme,D019916
+255,"Receptors, Cholinergic","Amino Acid, Peptide, or Protein",D011950
+256,"Receptors, Cholinergic","Amino Acid, Peptide, or Protein",D011950
+257,"Receptors, Cholinergic",Receptor,D011950
+258,"Receptors, Cholinergic",Receptor,D011950
+259,Cholinergic Fibers,Cell Component,D002799
+260,Non-Neuronal Cholinergic System,Cell Function,D000070634
+261,Cholinergic Neurons,Cell,D059329
+262,Vitamin K Deficiency Bleeding,Disease or Syndrome,D006475
+263,Vitamin K Deficiency Bleeding,Disease or Syndrome,D006475
+264,Vitamin K Deficiency Bleeding,Disease or Syndrome,D006475
+265,Vitamin K Deficiency Bleeding,Disease or Syndrome,D006475
+266,Vitamin K 3,Pharmacologic Substance,D024483
+267,Vitamin K 3,Pharmacologic Substance,D024483
+268,Vitamin K 3,Pharmacologic Substance,D024483
+269,Vitamin K 3,Organic Chemical,D024483
+270,Vitamin K 3,Organic Chemical,D024483
+271,Vitamin K 3,Organic Chemical,D024483
+272,Vitamin K 3,Vitamin,D024483
+273,Vitamin K 3,Vitamin,D024483
+274,Vitamin K 3,Vitamin,D024483
+275,Vitamin K 3,Pharmacologic Substance,D024483
+276,Vitamin K 3,Pharmacologic Substance,D024483
+277,Vitamin K 3,Pharmacologic Substance,D024483
+278,Vitamin K 3,Organic Chemical,D024483
+279,Vitamin K 3,Organic Chemical,D024483
+280,Vitamin K 3,Organic Chemical,D024483
+281,Vitamin K 3,Vitamin,D024483
+282,Vitamin K 3,Vitamin,D024483
+283,Vitamin K 3,Vitamin,D024483
+284,Vitamin K 3,Pharmacologic Substance,D024483
+285,Vitamin K 3,Pharmacologic Substance,D024483
+286,Vitamin K 3,Pharmacologic Substance,D024483
+287,Vitamin K 3,Organic Chemical,D024483
+288,Vitamin K 3,Organic Chemical,D024483
+289,Vitamin K 3,Organic Chemical,D024483
+290,Vitamin K 3,Vitamin,D024483
+291,Vitamin K 3,Vitamin,D024483
+292,Vitamin K 3,Vitamin,D024483
+293,Vitamin K 2,Pharmacologic Substance,D024482
+294,Vitamin K 2,Pharmacologic Substance,D024482
+295,Vitamin K 2,Pharmacologic Substance,D024482
+296,Vitamin K 2,Organic Chemical,D024482
+297,Vitamin K 2,Organic Chemical,D024482
+298,Vitamin K 2,Organic Chemical,D024482
+299,Vitamin K 2,Vitamin,D024482
+300,Vitamin K 2,Vitamin,D024482
+301,Vitamin K 2,Vitamin,D024482
+302,Vitamin K 2,Pharmacologic Substance,D024482
+303,Vitamin K 2,Pharmacologic Substance,D024482
+304,Vitamin K 2,Pharmacologic Substance,D024482
+305,Vitamin K 2,Organic Chemical,D024482
+306,Vitamin K 2,Organic Chemical,D024482
+307,Vitamin K 2,Organic Chemical,D024482
+308,Vitamin K 2,Vitamin,D024482
+309,Vitamin K 2,Vitamin,D024482
+310,Vitamin K 2,Vitamin,D024482
+311,Vitamin K 2,Pharmacologic Substance,D024482
+312,Vitamin K 2,Pharmacologic Substance,D024482
+313,Vitamin K 2,Pharmacologic Substance,D024482
+314,Vitamin K 2,Organic Chemical,D024482
+315,Vitamin K 2,Organic Chemical,D024482
+316,Vitamin K 2,Organic Chemical,D024482
+317,Vitamin K 2,Vitamin,D024482
+318,Vitamin K 2,Vitamin,D024482
+319,Vitamin K 2,Vitamin,D024482
+320,Vitamin K 1,Pharmacologic Substance,D010837
+321,Vitamin K 1,Pharmacologic Substance,D010837
+322,Vitamin K 1,Pharmacologic Substance,D010837
+323,Vitamin K 1,Organic Chemical,D010837
+324,Vitamin K 1,Organic Chemical,D010837
+325,Vitamin K 1,Organic Chemical,D010837
+326,Vitamin K 1,Vitamin,D010837
+327,Vitamin K 1,Vitamin,D010837
+328,Vitamin K 1,Vitamin,D010837
+329,Vitamin K 1,Pharmacologic Substance,D010837
+330,Vitamin K 1,Pharmacologic Substance,D010837
+331,Vitamin K 1,Pharmacologic Substance,D010837
+332,Vitamin K 1,Organic Chemical,D010837
+333,Vitamin K 1,Organic Chemical,D010837
+334,Vitamin K 1,Organic Chemical,D010837
+335,Vitamin K 1,Vitamin,D010837
+336,Vitamin K 1,Vitamin,D010837
+337,Vitamin K 1,Vitamin,D010837
+338,Vitamin K 1,Pharmacologic Substance,D010837
+339,Vitamin K 1,Pharmacologic Substance,D010837
+340,Vitamin K 1,Pharmacologic Substance,D010837
+341,Vitamin K 1,Organic Chemical,D010837
+342,Vitamin K 1,Organic Chemical,D010837
+343,Vitamin K 1,Organic Chemical,D010837
+344,Vitamin K 1,Vitamin,D010837
+345,Vitamin K 1,Vitamin,D010837
+346,Vitamin K 1,Vitamin,D010837
+347,Vitamins,Pharmacologic Substance,D014815
+348,Vitamins,Pharmacologic Substance,D014815
+349,Vitamins,Pharmacologic Substance,D014815
+350,Vitamins,Organic Chemical,D014815
+351,Vitamins,Organic Chemical,D014815
+352,Vitamins,Organic Chemical,D014815
+353,Vitamins,Vitamin,D014815
+354,Vitamins,Vitamin,D014815
+355,Vitamins,Vitamin,D014815
+356,Vitamins,Pharmacologic Substance,D014815
+357,Vitamins,Pharmacologic Substance,D014815
+358,Vitamins,Pharmacologic Substance,D014815
+359,Vitamins,Organic Chemical,D014815
+360,Vitamins,Organic Chemical,D014815
+361,Vitamins,Organic Chemical,D014815
+362,Vitamins,Vitamin,D014815
+363,Vitamins,Vitamin,D014815
+364,Vitamins,Vitamin,D014815
+365,Vitamin K,Pharmacologic Substance,D014812
+366,Vitamin K,Pharmacologic Substance,D014812
+367,Vitamin K,Pharmacologic Substance,D014812
+368,Vitamin K,Organic Chemical,D014812
+369,Vitamin K,Organic Chemical,D014812
+370,Vitamin K,Organic Chemical,D014812
+371,Vitamin K,Vitamin,D014812
+372,Vitamin K,Vitamin,D014812
+373,Vitamin K,Vitamin,D014812
+374,Vitamin K,Pharmacologic Substance,D014812
+375,Vitamin K,Pharmacologic Substance,D014812
+376,Vitamin K,Pharmacologic Substance,D014812
+377,Vitamin K,Organic Chemical,D014812
+378,Vitamin K,Organic Chemical,D014812
+379,Vitamin K,Organic Chemical,D014812
+380,Vitamin K,Vitamin,D014812
+381,Vitamin K,Vitamin,D014812
+382,Vitamin K,Vitamin,D014812
+383,Vitamin E,Pharmacologic Substance,D014810
+384,Vitamin E,Pharmacologic Substance,D014810
+385,Vitamin E,Pharmacologic Substance,D014810
+386,Vitamin E,Organic Chemical,D014810
+387,Vitamin E,Organic Chemical,D014810
+388,Vitamin E,Organic Chemical,D014810
+389,Vitamin E,Vitamin,D014810
+390,Vitamin E,Vitamin,D014810
+391,Vitamin E,Vitamin,D014810
+392,Vitamin E,Pharmacologic Substance,D014810
+393,Vitamin E,Pharmacologic Substance,D014810
+394,Vitamin E,Pharmacologic Substance,D014810
+395,Vitamin E,Organic Chemical,D014810
+396,Vitamin E,Organic Chemical,D014810
+397,Vitamin E,Organic Chemical,D014810
+398,Vitamin E,Vitamin,D014810
+399,Vitamin E,Vitamin,D014810
+400,Vitamin E,Vitamin,D014810
+401,Vitamin B 12,Pharmacologic Substance,D014805
+402,Vitamin B 12,Pharmacologic Substance,D014805
+403,Vitamin B 12,Pharmacologic Substance,D014805
+404,Vitamin B 12,Pharmacologic Substance,D014805
+405,Vitamin B 12,Organic Chemical,D014805
+406,Vitamin B 12,Organic Chemical,D014805
+407,Vitamin B 12,Organic Chemical,D014805
+408,Vitamin B 12,Organic Chemical,D014805
+409,Vitamin B 12,"Nucleic Acid, Nucleoside, or Nucleotide",D014805
+410,Vitamin B 12,"Nucleic Acid, Nucleoside, or Nucleotide",D014805
+411,Vitamin B 12,"Nucleic Acid, Nucleoside, or Nucleotide",D014805
+412,Vitamin B 12,"Nucleic Acid, Nucleoside, or Nucleotide",D014805
+413,Vitamin B 12,Vitamin,D014805
+414,Vitamin B 12,Vitamin,D014805
+415,Vitamin B 12,Vitamin,D014805
+416,Vitamin B 12,Vitamin,D014805
+417,Vitamin B 12,Pharmacologic Substance,D014805
+418,Vitamin B 12,Pharmacologic Substance,D014805
+419,Vitamin B 12,Pharmacologic Substance,D014805
+420,Vitamin B 12,Pharmacologic Substance,D014805
+421,Vitamin B 12,Organic Chemical,D014805
+422,Vitamin B 12,Organic Chemical,D014805
+423,Vitamin B 12,Organic Chemical,D014805
+424,Vitamin B 12,Organic Chemical,D014805
+425,Vitamin B 12,"Nucleic Acid, Nucleoside, or Nucleotide",D014805
+426,Vitamin B 12,"Nucleic Acid, Nucleoside, or Nucleotide",D014805
+427,Vitamin B 12,"Nucleic Acid, Nucleoside, or Nucleotide",D014805
+428,Vitamin B 12,"Nucleic Acid, Nucleoside, or Nucleotide",D014805
+429,Vitamin B 12,Vitamin,D014805
+430,Vitamin B 12,Vitamin,D014805
+431,Vitamin B 12,Vitamin,D014805
+432,Vitamin B 12,Vitamin,D014805
+433,Vitamin B Complex,Pharmacologic Substance,D014803
+434,Vitamin B Complex,Pharmacologic Substance,D014803
+435,Vitamin B Complex,Pharmacologic Substance,D014803
+436,Vitamin B Complex,Organic Chemical,D014803
+437,Vitamin B Complex,Organic Chemical,D014803
+438,Vitamin B Complex,Organic Chemical,D014803
+439,Vitamin B Complex,Vitamin,D014803
+440,Vitamin B Complex,Vitamin,D014803
+441,Vitamin B Complex,Vitamin,D014803
+442,Vitamin B Complex,Pharmacologic Substance,D014803
+443,Vitamin B Complex,Pharmacologic Substance,D014803
+444,Vitamin B Complex,Pharmacologic Substance,D014803
+445,Vitamin B Complex,Organic Chemical,D014803
+446,Vitamin B Complex,Organic Chemical,D014803
+447,Vitamin B Complex,Organic Chemical,D014803
+448,Vitamin B Complex,Vitamin,D014803
+449,Vitamin B Complex,Vitamin,D014803
+450,Vitamin B Complex,Vitamin,D014803
+451,Vitamin A,Pharmacologic Substance,D014801
+452,Vitamin A,Pharmacologic Substance,D014801
+453,Vitamin A,Pharmacologic Substance,D014801
+454,Vitamin A,Organic Chemical,D014801
+455,Vitamin A,Organic Chemical,D014801
+456,Vitamin A,Organic Chemical,D014801
+457,Vitamin A,Vitamin,D014801
+458,Vitamin A,Vitamin,D014801
+459,Vitamin A,Vitamin,D014801
+460,Vitamin A,Pharmacologic Substance,D014801
+461,Vitamin A,Pharmacologic Substance,D014801
+462,Vitamin A,Pharmacologic Substance,D014801
+463,Vitamin A,Organic Chemical,D014801
+464,Vitamin A,Organic Chemical,D014801
+465,Vitamin A,Organic Chemical,D014801
+466,Vitamin A,Vitamin,D014801
+467,Vitamin A,Vitamin,D014801
+468,Vitamin A,Vitamin,D014801
+469,Vitamin D,Pharmacologic Substance,D014807
+470,Vitamin D,Pharmacologic Substance,D014807
+471,Vitamin D,Vitamin,D014807
+472,Vitamin D,Vitamin,D014807
+473,Vitamin D,Pharmacologic Substance,D014807
+474,Vitamin D,Pharmacologic Substance,D014807
+475,Vitamin D,Vitamin,D014807
+476,Vitamin D,Vitamin,D014807
+477,Vitamin B 6,Pharmacologic Substance,D025101
+478,Vitamin B 6,Pharmacologic Substance,D025101
+479,Vitamin B 6,Pharmacologic Substance,D025101
+480,Vitamin B 6,Organic Chemical,D025101
+481,Vitamin B 6,Organic Chemical,D025101
+482,Vitamin B 6,Organic Chemical,D025101
+483,Vitamin B 6,Vitamin,D025101
+484,Vitamin B 6,Vitamin,D025101
+485,Vitamin B 6,Vitamin,D025101
+486,Vitamin B 6,Pharmacologic Substance,D025101
+487,Vitamin B 6,Pharmacologic Substance,D025101
+488,Vitamin B 6,Pharmacologic Substance,D025101
+489,Vitamin B 6,Organic Chemical,D025101
+490,Vitamin B 6,Organic Chemical,D025101
+491,Vitamin B 6,Organic Chemical,D025101
+492,Vitamin B 6,Vitamin,D025101
+493,Vitamin B 6,Vitamin,D025101
+494,Vitamin B 6,Vitamin,D025101
+495,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
+496,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
+497,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
+498,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
+499,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
+500,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
+501,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
+502,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
+503,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
+504,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
+505,Vitamin K Epoxide Reductases,Enzyme,D064417
+506,Vitamin K Epoxide Reductases,Enzyme,D064417
+507,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
+508,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
+509,Vitamin K Epoxide Reductases,Enzyme,D064417
+510,Vitamin K Epoxide Reductases,Enzyme,D064417
+511,Vitamin D3 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D065668
+512,Vitamin D3 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D065668
+513,Vitamin D3 24-Hydroxylase,Enzyme,D065668
+514,Vitamin D3 24-Hydroxylase,Enzyme,D065668
+515,Vitamin D3 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D065668
+516,Vitamin D3 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D065668
+517,Vitamin D3 24-Hydroxylase,Enzyme,D065668
+518,Vitamin D3 24-Hydroxylase,Enzyme,D065668
+519,Vitamin D-Binding Protein,"Amino Acid, Peptide, or Protein",D014809
+520,Vitamin D-Binding Protein,"Amino Acid, Peptide, or Protein",D014809
+521,Vitamin D-Binding Protein,Biologically Active Substance,D014809
+522,Vitamin D-Binding Protein,Biologically Active Substance,D014809
+523,Vitamin D-Binding Protein,"Amino Acid, Peptide, or Protein",D014809
+524,Vitamin D-Binding Protein,"Amino Acid, Peptide, or Protein",D014809
+525,Vitamin D-Binding Protein,Biologically Active Substance,D014809
+526,Vitamin D-Binding Protein,Biologically Active Substance,D014809
+527,Vitamin D Response Element,Biologically Active Substance,D030181
+528,Vitamin D Response Element,Biologically Active Substance,D030181
+529,Vitamin D Response Element,"Nucleic Acid, Nucleoside, or Nucleotide",D030181
+530,Vitamin D Response Element,"Nucleic Acid, Nucleoside, or Nucleotide",D030181
+531,Vitamin D Response Element,Biologically Active Substance,D030181
+532,Vitamin D Response Element,Biologically Active Substance,D030181
+533,Vitamin D Response Element,"Nucleic Acid, Nucleoside, or Nucleotide",D030181
+534,Vitamin D Response Element,"Nucleic Acid, Nucleoside, or Nucleotide",D030181
+535,Vitamin E Deficiency,Disease or Syndrome,D014811
+536,Vitamin E Deficiency,Disease or Syndrome,D014811
+537,Vitamin E Deficiency,Disease or Syndrome,D014811
+538,Vitamin K Deficiency,Disease or Syndrome,D014813
+539,Vitamin K Deficiency,Disease or Syndrome,D014813
+540,Vitamin K Deficiency,Disease or Syndrome,D014813
+541,Vitamin B 6 Deficiency,Disease or Syndrome,D026681
+542,Vitamin B 6 Deficiency,Disease or Syndrome,D026681
+543,Vitamin B 6 Deficiency,Disease or Syndrome,D026681
+544,Vitamin A Deficiency,Disease or Syndrome,D014802
+545,Vitamin A Deficiency,Disease or Syndrome,D014802
+546,Vitamin A Deficiency,Disease or Syndrome,D014802
+547,Vitamin B 12 Deficiency,Disease or Syndrome,D014806
+548,Vitamin B 12 Deficiency,Disease or Syndrome,D014806
+549,Vitamin B 12 Deficiency,Disease or Syndrome,D014806
+550,Vitamin D Deficiency,Disease or Syndrome,D014808
+551,Vitamin D Deficiency,Disease or Syndrome,D014808
+552,Vitamin D Deficiency,Disease or Syndrome,D014808
+553,Vitamin B Deficiency,Disease or Syndrome,D014804
+554,Vitamin B Deficiency,Disease or Syndrome,D014804
+555,gamma-Tocopherol,Organic Chemical,D024504
+556,alpha-Tocopherol,Pharmacologic Substance,D024502
+557,alpha-Tocopherol,Pharmacologic Substance,D024502
+558,alpha-Tocopherol,Pharmacologic Substance,D024502
+559,alpha-Tocopherol,Organic Chemical,D024502
+560,alpha-Tocopherol,Organic Chemical,D024502
+561,alpha-Tocopherol,Organic Chemical,D024502
+562,alpha-Tocopherol,Vitamin,D024502
+563,alpha-Tocopherol,Vitamin,D024502
+564,alpha-Tocopherol,Vitamin,D024502
+565,Hypophosphatemia,Disease or Syndrome,D017674
+566,Hypocalcemia,Disease or Syndrome,D006996
+567,Osteomalacia,Disease or Syndrome,D010018
+568,"Rickets, Hypophosphatemic",Disease or Syndrome,D063730
+569,Familial Hypophosphatemic Rickets,Disease or Syndrome,D053098
+570,Rickets,Disease or Syndrome,D012279
+571,Parathyroid Hormone-Related Protein,"Amino Acid, Peptide, or Protein",D044162
+572,Parathyroid Hormone-Related Protein,"Amino Acid, Peptide, or Protein",D044162
+573,Parathyroid Hormone-Related Protein,Hormone,D044162
+574,Parathyroid Hormone-Related Protein,Hormone,D044162
+575,Hydroxycholecalciferols,Organic Chemical,D006887
+576,Hydroxycholecalciferols,Organic Chemical,D006887
+577,Hydroxycholecalciferols,Vitamin,D006887
+578,Hydroxycholecalciferols,Vitamin,D006887
+579,Dehydroascorbic Acid,Pharmacologic Substance,D003683
+580,Dehydroascorbic Acid,Pharmacologic Substance,D003683
+581,Dehydroascorbic Acid,Pharmacologic Substance,D003683
+582,Dehydroascorbic Acid,Organic Chemical,D003683
+583,Dehydroascorbic Acid,Organic Chemical,D003683
+584,Dehydroascorbic Acid,Organic Chemical,D003683
+585,Dehydroascorbic Acid,Vitamin,D003683
+586,Dehydroascorbic Acid,Vitamin,D003683
+587,Dehydroascorbic Acid,Vitamin,D003683
+588,Scurvy,Disease or Syndrome,D012614
+589,Ascorbic Acid Deficiency,Disease or Syndrome,D001206
+590,Ascorbic Acid Deficiency,Disease or Syndrome,D001206
+591,Folic Acid Deficiency,Disease or Syndrome,D005494
+592,Folic Acid Deficiency,Disease or Syndrome,D005494
+593,Micronutrients,Biologically Active Substance,D018977
+594,Metabolic Diseases,Disease or Syndrome,D008659
+595,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
+596,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
+597,Infant Nutritional Physiological Phenomena,Organism Function,D007227
+598,Infant Nutritional Physiological Phenomena,Organism Function,D007227
+599,Nutritional Physiological Phenomena,Organ or Tissue Function,D009747
+600,Nutritional Physiological Phenomena,Organ or Tissue Function,D009747
+601,Nutritional Physiological Phenomena,Physiologic Function,D009747
+602,Nutritional Physiological Phenomena,Physiologic Function,D009747
+603,Maternal Nutritional Physiological Phenomena,Organism Function,D039382
+604,Prenatal Nutritional Physiological Phenomena,Organism Function,D039401
+605,Adolescent Nutritional Physiological Phenomena,Organism Function,D017195
+606,Animal Nutritional Physiological Phenomena,Organism Function,D000824
+607,Sports Nutritional Physiological Phenomena,Organism Function,D064133
+608,Elder Nutritional Physiological Phenomena,Organism Function,D058620
+609,Child Nutritional Physiological Phenomena,Organism Function,D002664
+610,Nutritional Support,Therapeutic or Preventive Procedure,D018529
+611,Nutritional Status,Finding,D009752
+612,Nutrition Surveys,Research Activity,D009749
+613,Nutrition Policy,Intellectual Product,D018673
+614,Nutrition Assessment,Intellectual Product,D015596
+615,Nutrition Assessment,Intellectual Product,D015596
+616,Nutrition Assessment,Intellectual Product,D015596
+617,Nutrition Assessment,Diagnostic Procedure,D015596
+618,Nutrition Assessment,Diagnostic Procedure,D015596
+619,Nutrition Assessment,Diagnostic Procedure,D015596
+620,Nutrition Assessment,Quantitative Concept,D015596
+621,Nutrition Assessment,Quantitative Concept,D015596
+622,Nutrition Assessment,Quantitative Concept,D015596
+623,Overnutrition,Disease or Syndrome,D044343
+624,Malnutrition,Disease or Syndrome,D044342
+625,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
+626,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+627,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+628,Dietary Supplements,Food,D019587
+629,Dietary Supplements,Food,D019587
+630,Nutritional Requirements,Organism Attribute,D009751
+631,"Fruiting Bodies, Fungal",Fungus,D048690
+632,Fruit,Plant,D005638
+633,Fruit,Plant,D005638
+634,Fruit,Food,D005638
+635,Fruit,Food,D005638
+636,Fruit and Vegetable Juices,Food,D000067030
+637,Vegetables,Food,D014675
+638,Ubiquinone,Pharmacologic Substance,D014451
+639,Ubiquinone,Pharmacologic Substance,D014451
+640,Ubiquinone,Pharmacologic Substance,D014451
+641,Ubiquinone,Organic Chemical,D014451
+642,Ubiquinone,Organic Chemical,D014451
+643,Ubiquinone,Organic Chemical,D014451
+644,Ubiquinone,Biologically Active Substance,D014451
+645,Ubiquinone,Biologically Active Substance,D014451
+646,Ubiquinone,Biologically Active Substance,D014451
+647,Tocotrienols,Pharmacologic Substance,D024508
+648,Tocotrienols,Pharmacologic Substance,D024508
+649,Tocotrienols,Pharmacologic Substance,D024508
+650,Tocotrienols,Organic Chemical,D024508
+651,Tocotrienols,Organic Chemical,D024508
+652,Tocotrienols,Organic Chemical,D024508
+653,Tocotrienols,Vitamin,D024508
+654,Tocotrienols,Vitamin,D024508
+655,Tocotrienols,Vitamin,D024508
+656,Tocopherols,Pharmacologic Substance,D024505
+657,Tocopherols,Pharmacologic Substance,D024505
+658,Tocopherols,Pharmacologic Substance,D024505
+659,Tocopherols,Organic Chemical,D024505
+660,Tocopherols,Organic Chemical,D024505
+661,Tocopherols,Organic Chemical,D024505
+662,Tocopherols,Vitamin,D024505
+663,Tocopherols,Vitamin,D024505
+664,Tocopherols,Vitamin,D024505
+665,Thiamine Pyrophosphate,Pharmacologic Substance,D013835
+666,Thiamine Pyrophosphate,Pharmacologic Substance,D013835
+667,Thiamine Pyrophosphate,Pharmacologic Substance,D013835
+668,Thiamine Pyrophosphate,Organic Chemical,D013835
+669,Thiamine Pyrophosphate,Organic Chemical,D013835
+670,Thiamine Pyrophosphate,Organic Chemical,D013835
+671,Thiamine Pyrophosphate,Vitamin,D013835
+672,Thiamine Pyrophosphate,Vitamin,D013835
+673,Thiamine Pyrophosphate,Vitamin,D013835
+674,Thiamine Pyrophosphate,Pharmacologic Substance,D013835
+675,Thiamine Pyrophosphate,Pharmacologic Substance,D013835
+676,Thiamine Pyrophosphate,Pharmacologic Substance,D013835
+677,Thiamine Pyrophosphate,Organic Chemical,D013835
+678,Thiamine Pyrophosphate,Organic Chemical,D013835
+679,Thiamine Pyrophosphate,Organic Chemical,D013835
+680,Thiamine Pyrophosphate,Vitamin,D013835
+681,Thiamine Pyrophosphate,Vitamin,D013835
+682,Thiamine Pyrophosphate,Vitamin,D013835
+683,Thiamine,Pharmacologic Substance,D013831
+684,Thiamine,Pharmacologic Substance,D013831
+685,Thiamine,Pharmacologic Substance,D013831
+686,Thiamine,Organic Chemical,D013831
+687,Thiamine,Organic Chemical,D013831
+688,Thiamine,Organic Chemical,D013831
+689,Thiamine,Vitamin,D013831
+690,Thiamine,Vitamin,D013831
+691,Thiamine,Vitamin,D013831
+692,Thiamine Monophosphate,Organic Chemical,D013833
+693,Thiamine Monophosphate,Organic Chemical,D013833
+694,Thiamine Monophosphate,Vitamin,D013833
+695,Thiamine Monophosphate,Vitamin,D013833
+696,Riboflavin,Pharmacologic Substance,D012256
+697,Riboflavin,Pharmacologic Substance,D012256
+698,Riboflavin,Pharmacologic Substance,D012256
+699,Riboflavin,Organic Chemical,D012256
+700,Riboflavin,Organic Chemical,D012256
+701,Riboflavin,Organic Chemical,D012256
+702,Riboflavin,Vitamin,D012256
+703,Riboflavin,Vitamin,D012256
+704,Riboflavin,Vitamin,D012256
+705,Riboflavin Synthase,"Amino Acid, Peptide, or Protein",D012258
+706,Riboflavin Synthase,"Amino Acid, Peptide, or Protein",D012258
+707,Riboflavin Synthase,Enzyme,D012258
+708,Riboflavin Synthase,Enzyme,D012258
+709,Pyridoxine,Pharmacologic Substance,D011736
+710,Pyridoxine,Pharmacologic Substance,D011736
+711,Pyridoxine,Pharmacologic Substance,D011736
+712,Pyridoxine,Organic Chemical,D011736
+713,Pyridoxine,Organic Chemical,D011736
+714,Pyridoxine,Organic Chemical,D011736
+715,Pyridoxine,Vitamin,D011736
+716,Pyridoxine,Vitamin,D011736
+717,Pyridoxine,Vitamin,D011736
+718,Pyridoxamine,Pharmacologic Substance,D011733
+719,Pyridoxamine,Pharmacologic Substance,D011733
+720,Pyridoxamine,Pharmacologic Substance,D011733
+721,Pyridoxamine,Organic Chemical,D011733
+722,Pyridoxamine,Organic Chemical,D011733
+723,Pyridoxamine,Organic Chemical,D011733
+724,Pyridoxamine,Vitamin,D011733
+725,Pyridoxamine,Vitamin,D011733
+726,Pyridoxamine,Vitamin,D011733
+727,Pyridoxaminephosphate Oxidase,"Amino Acid, Peptide, or Protein",D011734
+728,Pyridoxaminephosphate Oxidase,"Amino Acid, Peptide, or Protein",D011734
+729,Pyridoxaminephosphate Oxidase,Enzyme,D011734
+730,Pyridoxaminephosphate Oxidase,Enzyme,D011734
+731,Pyridoxal Phosphate,Pharmacologic Substance,D011732
+732,Pyridoxal Phosphate,Pharmacologic Substance,D011732
+733,Pyridoxal Phosphate,Pharmacologic Substance,D011732
+734,Pyridoxal Phosphate,Organic Chemical,D011732
+735,Pyridoxal Phosphate,Organic Chemical,D011732
+736,Pyridoxal Phosphate,Organic Chemical,D011732
+737,Pyridoxal Phosphate,Vitamin,D011732
+738,Pyridoxal Phosphate,Vitamin,D011732
+739,Pyridoxal Phosphate,Vitamin,D011732
+740,Pantothenic Acid,Pharmacologic Substance,D010205
+741,Pantothenic Acid,Pharmacologic Substance,D010205
+742,Pantothenic Acid,Pharmacologic Substance,D010205
+743,Pantothenic Acid,Pharmacologic Substance,D010205
+744,Pantothenic Acid,Pharmacologic Substance,D010205
+745,Pantothenic Acid,"Amino Acid, Peptide, or Protein",D010205
+746,Pantothenic Acid,"Amino Acid, Peptide, or Protein",D010205
+747,Pantothenic Acid,"Amino Acid, Peptide, or Protein",D010205
+748,Pantothenic Acid,"Amino Acid, Peptide, or Protein",D010205
+749,Pantothenic Acid,"Amino Acid, Peptide, or Protein",D010205
+750,Pantothenic Acid,Organic Chemical,D010205
+751,Pantothenic Acid,Organic Chemical,D010205
+752,Pantothenic Acid,Organic Chemical,D010205
+753,Pantothenic Acid,Organic Chemical,D010205
+754,Pantothenic Acid,Organic Chemical,D010205
+755,Pantothenic Acid,Inorganic Chemical,D010205
+756,Pantothenic Acid,Inorganic Chemical,D010205
+757,Pantothenic Acid,Inorganic Chemical,D010205
+758,Pantothenic Acid,Inorganic Chemical,D010205
+759,Pantothenic Acid,Inorganic Chemical,D010205
+760,Pantothenic Acid,Vitamin,D010205
+761,Pantothenic Acid,Vitamin,D010205
+762,Pantothenic Acid,Vitamin,D010205
+763,Pantothenic Acid,Vitamin,D010205
+764,Pantothenic Acid,Vitamin,D010205
+765,Niacinamide,Pharmacologic Substance,D009536
+766,Niacinamide,Pharmacologic Substance,D009536
+767,Niacinamide,Pharmacologic Substance,D009536
+768,Niacinamide,Organic Chemical,D009536
+769,Niacinamide,Organic Chemical,D009536
+770,Niacinamide,Organic Chemical,D009536
+771,Niacinamide,Vitamin,D009536
+772,Niacinamide,Vitamin,D009536
+773,Niacinamide,Vitamin,D009536
+774,Niacinamide,Pharmacologic Substance,D009536
+775,Niacinamide,Pharmacologic Substance,D009536
+776,Niacinamide,Pharmacologic Substance,D009536
+777,Niacinamide,Organic Chemical,D009536
+778,Niacinamide,Organic Chemical,D009536
+779,Niacinamide,Organic Chemical,D009536
+780,Niacinamide,Vitamin,D009536
+781,Niacinamide,Vitamin,D009536
+782,Niacinamide,Vitamin,D009536
+783,Niacin,Pharmacologic Substance,D009525
+784,Niacin,Pharmacologic Substance,D009525
+785,Niacin,Pharmacologic Substance,D009525
+786,Niacin,Organic Chemical,D009525
+787,Niacin,Organic Chemical,D009525
+788,Niacin,Organic Chemical,D009525
+789,Niacin,Vitamin,D009525
+790,Niacin,Vitamin,D009525
+791,Niacin,Vitamin,D009525
+792,Folic Acid Antagonists,Pharmacologic Substance,D005493
+793,Folic Acid,Pharmacologic Substance,D005492
+794,Folic Acid,Pharmacologic Substance,D005492
+795,Folic Acid,Pharmacologic Substance,D005492
+796,Folic Acid,Organic Chemical,D005492
+797,Folic Acid,Organic Chemical,D005492
+798,Folic Acid,Organic Chemical,D005492
+799,Folic Acid,Vitamin,D005492
+800,Folic Acid,Vitamin,D005492
+801,Folic Acid,Vitamin,D005492
+802,Folic Acid Transporters,"Amino Acid, Peptide, or Protein",D058972
+803,Ergocalciferols,Pharmacologic Substance,D004872
+804,Ergocalciferols,Pharmacologic Substance,D004872
+805,Ergocalciferols,Pharmacologic Substance,D004872
+806,Ergocalciferols,Organic Chemical,D004872
+807,Ergocalciferols,Organic Chemical,D004872
+808,Ergocalciferols,Organic Chemical,D004872
+809,Ergocalciferols,Vitamin,D004872
+810,Ergocalciferols,Vitamin,D004872
+811,Ergocalciferols,Vitamin,D004872
+812,Cobamides,Pharmacologic Substance,D003038
+813,Cobamides,Pharmacologic Substance,D003038
+814,Cobamides,Pharmacologic Substance,D003038
+815,Cobamides,Organic Chemical,D003038
+816,Cobamides,Organic Chemical,D003038
+817,Cobamides,Organic Chemical,D003038
+818,Cobamides,Vitamin,D003038
+819,Cobamides,Vitamin,D003038
+820,Cobamides,Vitamin,D003038
+821,Cholecalciferol,Pharmacologic Substance,D002762
+822,Cholecalciferol,Pharmacologic Substance,D002762
+823,Cholecalciferol,Pharmacologic Substance,D002762
+824,Cholecalciferol,Organic Chemical,D002762
+825,Cholecalciferol,Organic Chemical,D002762
+826,Cholecalciferol,Organic Chemical,D002762
+827,Cholecalciferol,Vitamin,D002762
+828,Cholecalciferol,Vitamin,D002762
+829,Cholecalciferol,Vitamin,D002762
+830,Calcitriol,Pharmacologic Substance,D002117
+831,Calcitriol,Pharmacologic Substance,D002117
+832,Calcitriol,Pharmacologic Substance,D002117
+833,Calcitriol,Pharmacologic Substance,D002117
+834,Calcitriol,Organic Chemical,D002117
+835,Calcitriol,Organic Chemical,D002117
+836,Calcitriol,Organic Chemical,D002117
+837,Calcitriol,Organic Chemical,D002117
+838,Calcitriol,Hormone,D002117
+839,Calcitriol,Hormone,D002117
+840,Calcitriol,Hormone,D002117
+841,Calcitriol,Hormone,D002117
+842,Calcitriol,Vitamin,D002117
+843,Calcitriol,Vitamin,D002117
+844,Calcitriol,Vitamin,D002117
+845,Calcitriol,Vitamin,D002117
+846,"Receptors, Calcitriol","Amino Acid, Peptide, or Protein",D018167
+847,"Receptors, Calcitriol","Amino Acid, Peptide, or Protein",D018167
+848,"Receptors, Calcitriol",Receptor,D018167
+849,"Receptors, Calcitriol",Receptor,D018167
+850,Calcifediol,Pharmacologic Substance,D002112
+851,Calcifediol,Pharmacologic Substance,D002112
+852,Calcifediol,Pharmacologic Substance,D002112
+853,Calcifediol,Organic Chemical,D002112
+854,Calcifediol,Organic Chemical,D002112
+855,Calcifediol,Organic Chemical,D002112
+856,Calcifediol,Vitamin,D002112
+857,Calcifediol,Vitamin,D002112
+858,Calcifediol,Vitamin,D002112
+859,Biotin,Pharmacologic Substance,D001710
+860,Biotin,Pharmacologic Substance,D001710
+861,Biotin,Pharmacologic Substance,D001710
+862,Biotin,Organic Chemical,D001710
+863,Biotin,Organic Chemical,D001710
+864,Biotin,Organic Chemical,D001710
+865,Biotin,Vitamin,D001710
+866,Biotin,Vitamin,D001710
+867,Biotin,Vitamin,D001710
+868,Biotinidase,"Amino Acid, Peptide, or Protein",D043523
+869,Biotinidase,"Amino Acid, Peptide, or Protein",D043523
+870,Biotinidase,Enzyme,D043523
+871,Biotinidase,Enzyme,D043523
+872,Biotinylation,Laboratory Procedure,D019921
+873,Ascorbic Acid,Pharmacologic Substance,D001205
+874,Ascorbic Acid,Pharmacologic Substance,D001205
+875,Ascorbic Acid,Pharmacologic Substance,D001205
+876,Ascorbic Acid,Organic Chemical,D001205
+877,Ascorbic Acid,Organic Chemical,D001205
+878,Ascorbic Acid,Organic Chemical,D001205
+879,Ascorbic Acid,Vitamin,D001205
+880,Ascorbic Acid,Vitamin,D001205
+881,Ascorbic Acid,Vitamin,D001205

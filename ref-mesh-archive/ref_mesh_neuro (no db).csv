@@ -1,0 +1,1304 @@
+,Preferred Label,Semantic Types Label,mesh_id
+0,Lewy Bodies,Cell Component,D016631
+1,Machado-Joseph Disease,Disease or Syndrome,D017827
+2,Gaucher Disease,Disease or Syndrome,D005776
+3,Sandhoff Disease,Disease or Syndrome,D012497
+4,Mucolipidoses,Disease or Syndrome,D009081
+5,Niemann-Pick Diseases,Disease or Syndrome,D009542
+6,Niemann-Pick Diseases,Disease or Syndrome,D009542
+7,Pick Disease of the Brain,Disease or Syndrome,D020774
+8,Pick Disease of the Brain,Disease or Syndrome,D020774
+9,Frontotemporal Lobar Degeneration,Mental or Behavioral Dysfunction,D057174
+10,"Parkinson Disease, Secondary",Disease or Syndrome,D010302
+11,"Parkinson Disease, Secondary",Disease or Syndrome,D010302
+12,"Spastic Paraplegia, Hereditary",Disease or Syndrome,D015419
+13,Hereditary Sensory and Autonomic Neuropathies,Disease or Syndrome,D009477
+14,Spinal Cord Diseases,Disease or Syndrome,D013118
+15,"Dementia, Multi-Infarct",Disease or Syndrome,D015161
+16,"Dementia, Multi-Infarct",Disease or Syndrome,D015161
+17,"Dementia, Vascular",Disease or Syndrome,D015140
+18,"Dementia, Vascular",Disease or Syndrome,D015140
+19,Kearns-Sayre Syndrome,Disease or Syndrome,D007625
+20,Leigh Disease,Disease or Syndrome,D007888
+21,MELAS Syndrome,Disease or Syndrome,D017241
+22,Canavan Disease,Disease or Syndrome,D017825
+23,Lafora Disease,Disease or Syndrome,D020192
+24,"Gangliosidosis, GM1",Disease or Syndrome,D016537
+25,"Tay-Sachs Disease, AB Variant",Disease or Syndrome,D049290
+26,Tay-Sachs Disease,Disease or Syndrome,D013661
+27,"Niemann-Pick Disease, Type C",Disease or Syndrome,D052556
+28,"Niemann-Pick Disease, Type A",Disease or Syndrome,D052536
+29,"Niemann-Pick Disease, Type B",Disease or Syndrome,D052537
+30,Alexander Disease,Disease or Syndrome,D038261
+31,Pelizaeus-Merzbacher Disease,Disease or Syndrome,D020371
+32,Cerebellar Diseases,Disease or Syndrome,D002526
+33,Spinocerebellar Degenerations,Disease or Syndrome,D013132
+34,"Muscular Dystrophy, Oculopharyngeal",Disease or Syndrome,D039141
+35,"Muscular Dystrophy, Duchenne",Disease or Syndrome,D020388
+36,"Muscular Dystrophy, Emery-Dreifuss",Disease or Syndrome,D020389
+37,Autosomal Emery-Dreifuss Muscular Dystrophy,Disease or Syndrome,D000083144
+38,"Muscular Dystrophy, Animal",Disease or Syndrome,D009137
+39,"Muscular Dystrophy, Facioscapulohumeral",Disease or Syndrome,D020391
+40,Myasthenia Gravis,Disease or Syndrome,D009157
+41,"Myasthenia Gravis, Autoimmune, Experimental",Experimental Model of Disease,D020720
+42,Brain Diseases,Disease or Syndrome,D001927
+43,Brain Diseases,Disease or Syndrome,D001927
+44,"Brain Diseases, Metabolic",Disease or Syndrome,D001928
+45,"Brain Diseases, Metabolic",Disease or Syndrome,D001928
+46,"Brain Diseases, Metabolic, Inborn",Disease or Syndrome,D020739
+47,"Brain Diseases, Metabolic, Inborn",Disease or Syndrome,D020739
+48,Parkinsonian Disorders,Disease or Syndrome,D020734
+49,Parkinsonian Disorders,Disease or Syndrome,D020734
+50,Parkinsonian Disorders,Experimental Model of Disease,D020734
+51,Parkinsonian Disorders,Experimental Model of Disease,D020734
+52,Mitochondrial Diseases,Disease or Syndrome,D028361
+53,Mitochondrial Diseases,Disease or Syndrome,D028361
+54,Neurofilament Proteins,"Amino Acid, Peptide, or Protein",D016900
+55,Neurofilament Proteins,"Amino Acid, Peptide, or Protein",D016900
+56,Neurofilament Proteins,Biologically Active Substance,D016900
+57,Neurofilament Proteins,Biologically Active Substance,D016900
+58,Motor Neuron Disease,Disease or Syndrome,D016472
+59,Prion Diseases,Disease or Syndrome,D017096
+60,Synucleinopathies,Disease or Syndrome,D000080874
+61,Tauopathies,Disease or Syndrome,D024801
+62,Neurodegenerative Diseases,Disease or Syndrome,D019636
+63,Frontotemporal Dementia,Disease or Syndrome,D057180
+64,Frontotemporal Dementia,Disease or Syndrome,D057180
+65,Frontotemporal Dementia,Mental or Behavioral Dysfunction,D057180
+66,Frontotemporal Dementia,Mental or Behavioral Dysfunction,D057180
+67,Frontotemporal Dementia,Disease or Syndrome,D057180
+68,Frontotemporal Dementia,Disease or Syndrome,D057180
+69,Frontotemporal Dementia,Mental or Behavioral Dysfunction,D057180
+70,Frontotemporal Dementia,Mental or Behavioral Dysfunction,D057180
+71,Lewy Body Disease,Disease or Syndrome,D020961
+72,Multiple System Atrophy,Pathologic Function,D019578
+73,Corticobasal Degeneration,Disease or Syndrome,D000088282
+74,Brachial Plexus Neuropathies,Injury or Poisoning,D020516
+75,Brachial Plexus Neuropathies,Injury or Poisoning,D020516
+76,Brachial Plexus Neuropathies,Disease or Syndrome,D020516
+77,Brachial Plexus Neuropathies,Disease or Syndrome,D020516
+78,Carpal Tunnel Syndrome,Disease or Syndrome,D002349
+79,Guillain-Barre Syndrome,Disease or Syndrome,D020275
+80,Diabetic Neuropathies,Disease or Syndrome,D003929
+81,Ataxia Telangiectasia Mutated Proteins,"Amino Acid, Peptide, or Protein",D064007
+82,Ataxia Telangiectasia Mutated Proteins,"Amino Acid, Peptide, or Protein",D064007
+83,Ataxia Telangiectasia Mutated Proteins,Enzyme,D064007
+84,Ataxia Telangiectasia Mutated Proteins,Enzyme,D064007
+85,Ataxia Telangiectasia Mutated Proteins,"Amino Acid, Peptide, or Protein",D064007
+86,Ataxia Telangiectasia Mutated Proteins,"Amino Acid, Peptide, or Protein",D064007
+87,Ataxia Telangiectasia Mutated Proteins,Enzyme,D064007
+88,Ataxia Telangiectasia Mutated Proteins,Enzyme,D064007
+89,Ataxia Telangiectasia,Disease or Syndrome,D001260
+90,Ataxia Telangiectasia,Disease or Syndrome,D001260
+91,Cerebellar Ataxia,Disease or Syndrome,D002524
+92,Cerebellar Ataxia,Disease or Syndrome,D002524
+93,Cerebellar Ataxia,Disease or Syndrome,D002524
+94,Cerebellar Ataxia,Finding,D002524
+95,Cerebellar Ataxia,Finding,D002524
+96,Cerebellar Ataxia,Finding,D002524
+97,Cerebellar Ataxia,Sign or Symptom,D002524
+98,Cerebellar Ataxia,Sign or Symptom,D002524
+99,Cerebellar Ataxia,Sign or Symptom,D002524
+100,Cerebellar Ataxia,Disease or Syndrome,D002524
+101,Cerebellar Ataxia,Disease or Syndrome,D002524
+102,Cerebellar Ataxia,Disease or Syndrome,D002524
+103,Cerebellar Ataxia,Finding,D002524
+104,Cerebellar Ataxia,Finding,D002524
+105,Cerebellar Ataxia,Finding,D002524
+106,Cerebellar Ataxia,Sign or Symptom,D002524
+107,Cerebellar Ataxia,Sign or Symptom,D002524
+108,Cerebellar Ataxia,Sign or Symptom,D002524
+109,Spinocerebellar Ataxias,Disease or Syndrome,D020754
+110,Spinocerebellar Ataxias,Disease or Syndrome,D020754
+111,Friedreich Ataxia,Disease or Syndrome,D005621
+112,Friedreich Ataxia,Disease or Syndrome,D005621
+113,Tourette Syndrome,Disease or Syndrome,D005879
+114,Tics,Mental or Behavioral Dysfunction,D020323
+115,Tics,Mental or Behavioral Dysfunction,D020323
+116,Tics,Sign or Symptom,D020323
+117,Tics,Sign or Symptom,D020323
+118,Nocturnal Myoclonus Syndrome,Disease or Syndrome,D020189
+119,Myoclonus,Disease or Syndrome,D009207
+120,Myoclonus,Disease or Syndrome,D009207
+121,Myoclonus,Sign or Symptom,D009207
+122,Myoclonus,Sign or Symptom,D009207
+123,Opsoclonus-Myoclonus Syndrome,Disease or Syndrome,D053578
+124,Nocturnal Paroxysmal Dystonia,Disease or Syndrome,D020183
+125,Dystonia Musculorum Deformans,Disease or Syndrome,D004422
+126,Dystonia,Sign or Symptom,D004421
+127,Athetosis,Disease or Syndrome,D001264
+128,Chorea,Disease or Syndrome,D002819
+129,Chorea Gravidarum,Disease or Syndrome,D020150
+130,Restless Legs Syndrome,Disease or Syndrome,D012148
+131,Cataplexy,Disease or Syndrome,D002385
+132,Narcolepsy,Disease or Syndrome,D009290
+133,Sleep Apnea Syndromes,Disease or Syndrome,D012891
+134,Sleep Apnea Syndromes,Disease or Syndrome,D012891
+135,"Sleep Apnea, Obstructive",Disease or Syndrome,D020181
+136,"Sleep Apnea, Obstructive",Disease or Syndrome,D020181
+137,"Sleep Apnea, Central",Disease or Syndrome,D020182
+138,"Sleep Apnea, Central",Disease or Syndrome,D020182
+139,"Sleep Apnea, Central",Pathologic Function,D020182
+140,"Sleep Apnea, Central",Pathologic Function,D020182
+141,"Sleep Apnea, Central",Disease or Syndrome,D020182
+142,"Sleep Apnea, Central",Disease or Syndrome,D020182
+143,"Sleep Apnea, Central",Pathologic Function,D020182
+144,"Sleep Apnea, Central",Pathologic Function,D020182
+145,"Insomnia, Fatal Familial",Disease or Syndrome,D034062
+146,"Sleep Disorders, Intrinsic",Disease or Syndrome,D020919
+147,"Sleep Disorders, Intrinsic",Disease or Syndrome,D020919
+148,"Sleep Disorders, Intrinsic",Mental or Behavioral Dysfunction,D020919
+149,"Sleep Disorders, Intrinsic",Mental or Behavioral Dysfunction,D020919
+150,"Sleep Disorders, Intrinsic",Disease or Syndrome,D020919
+151,"Sleep Disorders, Intrinsic",Disease or Syndrome,D020919
+152,"Sleep Disorders, Intrinsic",Mental or Behavioral Dysfunction,D020919
+153,"Sleep Disorders, Intrinsic",Mental or Behavioral Dysfunction,D020919
+154,"Sleep Disorders, Circadian Rhythm",Disease or Syndrome,D020178
+155,"Sleep Disorders, Circadian Rhythm",Disease or Syndrome,D020178
+156,"Sleep Disorders, Circadian Rhythm",Disease or Syndrome,D020178
+157,"Sleep Disorders, Circadian Rhythm",Mental or Behavioral Dysfunction,D020178
+158,"Sleep Disorders, Circadian Rhythm",Mental or Behavioral Dysfunction,D020178
+159,"Sleep Disorders, Circadian Rhythm",Mental or Behavioral Dysfunction,D020178
+160,"Sleep Disorders, Circadian Rhythm",Pathologic Function,D020178
+161,"Sleep Disorders, Circadian Rhythm",Pathologic Function,D020178
+162,"Sleep Disorders, Circadian Rhythm",Pathologic Function,D020178
+163,"Sleep Disorders, Circadian Rhythm",Disease or Syndrome,D020178
+164,"Sleep Disorders, Circadian Rhythm",Disease or Syndrome,D020178
+165,"Sleep Disorders, Circadian Rhythm",Disease or Syndrome,D020178
+166,"Sleep Disorders, Circadian Rhythm",Mental or Behavioral Dysfunction,D020178
+167,"Sleep Disorders, Circadian Rhythm",Mental or Behavioral Dysfunction,D020178
+168,"Sleep Disorders, Circadian Rhythm",Mental or Behavioral Dysfunction,D020178
+169,"Sleep Disorders, Circadian Rhythm",Pathologic Function,D020178
+170,"Sleep Disorders, Circadian Rhythm",Pathologic Function,D020178
+171,"Sleep Disorders, Circadian Rhythm",Pathologic Function,D020178
+172,REM Sleep Behavior Disorder,Mental or Behavioral Dysfunction,D020187
+173,REM Sleep Behavior Disorder,Mental or Behavioral Dysfunction,D020187
+174,"Sleep Aids, Pharmaceutical",Pharmacologic Substance,D000068776
+175,"Sleep Aids, Pharmaceutical",Pharmacologic Substance,D000068776
+176,"Sleep Aids, Pharmaceutical",Clinical Drug,D000068776
+177,"Sleep Aids, Pharmaceutical",Clinical Drug,D000068776
+178,Sleep Wake Disorders,Disease or Syndrome,D012893
+179,Sleep Wake Disorders,Disease or Syndrome,D012893
+180,Sleep Wake Disorders,Mental or Behavioral Dysfunction,D012893
+181,Sleep Wake Disorders,Mental or Behavioral Dysfunction,D012893
+182,Sleep Deprivation,Disease or Syndrome,D012892
+183,Sleep Deprivation,Disease or Syndrome,D012892
+184,Sleep Deprivation,Disease or Syndrome,D012892
+185,Sleep Deprivation,Finding,D012892
+186,Sleep Deprivation,Finding,D012892
+187,Sleep Deprivation,Finding,D012892
+188,Sleep Deprivation,Pathologic Function,D012892
+189,Sleep Deprivation,Pathologic Function,D012892
+190,Sleep Deprivation,Pathologic Function,D012892
+191,Sleep Paralysis,Disease or Syndrome,D020188
+192,Sleep Bruxism,Disease or Syndrome,D020186
+193,Sleep Arousal Disorders,Disease or Syndrome,D020921
+194,Sleep Arousal Disorders,Disease or Syndrome,D020921
+195,Sleep Arousal Disorders,Mental or Behavioral Dysfunction,D020921
+196,Sleep Arousal Disorders,Mental or Behavioral Dysfunction,D020921
+197,Sleep-Wake Transition Disorders,Disease or Syndrome,D020922
+198,Sleep-Wake Transition Disorders,Disease or Syndrome,D020922
+199,Sleep-Wake Transition Disorders,Mental or Behavioral Dysfunction,D020922
+200,Sleep-Wake Transition Disorders,Mental or Behavioral Dysfunction,D020922
+201,Sleep Initiation and Maintenance Disorders,Disease or Syndrome,D007319
+202,Sleep Initiation and Maintenance Disorders,Disease or Syndrome,D007319
+203,Sleep Initiation and Maintenance Disorders,Disease or Syndrome,D007319
+204,Sleep Initiation and Maintenance Disorders,Mental or Behavioral Dysfunction,D007319
+205,Sleep Initiation and Maintenance Disorders,Mental or Behavioral Dysfunction,D007319
+206,Sleep Initiation and Maintenance Disorders,Mental or Behavioral Dysfunction,D007319
+207,Sleep Initiation and Maintenance Disorders,Sign or Symptom,D007319
+208,Sleep Initiation and Maintenance Disorders,Sign or Symptom,D007319
+209,Sleep Initiation and Maintenance Disorders,Sign or Symptom,D007319
+210,"Sleep, REM",Mental Process,D012895
+211,"Sleep, REM",Mental Process,D012895
+212,"Sleep, REM",Organ or Tissue Function,D012895
+213,"Sleep, REM",Organ or Tissue Function,D012895
+214,Sleepiness,Mental or Behavioral Dysfunction,D000077260
+215,Sleep,Finding,D012890
+216,Sleep,Finding,D012890
+217,Sleep,Organism Function,D012890
+218,Sleep,Organism Function,D012890
+219,Sleep Latency,Finding,D000074361
+220,Sleep Quality,Finding,D000089943
+221,Sleep Stages,Physiologic Function,D012894
+222,Sleep Stages,Physiologic Function,D012894
+223,Sleep Stages,Organism Function,D012894
+224,Sleep Stages,Organism Function,D012894
+225,"Sleep, Slow-Wave",Physiologic Function,D000077310
+226,Sleep Hygiene,Individual Behavior,D000070263
+227,Brain Waves,Organ or Tissue Function,D058256
+228,Brain Waves,Organ or Tissue Function,D058256
+229,Central Pattern Generators,Cell,D063226
+230,Central Pattern Generators,Cell,D063226
+231,Central Pattern Generators,Body Location or Region,D063226
+232,Central Pattern Generators,Body Location or Region,D063226
+233,"Neural Networks, Computer",Intellectual Product,D016571
+234,Axon Guidance,Cell Function,D000071437
+235,Enkephalins,"Amino Acid, Peptide, or Protein",D004745
+236,Enkephalins,"Amino Acid, Peptide, or Protein",D004745
+237,Enkephalins,Biologically Active Substance,D004745
+238,Enkephalins,Biologically Active Substance,D004745
+239,Cholecystokinin,Pharmacologic Substance,D002766
+240,Cholecystokinin,Pharmacologic Substance,D002766
+241,Cholecystokinin,Pharmacologic Substance,D002766
+242,Cholecystokinin,"Amino Acid, Peptide, or Protein",D002766
+243,Cholecystokinin,"Amino Acid, Peptide, or Protein",D002766
+244,Cholecystokinin,"Amino Acid, Peptide, or Protein",D002766
+245,Cholecystokinin,Hormone,D002766
+246,Cholecystokinin,Hormone,D002766
+247,Cholecystokinin,Hormone,D002766
+248,"Receptors, Cholecystokinin","Amino Acid, Peptide, or Protein",D011949
+249,"Receptors, Cholecystokinin","Amino Acid, Peptide, or Protein",D011949
+250,"Receptors, Cholecystokinin",Receptor,D011949
+251,"Receptors, Cholecystokinin",Receptor,D011949
+252,"Receptor, Cholecystokinin B","Amino Acid, Peptide, or Protein",D043887
+253,"Receptor, Cholecystokinin B","Amino Acid, Peptide, or Protein",D043887
+254,"Receptor, Cholecystokinin B",Receptor,D043887
+255,"Receptor, Cholecystokinin B",Receptor,D043887
+256,"Receptor, Cholecystokinin A","Amino Acid, Peptide, or Protein",D043886
+257,"Receptor, Cholecystokinin A","Amino Acid, Peptide, or Protein",D043886
+258,"Receptor, Cholecystokinin A",Receptor,D043886
+259,"Receptor, Cholecystokinin A",Receptor,D043886
+260,Substance P,"Amino Acid, Peptide, or Protein",D013373
+261,Substance P,"Amino Acid, Peptide, or Protein",D013373
+262,Substance P,Biologically Active Substance,D013373
+263,Substance P,Biologically Active Substance,D013373
+264,"Receptors, Neuropeptide Y","Amino Acid, Peptide, or Protein",D017476
+265,"Receptors, Neuropeptide Y","Amino Acid, Peptide, or Protein",D017476
+266,"Receptors, Neuropeptide Y",Receptor,D017476
+267,"Receptors, Neuropeptide Y",Receptor,D017476
+268,Neuropeptide Y,"Amino Acid, Peptide, or Protein",D009478
+269,Neuropeptide Y,"Amino Acid, Peptide, or Protein",D009478
+270,Neuropeptide Y,Biologically Active Substance,D009478
+271,Neuropeptide Y,Biologically Active Substance,D009478
+272,Neuropeptides,"Amino Acid, Peptide, or Protein",D009479
+273,Neuropeptides,"Amino Acid, Peptide, or Protein",D009479
+274,Neuropeptides,Biologically Active Substance,D009479
+275,Neuropeptides,Biologically Active Substance,D009479
+276,"Histamine H1 Antagonists, Non-Sedating",Pharmacologic Substance,D039563
+277,"Histamine H1 Antagonists, Non-Sedating",Pharmacologic Substance,D039563
+278,"Histamine H1 Antagonists, Non-Sedating",Organic Chemical,D039563
+279,"Histamine H1 Antagonists, Non-Sedating",Organic Chemical,D039563
+280,Histamine Agents,Pharmacologic Substance,D018494
+281,Histamine Agents,Pharmacologic Substance,D018494
+282,Histamine Agents,Physiologic Function,D018494
+283,Histamine Agents,Physiologic Function,D018494
+284,Histamine H3 Antagonists,Pharmacologic Substance,D054828
+285,Histamine H1 Antagonists,Pharmacologic Substance,D006634
+286,Histamine H1 Antagonists,Pharmacologic Substance,D006634
+287,Histamine H1 Antagonists,Organic Chemical,D006634
+288,Histamine H1 Antagonists,Organic Chemical,D006634
+289,Histamine,Pharmacologic Substance,D006632
+290,Histamine,Pharmacologic Substance,D006632
+291,Histamine,Pharmacologic Substance,D006632
+292,Histamine,Organic Chemical,D006632
+293,Histamine,Organic Chemical,D006632
+294,Histamine,Organic Chemical,D006632
+295,Histamine,Biologically Active Substance,D006632
+296,Histamine,Biologically Active Substance,D006632
+297,Histamine,Biologically Active Substance,D006632
+298,Histamine H2 Antagonists,Pharmacologic Substance,D006635
+299,Histamine Antagonists,Pharmacologic Substance,D006633
+300,Histamine Antagonists,Pharmacologic Substance,D006633
+301,Histamine Antagonists,Organic Chemical,D006633
+302,Histamine Antagonists,Organic Chemical,D006633
+303,Histamine Agonists,Pharmacologic Substance,D017442
+304,"Receptors, Histamine","Amino Acid, Peptide, or Protein",D011968
+305,"Receptors, Histamine","Amino Acid, Peptide, or Protein",D011968
+306,"Receptors, Histamine",Receptor,D011968
+307,"Receptors, Histamine",Receptor,D011968
+308,"Receptors, Histamine H1","Amino Acid, Peptide, or Protein",D011969
+309,"Receptors, Histamine H1","Amino Acid, Peptide, or Protein",D011969
+310,"Receptors, Histamine H1",Receptor,D011969
+311,"Receptors, Histamine H1",Receptor,D011969
+312,"Receptors, Histamine H2","Amino Acid, Peptide, or Protein",D011970
+313,"Receptors, Histamine H2","Amino Acid, Peptide, or Protein",D011970
+314,"Receptors, Histamine H2",Receptor,D011970
+315,"Receptors, Histamine H2",Receptor,D011970
+316,"Receptors, Histamine H4","Amino Acid, Peptide, or Protein",D000074040
+317,Histamine N-Methyltransferase,"Amino Acid, Peptide, or Protein",D006637
+318,Histamine N-Methyltransferase,"Amino Acid, Peptide, or Protein",D006637
+319,Histamine N-Methyltransferase,Enzyme,D006637
+320,Histamine N-Methyltransferase,Enzyme,D006637
+321,"Receptors, Histamine H3","Amino Acid, Peptide, or Protein",D018100
+322,"Receptors, Histamine H3","Amino Acid, Peptide, or Protein",D018100
+323,"Receptors, Histamine H3",Receptor,D018100
+324,"Receptors, Histamine H3",Receptor,D018100
+325,Histamine Release,Cell Function,D006636
+326,Epinephrine,Pharmacologic Substance,D004837
+327,Epinephrine,Pharmacologic Substance,D004837
+328,Epinephrine,Pharmacologic Substance,D004837
+329,Epinephrine,Organic Chemical,D004837
+330,Epinephrine,Organic Chemical,D004837
+331,Epinephrine,Organic Chemical,D004837
+332,Epinephrine,Hormone,D004837
+333,Epinephrine,Hormone,D004837
+334,Epinephrine,Hormone,D004837
+335,Norepinephrine,Pharmacologic Substance,D009638
+336,Norepinephrine,Pharmacologic Substance,D009638
+337,Norepinephrine,Pharmacologic Substance,D009638
+338,Norepinephrine,Organic Chemical,D009638
+339,Norepinephrine,Organic Chemical,D009638
+340,Norepinephrine,Organic Chemical,D009638
+341,Norepinephrine,Hormone,D009638
+342,Norepinephrine,Hormone,D009638
+343,Norepinephrine,Hormone,D009638
+344,Norepinephrine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050484
+345,Norepinephrine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050484
+346,Norepinephrine Plasma Membrane Transport Proteins,Biologically Active Substance,D050484
+347,Norepinephrine Plasma Membrane Transport Proteins,Biologically Active Substance,D050484
+348,Acetylcholine Release Inhibitors,Pharmacologic Substance,D065087
+349,Acetylcholine,Pharmacologic Substance,D000109
+350,Acetylcholine,Pharmacologic Substance,D000109
+351,Acetylcholine,Pharmacologic Substance,D000109
+352,Acetylcholine,Organic Chemical,D000109
+353,Acetylcholine,Organic Chemical,D000109
+354,Acetylcholine,Organic Chemical,D000109
+355,Acetylcholine,Biologically Active Substance,D000109
+356,Acetylcholine,Biologically Active Substance,D000109
+357,Acetylcholine,Biologically Active Substance,D000109
+358,Acetylcholinesterase,"Amino Acid, Peptide, or Protein",D000110
+359,Acetylcholinesterase,"Amino Acid, Peptide, or Protein",D000110
+360,Acetylcholinesterase,Enzyme,D000110
+361,Acetylcholinesterase,Enzyme,D000110
+362,Vesicular Acetylcholine Transport Proteins,"Amino Acid, Peptide, or Protein",D050494
+363,Vesicular Acetylcholine Transport Proteins,"Amino Acid, Peptide, or Protein",D050494
+364,Vesicular Acetylcholine Transport Proteins,Biologically Active Substance,D050494
+365,Vesicular Acetylcholine Transport Proteins,Biologically Active Substance,D050494
+366,alpha7 Nicotinic Acetylcholine Receptor,"Amino Acid, Peptide, or Protein",D064569
+367,alpha7 Nicotinic Acetylcholine Receptor,"Amino Acid, Peptide, or Protein",D064569
+368,alpha7 Nicotinic Acetylcholine Receptor,Receptor,D064569
+369,alpha7 Nicotinic Acetylcholine Receptor,Receptor,D064569
+370,Serotonin 5-HT3 Receptor Antagonists,Pharmacologic Substance,D058831
+371,Serotonin 5-HT2 Receptor Antagonists,Pharmacologic Substance,D058830
+372,Serotonin Agents,Pharmacologic Substance,D018490
+373,Serotonin Agents,Pharmacologic Substance,D018490
+374,Serotonin Agents,Pharmacologic Substance,D018490
+375,Serotonin Agents,Biologically Active Substance,D018490
+376,Serotonin Agents,Biologically Active Substance,D018490
+377,Serotonin Agents,Biologically Active Substance,D018490
+378,Serotonin Agents,Physiologic Function,D018490
+379,Serotonin Agents,Physiologic Function,D018490
+380,Serotonin Agents,Physiologic Function,D018490
+381,Serotonin and Noradrenaline Reuptake Inhibitors,Pharmacologic Substance,D000068760
+382,Serotonin Receptor Agonists,Pharmacologic Substance,D017366
+383,Serotonin 5-HT1 Receptor Agonists,Pharmacologic Substance,D058825
+384,Serotonin 5-HT4 Receptor Agonists,Pharmacologic Substance,D058828
+385,Serotonin 5-HT2 Receptor Agonists,Pharmacologic Substance,D058826
+386,Serotonin 5-HT1 Receptor Antagonists,Pharmacologic Substance,D058829
+387,Serotonin 5-HT3 Receptor Agonists,Pharmacologic Substance,D058827
+388,Serotonin Antagonists,Pharmacologic Substance,D012702
+389,"Receptors, Serotonin, 5-HT1","Amino Acid, Peptide, or Protein",D044263
+390,"Receptors, Serotonin, 5-HT1","Amino Acid, Peptide, or Protein",D044263
+391,"Receptors, Serotonin, 5-HT1",Receptor,D044263
+392,"Receptors, Serotonin, 5-HT1",Receptor,D044263
+393,"Receptors, Serotonin, 5-HT1","Amino Acid, Peptide, or Protein",D044263
+394,"Receptors, Serotonin, 5-HT1","Amino Acid, Peptide, or Protein",D044263
+395,"Receptors, Serotonin, 5-HT1",Receptor,D044263
+396,"Receptors, Serotonin, 5-HT1",Receptor,D044263
+397,"Receptor, Serotonin, 5-HT2B","Amino Acid, Peptide, or Protein",D044403
+398,"Receptor, Serotonin, 5-HT2B","Amino Acid, Peptide, or Protein",D044403
+399,"Receptor, Serotonin, 5-HT2B",Receptor,D044403
+400,"Receptor, Serotonin, 5-HT2B",Receptor,D044403
+401,"Receptor, Serotonin, 5-HT2A","Amino Acid, Peptide, or Protein",D044402
+402,"Receptor, Serotonin, 5-HT2A","Amino Acid, Peptide, or Protein",D044402
+403,"Receptor, Serotonin, 5-HT2A",Receptor,D044402
+404,"Receptor, Serotonin, 5-HT2A",Receptor,D044402
+405,"Receptor, Serotonin, 5-HT2C","Amino Acid, Peptide, or Protein",D044405
+406,"Receptor, Serotonin, 5-HT2C","Amino Acid, Peptide, or Protein",D044405
+407,"Receptor, Serotonin, 5-HT2C",Receptor,D044405
+408,"Receptor, Serotonin, 5-HT2C",Receptor,D044405
+409,"Receptors, Serotonin, 5-HT3","Amino Acid, Peptide, or Protein",D044406
+410,"Receptors, Serotonin, 5-HT3","Amino Acid, Peptide, or Protein",D044406
+411,"Receptors, Serotonin, 5-HT3",Receptor,D044406
+412,"Receptors, Serotonin, 5-HT3",Receptor,D044406
+413,"Receptors, Serotonin, 5-HT3","Amino Acid, Peptide, or Protein",D044406
+414,"Receptors, Serotonin, 5-HT3","Amino Acid, Peptide, or Protein",D044406
+415,"Receptors, Serotonin, 5-HT3",Receptor,D044406
+416,"Receptors, Serotonin, 5-HT3",Receptor,D044406
+417,"Receptors, Serotonin","Amino Acid, Peptide, or Protein",D011985
+418,"Receptors, Serotonin","Amino Acid, Peptide, or Protein",D011985
+419,"Receptors, Serotonin",Receptor,D011985
+420,"Receptors, Serotonin",Receptor,D011985
+421,"Receptors, Serotonin","Amino Acid, Peptide, or Protein",D011985
+422,"Receptors, Serotonin","Amino Acid, Peptide, or Protein",D011985
+423,"Receptors, Serotonin",Receptor,D011985
+424,"Receptors, Serotonin",Receptor,D011985
+425,Serotonin Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050486
+426,Serotonin Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050486
+427,Serotonin Plasma Membrane Transport Proteins,Biologically Active Substance,D050486
+428,Serotonin Plasma Membrane Transport Proteins,Biologically Active Substance,D050486
+429,"Receptor, Serotonin, 5-HT1A","Amino Acid, Peptide, or Protein",D044282
+430,"Receptor, Serotonin, 5-HT1A","Amino Acid, Peptide, or Protein",D044282
+431,"Receptor, Serotonin, 5-HT1A",Receptor,D044282
+432,"Receptor, Serotonin, 5-HT1A",Receptor,D044282
+433,"Receptor, Serotonin, 5-HT1B","Amino Acid, Peptide, or Protein",D044302
+434,"Receptor, Serotonin, 5-HT1B","Amino Acid, Peptide, or Protein",D044302
+435,"Receptor, Serotonin, 5-HT1B",Receptor,D044302
+436,"Receptor, Serotonin, 5-HT1B",Receptor,D044302
+437,"Receptor, Serotonin, 5-HT1D","Amino Acid, Peptide, or Protein",D044346
+438,"Receptor, Serotonin, 5-HT1D","Amino Acid, Peptide, or Protein",D044346
+439,"Receptor, Serotonin, 5-HT1D",Receptor,D044346
+440,"Receptor, Serotonin, 5-HT1D",Receptor,D044346
+441,"Receptors, Serotonin, 5-HT2","Amino Acid, Peptide, or Protein",D044348
+442,"Receptors, Serotonin, 5-HT2","Amino Acid, Peptide, or Protein",D044348
+443,"Receptors, Serotonin, 5-HT2",Receptor,D044348
+444,"Receptors, Serotonin, 5-HT2",Receptor,D044348
+445,"Receptors, Serotonin, 5-HT2","Amino Acid, Peptide, or Protein",D044348
+446,"Receptors, Serotonin, 5-HT2","Amino Acid, Peptide, or Protein",D044348
+447,"Receptors, Serotonin, 5-HT2",Receptor,D044348
+448,"Receptors, Serotonin, 5-HT2",Receptor,D044348
+449,"Receptors, Serotonin, 5-HT4","Amino Acid, Peptide, or Protein",D044422
+450,"Receptors, Serotonin, 5-HT4","Amino Acid, Peptide, or Protein",D044422
+451,"Receptors, Serotonin, 5-HT4",Receptor,D044422
+452,"Receptors, Serotonin, 5-HT4",Receptor,D044422
+453,"Receptors, Serotonin, 5-HT4","Amino Acid, Peptide, or Protein",D044422
+454,"Receptors, Serotonin, 5-HT4","Amino Acid, Peptide, or Protein",D044422
+455,"Receptors, Serotonin, 5-HT4",Receptor,D044422
+456,"Receptors, Serotonin, 5-HT4",Receptor,D044422
+457,Serotonin,Organic Chemical,D012701
+458,Serotonin,Organic Chemical,D012701
+459,Serotonin,Biologically Active Substance,D012701
+460,Serotonin,Biologically Active Substance,D012701
+461,Serotonin Syndrome,Injury or Poisoning,D020230
+462,GABA Agents,Pharmacologic Substance,D018682
+463,GABA Agents,Pharmacologic Substance,D018682
+464,GABA Agents,Physiologic Function,D018682
+465,GABA Agents,Physiologic Function,D018682
+466,GABA-B Receptor Antagonists,Pharmacologic Substance,D058788
+467,GABA-A Receptor Agonists,Pharmacologic Substance,D058785
+468,GABA-A Receptor Antagonists,Pharmacologic Substance,D058787
+469,GABA-B Receptor Agonists,Pharmacologic Substance,D058786
+470,GABA Antagonists,Pharmacologic Substance,D018756
+471,GABA Agonists,Pharmacologic Substance,D018755
+472,GABA Modulators,Pharmacologic Substance,D018757
+473,"Receptors, GABA-A","Amino Acid, Peptide, or Protein",D011963
+474,"Receptors, GABA-A","Amino Acid, Peptide, or Protein",D011963
+475,"Receptors, GABA-A",Receptor,D011963
+476,"Receptors, GABA-A",Receptor,D011963
+477,"Receptors, GABA-A","Amino Acid, Peptide, or Protein",D011963
+478,"Receptors, GABA-A","Amino Acid, Peptide, or Protein",D011963
+479,"Receptors, GABA-A",Receptor,D011963
+480,"Receptors, GABA-A",Receptor,D011963
+481,GABA Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050485
+482,GABA Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050485
+483,GABA Plasma Membrane Transport Proteins,Biologically Active Substance,D050485
+484,GABA Plasma Membrane Transport Proteins,Biologically Active Substance,D050485
+485,"Receptors, GABA-B","Amino Acid, Peptide, or Protein",D018080
+486,"Receptors, GABA-B","Amino Acid, Peptide, or Protein",D018080
+487,"Receptors, GABA-B",Receptor,D018080
+488,"Receptors, GABA-B",Receptor,D018080
+489,"Receptors, GABA-B","Amino Acid, Peptide, or Protein",D018080
+490,"Receptors, GABA-B","Amino Acid, Peptide, or Protein",D018080
+491,"Receptors, GABA-B",Receptor,D018080
+492,"Receptors, GABA-B",Receptor,D018080
+493,"Receptors, GABA","Amino Acid, Peptide, or Protein",D018079
+494,"Receptors, GABA","Amino Acid, Peptide, or Protein",D018079
+495,"Receptors, GABA",Receptor,D018079
+496,"Receptors, GABA",Receptor,D018079
+497,GABAergic Neurons,Cell,D059330
+498,GABAergic Neurons,Cell,D059330
+499,GABAergic Neurons,Cell,D059330
+500,Sodium Glutamate,Pharmacologic Substance,D012970
+501,Sodium Glutamate,Pharmacologic Substance,D012970
+502,Sodium Glutamate,Pharmacologic Substance,D012970
+503,Sodium Glutamate,"Amino Acid, Peptide, or Protein",D012970
+504,Sodium Glutamate,"Amino Acid, Peptide, or Protein",D012970
+505,Sodium Glutamate,"Amino Acid, Peptide, or Protein",D012970
+506,Sodium Glutamate,Food,D012970
+507,Sodium Glutamate,Food,D012970
+508,Sodium Glutamate,Food,D012970
+509,Glutamate Synthase,"Amino Acid, Peptide, or Protein",D005970
+510,Glutamate Synthase,"Amino Acid, Peptide, or Protein",D005970
+511,Glutamate Synthase,Enzyme,D005970
+512,Glutamate Synthase,Enzyme,D005970
+513,Glutamates,"Amino Acid, Peptide, or Protein",D005971
+514,Glutamate-tRNA Ligase,"Amino Acid, Peptide, or Protein",D005975
+515,Glutamate-tRNA Ligase,"Amino Acid, Peptide, or Protein",D005975
+516,Glutamate-tRNA Ligase,Enzyme,D005975
+517,Glutamate-tRNA Ligase,Enzyme,D005975
+518,Glutamate-Ammonia Ligase,"Amino Acid, Peptide, or Protein",D005974
+519,Glutamate-Ammonia Ligase,"Amino Acid, Peptide, or Protein",D005974
+520,Glutamate-Ammonia Ligase,Enzyme,D005974
+521,Glutamate-Ammonia Ligase,Enzyme,D005974
+522,"Receptors, Ionotropic Glutamate","Amino Acid, Peptide, or Protein",D058468
+523,"Receptors, Ionotropic Glutamate","Amino Acid, Peptide, or Protein",D058468
+524,"Receptors, Ionotropic Glutamate",Receptor,D058468
+525,"Receptors, Ionotropic Glutamate",Receptor,D058468
+526,Glutamate-Cysteine Ligase,"Amino Acid, Peptide, or Protein",D005721
+527,Glutamate-Cysteine Ligase,"Amino Acid, Peptide, or Protein",D005721
+528,Glutamate-Cysteine Ligase,Enzyme,D005721
+529,Glutamate-Cysteine Ligase,Enzyme,D005721
+530,"Receptor, Metabotropic Glutamate 5","Amino Acid, Peptide, or Protein",D064529
+531,"Receptor, Metabotropic Glutamate 5","Amino Acid, Peptide, or Protein",D064529
+532,"Receptor, Metabotropic Glutamate 5",Receptor,D064529
+533,"Receptor, Metabotropic Glutamate 5",Receptor,D064529
+534,"Receptors, Glutamate","Amino Acid, Peptide, or Protein",D017470
+535,"Receptors, Glutamate","Amino Acid, Peptide, or Protein",D017470
+536,"Receptors, Glutamate",Receptor,D017470
+537,"Receptors, Glutamate",Receptor,D017470
+538,"Receptors, Glutamate","Amino Acid, Peptide, or Protein",D017470
+539,"Receptors, Glutamate","Amino Acid, Peptide, or Protein",D017470
+540,"Receptors, Glutamate",Receptor,D017470
+541,"Receptors, Glutamate",Receptor,D017470
+542,Glutamate Formimidoyltransferase,"Amino Acid, Peptide, or Protein",D051042
+543,Glutamate Formimidoyltransferase,"Amino Acid, Peptide, or Protein",D051042
+544,Glutamate Formimidoyltransferase,Enzyme,D051042
+545,Glutamate Formimidoyltransferase,Enzyme,D051042
+546,Glutamate-5-Semialdehyde Dehydrogenase,"Amino Acid, Peptide, or Protein",D050698
+547,Glutamate-5-Semialdehyde Dehydrogenase,"Amino Acid, Peptide, or Protein",D050698
+548,Glutamate-5-Semialdehyde Dehydrogenase,Enzyme,D050698
+549,Glutamate-5-Semialdehyde Dehydrogenase,Enzyme,D050698
+550,Glutamate Carboxypeptidase II,"Amino Acid, Peptide, or Protein",D043425
+551,Glutamate Carboxypeptidase II,"Amino Acid, Peptide, or Protein",D043425
+552,Glutamate Carboxypeptidase II,Enzyme,D043425
+553,Glutamate Carboxypeptidase II,Enzyme,D043425
+554,Glutamate Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050491
+555,Glutamate Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050491
+556,Glutamate Plasma Membrane Transport Proteins,Biologically Active Substance,D050491
+557,Glutamate Plasma Membrane Transport Proteins,Biologically Active Substance,D050491
+558,Vesicular Glutamate Transport Proteins,"Amino Acid, Peptide, or Protein",D050496
+559,Vesicular Glutamate Transport Proteins,"Amino Acid, Peptide, or Protein",D050496
+560,Vesicular Glutamate Transport Proteins,Biologically Active Substance,D050496
+561,Vesicular Glutamate Transport Proteins,Biologically Active Substance,D050496
+562,"Receptors, Metabotropic Glutamate","Amino Acid, Peptide, or Protein",D018094
+563,"Receptors, Metabotropic Glutamate","Amino Acid, Peptide, or Protein",D018094
+564,"Receptors, Metabotropic Glutamate",Receptor,D018094
+565,"Receptors, Metabotropic Glutamate",Receptor,D018094
+566,"Receptors, Metabotropic Glutamate","Amino Acid, Peptide, or Protein",D018094
+567,"Receptors, Metabotropic Glutamate","Amino Acid, Peptide, or Protein",D018094
+568,"Receptors, Metabotropic Glutamate",Receptor,D018094
+569,"Receptors, Metabotropic Glutamate",Receptor,D018094
+570,Glutamate Dehydrogenase (NADP+),"Amino Acid, Peptide, or Protein",D018086
+571,Glutamate Dehydrogenase (NADP+),"Amino Acid, Peptide, or Protein",D018086
+572,Glutamate Dehydrogenase (NADP+),Enzyme,D018086
+573,Glutamate Dehydrogenase (NADP+),Enzyme,D018086
+574,Glutamate Dehydrogenase,"Amino Acid, Peptide, or Protein",D005969
+575,Glutamate Dehydrogenase,"Amino Acid, Peptide, or Protein",D005969
+576,Glutamate Dehydrogenase,Enzyme,D005969
+577,Glutamate Dehydrogenase,Enzyme,D005969
+578,Glutamate Decarboxylase,"Amino Acid, Peptide, or Protein",D005968
+579,Glutamate Decarboxylase,"Amino Acid, Peptide, or Protein",D005968
+580,Glutamate Decarboxylase,Enzyme,D005968
+581,Glutamate Decarboxylase,Enzyme,D005968
+582,Vesicular Glutamate Transport Protein 2,"Amino Acid, Peptide, or Protein",D050599
+583,Vesicular Glutamate Transport Protein 2,"Amino Acid, Peptide, or Protein",D050599
+584,Vesicular Glutamate Transport Protein 2,Biologically Active Substance,D050599
+585,Vesicular Glutamate Transport Protein 2,Biologically Active Substance,D050599
+586,Vesicular Glutamate Transport Protein 1,"Amino Acid, Peptide, or Protein",D050598
+587,Vesicular Glutamate Transport Protein 1,"Amino Acid, Peptide, or Protein",D050598
+588,Vesicular Glutamate Transport Protein 1,Biologically Active Substance,D050598
+589,Vesicular Glutamate Transport Protein 1,Biologically Active Substance,D050598
+590,Action Potentials,Cell Function,D000200
+591,Action Potentials,Cell Function,D000200
+592,Inhibitory Postsynaptic Potentials,Organ or Tissue Function,D053444
+593,Excitatory Postsynaptic Potentials,Organ or Tissue Function,D019706
+594,Excitatory Postsynaptic Potentials,Organ or Tissue Function,D019706
+595,Neurotransmitter Agents,Pharmacologic Substance,D018377
+596,Neurotransmitter Agents,Pharmacologic Substance,D018377
+597,Neurotransmitter Agents,Pharmacologic Substance,D018377
+598,Neurotransmitter Agents,Biologically Active Substance,D018377
+599,Neurotransmitter Agents,Biologically Active Substance,D018377
+600,Neurotransmitter Agents,Biologically Active Substance,D018377
+601,Neurotransmitter Agents,Hormone,D018377
+602,Neurotransmitter Agents,Hormone,D018377
+603,Neurotransmitter Agents,Hormone,D018377
+604,Neurotransmitter Agents,Pharmacologic Substance,D018377
+605,Neurotransmitter Agents,Pharmacologic Substance,D018377
+606,Neurotransmitter Agents,Pharmacologic Substance,D018377
+607,Neurotransmitter Agents,Biologically Active Substance,D018377
+608,Neurotransmitter Agents,Biologically Active Substance,D018377
+609,Neurotransmitter Agents,Biologically Active Substance,D018377
+610,Neurotransmitter Agents,Hormone,D018377
+611,Neurotransmitter Agents,Hormone,D018377
+612,Neurotransmitter Agents,Hormone,D018377
+613,Neurotransmitter Uptake Inhibitors,Pharmacologic Substance,D014179
+614,Plasma Membrane Neurotransmitter Transport Proteins,"Amino Acid, Peptide, or Protein",D050480
+615,Plasma Membrane Neurotransmitter Transport Proteins,"Amino Acid, Peptide, or Protein",D050480
+616,Plasma Membrane Neurotransmitter Transport Proteins,Biologically Active Substance,D050480
+617,Plasma Membrane Neurotransmitter Transport Proteins,Biologically Active Substance,D050480
+618,"Receptors, Neurotransmitter","Amino Acid, Peptide, or Protein",D017981
+619,"Receptors, Neurotransmitter","Amino Acid, Peptide, or Protein",D017981
+620,"Receptors, Neurotransmitter",Receptor,D017981
+621,"Receptors, Neurotransmitter",Receptor,D017981
+622,Neurotransmitter Transport Proteins,"Amino Acid, Peptide, or Protein",D050479
+623,Neurotransmitter Transport Proteins,"Amino Acid, Peptide, or Protein",D050479
+624,Neurotransmitter Transport Proteins,Biologically Active Substance,D050479
+625,Neurotransmitter Transport Proteins,Biologically Active Substance,D050479
+626,Electrical Synapses,Cell Component,D054351
+627,Electrical Synapses,Cell Component,D054351
+628,Electrical Synapses,Body Space or Junction,D054351
+629,Electrical Synapses,Body Space or Junction,D054351
+630,Immunological Synapses,Cell Component,D054992
+631,Synapses,Body Space or Junction,D013569
+632,"Hypothalamus, Anterior","Body Part, Organ, or Organ Component",D007032
+633,"Hypothalamus, Posterior","Body Part, Organ, or Organ Component",D007034
+634,Hypothalamus,"Body Part, Organ, or Organ Component",D007031
+635,Arcuate Nucleus of Hypothalamus,"Body Part, Organ, or Organ Component",D001111
+636,Thalamus,"Body Part, Organ, or Organ Component",D013788
+637,Corpus Striatum,"Body Part, Organ, or Organ Component",D003342
+638,Substantia Nigra,"Body Part, Organ, or Organ Component",D013378
+639,Auditory Brain Stem Implantation,Therapeutic or Preventive Procedure,D038263
+640,Auditory Brain Stem Implantation,Therapeutic or Preventive Procedure,D038263
+641,"Evoked Potentials, Auditory, Brain Stem",Organ or Tissue Function,D016057
+642,"Evoked Potentials, Auditory, Brain Stem",Organ or Tissue Function,D016057
+643,"Evoked Potentials, Auditory, Brain Stem",Clinical Attribute,D016057
+644,"Evoked Potentials, Auditory, Brain Stem",Clinical Attribute,D016057
+645,"Evoked Potentials, Auditory, Brain Stem",Organ or Tissue Function,D016057
+646,"Evoked Potentials, Auditory, Brain Stem",Organ or Tissue Function,D016057
+647,"Evoked Potentials, Auditory, Brain Stem",Clinical Attribute,D016057
+648,"Evoked Potentials, Auditory, Brain Stem",Clinical Attribute,D016057
+649,Brain Stem Neoplasms,Neoplastic Process,D020295
+650,Brain Stem Neoplasms,Neoplastic Process,D020295
+651,Brain Stem,"Body Part, Organ, or Organ Component",D001933
+652,Brain Stem,"Body Part, Organ, or Organ Component",D001933
+653,Amygdala,"Body Part, Organ, or Organ Component",D000679
+654,"Receptors, Nicotinic","Amino Acid, Peptide, or Protein",D011978
+655,"Receptors, Nicotinic","Amino Acid, Peptide, or Protein",D011978
+656,"Receptors, Nicotinic",Receptor,D011978
+657,"Receptors, Nicotinic",Receptor,D011978
+658,"Receptors, N-Methyl-D-Aspartate","Amino Acid, Peptide, or Protein",D016194
+659,"Receptors, N-Methyl-D-Aspartate","Amino Acid, Peptide, or Protein",D016194
+660,"Receptors, N-Methyl-D-Aspartate",Receptor,D016194
+661,"Receptors, N-Methyl-D-Aspartate",Receptor,D016194
+662,"Receptors, Dopamine D5","Amino Acid, Peptide, or Protein",D050641
+663,"Receptors, Dopamine D5","Amino Acid, Peptide, or Protein",D050641
+664,"Receptors, Dopamine D5",Receptor,D050641
+665,"Receptors, Dopamine D5",Receptor,D050641
+666,"Receptors, Dopamine D5","Amino Acid, Peptide, or Protein",D050641
+667,"Receptors, Dopamine D5","Amino Acid, Peptide, or Protein",D050641
+668,"Receptors, Dopamine D5",Receptor,D050641
+669,"Receptors, Dopamine D5",Receptor,D050641
+670,"Receptors, Dopamine D2","Amino Acid, Peptide, or Protein",D017448
+671,"Receptors, Dopamine D2","Amino Acid, Peptide, or Protein",D017448
+672,"Receptors, Dopamine D2",Receptor,D017448
+673,"Receptors, Dopamine D2",Receptor,D017448
+674,"Receptors, Dopamine D2","Amino Acid, Peptide, or Protein",D017448
+675,"Receptors, Dopamine D2","Amino Acid, Peptide, or Protein",D017448
+676,"Receptors, Dopamine D2",Receptor,D017448
+677,"Receptors, Dopamine D2",Receptor,D017448
+678,"Receptors, Dopamine D1","Amino Acid, Peptide, or Protein",D017447
+679,"Receptors, Dopamine D1","Amino Acid, Peptide, or Protein",D017447
+680,"Receptors, Dopamine D1",Receptor,D017447
+681,"Receptors, Dopamine D1",Receptor,D017447
+682,"Receptors, Dopamine D1","Amino Acid, Peptide, or Protein",D017447
+683,"Receptors, Dopamine D1","Amino Acid, Peptide, or Protein",D017447
+684,"Receptors, Dopamine D1",Receptor,D017447
+685,"Receptors, Dopamine D1",Receptor,D017447
+686,"Receptors, Dopamine","Amino Acid, Peptide, or Protein",D011954
+687,"Receptors, Dopamine","Amino Acid, Peptide, or Protein",D011954
+688,"Receptors, Dopamine",Receptor,D011954
+689,"Receptors, Dopamine",Receptor,D011954
+690,"Receptors, Dopamine","Amino Acid, Peptide, or Protein",D011954
+691,"Receptors, Dopamine","Amino Acid, Peptide, or Protein",D011954
+692,"Receptors, Dopamine",Receptor,D011954
+693,"Receptors, Dopamine",Receptor,D011954
+694,"Receptors, Dopamine D3","Amino Acid, Peptide, or Protein",D050637
+695,"Receptors, Dopamine D3","Amino Acid, Peptide, or Protein",D050637
+696,"Receptors, Dopamine D3",Receptor,D050637
+697,"Receptors, Dopamine D3",Receptor,D050637
+698,"Receptors, Dopamine D3","Amino Acid, Peptide, or Protein",D050637
+699,"Receptors, Dopamine D3","Amino Acid, Peptide, or Protein",D050637
+700,"Receptors, Dopamine D3",Receptor,D050637
+701,"Receptors, Dopamine D3",Receptor,D050637
+702,"Receptors, Dopamine D4","Amino Acid, Peptide, or Protein",D050638
+703,"Receptors, Dopamine D4","Amino Acid, Peptide, or Protein",D050638
+704,"Receptors, Dopamine D4",Receptor,D050638
+705,"Receptors, Dopamine D4",Receptor,D050638
+706,"Receptors, Dopamine D4","Amino Acid, Peptide, or Protein",D050638
+707,"Receptors, Dopamine D4","Amino Acid, Peptide, or Protein",D050638
+708,"Receptors, Dopamine D4",Receptor,D050638
+709,"Receptors, Dopamine D4",Receptor,D050638
+710,"Receptors, AMPA","Amino Acid, Peptide, or Protein",D018091
+711,"Receptors, AMPA","Amino Acid, Peptide, or Protein",D018091
+712,"Receptors, AMPA",Receptor,D018091
+713,"Receptors, AMPA",Receptor,D018091
+714,"Receptor, Nerve Growth Factor","Amino Acid, Peptide, or Protein",D020800
+715,"Receptor, Nerve Growth Factor","Amino Acid, Peptide, or Protein",D020800
+716,"Receptor, Nerve Growth Factor",Receptor,D020800
+717,"Receptor, Nerve Growth Factor",Receptor,D020800
+718,"Receptor, Muscarinic M1","Amino Acid, Peptide, or Protein",D043643
+719,"Receptor, Muscarinic M1","Amino Acid, Peptide, or Protein",D043643
+720,"Receptor, Muscarinic M1",Receptor,D043643
+721,"Receptor, Muscarinic M1",Receptor,D043643
+722,"Receptor, Adenosine A2A","Amino Acid, Peptide, or Protein",D043705
+723,"Receptor, Adenosine A2A","Amino Acid, Peptide, or Protein",D043705
+724,"Receptor, Adenosine A2A",Receptor,D043705
+725,"Receptor, Adenosine A2A",Receptor,D043705
+726,Focal Adhesion Protein-Tyrosine Kinases,"Amino Acid, Peptide, or Protein",D051416
+727,Focal Adhesion Protein-Tyrosine Kinases,"Amino Acid, Peptide, or Protein",D051416
+728,Focal Adhesion Protein-Tyrosine Kinases,Enzyme,D051416
+729,Focal Adhesion Protein-Tyrosine Kinases,Enzyme,D051416
+730,Protein-Tyrosine Kinases,"Amino Acid, Peptide, or Protein",D011505
+731,Protein-Tyrosine Kinases,"Amino Acid, Peptide, or Protein",D011505
+732,Protein-Tyrosine Kinases,Enzyme,D011505
+733,Protein-Tyrosine Kinases,Enzyme,D011505
+734,Receptor Protein-Tyrosine Kinases,"Amino Acid, Peptide, or Protein",D020794
+735,Receptor Protein-Tyrosine Kinases,"Amino Acid, Peptide, or Protein",D020794
+736,Receptor Protein-Tyrosine Kinases,"Amino Acid, Peptide, or Protein",D020794
+737,Receptor Protein-Tyrosine Kinases,Receptor,D020794
+738,Receptor Protein-Tyrosine Kinases,Receptor,D020794
+739,Receptor Protein-Tyrosine Kinases,Receptor,D020794
+740,Receptor Protein-Tyrosine Kinases,Enzyme,D020794
+741,Receptor Protein-Tyrosine Kinases,Enzyme,D020794
+742,Receptor Protein-Tyrosine Kinases,Enzyme,D020794
+743,Protein Transport,Molecular Function,D021381
+744,Protein Transport,Molecular Function,D021381
+745,Protein Transport,Cell Function,D021381
+746,Protein Transport,Cell Function,D021381
+747,Protein Folding,Molecular Function,D017510
+748,Protein Aggregates,"Amino Acid, Peptide, or Protein",D066329
+749,Presynaptic Terminals,Cell Component,D017729
+750,Presenilin-1,"Amino Acid, Peptide, or Protein",D053764
+751,Presenilin-1,"Amino Acid, Peptide, or Protein",D053764
+752,Presenilin-1,Biologically Active Substance,D053764
+753,Presenilin-1,Biologically Active Substance,D053764
+754,Pituitary-Adrenal System,Body System,D010913
+755,Oxidative Phosphorylation Coupling Factors,"Amino Acid, Peptide, or Protein",D010086
+756,Oxidative Phosphorylation Coupling Factors,"Amino Acid, Peptide, or Protein",D010086
+757,Oxidative Phosphorylation Coupling Factors,Biologically Active Substance,D010086
+758,Oxidative Phosphorylation Coupling Factors,Biologically Active Substance,D010086
+759,Oxidative Phosphorylation,Molecular Function,D010085
+760,Phosphorylation,Molecular Function,D010766
+761,Class I Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D058534
+762,Class I Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D058534
+763,Class I Phosphatidylinositol 3-Kinases,Enzyme,D058534
+764,Class I Phosphatidylinositol 3-Kinases,Enzyme,D058534
+765,Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D019869
+766,Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D019869
+767,Phosphatidylinositol 3-Kinases,Enzyme,D019869
+768,Phosphatidylinositol 3-Kinases,Enzyme,D019869
+769,Class III Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D058546
+770,Class III Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D058546
+771,Class III Phosphatidylinositol 3-Kinases,Enzyme,D058546
+772,Class III Phosphatidylinositol 3-Kinases,Enzyme,D058546
+773,Class II Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D058541
+774,Class II Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D058541
+775,Class II Phosphatidylinositol 3-Kinases,Enzyme,D058541
+776,Class II Phosphatidylinositol 3-Kinases,Enzyme,D058541
+777,Parkinson Disease Associated Proteins,"Amino Acid, Peptide, or Protein",D000070579
+778,Parkinson Disease Associated Proteins,"Amino Acid, Peptide, or Protein",D000070579
+779,Parkinson Disease Associated Proteins,Biologically Active Substance,D000070579
+780,Parkinson Disease Associated Proteins,Biologically Active Substance,D000070579
+781,"Parkinson Disease, Postencephalitic",Disease or Syndrome,D010301
+782,Parkinson Disease,Disease or Syndrome,D010300
+783,Oxidative Stress,Cell or Molecular Dysfunction,D018384
+784,Oligodendroglia,Cell,D009836
+785,Nuclear Proteins,"Amino Acid, Peptide, or Protein",D009687
+786,Nuclear Proteins,"Amino Acid, Peptide, or Protein",D009687
+787,Nuclear Proteins,Biologically Active Substance,D009687
+788,Nuclear Proteins,Biologically Active Substance,D009687
+789,Nitric Oxide,Pharmacologic Substance,D009569
+790,Nitric Oxide,Pharmacologic Substance,D009569
+791,Nitric Oxide,Inorganic Chemical,D009569
+792,Nitric Oxide,Inorganic Chemical,D009569
+793,Nitric Oxide Donors,Pharmacologic Substance,D020030
+794,Nitric Oxide Synthase Type I,"Amino Acid, Peptide, or Protein",D052248
+795,Nitric Oxide Synthase Type I,"Amino Acid, Peptide, or Protein",D052248
+796,Nitric Oxide Synthase Type I,Enzyme,D052248
+797,Nitric Oxide Synthase Type I,Enzyme,D052248
+798,Nitric Oxide Synthase Type II,"Amino Acid, Peptide, or Protein",D052247
+799,Nitric Oxide Synthase Type II,"Amino Acid, Peptide, or Protein",D052247
+800,Nitric Oxide Synthase Type II,Enzyme,D052247
+801,Nitric Oxide Synthase Type II,Enzyme,D052247
+802,Nitric Oxide Synthase,"Amino Acid, Peptide, or Protein",D019001
+803,Nitric Oxide Synthase,"Amino Acid, Peptide, or Protein",D019001
+804,Nitric Oxide Synthase,Enzyme,D019001
+805,Nitric Oxide Synthase,Enzyme,D019001
+806,Nitric Oxide Synthase Type III,"Amino Acid, Peptide, or Protein",D052250
+807,Nitric Oxide Synthase Type III,"Amino Acid, Peptide, or Protein",D052250
+808,Nitric Oxide Synthase Type III,Enzyme,D052250
+809,Nitric Oxide Synthase Type III,Enzyme,D052250
+810,Neurosecretion,Organ or Tissue Function,D009489
+811,Neuroprotective Agents,Pharmacologic Substance,D018696
+812,Neuroprotective Agents,Pharmacologic Substance,D018696
+813,Neuroprotective Agents,Functional Concept,D018696
+814,Neuroprotective Agents,Functional Concept,D018696
+815,Olfactory Receptor Neurons,Cell Component,D018034
+816,Olfactory Receptor Neurons,Cell Component,D018034
+817,Olfactory Receptor Neurons,Cell,D018034
+818,Olfactory Receptor Neurons,Cell,D018034
+819,Cholinergic Neurons,Cell,D059329
+820,Cholinergic Neurons,Cell,D059329
+821,Serotonergic Neurons,Cell,D059326
+822,Dopaminergic Neurons,Cell,D059290
+823,Dopaminergic Neurons,Cell,D059290
+824,Dopaminergic Neurons,Cell,D059290
+825,Adrenergic Neurons,Cell,D059331
+826,Retinal Neurons,Cell,D055351
+827,Mirror Neurons,Cell,D059167
+828,Neurons,Cell,D009474
+829,"Neurons, Efferent",Cell,D009476
+830,"Neurons, Afferent",Cell,D009475
+831,Motor Neurons,Cell,D009046
+832,Motor Neurons,Cell,D009046
+833,Suprachiasmatic Nucleus Neurons,Cell,D000074523
+834,Neuronal Plasticity,Organ or Tissue Function,D009473
+835,Neuronal Plasticity,Organ or Tissue Function,D009473
+836,Neuronal Plasticity,Cell Function,D009473
+837,Neuronal Plasticity,Cell Function,D009473
+838,Neuroglia,Cell,D009457
+839,Neurogenesis,Organism Function,D055495
+840,Neurofibrillary Tangles,Cell or Molecular Dysfunction,D016874
+841,Neural Pathways,"Body Part, Organ, or Organ Component",D009434
+842,Neural Inhibition,Organ or Tissue Function,D009433
+843,Peripheral Nervous System Diseases,Disease or Syndrome,D010523
+844,Nervous System Diseases,Disease or Syndrome,D009422
+845,Central Nervous System Diseases,Disease or Syndrome,D002493
+846,Autonomic Nervous System Diseases,Disease or Syndrome,D001342
+847,Nerve Tissue Proteins,"Amino Acid, Peptide, or Protein",D009419
+848,Nerve Tissue Proteins,"Amino Acid, Peptide, or Protein",D009419
+849,Nerve Tissue Proteins,Biologically Active Substance,D009419
+850,Nerve Tissue Proteins,Biologically Active Substance,D009419
+851,Nerve Regeneration,Organ or Tissue Function,D009416
+852,Nerve Regeneration,Organ or Tissue Function,D009416
+853,Nerve Regeneration,Cell Function,D009416
+854,Nerve Regeneration,Cell Function,D009416
+855,Nerve Growth Factors,"Amino Acid, Peptide, or Protein",D009414
+856,Nerve Growth Factors,"Amino Acid, Peptide, or Protein",D009414
+857,Nerve Growth Factors,Biologically Active Substance,D009414
+858,Nerve Growth Factors,Biologically Active Substance,D009414
+859,Nerve Degeneration,Cell or Molecular Dysfunction,D009410
+860,Myelin Sheath,Cell Component,D009186
+861,Myelin Sheath,Cell Component,D009186
+862,Myelin Sheath,Tissue,D009186
+863,Myelin Sheath,Tissue,D009186
+864,"Muscular Atrophy, Spinal",Disease or Syndrome,D009134
+865,Multiple Sclerosis,Disease or Syndrome,D009103
+866,"Multiple Sclerosis, Chronic Progressive",Disease or Syndrome,D020528
+867,"Multiple Sclerosis, Relapsing-Remitting",Disease or Syndrome,D020529
+868,Molecular Motor Proteins,"Amino Acid, Peptide, or Protein",D020409
+869,Molecular Motor Proteins,"Amino Acid, Peptide, or Protein",D020409
+870,Molecular Motor Proteins,Biologically Active Substance,D020409
+871,Molecular Motor Proteins,Biologically Active Substance,D020409
+872,Molecular Chaperones,"Amino Acid, Peptide, or Protein",D018832
+873,Molecular Chaperones,"Amino Acid, Peptide, or Protein",D018832
+874,Molecular Chaperones,Biologically Active Substance,D018832
+875,Molecular Chaperones,Biologically Active Substance,D018832
+876,Mitochondrial Proton-Translocating ATPases,"Amino Acid, Peptide, or Protein",D025261
+877,Mitochondrial Proton-Translocating ATPases,"Amino Acid, Peptide, or Protein",D025261
+878,Mitochondrial Proton-Translocating ATPases,Enzyme,D025261
+879,Mitochondrial Proton-Translocating ATPases,Enzyme,D025261
+880,Mitochondrial Permeability Transition Pore,"Amino Acid, Peptide, or Protein",D000083162
+881,Mitochondrial Permeability Transition Pore,"Amino Acid, Peptide, or Protein",D000083162
+882,Mitochondrial Permeability Transition Pore,Biologically Active Substance,D000083162
+883,Mitochondrial Permeability Transition Pore,Biologically Active Substance,D000083162
+884,Mitochondrial Trifunctional Protein,"Amino Acid, Peptide, or Protein",D063991
+885,Mitochondrial Trifunctional Protein,"Amino Acid, Peptide, or Protein",D063991
+886,Mitochondrial Trifunctional Protein,Enzyme,D063991
+887,Mitochondrial Trifunctional Protein,Enzyme,D063991
+888,"Mitochondrial Trifunctional Protein, beta Subunit","Amino Acid, Peptide, or Protein",D063993
+889,"Mitochondrial Trifunctional Protein, beta Subunit","Amino Acid, Peptide, or Protein",D063993
+890,"Mitochondrial Trifunctional Protein, beta Subunit",Biologically Active Substance,D063993
+891,"Mitochondrial Trifunctional Protein, beta Subunit",Biologically Active Substance,D063993
+892,"Mitochondrial Trifunctional Protein, alpha Subunit","Amino Acid, Peptide, or Protein",D063992
+893,"Mitochondrial Trifunctional Protein, alpha Subunit","Amino Acid, Peptide, or Protein",D063992
+894,"Mitochondrial Trifunctional Protein, alpha Subunit",Enzyme,D063992
+895,"Mitochondrial Trifunctional Protein, alpha Subunit",Enzyme,D063992
+896,"Mitochondrial ADP, ATP Translocases","Amino Acid, Peptide, or Protein",D000226
+897,"Mitochondrial ADP, ATP Translocases","Amino Acid, Peptide, or Protein",D000226
+898,"Mitochondrial ADP, ATP Translocases",Biologically Active Substance,D000226
+899,"Mitochondrial ADP, ATP Translocases",Biologically Active Substance,D000226
+900,Mitochondrial Uncoupling Proteins,"Amino Acid, Peptide, or Protein",D000071245
+901,Mitochondrial Uncoupling Proteins,"Amino Acid, Peptide, or Protein",D000071245
+902,Mitochondrial Uncoupling Proteins,Biologically Active Substance,D000071245
+903,Mitochondrial Uncoupling Proteins,Biologically Active Substance,D000071245
+904,"Aldehyde Dehydrogenase, Mitochondrial","Amino Acid, Peptide, or Protein",D000071396
+905,"Aldehyde Dehydrogenase, Mitochondrial","Amino Acid, Peptide, or Protein",D000071396
+906,"Aldehyde Dehydrogenase, Mitochondrial",Enzyme,D000071396
+907,"Aldehyde Dehydrogenase, Mitochondrial",Enzyme,D000071396
+908,Mitochondrial Proteins,"Amino Acid, Peptide, or Protein",D024101
+909,Mitochondrial Proteins,"Amino Acid, Peptide, or Protein",D024101
+910,Mitochondrial Proteins,Biologically Active Substance,D024101
+911,Mitochondrial Proteins,Biologically Active Substance,D024101
+912,Mitochondrial Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D033681
+913,Mitochondrial Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D033681
+914,Mitochondrial Membrane Transport Proteins,Biologically Active Substance,D033681
+915,Mitochondrial Membrane Transport Proteins,Biologically Active Substance,D033681
+916,"Aspartate Aminotransferase, Mitochondrial","Amino Acid, Peptide, or Protein",D024442
+917,"Aspartate Aminotransferase, Mitochondrial","Amino Acid, Peptide, or Protein",D024442
+918,"Aspartate Aminotransferase, Mitochondrial",Enzyme,D024442
+919,"Aspartate Aminotransferase, Mitochondrial",Enzyme,D024442
+920,Mitochondrial Precursor Protein Import Complex Proteins,"Amino Acid, Peptide, or Protein",D000090622
+921,Mitochondrial Precursor Protein Import Complex Proteins,"Amino Acid, Peptide, or Protein",D000090622
+922,Mitochondrial Precursor Protein Import Complex Proteins,"Amino Acid, Peptide, or Protein",D000090622
+923,Mitochondrial Precursor Protein Import Complex Proteins,Biologically Active Substance,D000090622
+924,Mitochondrial Precursor Protein Import Complex Proteins,Biologically Active Substance,D000090622
+925,Mitochondrial Precursor Protein Import Complex Proteins,Biologically Active Substance,D000090622
+926,Mitochondrial Precursor Protein Import Complex Proteins,Enzyme,D000090622
+927,Mitochondrial Precursor Protein Import Complex Proteins,Enzyme,D000090622
+928,Mitochondrial Precursor Protein Import Complex Proteins,Enzyme,D000090622
+929,"Creatine Kinase, Mitochondrial Form","Amino Acid, Peptide, or Protein",D052281
+930,"Creatine Kinase, Mitochondrial Form","Amino Acid, Peptide, or Protein",D052281
+931,"Creatine Kinase, Mitochondrial Form",Enzyme,D052281
+932,"Creatine Kinase, Mitochondrial Form",Enzyme,D052281
+933,"DNA, Mitochondrial",Biologically Active Substance,D004272
+934,"DNA, Mitochondrial",Biologically Active Substance,D004272
+935,"DNA, Mitochondrial","Nucleic Acid, Nucleoside, or Nucleotide",D004272
+936,"DNA, Mitochondrial","Nucleic Acid, Nucleoside, or Nucleotide",D004272
+937,"RNA, Mitochondrial",Biologically Active Substance,D000077278
+938,"RNA, Mitochondrial",Biologically Active Substance,D000077278
+939,"RNA, Mitochondrial","Nucleic Acid, Nucleoside, or Nucleotide",D000077278
+940,"RNA, Mitochondrial","Nucleic Acid, Nucleoside, or Nucleotide",D000077278
+941,Mitochondrial Encephalomyopathies,Disease or Syndrome,D017237
+942,Mitochondrial Myopathies,Disease or Syndrome,D017240
+943,"Mitochondria, Liver",Cell Component,D008930
+944,"Mitochondria, Muscle",Cell Component,D008931
+945,Mitochondria,Cell Component,D008928
+946,Mitochondria,Cell Component,D008928
+947,Mitochondria,Cell Function,D008928
+948,Mitochondria,Cell Function,D008928
+949,"Mitochondria, Heart",Cell Component,D008929
+950,Mitochondrial Ribosomes,Cell Component,D000069396
+951,Mitochondrial Membranes,Cell Component,D051336
+952,Mitochondrial Size,Qualitative Concept,D053142
+953,Mitochondrial Size,Qualitative Concept,D053142
+954,Mitochondrial Size,Quantitative Concept,D053142
+955,Mitochondrial Size,Quantitative Concept,D053142
+956,Mitochondrial Replacement Therapy,Research Activity,D000069321
+957,"Genes, Mitochondrial",Gene or Genome,D050259
+958,"Genes, Mitochondrial",Gene or Genome,D050259
+959,"Genes, Mitochondrial",Genetic Function,D050259
+960,"Genes, Mitochondrial",Genetic Function,D050259
+961,"Genome, Mitochondrial",Gene or Genome,D054629
+962,Mitochondrial Transmembrane Permeability-Driven Necrosis,Cell Function,D000079530
+963,Mitochondrial Dynamics,Cell Function,D063154
+964,Mitochondrial Turnover,Cell Function,D063269
+965,"Membrane Potential, Mitochondrial",Cell Function,D053078
+966,Mitochondrial Swelling,Cell or Molecular Dysfunction,D008933
+967,Microglia,Cell,D017628
+968,Diagnostic and Statistical Manual of Mental Disorders,Intellectual Product,D039721
+969,Mental Disorders,Mental or Behavioral Dysfunction,D001523
+970,Memory and Learning Tests,Intellectual Product,D000073219
+971,"Memory, Short-Term",Mental Process,D008570
+972,Memory,Mental Process,D008568
+973,"Memory, Long-Term",Mental Process,D057567
+974,Memory Consolidation,Mental Process,D000069077
+975,"Memory, Episodic",Mental Process,D061212
+976,Spatial Memory,Mental Process,D065852
+977,Memory Disorders,Mental or Behavioral Dysfunction,D008569
+978,Memory Disorders,Mental or Behavioral Dysfunction,D008569
+979,Memory Disorders,Sign or Symptom,D008569
+980,Memory Disorders,Sign or Symptom,D008569
+981,Immunologic Memory,Organ or Tissue Function,D007156
+982,Memory T Cells,Cell,D000091246
+983,Memory B Cells,Cell,D000091245
+984,Membrane Proteins,"Amino Acid, Peptide, or Protein",D008565
+985,Membrane Proteins,"Amino Acid, Peptide, or Protein",D008565
+986,Membrane Proteins,"Amino Acid, Peptide, or Protein",D008565
+987,Membrane Proteins,Receptor,D008565
+988,Membrane Proteins,Receptor,D008565
+989,Membrane Proteins,Receptor,D008565
+990,Membrane Proteins,Biologically Active Substance,D008565
+991,Membrane Proteins,Biologically Active Substance,D008565
+992,Membrane Proteins,Biologically Active Substance,D008565
+993,Bacterial Outer Membrane Proteins,"Amino Acid, Peptide, or Protein",D001425
+994,Bacterial Outer Membrane Proteins,"Amino Acid, Peptide, or Protein",D001425
+995,Bacterial Outer Membrane Proteins,Biologically Active Substance,D001425
+996,Bacterial Outer Membrane Proteins,Biologically Active Substance,D001425
+997,Membrane Potentials,Cell Function,D008564
+998,Manganese Poisoning,Injury or Poisoning,D020149
+999,Long-Term Potentiation,Organ or Tissue Function,D017774
+1000,Lipid Metabolism Disorders,Disease or Syndrome,D052439
+1001,"Lipid Metabolism, Inborn Errors",Disease or Syndrome,D008052
+1002,Lipid Metabolism,Molecular Function,D050356
+1003,Limbic System,Body System,D008032
+1004,Cold Ischemia,Therapeutic or Preventive Procedure,D050377
+1005,Cold Ischemia,Therapeutic or Preventive Procedure,D050377
+1006,Cold Ischemia,Temporal Concept,D050377
+1007,Cold Ischemia,Temporal Concept,D050377
+1008,Mesenteric Ischemia,Disease or Syndrome,D065666
+1009,Mesenteric Ischemia,Disease or Syndrome,D065666
+1010,Mesenteric Ischemia,Pathologic Function,D065666
+1011,Mesenteric Ischemia,Pathologic Function,D065666
+1012,Brain Ischemia,Disease or Syndrome,D002545
+1013,Brain Ischemia,Disease or Syndrome,D002545
+1014,Brain Ischemia,Pathologic Function,D002545
+1015,Brain Ischemia,Pathologic Function,D002545
+1016,Brain Ischemia,Disease or Syndrome,D002545
+1017,Brain Ischemia,Disease or Syndrome,D002545
+1018,Brain Ischemia,Pathologic Function,D002545
+1019,Brain Ischemia,Pathologic Function,D002545
+1020,Myocardial Ischemia,Disease or Syndrome,D017202
+1021,"Hypoxia-Ischemia, Brain",Disease or Syndrome,D020925
+1022,"Hypoxia-Ischemia, Brain",Disease or Syndrome,D020925
+1023,Spinal Cord Ischemia,Disease or Syndrome,D020760
+1024,Spinal Cord Ischemia,Disease or Syndrome,D020760
+1025,Spinal Cord Ischemia,Experimental Model of Disease,D020760
+1026,Spinal Cord Ischemia,Experimental Model of Disease,D020760
+1027,Ischemia,Pathologic Function,D007511
+1028,Acid Sensing Ion Channels,"Amino Acid, Peptide, or Protein",D062565
+1029,Acid Sensing Ion Channels,"Amino Acid, Peptide, or Protein",D062565
+1030,Acid Sensing Ion Channels,Biologically Active Substance,D062565
+1031,Acid Sensing Ion Channels,Biologically Active Substance,D062565
+1032,Ion Channels,"Amino Acid, Peptide, or Protein",D007473
+1033,Ion Channels,"Amino Acid, Peptide, or Protein",D007473
+1034,Ion Channels,Biologically Active Substance,D007473
+1035,Ion Channels,Biologically Active Substance,D007473
+1036,Ligand-Gated Ion Channels,"Amino Acid, Peptide, or Protein",D058446
+1037,Ligand-Gated Ion Channels,"Amino Acid, Peptide, or Protein",D058446
+1038,Ligand-Gated Ion Channels,Biologically Active Substance,D058446
+1039,Ligand-Gated Ion Channels,Biologically Active Substance,D058446
+1040,Intracellular Signaling Peptides and Proteins,"Amino Acid, Peptide, or Protein",D047908
+1041,Intracellular Signaling Peptides and Proteins,"Amino Acid, Peptide, or Protein",D047908
+1042,Intracellular Signaling Peptides and Proteins,Biologically Active Substance,D047908
+1043,Intracellular Signaling Peptides and Proteins,Biologically Active Substance,D047908
+1044,Huntington Disease,Disease or Syndrome,D006816
+1045,Hippocampus,Cell Component,D006624
+1046,Hippocampus,Cell Component,D006624
+1047,Hippocampus,"Body Part, Organ, or Organ Component",D006624
+1048,Hippocampus,"Body Part, Organ, or Organ Component",D006624
+1049,Glycine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050487
+1050,Glycine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050487
+1051,Glycine Plasma Membrane Transport Proteins,Biologically Active Substance,D050487
+1052,Glycine Plasma Membrane Transport Proteins,Biologically Active Substance,D050487
+1053,Gliosis,Pathologic Function,D005911
+1054,Gliosis,Pathologic Function,D005911
+1055,Gliosis,Acquired Abnormality,D005911
+1056,Gliosis,Acquired Abnormality,D005911
+1057,Glial Fibrillary Acidic Protein,"Amino Acid, Peptide, or Protein",D005904
+1058,Glial Fibrillary Acidic Protein,"Amino Acid, Peptide, or Protein",D005904
+1059,Glial Fibrillary Acidic Protein,Biologically Active Substance,D005904
+1060,Glial Fibrillary Acidic Protein,Biologically Active Substance,D005904
+1061,Gangliosidoses,Disease or Syndrome,D005733
+1062,"Gangliosidoses, GM2",Disease or Syndrome,D020143
+1063,Excitatory Amino Acid Antagonists,Pharmacologic Substance,D018691
+1064,"Epilepsy, Post-Traumatic",Injury or Poisoning,D004834
+1065,"Epilepsy, Post-Traumatic",Injury or Poisoning,D004834
+1066,"Epilepsy, Post-Traumatic",Injury or Poisoning,D004834
+1067,"Epilepsy, Post-Traumatic",Disease or Syndrome,D004834
+1068,"Epilepsy, Post-Traumatic",Disease or Syndrome,D004834
+1069,"Epilepsy, Post-Traumatic",Disease or Syndrome,D004834
+1070,"Epilepsy, Post-Traumatic",Pathologic Function,D004834
+1071,"Epilepsy, Post-Traumatic",Pathologic Function,D004834
+1072,"Epilepsy, Post-Traumatic",Pathologic Function,D004834
+1073,"Epilepsy, Rolandic",Disease or Syndrome,D019305
+1074,"Epilepsy, Temporal Lobe",Disease or Syndrome,D004833
+1075,"Epilepsy, Absence",Disease or Syndrome,D004832
+1076,"Epilepsy, Tonic-Clonic",Disease or Syndrome,D004830
+1077,"Epilepsy, Frontal Lobe",Disease or Syndrome,D017034
+1078,"Epilepsy, Reflex",Disease or Syndrome,D020195
+1079,"Myoclonic Epilepsy, Juvenile",Disease or Syndrome,D020190
+1080,"Epilepsy, Benign Neonatal",Disease or Syndrome,D020936
+1081,"Epilepsy, Partial, Sensory",Disease or Syndrome,D020937
+1082,"Epilepsy, Generalized",Disease or Syndrome,D004829
+1083,Epilepsy,Disease or Syndrome,D004827
+1084,Epilepsy,Disease or Syndrome,D004827
+1085,Epilepsy,Finding,D004827
+1086,Epilepsy,Finding,D004827
+1087,Drug Resistant Epilepsy,Disease or Syndrome,D000069279
+1088,"Epilepsy, Complex Partial",Disease or Syndrome,D017029
+1089,Sudden Unexpected Death in Epilepsy,Finding,D000080485
+1090,Japanese Encephalitis Vaccines,Pharmacologic Substance,D022321
+1091,Japanese Encephalitis Vaccines,Pharmacologic Substance,D022321
+1092,Japanese Encephalitis Vaccines,Pharmacologic Substance,D022321
+1093,Japanese Encephalitis Vaccines,"Amino Acid, Peptide, or Protein",D022321
+1094,Japanese Encephalitis Vaccines,"Amino Acid, Peptide, or Protein",D022321
+1095,Japanese Encephalitis Vaccines,"Amino Acid, Peptide, or Protein",D022321
+1096,Japanese Encephalitis Vaccines,Immunologic Factor,D022321
+1097,Japanese Encephalitis Vaccines,Immunologic Factor,D022321
+1098,Japanese Encephalitis Vaccines,Immunologic Factor,D022321
+1099,Encephalitis,Disease or Syndrome,D004660
+1100,"Encephalitis, Herpes Simplex",Disease or Syndrome,D020803
+1101,"Encephalitis, Varicella Zoster",Disease or Syndrome,D020804
+1102,"Encephalitis, Viral",Disease or Syndrome,D018792
+1103,Limbic Encephalitis,Disease or Syndrome,D020363
+1104,"Encephalitis, Arbovirus",Disease or Syndrome,D004671
+1105,"Encephalitis, Tick-Borne",Disease or Syndrome,D004675
+1106,"Encephalitis, Japanese",Disease or Syndrome,D004672
+1107,"Encephalitis, California",Disease or Syndrome,D004670
+1108,Anti-N-Methyl-D-Aspartate Receptor Encephalitis,Disease or Syndrome,D060426
+1109,Infectious Encephalitis,Disease or Syndrome,D000069544
+1110,"Encephalitis Virus, California",Virus,D002141
+1111,"Encephalitis Virus, Western Equine",Virus,D004667
+1112,"Encephalitis Virus, Venezuelan Equine",Virus,D004666
+1113,"Encephalitis Virus, Japanese",Virus,D004664
+1114,"Encephalitis Virus, Eastern Equine",Virus,D004663
+1115,"Encephalitis Viruses, Tick-Borne",Virus,D004669
+1116,"Encephalitis Viruses, Japanese",Virus,D018349
+1117,"Encephalitis Virus, Murray Valley",Virus,D018068
+1118,Cardiac Electrophysiology,Diagnostic Procedure,D054849
+1119,Electrophysiology,Biomedical Occupation or Discipline,D004594
+1120,Dopamine Uptake Inhibitors,Pharmacologic Substance,D018765
+1121,Dopamine Antagonists,Pharmacologic Substance,D018492
+1122,Dopamine Agonists,Pharmacologic Substance,D018491
+1123,Dopamine,Pharmacologic Substance,D004298
+1124,Dopamine,Pharmacologic Substance,D004298
+1125,Dopamine,Pharmacologic Substance,D004298
+1126,Dopamine,Organic Chemical,D004298
+1127,Dopamine,Organic Chemical,D004298
+1128,Dopamine,Organic Chemical,D004298
+1129,Dopamine,Biologically Active Substance,D004298
+1130,Dopamine,Biologically Active Substance,D004298
+1131,Dopamine,Biologically Active Substance,D004298
+1132,Dopamine D2 Receptor Antagonists,Pharmacologic Substance,D065127
+1133,Dopamine Agents,Pharmacologic Substance,D015259
+1134,Dopamine Agents,Pharmacologic Substance,D015259
+1135,Dopamine Agents,Physiologic Function,D015259
+1136,Dopamine Agents,Physiologic Function,D015259
+1137,Dopamine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050483
+1138,Dopamine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050483
+1139,Dopamine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050483
+1140,Dopamine Plasma Membrane Transport Proteins,Receptor,D050483
+1141,Dopamine Plasma Membrane Transport Proteins,Receptor,D050483
+1142,Dopamine Plasma Membrane Transport Proteins,Receptor,D050483
+1143,Dopamine Plasma Membrane Transport Proteins,Biologically Active Substance,D050483
+1144,Dopamine Plasma Membrane Transport Proteins,Biologically Active Substance,D050483
+1145,Dopamine Plasma Membrane Transport Proteins,Biologically Active Substance,D050483
+1146,Dopamine beta-Hydroxylase,"Amino Acid, Peptide, or Protein",D004299
+1147,Dopamine beta-Hydroxylase,"Amino Acid, Peptide, or Protein",D004299
+1148,Dopamine beta-Hydroxylase,Enzyme,D004299
+1149,Dopamine beta-Hydroxylase,Enzyme,D004299
+1150,Dopamine and cAMP-Regulated Phosphoprotein 32,"Amino Acid, Peptide, or Protein",D051937
+1151,Dopamine and cAMP-Regulated Phosphoprotein 32,"Amino Acid, Peptide, or Protein",D051937
+1152,Dopamine and cAMP-Regulated Phosphoprotein 32,Biologically Active Substance,D051937
+1153,Dopamine and cAMP-Regulated Phosphoprotein 32,Biologically Active Substance,D051937
+1154,"Depression, Postpartum",Mental or Behavioral Dysfunction,D019052
+1155,"Depression, Chemical",Mental or Behavioral Dysfunction,D003864
+1156,Depression,Mental or Behavioral Dysfunction,D003863
+1157,Depression,Mental or Behavioral Dysfunction,D003863
+1158,Depression,Sign or Symptom,D003863
+1159,Depression,Sign or Symptom,D003863
+1160,Long-Term Synaptic Depression,Organ or Tissue Function,D036881
+1161,Inbreeding Depression,Natural Phenomenon or Process,D000071422
+1162,Cortical Spreading Depression,Clinical Attribute,D013181
+1163,Cortical Spreading Depression,Clinical Attribute,D013181
+1164,Dentate Gyrus,"Body Part, Organ, or Organ Component",D018891
+1165,Mental Status and Dementia Tests,Intellectual Product,D000073216
+1166,Mental Status and Dementia Tests,Intellectual Product,D000073216
+1167,Mental Status and Dementia Tests,Diagnostic Procedure,D000073216
+1168,Mental Status and Dementia Tests,Diagnostic Procedure,D000073216
+1169,AIDS Dementia Complex,Disease or Syndrome,D015526
+1170,Dementia,Mental or Behavioral Dysfunction,D003704
+1171,Creutzfeldt-Jakob Syndrome,Disease or Syndrome,D007562
+1172,Copper Sulfate,Pharmacologic Substance,D019327
+1173,Copper Sulfate,Pharmacologic Substance,D019327
+1174,Copper Sulfate,Inorganic Chemical,D019327
+1175,Copper Sulfate,Inorganic Chemical,D019327
+1176,Copper,Pharmacologic Substance,D003300
+1177,Copper,Pharmacologic Substance,D003300
+1178,Copper,Pharmacologic Substance,D003300
+1179,Copper,Biologically Active Substance,D003300
+1180,Copper,Biologically Active Substance,D003300
+1181,Copper,Biologically Active Substance,D003300
+1182,Copper,"Element, Ion, or Isotope",D003300
+1183,Copper,"Element, Ion, or Isotope",D003300
+1184,Copper,"Element, Ion, or Isotope",D003300
+1185,Copper-Transporting ATPases,"Amino Acid, Peptide, or Protein",D000073840
+1186,Copper-Transporting ATPases,"Amino Acid, Peptide, or Protein",D000073840
+1187,Copper-Transporting ATPases,Enzyme,D000073840
+1188,Copper-Transporting ATPases,Enzyme,D000073840
+1189,Amine Oxidase (Copper-Containing),"Amino Acid, Peptide, or Protein",D006631
+1190,Amine Oxidase (Copper-Containing),"Amino Acid, Peptide, or Protein",D006631
+1191,Amine Oxidase (Copper-Containing),Enzyme,D006631
+1192,Amine Oxidase (Copper-Containing),Enzyme,D006631
+1193,Copper Transporter 1,"Amino Acid, Peptide, or Protein",D000079923
+1194,Copper Transporter 1,"Amino Acid, Peptide, or Protein",D000079923
+1195,Copper Transporter 1,Biologically Active Substance,D000079923
+1196,Copper Transporter 1,Biologically Active Substance,D000079923
+1197,Copper Transport Proteins,"Amino Acid, Peptide, or Protein",D000079922
+1198,Copper Transport Proteins,"Amino Acid, Peptide, or Protein",D000079922
+1199,Copper Transport Proteins,Biologically Active Substance,D000079922
+1200,Copper Transport Proteins,Biologically Active Substance,D000079922
+1201,Copper Radioisotopes,"Element, Ion, or Isotope",D003301
+1202,"Intrauterine Devices, Copper",Medical Device,D007435
+1203,Cognition,Mental Process,D003071
+1204,Cognition Disorders,Mental or Behavioral Dysfunction,D003072
+1205,Social Cognition,Social Behavior,D000083282
+1206,Charcot-Marie-Tooth Disease,Disease or Syndrome,D002607
+1207,Cerebral Cortex,"Body Part, Organ, or Organ Component",D002540
+1208,Cerebral Cortex,"Body Part, Organ, or Organ Component",D002540
+1209,Cerebral Cortex,Body Location or Region,D002540
+1210,Cerebral Cortex,Body Location or Region,D002540
+1211,"Cerebral Amyloid Angiopathy, Familial",Disease or Syndrome,D028243
+1212,Cerebral Amyloid Angiopathy,Disease or Syndrome,D016657
+1213,Cerebellum,"Body Part, Organ, or Organ Component",D002531
+1214,Calcium Signaling,Cell Function,D020013
+1215,Brain-Derived Neurotrophic Factor,"Amino Acid, Peptide, or Protein",D019208
+1216,Brain-Derived Neurotrophic Factor,"Amino Acid, Peptide, or Protein",D019208
+1217,Brain-Derived Neurotrophic Factor,Biologically Active Substance,D019208
+1218,Brain-Derived Neurotrophic Factor,Biologically Active Substance,D019208
+1219,Brain-Derived Neurotrophic Factor,"Amino Acid, Peptide, or Protein",D019208
+1220,Brain-Derived Neurotrophic Factor,"Amino Acid, Peptide, or Protein",D019208
+1221,Brain-Derived Neurotrophic Factor,Biologically Active Substance,D019208
+1222,Brain-Derived Neurotrophic Factor,Biologically Active Substance,D019208
+1223,"Brain Injuries, Traumatic",Injury or Poisoning,D000070642
+1224,"Brain Injuries, Traumatic",Injury or Poisoning,D000070642
+1225,Brain Injuries,Injury or Poisoning,D001930
+1226,Brain Injuries,Injury or Poisoning,D001930
+1227,"Natriuretic Peptide, Brain",Pharmacologic Substance,D020097
+1228,"Natriuretic Peptide, Brain",Pharmacologic Substance,D020097
+1229,"Natriuretic Peptide, Brain",Pharmacologic Substance,D020097
+1230,"Natriuretic Peptide, Brain",Pharmacologic Substance,D020097
+1231,"Natriuretic Peptide, Brain","Amino Acid, Peptide, or Protein",D020097
+1232,"Natriuretic Peptide, Brain","Amino Acid, Peptide, or Protein",D020097
+1233,"Natriuretic Peptide, Brain","Amino Acid, Peptide, or Protein",D020097
+1234,"Natriuretic Peptide, Brain","Amino Acid, Peptide, or Protein",D020097
+1235,"Natriuretic Peptide, Brain",Biologically Active Substance,D020097
+1236,"Natriuretic Peptide, Brain",Biologically Active Substance,D020097
+1237,"Natriuretic Peptide, Brain",Biologically Active Substance,D020097
+1238,"Natriuretic Peptide, Brain",Biologically Active Substance,D020097
+1239,"Natriuretic Peptide, Brain",Hormone,D020097
+1240,"Natriuretic Peptide, Brain",Hormone,D020097
+1241,"Natriuretic Peptide, Brain",Hormone,D020097
+1242,"Natriuretic Peptide, Brain",Hormone,D020097
+1243,Ras Homolog Enriched in Brain Protein,"Amino Acid, Peptide, or Protein",D000076205
+1244,Ras Homolog Enriched in Brain Protein,"Amino Acid, Peptide, or Protein",D000076205
+1245,Ras Homolog Enriched in Brain Protein,Biologically Active Substance,D000076205
+1246,Ras Homolog Enriched in Brain Protein,Biologically Active Substance,D000076205
+1247,Deep Brain Stimulation,Therapeutic or Preventive Procedure,D046690
+1248,Brain Tissue Transplantation,Therapeutic or Preventive Procedure,D016380
+1249,"Brain Injury, Chronic",Injury or Poisoning,D020208
+1250,Brain Concussion,Injury or Poisoning,D001924
+1251,Brain Abscess,Disease or Syndrome,D001922
+1252,"Brain Damage, Chronic",Disease or Syndrome,D001925
+1253,Brain Infarction,Disease or Syndrome,D020520
+1254,Brain-Computer Interfaces,Medical Device,D062207
+1255,Brain Mapping,Diagnostic Procedure,D001931
+1256,Brain Mapping,Diagnostic Procedure,D001931
+1257,Brain Mapping,Research Activity,D001931
+1258,Brain Mapping,Research Activity,D001931
+1259,Brain Cortical Thickness,Quantitative Concept,D000082642
+1260,Brain Death,Pathologic Function,D001926
+1261,Brain Edema,Pathologic Function,D001929
+1262,"Hypoxia, Brain",Pathologic Function,D002534
+1263,Brain Neoplasms,Neoplastic Process,D001932
+1264,Septum of Brain,"Body Part, Organ, or Organ Component",D020665
+1265,Septum of Brain,"Body Part, Organ, or Organ Component",D020665
+1266,Septum of Brain,Body Location or Region,D020665
+1267,Septum of Brain,Body Location or Region,D020665
+1268,"Fornix, Brain","Body Part, Organ, or Organ Component",D020712
+1269,Brain,"Body Part, Organ, or Organ Component",D001921
+1270,Blood-Brain Barrier,"Body Part, Organ, or Organ Component",D001812
+1271,Blood-Brain Barrier,"Body Part, Organ, or Organ Component",D001812
+1272,Brain Chemistry,Organism Function,D001923
+1273,"Anterior Commissure, Brain",Body Space or Junction,D066240
+1274,Brain-Gut Axis,Body System,D000087502
+1275,Basal Ganglia Cerebrovascular Disease,Disease or Syndrome,D020144
+1276,Basal Ganglia Diseases,Disease or Syndrome,D001480
+1277,Basal Ganglia,"Body Part, Organ, or Organ Component",D001479
+1278,Axons,Cell Component,D001369
+1279,Ataxia,Disease or Syndrome,D001259
+1280,Ataxia,Disease or Syndrome,D001259
+1281,Ataxia,Disease or Syndrome,D001259
+1282,Ataxia,Finding,D001259
+1283,Ataxia,Finding,D001259
+1284,Ataxia,Finding,D001259
+1285,Ataxia,Sign or Symptom,D001259
+1286,Ataxia,Sign or Symptom,D001259
+1287,Ataxia,Sign or Symptom,D001259
+1288,Gait Ataxia,Finding,D020234
+1289,Gait Ataxia,Finding,D020234
+1290,Gait Ataxia,Sign or Symptom,D020234
+1291,Gait Ataxia,Sign or Symptom,D020234
+1292,Amyotrophic Lateral Sclerosis,Disease or Syndrome,D000690
+1293,"Amyloidosis, Familial",Disease or Syndrome,D028226
+1294,Amyloidosis,Disease or Syndrome,D000686
+1295,Immunoglobulin Light-chain Amyloidosis,Neoplastic Process,D000075363
+1296,Amyloid beta-Protein Precursor,"Amino Acid, Peptide, or Protein",D016564
+1297,Amyloid beta-Peptides,"Amino Acid, Peptide, or Protein",D016229
+1298,Alzheimer Disease,Disease or Syndrome,D000544
+1299,Alzheimer Disease,Disease or Syndrome,D000544
+1300,Alzheimer Disease,Mental or Behavioral Dysfunction,D000544
+1301,Alzheimer Disease,Mental or Behavioral Dysfunction,D000544
+1302,Adrenoleukodystrophy,Disease or Syndrome,D000326

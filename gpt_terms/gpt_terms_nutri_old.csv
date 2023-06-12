@@ -1,0 +1,333 @@
+,gpt_terms,series
+0,"Anemia, Iron-Deficiency",gpt_path
+1,Anorexia,gpt_path
+2,Anorexia Nervosa,gpt_path
+3,Binge-Eating Disorder,gpt_path
+4,Bulimia Nervosa,gpt_path
+5,Cachexia,gpt_path
+6,"Carbohydrate Metabolism, Inborn Errors",gpt_path
+7,Cardiovascular Diseases,gpt_path
+8,Child Nutrition Disorders,gpt_path
+9,Diabetes Mellitus,gpt_path
+10,"Diabetes Mellitus, Experimental",gpt_path
+11,"Diabetes Mellitus, Type 1",gpt_path
+12,"Diabetes Mellitus, Type 2",gpt_path
+13,"Diet, Carbohydrate-Restricted",gpt_path
+14,"Diet, Fat-Restricted",gpt_path
+15,"Diet, Gluten-Free",gpt_path
+16,"Diet, High-Fat",gpt_path
+17,"Diet, High-Protein",gpt_path
+18,"Diet, Ketogenic",gpt_path
+19,"Diet, Mediterranean",gpt_path
+20,"Diet, Reducing",gpt_path
+21,"Diet, Sodium-Restricted",gpt_path
+22,"Diet, Vegetarian",gpt_path
+23,Dietary Fats,gpt_path
+24,Dietary Fiber,gpt_path
+25,Dietary Proteins,gpt_path
+26,Dietary Supplements,gpt_path
+27,Dyslipidemias,gpt_path
+28,Eating Disorders,gpt_path
+29,Feeding and Eating Disorders,gpt_path
+30,Feeding Behavior,gpt_path
+31,Food Hypersensitivity,gpt_path
+32,Foodborne Diseases,gpt_path
+33,Gastrointestinal Diseases,gpt_path
+34,Hypercholesterolemia,gpt_path
+35,Hyperglycemia,gpt_path
+36,Hyperlipidemias,gpt_path
+37,Hyperphagia,gpt_path
+38,Hypoglycemia,gpt_path
+39,Hypophagia,gpt_path
+40,Insulin Resistance,gpt_path
+41,Kidney Diseases,gpt_path
+42,Liver Diseases,gpt_path
+43,Malabsorption Syndromes,gpt_path
+44,Malnutrition,gpt_path
+45,Metabolic Diseases,gpt_path
+46,Metabolic Syndrome,gpt_path
+47,Nutrition Disorders,gpt_path
+48,Nutrition Surveys,gpt_path
+49,Nutritional Physiological Phenomena,gpt_path
+50,Obesity,gpt_path
+51,Overweight,gpt_path
+52,Pediatric Obesity,gpt_path
+53,Protein-Energy Malnutrition,gpt_path
+54,Sarcopenia,gpt_path
+55,Starvation,gpt_path
+56,Weight Gain,gpt_path
+57,Weight Loss,gpt_path
+58,Adiposity,gpt_path
+59,Alcoholism,gpt_path
+60,Anemia,gpt_path
+61,"Anemia, Megaloblastic",gpt_path
+62,"Anemia, Pernicious",gpt_path
+63,"Anemia, Sickle Cell",gpt_path
+64,"Anemia, Hemolytic",gpt_path
+65,Celiac Disease,gpt_path
+66,"Colitis, Ulcerative",gpt_path
+67,Constipation,gpt_path
+68,Crohn Disease,gpt_path
+69,"Diverticulosis, Colonic",gpt_path
+70,Esophageal Diseases,gpt_path
+71,Fatty Liver,gpt_path
+72,Food Habits,gpt_path
+73,Gastroenteritis,gpt_path
+74,Gastroesophageal Reflux,gpt_path
+75,Gout,gpt_path
+76,Growth Disorders,gpt_path
+77,Heart Diseases,gpt_path
+78,Hyperglycemic Hyperosmolar Nonketotic Coma,gpt_path
+79,Hypertension,gpt_path
+80,Hypoglycemic Agents,gpt_path
+81,Inflammatory Bowel Diseases,gpt_path
+82,Intra-Abdominal Fat,gpt_path
+83,Iron Overload,gpt_path
+84,"Kidney Failure, Chronic",gpt_path
+85,Liver Cirrhosis,gpt_path
+86,Liver Neoplasms,gpt_path
+87,Malocclusion,gpt_path
+88,Metabolic Syndrome X,gpt_path
+89,Micronutrient Deficiencies,gpt_path
+90,Neoplasms,gpt_path
+91,"Obesity, Abdominal",gpt_path
+92,Pancreatic Diseases,gpt_path
+93,Peptic Ulcer,gpt_path
+94,Porphyrias,gpt_path
+95,Premature Birth,gpt_path
+96,"Renal Insufficiency, Chronic",gpt_path
+97,Rickets,gpt_path
+98,Sepsis,gpt_path
+99,Stroke,gpt_path
+100,Tooth Diseases,gpt_path
+101,Tooth Loss,gpt_path
+102,Vitamin B 12 Deficiency,gpt_path
+103,Vitamin D Deficiency,gpt_path
+104,Wasting Syndrome,gpt_path
+105,Water-Electrolyte Imbalance,gpt_path
+0,Appetite,gpt_path
+1,Appetite Regulation,gpt_path
+2,Beverages,gpt_path
+3,Binge Eating,gpt_path
+4,Body Composition,gpt_path
+5,Body Weight,gpt_path
+6,Caloric Restriction,gpt_path
+7,Carbohydrates,gpt_path
+8,Child Nutrition Sciences,gpt_path
+9,"Cholesterol, Dietary",gpt_path
+10,Cooking,gpt_path
+11,Diet,gpt_path
+12,Diet Records,gpt_path
+13,Diet Surveys,gpt_path
+14,Diet Therapy,gpt_path
+15,Dietary Carbohydrates,gpt_path
+16,Dietary Fats,gpt_path
+17,Dietary Fiber,gpt_path
+18,Dietary Proteins,gpt_path
+19,Dietary Supplements,gpt_path
+20,Drinking,gpt_path
+21,Eating,gpt_path
+22,Eating Disorders,gpt_path
+23,Energy Intake,gpt_path
+24,Energy Metabolism,gpt_path
+25,Fast Foods,gpt_path
+26,Feeding Behavior,gpt_path
+27,Food,gpt_path
+28,Food Analysis,gpt_path
+29,Food Hypersensitivity,gpt_path
+30,Food Labeling,gpt_path
+31,Food Preferences,gpt_path
+32,Food Supply,gpt_path
+33,"Food, Formulated",gpt_path
+34,Fruit,gpt_path
+35,Gastrointestinal Transit,gpt_path
+36,Healthy Diet,gpt_path
+37,Hungry Hypothesis,gpt_path
+38,Infant Nutritional Physiological Phenomena,gpt_path
+39,Infant Nutrition Disorders,gpt_path
+40,Insensible Water Loss,gpt_path
+41,Ketogenic Diet,gpt_path
+42,Macronutrients,gpt_path
+43,Malnutrition,gpt_path
+44,Meat,gpt_path
+45,Micronutrients,gpt_path
+46,Milk,gpt_path
+47,Minerals,gpt_path
+48,Nutrition Assessment,gpt_path
+49,Nutrition Disorders,gpt_path
+50,Nutrition Policy,gpt_path
+51,Nutrition Surveys,gpt_path
+52,Nutritional Physiological Phenomena,gpt_path
+53,Nutritional Sciences,gpt_path
+54,Nutritive Value,gpt_path
+55,Obesity,gpt_path
+56,Overweight,gpt_path
+57,Plant Oils,gpt_path
+58,Probiotics,gpt_path
+59,Reduced Caloric Intake,gpt_path
+60,Satiation,gpt_path
+61,Snacks,gpt_path
+62,"Sodium, Dietary",gpt_path
+63,Sports Nutritional Physiological Phenomena,gpt_path
+64,Sports Nutritional Sciences,gpt_path
+65,Starvation,gpt_path
+66,Sucrose,gpt_path
+67,Sugar-Sweetened Beverages,gpt_path
+68,Supervised Feeding,gpt_path
+69,Sweets,gpt_path
+70,Trace Elements,gpt_path
+71,Vegetables,gpt_path
+72,Vitamins,gpt_path
+73,Weight Gain,gpt_path
+74,Weight Loss,gpt_path
+75,Weight Reduction Programs,gpt_path
+76,"Zinc, Dietary",gpt_path
+77,Binge-Eating Disorder,gpt_path
+78,Bulimia Nervosa,gpt_path
+79,Carbohydrate-Restricted Diet,gpt_path
+80,Diabetes Mellitus,gpt_path
+81,"Diabetes Mellitus, Type 1",gpt_path
+82,"Diabetes Mellitus, Type 2",gpt_path
+83,"Diet, Fat-Restricted",gpt_path
+84,"Diet, High-Fat",gpt_path
+85,"Diet, High-Protein",gpt_path
+86,"Diet, Mediterranean",gpt_path
+87,"Diet, Reducing",gpt_path
+88,"Diet, Sodium-Restricted",gpt_path
+89,"Diet, Vegetarian",gpt_path
+90,Dyslipidemias,gpt_path
+91,Eating Disorders,gpt_path
+92,Feeding and Eating Disorders,gpt_path
+93,Foodborne Diseases,gpt_path
+94,Gastrointestinal Diseases,gpt_path
+95,Hypercholesterolemia,gpt_path
+96,Hyperglycemia,gpt_path
+97,Hyperlipidemias,gpt_path
+98,Insulin Resistance,gpt_path
+99,Liver Diseases,gpt_path
+100,Malabsorption Syndromes,gpt_path
+101,Malnutrition,gpt_path
+102,Metabolic Diseases,gpt_path
+103,Metabolic Syndrome,gpt_path
+104,Nutrition Disorders,gpt_path
+105,Obesity,gpt_path
+106,Overweight,gpt_path
+107,Pediatric Obesity,gpt_path
+108,Protein-Energy Malnutrition,gpt_path
+109,Sarcopenia,gpt_path
+110,Starvation,gpt_path
+111,Weight Gain,gpt_path
+112,Weight Loss,gpt_path
+0,Appetite,gpt_jolly
+1,Appetite Regulation,gpt_jolly
+2,Beverages,gpt_jolly
+3,Binge Eating,gpt_jolly
+4,Body Composition,gpt_jolly
+5,Body Weight,gpt_jolly
+6,Caloric Restriction,gpt_jolly
+7,Carbohydrates,gpt_jolly
+8,Child Nutrition Sciences,gpt_jolly
+9,"Cholesterol, Dietary",gpt_jolly
+10,Cooking,gpt_jolly
+11,Diet,gpt_jolly
+12,Diet Records,gpt_jolly
+13,Diet Surveys,gpt_jolly
+14,Diet Therapy,gpt_jolly
+15,Dietary Carbohydrates,gpt_jolly
+16,Dietary Fats,gpt_jolly
+17,Dietary Fiber,gpt_jolly
+18,Dietary Proteins,gpt_jolly
+19,Dietary Supplements,gpt_jolly
+20,Drinking,gpt_jolly
+21,Eating,gpt_jolly
+22,Eating Disorders,gpt_jolly
+23,Energy Intake,gpt_jolly
+24,Energy Metabolism,gpt_jolly
+25,Fast Foods,gpt_jolly
+26,Feeding Behavior,gpt_jolly
+27,Food,gpt_jolly
+28,Food Analysis,gpt_jolly
+29,Food Hypersensitivity,gpt_jolly
+30,Food Labeling,gpt_jolly
+31,Food Preferences,gpt_jolly
+32,Food Supply,gpt_jolly
+33,"Food, Formulated",gpt_jolly
+34,Fruit,gpt_jolly
+35,Gastrointestinal Transit,gpt_jolly
+36,Healthy Diet,gpt_jolly
+37,Hungry Hypothesis,gpt_jolly
+38,Infant Nutritional Physiological Phenomena,gpt_jolly
+39,Infant Nutrition Disorders,gpt_jolly
+40,Insensible Water Loss,gpt_jolly
+41,Ketogenic Diet,gpt_jolly
+42,Macronutrients,gpt_jolly
+43,Malnutrition,gpt_jolly
+44,Meat,gpt_jolly
+45,Micronutrients,gpt_jolly
+46,Milk,gpt_jolly
+47,Minerals,gpt_jolly
+48,Nutrition Assessment,gpt_jolly
+49,Nutrition Disorders,gpt_jolly
+50,Nutrition Policy,gpt_jolly
+51,Nutrition Surveys,gpt_jolly
+52,Nutritional Physiological Phenomena,gpt_jolly
+53,Nutritional Sciences,gpt_jolly
+54,Nutritive Value,gpt_jolly
+55,Obesity,gpt_jolly
+56,Overweight,gpt_jolly
+57,Plant Oils,gpt_jolly
+58,Probiotics,gpt_jolly
+59,Reduced Caloric Intake,gpt_jolly
+60,Satiation,gpt_jolly
+61,Snacks,gpt_jolly
+62,"Sodium, Dietary",gpt_jolly
+63,Sports Nutritional Physiological Phenomena,gpt_jolly
+64,Sports Nutritional Sciences,gpt_jolly
+65,Starvation,gpt_jolly
+66,Sucrose,gpt_jolly
+67,Sugar-Sweetened Beverages,gpt_jolly
+68,Supervised Feeding,gpt_jolly
+69,Sweets,gpt_jolly
+70,Trace Elements,gpt_jolly
+71,Vegetables,gpt_jolly
+72,Vitamins,gpt_jolly
+73,Weight Gain,gpt_jolly
+74,Weight Loss,gpt_jolly
+75,Weight Reduction Programs,gpt_jolly
+76,"Zinc, Dietary",gpt_jolly
+77,Binge-Eating Disorder,gpt_jolly
+78,Bulimia Nervosa,gpt_jolly
+79,Carbohydrate-Restricted Diet,gpt_jolly
+80,Diabetes Mellitus,gpt_jolly
+81,"Diabetes Mellitus, Type 1",gpt_jolly
+82,"Diabetes Mellitus, Type 2",gpt_jolly
+83,"Diet, Fat-Restricted",gpt_jolly
+84,"Diet, High-Fat",gpt_jolly
+85,"Diet, High-Protein",gpt_jolly
+86,"Diet, Mediterranean",gpt_jolly
+87,"Diet, Reducing",gpt_jolly
+88,"Diet, Sodium-Restricted",gpt_jolly
+89,"Diet, Vegetarian",gpt_jolly
+90,Dyslipidemias,gpt_jolly
+91,Eating Disorders,gpt_jolly
+92,Feeding and Eating Disorders,gpt_jolly
+93,Foodborne Diseases,gpt_jolly
+94,Gastrointestinal Diseases,gpt_jolly
+95,Hypercholesterolemia,gpt_jolly
+96,Hyperglycemia,gpt_jolly
+97,Hyperlipidemias,gpt_jolly
+98,Insulin Resistance,gpt_jolly
+99,Liver Diseases,gpt_jolly
+100,Malabsorption Syndromes,gpt_jolly
+101,Malnutrition,gpt_jolly
+102,Metabolic Diseases,gpt_jolly
+103,Metabolic Syndrome,gpt_jolly
+104,Nutrition Disorders,gpt_jolly
+105,Obesity,gpt_jolly
+106,Overweight,gpt_jolly
+107,Pediatric Obesity,gpt_jolly
+108,Protein-Energy Malnutrition,gpt_jolly
+109,Sarcopenia,gpt_jolly
+110,Starvation,gpt_jolly
+111,Weight Gain,gpt_jolly
+112,Weight Loss,gpt_jolly

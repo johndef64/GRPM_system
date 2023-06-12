@@ -1,0 +1,604 @@
+,Preferred Label
+0,Food Preservation
+1,Food Safety
+2,Food Industry
+3,Food Handling
+4,Food Assistance
+5,"Hypertension, Pulmonary"
+6,Insulin Resistance
+7,Inflammation
+8,Food Hypersensitivity
+9,Hypersensitivity
+10,Atherosclerosis
+11,Food-Drug Interactions
+12,Dyslipidemias
+13,Immune Tolerance
+14,Protein-Energy Malnutrition
+15,Accessory Atrioventricular Bundle
+16,"Stress, Physiological"
+17,Lactation
+18,Bone Remodeling
+19,Nutritional Physiological Phenomena
+20,Nutritional Sciences
+21,Animal Nutrition Sciences
+22,Sports Nutritional Sciences
+23,Child Nutrition Sciences
+24,Nutrigenomics
+25,Sleep Medicine Specialty
+26,Cardiology
+27,Dietetics
+28,"Cholesterol, Dietary"
+29,Carbohydrates
+30,Lipids
+31,Prebiotics
+32,"Fatty Acids, Essential"
+33,"Fatty Acids, Nonesterified"
+34,Blood Glucose
+35,Dietary Carbohydrates
+36,"Dietary Fats, Unsaturated"
+37,"Lipoproteins, LDL"
+38,Natriuretic Agents
+39,Diethyl Pyrocarbonate
+40,Vitamins
+41,Resistant Starch
+42,Glucosamine
+43,Glucans
+44,Estradiol Congeners
+45,Cholecalciferol
+46,Ergocalciferols
+47,Folic Acid
+48,Niacin
+49,Butyric Acid
+50,Ascorbic Acid
+51,Lactose
+52,Phytoestrogens
+53,Calcitriol
+54,Ergosterol
+55,Triglycerides
+56,"Fatty Acids, Monounsaturated"
+57,Fatty Acids
+58,"Fatty Acids, Volatile"
+59,"Fatty Acids, Unsaturated"
+60,"Fatty Acids, Omega-3"
+61,Glucose
+62,"Fatty Acids, Omega-6"
+63,Liver Glycogen
+64,Phytic Acid
+65,Glycogen
+66,Oxalic Acid
+67,Phytochemicals
+68,Chondroitin Sulfates
+69,Pectins
+70,Linoleic Acid
+71,Ketoglutaric Acids
+72,Estrogens
+73,alpha-Linolenic Acid
+74,Isomaltose
+75,thiocellobiose
+76,Pantothenic Acid
+77,Deoxycholic Acid
+78,"Iron, Dietary"
+79,"Calcium, Dietary"
+80,Minerals
+81,Mineral Fibers
+82,Free Radicals
+83,Selenic Acid
+85,Insulin Secretion
+86,Osmoregulation
+87,Probiotics
+88,Gastrointestinal Microbiome
+89,Carbohydrate Metabolism
+90,Lipid Metabolism
+91,Fermentation
+92,Lipid Peroxidation
+93,Glycogenolysis
+94,Gluconeogenesis
+95,Proteolysis
+96,Antioxidants
+98,Nutrition Policy
+99,Recommended Dietary Allowances
+100,Diet Records
+101,Obesity Management
+102,Problems and Exercises
+103,Nutrition Assessment
+104,Energy Metabolism
+105,Appetite
+106,Physical Functional Performance
+107,Salt Stress
+108,Infant Nutritional Physiological Phenomena
+109,Eating
+110,Maternal Nutritional Physiological Phenomena
+111,Prenatal Nutritional Physiological Phenomena
+112,Adolescent Nutritional Physiological Phenomena
+113,Animal Nutritional Physiological Phenomena
+114,Sports Nutritional Physiological Phenomena
+115,Elder Nutritional Physiological Phenomena
+116,"Diet, Food, and Nutrition"
+117,Child Nutritional Physiological Phenomena
+118,Appetite Regulation
+119,Feeding Behavior
+120,Cool-Down Exercise
+121,Digestion
+132,Anti-Anxiety Agents
+133,Incretins
+135,Nutritional Requirements
+136,Body Composition
+137,Adiposity
+138,Body Weight
+139,Organism Hydration Status
+140,Healthy Life Expectancy
+141,Body-Weight Trajectory
+143,Nutrition Surveys
+144,"Diet, Atherogenic"
+145,"Diet, Cariogenic"
+146,Nutritionists
+148,Parenteral Nutrition
+149,"Parenteral Nutrition, Total"
+150,Nutritional Support
+151,Nutrition Therapy
+152,"Parenteral Nutrition, Home Total"
+153,"Parenteral Nutrition, Home"
+154,Enteral Nutrition
+155,"Diet, Mediterranean"
+156,"Diet, High-Fat"
+157,Dietary Supplements
+158,Diet Therapy
+159,"Diet, Sodium-Restricted"
+160,"Diet, Reducing"
+161,"Diet, Diabetic"
+162,"Diet, High-Protein Low-Carbohydrate"
+163,"Diet, High-Protein"
+164,"Diet, Gluten-Free"
+165,Dietary Approaches To Stop Hypertension
+166,"Diet, Ketogenic"
+167,"Diet, Carbohydrate Loading"
+168,"Diet, Carbohydrate-Restricted"
+169,"Diet, Protein-Restricted"
+170,"Diet, Fat-Restricted"
+171,Plyometric Exercise
+172,Circuit-Based Exercise
+173,Exercise
+174,Muscle Stretching Exercises
+175,Exercise Therapy
+176,Exercise Movement Techniques
+177,Breathing Exercises
+178,Endurance Training
+179,"Diet, Healthy"
+180,"Diet, Vegetarian"
+181,Caloric Restriction
+182,Resistance Training
+183,Sleep Phase Chronotherapy
+184,High-Intensity Interval Training
+185,Fecal Microbiota Transplantation
+186,"Food, Formulated"
+187,Glycemic Control
+189,Nutritional Status
+190,Diet Fads
+191,"Diet, Western"
+192,"Diet, Vegan"
+193,"Diet, Macrobiotic"
+194,"Diet, Paleolithic"
+195,"Obesity, Maternal"
+196,Overweight
+197,Post-Exercise Hypotension
+198,Masked Hypertension
+199,Body Weight Changes
+200,Body Fat Distribution
+201,Sedentary Behavior
+202,Heart Disease Risk Factors
+203,"Obesity, Abdominal"
+204,Glucocorticoid Receptor Deficiency
+205,Infant Nutrition Disorders
+206,Pediatric Obesity
+207,"Cardiomegaly, Exercise-Induced"
+208,Hyperglycemia
+209,Fasting
+213,Food Insecurity
+216,"Renal Insufficiency, Chronic"
+217,Renal Insufficiency
+218,Fatty Acid Hydroxylase-Associated Neurodegeneration
+219,Kwashiorkor
+220,Food Intolerance
+221,Glucose Intolerance
+222,Dehydration
+223,"Kidney Failure, Chronic"
+224,Galactosemias
+225,"Kidney Diseases, Cystic"
+226,Kidney Diseases
+227,Chronic Disease
+228,Noncommunicable Diseases
+229,Crohn Disease
+230,Coronary Artery Disease
+231,Carotid Artery Diseases
+232,"Liver Glycogenosis, X-Linked, Type II"
+233,Juvenile osteoporosis
+234,Hemochromatosis
+235,Avitaminosis
+236,Cardiac form of generalized glycogenosis
+237,Glycogen Storage Disease IIIA
+238,Glycogen Storage Disease Type IIb
+239,Glycogen Storage Disease IXB
+240,Glycogen Storage Disease Type VII
+241,Glycogen Storage Disease Type IV
+242,Glycogen Storage Disease Type V
+243,Glycogen Storage Disease Type VIII
+244,Glycogen Storage Disease Type VI
+245,Glycogen Storage Disease Type III
+246,"Glycogen Storage Disease 0, Muscle"
+247,Glycogen Storage Disease XIV
+248,Glycogen Storage Disease XII
+249,"Glycogen Storage Disease, Type IXA2"
+250,Glycogen Storage Disease IC
+251,Glycogen Storage Disease Id
+252,Glycogen Storage Disease XIII
+253,Glycogen Storage Disease Type I
+254,Glycogen Storage Disease IB
+255,"Glycogen Storage Disease, Type IXD"
+256,Glycogen Storage Disease Type II
+257,Glycogen Storage Disease
+258,Glycogen Storage Disease Type Ix
+259,"Glycogen Storage Disease 0, Liver"
+260,"Glycogen Storage Disease of Heart, Lethal Congenital"
+261,Glycogen Storage Disease IXC
+262,Glycogen Storage Disease IIIB
+263,Glycogen Storage Disease IIID
+264,Glycogen Storage Disease IIIC
+265,"Alpha-Beta T-Cell Lymphopenia with Gamma-Delta T-Cell Expansion, Severe Cytomegalovirus Infection, and Autoimmunity"
+266,"Aortic aneurysm, familial thoracic 3"
+267,Macrosomia obesity macrocephaly ocular abnormalities
+268,"Colitis, Ulcerative"
+269,"Osteoporosis, Postmenopausal"
+271,Osteoporosis
+272,Osteoporotic Fractures
+273,Sarcopenia
+274,Intracranial Arteriosclerosis
+275,"Obesity, Hyperphagia, and Developmental Delay"
+276,Metabolic Syndrome
+277,Gastrointestinal Diseases
+278,Inflammatory Bowel Disease 20
+279,Inflammatory Bowel Disease 17
+280,Inflammatory Bowel Disease 19
+281,Inflammatory Bowel Disease 18
+282,Inflammatory Bowel Disease 11
+283,Inflammatory Bowel Disease 23
+284,Inflammatory Bowel Disease 22
+285,Inflammatory Bowel Disease 26
+286,Inflammatory Bowel Disease 27
+287,Inflammatory Bowel Disease 7
+288,Inflammatory Bowel Disease 4
+289,Inflammatory Bowel Disease 6
+290,Inflammatory Bowel Disease 8
+291,Inflammatory Bowel Disease 15
+292,Inflammatory Bowel Disease 13
+293,Inflammatory Bowel Disease 12
+294,Inflammatory Bowel Disease 14
+295,Inflammatory Bowel Disease 16
+296,"Inflammatory Bowel Disease 28, Autosomal Recessive"
+297,Inflammatory Bowel Disease 9
+298,Inflammatory Bowel Diseases
+299,Inflammatory Bowel Disease 10
+300,Inflammatory Bowel Disease 24
+301,"Inflammatory Bowel Disease 25, Autosomal Recessive"
+302,Inflammatory Bowel Disease 3
+303,Inflammatory Bowel Disease 21
+304,Inflammatory Bowel Disease 2
+305,Inflammatory Bowel Disease 5
+306,Non-alcoholic Fatty Liver Disease
+307,"Carbohydrate Metabolism, Inborn Errors"
+308,Lipid Metabolism Disorders
+309,"Lipid Metabolism, Inborn Errors"
+310,Myopathy with Abnormal Lipid Metabolism
+311,"Hypoglycemia, leucine-induced"
+312,Hypoglycemia
+314,Homozygous Familial Hypercholesterolemia
+315,Hypercholesterolemia
+316,"Hypercholesterolemia, Autosomal Recessive"
+317,"Hypercholesterolemia, Autosomal Dominant, 3"
+318,Hypercholesterolemia due to arg3500 mutation of Apo B-100
+319,Hypertriglyceridemia
+320,Glucose Metabolism Disorders
+321,Phosphorus Metabolism Disorders
+322,Calcium Metabolism Disorders
+323,"Hypouricemia, Hypercalcinuria, and Decreased Bone Density"
+324,Abdominal obesity metabolic syndrome
+325,Hyperproglucagonemia
+326,Hypoadiponectinemia
+327,"Hypercalciuria, childhood idiopathic"
+328,"Hypophosphatemia, Familial"
+329,Hyperlipoproteinemia Type III
+330,Hyperlipoproteinemia Type II
+331,Hyperlipoproteinemia Type IV
+332,Hyperlipoproteinemia Type I
+333,"Hyperuricemic Nephropathy, Familial Juvenile 2"
+334,"Bone Diseases, Metabolic"
+335,Prolactin Deficiency with Obesity and Enlarged Testes
+336,Fetal Nutrition Disorders
+337,Child Nutrition Disorders
+338,Nutrition Disorders
+339,Nutritional and Metabolic Diseases
+340,Malnutrition
+341,Severe Acute Malnutrition
+343,Short Stature-Obesity Syndrome
+344,Insulin-Like Growth Factor I Deficiency
+345,Obesity Hypoventilation Syndrome
+346,"Obesity, Morbid"
+347,Obesity
+348,Coloboma-Obesity-Hypogenitalism-Mental Retardation Syndrome
+349,"Wilms Tumor, Aniridia, Genitourinary Anomalies, Mental Retardation, and Obesity Syndrome"
+350,"Diabetes Mellitus, Insulin-Dependent, 11"
+351,Insulin Coma
+352,"Diabetes Mellitus, Insulin-Dependent, 17"
+353,"Diabetes Mellitus, Insulin-Dependent, 19"
+354,"Diabetes Mellitus, Insulin-Dependent, 23"
+355,"Insulin-Like Growth Factor I, Resistance to, due to Increased Binding Protein"
+356,"Insulin-Like Growth Factor I, Resistance To"
+357,"Diabetes Mellitus, Insulin-Dependent, 4"
+358,"Diabetes Mellitus, Insulin-Dependent, 5"
+359,"Diabetes Mellitus, Insulin-Dependent, 7"
+360,"Diabetes Mellitus, Insulin-Dependent, 3"
+361,"Diabetes Mellitus, Insulin-Dependent, 6"
+362,"Diabetes Mellitus, Insulin-Dependent, 10"
+363,"Diabetes Mellitus, Insulin-Dependent, 21"
+364,"Diabetes Mellitus, Insulin-Dependent, 22"
+365,"Diabetes Mellitus, Insulin-Dependent, 20"
+366,"Diabetes Mellitus, Insulin-Dependent, 2"
+367,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans"
+368,Pseudoacromegaly with Severe Insulin Resistance
+370,"Diabetes Mellitus, Insulin-Dependent, 12"
+371,"Diabetes Mellitus, Insulin-Dependent, 24"
+372,"Diabetes Mellitus, Insulin-Dependent, 18"
+373,"Diabetes Mellitus, Insulin-Dependent, 13"
+374,"Diabetes Mellitus, Insulin-Dependent, 8"
+375,"Insulin Receptor, Defect in"
+376,"Diabetes Mellitus, Insulin-Dependent, 15"
+377,"Cirrhosis, Familial, with Pulmonary Hypertension"
+378,Colonic Varices without Portal Hypertension
+379,Essential Hypertension
+380,Hypertelorism with esophageal abnormality and hypospadias
+381,Hypertension
+382,Hypertension Resistant to Conventional Therapy
+383,"Hypertension, Diastolic, Resistance to"
+384,"Hypertension, Portal"
+385,"Hypertension, Renal"
+386,"Hypertension, Renovascular"
+387,Intra-Abdominal Hypertension
+388,Prehypertension
+389,"Diabetes Mellitus, Noninsulin-Dependent, 2"
+390,"Diabetes Mellitus, Noninsulin-Dependent, Type 4"
+391,"Diabetes Mellitus, Noninsulin-Dependent, 1"
+392,"Diabetes Mellitus, Noninsulin-Dependent, 3"
+393,"Hyperinsulinemic Hypoglycemia, Familial, 5"
+394,"Hyperinsulinemic Hypoglycemia, Familial, 4"
+395,"Renal Failure, Progressive, with Hypertension"
+398,"Tachycardia, Hypertension, Microphthalmia, And Hyperglycinuria"
+400,Feeding and Eating Disorders
+402,"Zinc Deficiency, Neonatal, due to Low Breast Milk Zinc"
+403,Congenital Hyperinsulinism
+404,Malformations of Cortical Development
+405,Glucose-Galactose Malabsorption
+406,Leydig Cell Hypoplasia
+407,"Osteoarthropathy, Primary Hypertrophic"
+408,Noninsulin-dependent diabetes mellitus with deafness
+409,"Lipodystrophy, Congenital Generalized"
+410,Congenital Hypothyroidism
+412,"Myopathies, Structural, Congenital"
+413,Lactation Disorders
+414,Pregnancy in Diabetics
+415,"Midface Hypoplasia, Obesity, Developmental Delay, and Neonatal Hypotonia"
+416,Cardiovascular Diseases
+417,Latent Autoimmune Diabetes in Adults
+418,Mitochondrial Myopathy with Diabetes
+419,"Diabetes Insipidus, Nephrogenic"
+420,"Maturity-Onset Diabetes of the Young, Type 2"
+421,"Pancreatic Hypoplasia, Congenital, with Diabetes Mellitus and Congenital Heart Disease"
+422,"Renal Tubulopathy, Diabetes Mellitus, and Cerebellar Ataxia due to Duplication of Mitochondrial DNA"
+423,"Diabetes Mellitus, Neonatal, with Congenital Hypothyroidism"
+424,"Diabetes, Gestational"
+425,"Maturity-Onset Diabetes of the Young, Type 7"
+426,Diabetes Insipidus
+427,"Maturity-Onset Diabetes of the Young, Type 1"
+428,"Maturity-Onset Diabetes of the Young, Type 4"
+429,Diabetes Mellitus
+430,"Diabetes Mellitus, Type 2"
+431,"Diabetes Mellitus, Lipoatrophic"
+432,"Diabetes Mellitus, Type 1"
+433,"Hypopituitarism, Congenital, with Central Diabetes Insipidus"
+434,Dipsogenic Diabetes Insipidus
+435,Gestational Diabetes Insipidus
+436,"Maturity-Onset Diabetes of the Young, Type 8, with Exocrine Dysfunction"
+437,Diabetes Complications
+438,"Maturity-Onset Diabetes of the Young, Type 3"
+439,"Diabetes Mellitus, Congenital Autoimmune"
+440,"Diabetes Insipidus, Nephrogenic, with Mental Retardation and Intracerebral Calcification"
+441,"Atherosclerosis, Premature, with Deafness, Nephropathy, Diabetes Mellitus, Photomyoclonus, and Degenerative Neurologic Disease"
+442,"Maturity-Onset Diabetes Of The Young, Type 9"
+443,Neurodegeneration Due To Cerebral Folate Transport Deficiency
+444,Vitamin A Deficiency
+445,"Hypercarotenemia And Vitamin A Deficiency, Autosomal Dominant"
+446,"Hypercarotenemia And Vitamin A Deficiency, Autosomal Recessive"
+447,Vitamin D Deficiency
+448,Vitamin E Deficiency
+449,Vitamin K Deficiency
+450,Vitamin K Deficiency Bleeding
+451,Riboflavin Deficiency
+452,Iron-Refractory Iron Deficiency Anemia
+453,Magnesium Deficiency
+454,Potassium Deficiency
+455,Glucosephosphate Dehydrogenase Deficiency
+456,"Diarrhea, Glucose-Stimulated Secretory, with Common Variable Immunodeficiency"
+457,Glucose-6-phosphate translocase deficiency
+458,"Vitamin D Hydroxylation-Deficient Rickets, Type 1B"
+459,"Vitamin D Hydroxylation-Deficient Rickets, Type 1A"
+460,Proopiomelanocortin Deficiency
+461,Ataxia with vitamin E deficiency
+462,"Carnitine Palmitoyltransferase II Deficiency, Infantile"
+463,Diabetic Nephropathies
+464,Vitamin B 6 Deficiency
+465,Ascorbic Acid Deficiency
+466,Vitamin B 12 Deficiency
+467,"Anemia, Iron-Deficiency"
+468,Iron Deficiencies
+469,Glut1 Deficiency Syndrome
+470,Dystonic Disorders
+471,"Egg Proteins, Dietary"
+472,Dietary Sucrose
+473,"Sodium, Dietary"
+474,"Potassium, Dietary"
+475,Diet
+476,Dietary Fats
+477,Dietary Fiber
+479,Dietary Sugars
+480,"Sodium Chloride, Dietary"
+481,Food Additives
+482,Fermented Foods
+483,Cultured Milk Products
+484,Synbiotics
+485,Trans Fatty Acids
+487,"Yeast, Dried"
+488,Artificially Sweetened Beverages
+489,Nutrients
+491,High Fructose Corn Syrup
+493,Diet Surveys
+494,Dietary Services
+498,"Phosphorus, Dietary"
+499,Trace Elements
+500,Calcium
+501,Reactive Oxygen Species
+503,Magnesium
+504,Vitamin D Response Element
+505,"Animal Proteins, Dietary"
+506,"Plant Proteins, Dietary"
+507,Insulin-Like Growth Factor I
+508,Insulin-Like Growth Factor II
+509,Insulin-Like Growth Factor Binding Proteins
+510,Insulin Receptor Substrate Proteins
+511,Insulin-Like Growth Factor Binding Protein 1
+512,Insulin-Like Growth Factor Binding Protein 2
+513,Insulin-Like Growth Factor Binding Protein 5
+514,Insulin-Like Growth Factor Binding Protein 6
+515,Insulin-Like Growth Factor Binding Protein 4
+516,"leptinotarsin protein, Leptinotarsa haldemani"
+517,Adiponectin
+518,Neuropeptide Y
+519,Orexins
+520,"High-Density Lipoproteins, Pre-beta"
+521,Chylomicrons
+522,"Lipoproteins, HDL2"
+523,Lipoproteins
+525,"Lipoproteins, VLDL"
+526,"Lipoproteins, HDL"
+527,"Lipoproteins, IDL"
+528,"Lipoproteins, HDL3"
+529,Sodium-Glucose Transport Proteins
+530,"Glucose Transport Proteins, Facilitative"
+531,Sodium-Glucose Transporter 2
+532,Sodium-Glucose Transporter 1
+533,Gastrin-Releasing Peptide
+534,Adipokines
+536,Osteocalcin
+537,Procalcitonin
+538,Uncoupling Protein 1
+539,LDL-Receptor Related Protein-Associated Protein
+540,Vitamin D-Binding Protein
+541,Proglucagon
+544,Soybean Proteins
+545,Micronutrients
+570,"Obesity, Metabolically Benign"
+571,Anxiety
+572,Hunger
+573,Depression
+575,Hypertriglyceridemic Waist
+576,Body Mass Index
+577,Exercise Tolerance
+578,Adipose Tissue
+579,Waist Circumference
+580,Ideal Body Weight
+581,Bone Density
+582,Food Preferences
+583,Compulsive Exercise
+587,Body Dissatisfaction
+589,Food Security
+590,Body Image
+592,Nutritive Value
+593,Access to Healthy Foods
+630,Dietressa
+631,Dietary Proteins
+632,"Fish Proteins, Dietary"
+633,"Receptor, Insulin"
+634,Nonsuppressible Insulin-Like Activity
+635,Glucagon-Like Peptide Receptors
+636,Glucagon-Like Peptides
+637,"Receptors, Glucagon"
+638,Glucagon-Like Peptide 2
+639,Glucagon-Like Peptide 1
+640,"Receptors, Leptin"
+641,Leptin
+642,"Receptors, Adiponectin"
+643,"Receptors, Ghrelin"
+644,Ghrelin
+645,"Receptors, Cholecystokinin"
+646,"Receptor, Cholecystokinin B"
+647,"Receptor, Cholecystokinin A"
+648,Peptide YY
+649,Oxyntomodulin
+650,"Receptors, Neuropeptide Y"
+651,"Receptors, Corticotropin-Releasing Hormone"
+652,Resistin
+653,Glucose Transporter Type 5
+654,"Receptors, Somatostatin"
+655,Somatostatin-28
+656,Calcitonin Receptor-Like Protein
+658,S-methylglucagon
+659,preprocalcitonin
+660,pro-calcitonin gene-related peptide
+661,"Receptors, Calcitonin"
+662,"Receptors, Calcitonin Gene-Related Peptide"
+663,"Receptors, Calcitriol"
+664,"Receptors, Calcium-Sensing"
+665,"Scavenger Receptors, Class E"
+666,Low Density Lipoprotein Receptor-Related Protein-2
+667,"Receptors, Lipoprotein"
+668,Calcitonin Gene-Related Peptide
+669,Vitamin D3 24-Hydroxylase
+670,"Receptors, Pancreatic Hormone"
+671,Pancreatic Hormones
+672,Melanocyte-Stimulating Hormones
+673,Insulin
+674,Insulin-Like Growth Factor Binding Protein 3
+675,Glucagon
+676,Cholecystokinin
+677,Corticotropin-Releasing Hormone
+678,Secretin
+679,Gastrins
+680,Somatostatin
+681,Calcitonin
+683,Peptide Hydrolases
+684,Gastric Inhibitory Polypeptide
+686,Insulin Antibodies
+724,Oxidative Stress
+725,Nitrosative Stress
+726,Endoplasmic Reticulum Stress
+727,DNA Damage
+728,Physical Endurance
+732,Avoidant Restrictive Food Intake Disorder
+734,Anorexia Nervosa
+735,Bulimia Nervosa
+736,Binge-Eating Disorder
+738,Body Dysmorphic Disorders
+741,Satiety Response
+743,"Diabetes Mellitus, Experimental"
+753,Body Weight Maintenance
+754,Dietary Exposure
+759,Body Weights and Measures
+797,Weight Prejudice
+800,Anti-Obesity Agents
+801,Appetite Depressants
+802,Appetite Stimulants
+803,Insulin Antagonists
+804,Insulins
+806,Vitamin D
+871,Exercise Test
+873,Blood Glucose Self-Monitoring
+874,Glucose Tolerance Test
+876,Food-Processing Industry
+881,Brain-Gut Axis

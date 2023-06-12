@@ -1,0 +1,235 @@
+,gpt_mesh,series
+0,Infection,gpt_phys
+1,Infectious Diseases,gpt_phys
+2,Communicable Diseases,gpt_phys
+3,Bacterial Infections,gpt_phys
+4,Virus Diseases,gpt_phys
+5,Protozoan Infections,gpt_phys
+6,Parasitic Diseases,gpt_phys
+7,Microbial Sensitivity Tests,gpt_phys
+8,Antimicrobial Agents,gpt_phys
+9,"Drug Resistance, Microbial",gpt_phys
+10,"Drug Resistance, Bacterial",gpt_phys
+11,"Drug Resistance, Viral",gpt_phys
+12,"Drug Resistance, Protozoan",gpt_phys
+13,Cross Infection,gpt_phys
+14,Superinfection,gpt_phys
+15,Opportunistic Infections,gpt_phys
+16,Zoonoses,gpt_phys
+17,Vector-Borne Diseases,gpt_phys
+18,Foodborne Diseases,gpt_phys
+19,Waterborne Diseases,gpt_phys
+20,Airborne Diseases,gpt_phys
+21,Hospital-Acquired Infections,gpt_phys
+22,Community-Acquired Infections,gpt_phys
+23,Sexually Transmitted Diseases,gpt_phys
+24,Blood-Borne Pathogens,gpt_phys
+25,Nosocomial Infections,gpt_phys
+26,Surgical Wound Infection,gpt_phys
+27,Urinary Tract Infections,gpt_phys
+28,Respiratory Tract Infections,gpt_phys
+29,Gastrointestinal Infections,gpt_phys
+30,Skin and Soft Tissue Infections,gpt_phys
+31,Central Nervous System Infections,gpt_phys
+32,Eye Infections,gpt_phys
+33,Ear Infections,gpt_phys
+34,Bone and Joint Infections,gpt_phys
+35,Cardiovascular Infections,gpt_phys
+36,"Genital Infections, Female",gpt_phys
+37,"Genital Infections, Male",gpt_phys
+38,Perinatal Infections,gpt_phys
+39,Pulmonary Infection,gpt_phys
+40,Intravascular Catheter-Related Infections,gpt_phys
+41,Meningitis,gpt_phys
+42,Encephalitis,gpt_phys
+43,Pneumonia,gpt_phys
+44,Tuberculosis,gpt_phys
+45,"Sexually Transmitted Diseases, Bacterial",gpt_phys
+46,Chlamydia Infections,gpt_phys
+47,Gonorrhea,gpt_phys
+48,Syphilis,gpt_phys
+49,Lyme Disease,gpt_phys
+50,Legionellosis,gpt_phys
+51,Mycobacterium Infections,gpt_phys
+52,Staphylococcal Infections,gpt_phys
+53,Streptococcal Infections,gpt_phys
+54,Clostridium Infections,gpt_phys
+55,Meningococcal Infections,gpt_phys
+56,Pertussis,gpt_phys
+57,Tetanus,gpt_phys
+58,Diphtheria,gpt_phys
+59,Haemophilus Infections,gpt_phys
+60,Salmonella Infections,gpt_phys
+61,Shigellosis,gpt_phys
+62,Campylobacter Infections,gpt_phys
+63,Escherichia coli Infections,gpt_phys
+64,Listeriosis,gpt_phys
+65,Helicobacter Infections,gpt_phys
+66,Vibrio Infections,gpt_phys
+67,Yersinia Infections,gpt_phys
+68,Brucellosis,gpt_phys
+69,Tularemia,gpt_phys
+70,Anthrax,gpt_phys
+71,Rickettsia Infections,gpt_phys
+72,Q Fever,gpt_phys
+73,Cholera,gpt_phys
+74,"Tuberculosis, Pulmonary",gpt_phys
+75,"Respiratory Tract Infections, Viral",gpt_phys
+76,"Influenza, Human",gpt_phys
+77,Respiratory Syncytial Virus Infections,gpt_phys
+78,Common Cold,gpt_phys
+79,Measles,gpt_phys
+80,Mumps,gpt_phys
+81,Rubella,gpt_phys
+82,"Pneumonia, Viral",gpt_phys
+83,HIV Infections,gpt_phys
+84,AIDS-Related Opportunistic Infections,gpt_phys
+85,Human Herpesvirus 1 Infection,gpt_phys
+86,Human Herpesvirus 2 Infection,gpt_phys
+87,Herpes Simplex,gpt_phys
+88,Cytomegalovirus Infections,gpt_phys
+89,Epstein-Barr Virus Infections,gpt_phys
+90,Varicella-Zoster Virus Infection,gpt_phys
+91,Hepatitis,gpt_phys
+92,Rotavirus Infections,gpt_phys
+93,Norovirus Infections,gpt_phys
+94,Poliovirus Infections,gpt_phys
+95,Rhinovirus Infections,gpt_phys
+96,Coronavirus Infections,gpt_phys
+97,Severe Acute Respiratory Syndrome,gpt_phys
+98,Middle East Respiratory Syndrome Coronavirus,gpt_phys
+99,Herpesviridae Infections,gpt_phys
+100,Human papillomavirus infections,gpt_phys
+101,Retroviridae Infections,gpt_phys
+102,Viral Vaccines,gpt_phys
+103,"Protozoan Infections, Animal",gpt_phys
+104,Malaria,gpt_phys
+105,Leishmaniasis,gpt_phys
+106,Trypanosomiasis,gpt_phys
+107,Toxoplasmosis,gpt_phys
+108,Amebiasis,gpt_phys
+109,Giardiasis,gpt_phys
+110,Trichomonas Vaginitis,gpt_phys
+111,Cryptosporidiosis,gpt_phys
+112,Babesiosis,gpt_phys
+113,Pneumocystis Infections,gpt_phys
+114,Isosporiasis,gpt_phys
+115,Coccidiosis,gpt_phys
+116,"Toxoplasmosis, Congenital",gpt_phys
+117,"Amoebiasis, Cerebral",gpt_phys
+118,"Leishmaniasis, Visceral",gpt_phys
+119,"Leishmaniasis, Mucocutaneous",gpt_phys
+120,Chagas Disease,gpt_phys
+121,African Trypanosomiasis,gpt_phys
+122,Mycoses,gpt_phys
+123,"Fungal Infections, Invasive",gpt_phys
+124,Aspergillosis,gpt_phys
+125,Candidiasis,gpt_phys
+126,"Candidiasis, Vulvovaginal",gpt_phys
+127,Cryptococcosis,gpt_phys
+128,Histoplasmosis,gpt_phys
+129,Coccidioidomycosis,gpt_phys
+130,Blastomycosis,gpt_phys
+131,Mucormycosis,gpt_phys
+132,Pneumocystis Pneumonia,gpt_phys
+133,Sporotrichosis,gpt_phys
+134,"Parasitic Diseases, Animal",gpt_phys
+135,"Parasitic Diseases, Animal, Vertebrate",gpt_phys
+136,"Parasitic Diseases, Animal, Invertebrate",gpt_phys
+137,"Protozoan Infections, Animal, Bovine",gpt_phys
+138,"Protozoan Infections, Animal, Canine",gpt_phys
+139,"Protozoan Infections, Animal, Equine",gpt_phys
+140,"Protozoan Infections, Animal, Feline",gpt_phys
+141,"Protozoan Infections, Animal, Nonhuman Primate",gpt_phys
+142,"Protozoan Infections, Animal, Rodent",gpt_phys
+143,"Protozoan Infections, Animal, Sheep",gpt_phys
+144,Bacterial Infections and Mycoses,gpt_phys
+145,Virus Diseases and Mycoses,gpt_phys
+146,Protozoan Infections and Mycoses,gpt_phys
+0,Infection,gpt_path
+1,Infectious Diseases,gpt_path
+2,Communicable Diseases,gpt_path
+3,Acquired Immunodeficiency Syndrome,gpt_path
+4,Zoonoses,gpt_path
+5,Vector-Borne Diseases,gpt_path
+6,Foodborne Diseases,gpt_path
+7,Waterborne Diseases,gpt_path
+8,Airborne Diseases,gpt_path
+9,Sexually Transmitted Diseases,gpt_path
+10,Blood-Borne Pathogens,gpt_path
+11,Nosocomial Infections,gpt_path
+12,Opportunistic Infections,gpt_path
+13,Cross Infection,gpt_path
+14,Superinfection,gpt_path
+15,Meningitis,gpt_path
+16,Encephalitis,gpt_path
+17,Pneumonia,gpt_path
+18,Tuberculosis,gpt_path
+19,Hepatitis,gpt_path
+20,Human Immunodeficiency Virus Infections,gpt_path
+21,"Influenza, Human",gpt_path
+22,Respiratory Tract Infections,gpt_path
+23,Gastrointestinal Infections,gpt_path
+24,Skin and Soft Tissue Infections,gpt_path
+25,Urinary Tract Infections,gpt_path
+26,Sepsis,gpt_path
+27,Malaria,gpt_path
+28,Cholera,gpt_path
+29,Lyme Disease,gpt_path
+30,Dengue,gpt_path
+31,Ebola Infection,gpt_path
+32,Zika Virus Infection,gpt_path
+33,COVID-19,gpt_path
+34,Hantavirus Infections,gpt_path
+35,West Nile Fever,gpt_path
+36,Rabies,gpt_path
+37,Measles,gpt_path
+38,Mumps,gpt_path
+39,Rubella,gpt_path
+40,Chickenpox,gpt_path
+41,Polio,gpt_path
+42,Hepatitis B,gpt_path
+43,Hepatitis C,gpt_path
+44,HIV Infections,gpt_path
+45,AIDS-Related Opportunistic Infections,gpt_path
+46,Syphilis,gpt_path
+47,Gonorrhea,gpt_path
+48,Chlamydia Infections,gpt_path
+49,Tetanus,gpt_path
+50,Pertussis,gpt_path
+51,"Tuberculosis, Pulmonary",gpt_path
+52,Respiratory Syncytial Virus Infections,gpt_path
+53,Clostridium difficile Infection,gpt_path
+54,Toxoplasmosis,gpt_path
+55,"Toxoplasmosis, Congenital",gpt_path
+56,Leprosy,gpt_path
+57,Diphtheria,gpt_path
+58,Meningococcal Infections,gpt_path
+59,Pneumocystis Infections,gpt_path
+60,Candidiasis,gpt_path
+61,Aspergillosis,gpt_path
+62,Histoplasmosis,gpt_path
+63,Coccidioidomycosis,gpt_path
+64,Cryptococcosis,gpt_path
+65,Cytomegalovirus Infections,gpt_path
+66,Epstein-Barr Virus Infections,gpt_path
+67,Varicella-Zoster Virus Infection,gpt_path
+68,Herpes Simplex,gpt_path
+69,Human papillomavirus infections,gpt_path
+70,Retroviridae Infections,gpt_path
+71,Orthomyxoviridae Infections,gpt_path
+72,Rhabdoviridae Infections,gpt_path
+73,Flaviviridae Infections,gpt_path
+74,"Hemorrhagic Fevers, Viral",gpt_path
+75,Coronavirus Infections,gpt_path
+76,Severe Acute Respiratory Syndrome,gpt_path
+77,Middle East Respiratory Syndrome Coronavirus,gpt_path
+78,Herpesviridae Infections,gpt_path
+79,Viral Hepatitis,gpt_path
+80,Paramyxoviridae Infections,gpt_path
+81,Papillomavirus Infections,gpt_path
+82,Adenoviridae Infections,gpt_path
+83,Poxviridae Infections,gpt_path
+84,Parvoviridae Infections,gpt_path
+85,Rhabdoviridae Infections,gpt_path
+86,Arbovirus Infections,gpt_path

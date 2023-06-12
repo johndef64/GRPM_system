@@ -1,0 +1,196 @@
+,gpt_terms,series
+0,Anorexia,gpt_phys
+1,Appetite,gpt_phys
+2,Binge-Eating Disorder,gpt_phys
+3,Bulimia,gpt_phys
+4,Chemosensory Perception,gpt_phys
+5,Digestion,gpt_phys
+6,Digestive System,gpt_phys
+7,Eating,gpt_phys
+8,Eating Disorders,gpt_phys
+9,Feeding Behavior,gpt_phys
+10,Food,gpt_phys
+11,Food Preferences,gpt_phys
+12,Food Safety,gpt_phys
+13,Food Habits,gpt_phys
+14,Gustatory Perception,gpt_phys
+15,Hedonic Eating,gpt_phys
+16,Hunger,gpt_phys
+17,Meals,gpt_phys
+18,Nutritional Sciences,gpt_phys
+19,Olfactory Perception,gpt_phys
+20,Perception,gpt_phys
+21,Satiety Response,gpt_phys
+22,Sensory Receptor Cells,gpt_phys
+23,Sensory System,gpt_phys
+24,Smell,gpt_phys
+25,"Sodium, Dietary",gpt_phys
+26,Starvation,gpt_phys
+27,Sweetening Agents,gpt_phys
+28,Taste,gpt_phys
+29,Taste Disorders,gpt_phys
+30,Taste Perception,gpt_phys
+31,Taste Buds,gpt_phys
+32,Thirst,gpt_phys
+33,Tongue,gpt_phys
+34,Umami Taste,gpt_phys
+35,Weight Gain,gpt_phys
+36,Weight Loss,gpt_phys
+37,Xerostomia,gpt_phys
+38,Acetic Acid,gpt_phys
+39,Amino Acids,gpt_phys
+40,Beverages,gpt_phys
+41,Caloric Restriction,gpt_phys
+42,Carbohydrates,gpt_phys
+43,Carotenoids,gpt_phys
+44,Coffee,gpt_phys
+45,Diet,gpt_phys
+46,Dietary Fiber,gpt_phys
+47,Dietary Fats,gpt_phys
+48,Dietary Proteins,gpt_phys
+49,Dietary Sucrose,gpt_phys
+50,Dietary Supplements,gpt_phys
+51,Drinking,gpt_phys
+52,"Eating Disorders, Anorexia Nervosa",gpt_phys
+53,"Eating Disorders, Bulimia Nervosa",gpt_phys
+54,Feeding and Eating Disorders,gpt_phys
+55,Fermentation,gpt_phys
+56,Flavoring Agents,gpt_phys
+57,Food Analysis,gpt_phys
+58,Food Contamination,gpt_phys
+59,Food Labeling,gpt_phys
+60,Food Microbiology,gpt_phys
+61,Food Packaging,gpt_phys
+62,Food Poisoning,gpt_phys
+63,Food Preservation,gpt_phys
+64,"Food Processors, Domestic",gpt_phys
+65,Food Quality,gpt_phys
+66,Food Safety Management,gpt_phys
+67,Food Technology,gpt_phys
+68,Foodborne Diseases,gpt_phys
+69,Glutamic Acid,gpt_phys
+70,Meat,gpt_phys
+71,Mouth,gpt_phys
+72,Nutrigenomics,gpt_phys
+73,Nutritional Physiological Phenomena,gpt_phys
+74,Nutritional Status,gpt_phys
+76,Phenylthiourea,gpt_phys
+77,Protein-Energy Malnutrition,gpt_phys
+78,Satiation,gpt_phys
+79,Satiety Signals,gpt_phys
+80,Sensory Evaluation,gpt_phys
+81,Smell Perception,gpt_phys
+82,Snacks,gpt_phys
+83,Sodium Chloride,gpt_phys
+84,Solitary Nucleus,gpt_phys
+85,Spices,gpt_phys
+86,Starch,gpt_phys
+87,Sugar-Sweetened Beverages,gpt_phys
+88,Supertasters,gpt_phys
+89,Sweetness,gpt_phys
+90,Taste Threshold,gpt_phys
+91,Taste Perception Disorders,gpt_phys
+92,Umami,gpt_phys
+93,Vegetables,gpt_phys
+94,Vomiting,gpt_phys
+95,Weight Reduction Programs,gpt_phys
+96,Yogurt,gpt_phys
+0,Appetite,gpt_path
+1,Appetite Regulation,gpt_path
+2,Appetite Stimulants,gpt_path
+3,Appetite Depressants,gpt_path
+4,Binge-Eating Disorder,gpt_path
+5,Bulimia Nervosa,gpt_path
+6,Anorexia Nervosa,gpt_path
+7,Eating Disorders,gpt_path
+8,Feeding Behavior,gpt_path
+9,Feeding and Eating Disorders of Childhood,gpt_path
+10,Avoidant/Restrictive Food Intake Disorder,gpt_path
+11,Pica,gpt_path
+12,Rumination Disorder,gpt_path
+13,Taste,gpt_path
+14,Taste Buds,gpt_path
+15,Taste Perception,gpt_path
+16,Taste Disorders,gpt_path
+17,Taste Threshold,gpt_path
+18,Sweetening Agents,gpt_path
+19,"Sweeteners, Artificial",gpt_path
+20,Sucrose,gpt_path
+21,Fructose,gpt_path
+22,Glucose,gpt_path
+23,"Sodium Chloride, Dietary",gpt_path
+24,Salt Preference,gpt_path
+25,Salt-Tolerance Test,gpt_path
+26,"Sodium, Dietary",gpt_path
+27,Sodium-Restricted Diet,gpt_path
+28,Umami Substances,gpt_path
+29,Monosodium Glutamate,gpt_path
+30,Glutamic Acid,gpt_path
+31,Inosine Monophosphate,gpt_path
+32,Guanosine Monophosphate,gpt_path
+33,Sourness Perception Test,gpt_path
+34,"Acids, Noncarboxylic",gpt_path
+35,Acetic Acid,gpt_path
+36,Citric Acid,gpt_path
+37,Lactic Acid,gpt_path
+38,Malic Acid,gpt_path
+39,Tartaric Acid,gpt_path
+40,Bitterness Perception Test,gpt_path
+41,Quinine,gpt_path
+42,Naringin,gpt_path
+43,Caffeine,gpt_path
+44,Denatonium,gpt_path
+45,Phenylthiocarbamide,gpt_path
+46,Propylthiouracil,gpt_path
+47,Spicy Perception Test,gpt_path
+48,Capsaicin,gpt_path
+49,Piperine,gpt_path
+50,Ginger,gpt_path
+51,Mustard Plant,gpt_path
+52,Horseradish Peroxidase,gpt_path
+53,Wasabia,gpt_path
+54,Cinnamon,gpt_path
+55,Garlic,gpt_path
+56,Onions,gpt_path
+57,Mint,gpt_path
+58,Menthol,gpt_path
+59,Eucalyptol,gpt_path
+60,Spearmint Oil,gpt_path
+61,Peppermint Oil,gpt_path
+62,Flavoring Agents,gpt_path
+63,"Flavors, Artificial",gpt_path
+64,Vanilla Extract,gpt_path
+65,Lemon Extract,gpt_path
+66,Orange Extract,gpt_path
+67,Strawberry Extract,gpt_path
+68,Banana Extract,gpt_path
+69,Chocolate Extract,gpt_path
+70,Coffee Extract,gpt_path
+71,Tea Extract,gpt_path
+72,Maple Syrup Extract,gpt_path
+73,Caramel Extract,gpt_path
+74,Licorice Extract,gpt_path
+75,Anise Oil,gpt_path
+76,"Aroma Compounds, Volatile",gpt_path
+77,Limonene,gpt_path
+78,Linalool,gpt_path
+79,Eugenol,gpt_path
+80,Cinnamaldehyde,gpt_path
+81,Isoamyl Acetate,gpt_path
+82,Benzaldehyde,gpt_path
+83,Geraniol,gpt_path
+84,Methyl Salicylate,gpt_path
+85,Terpenes,gpt_path
+86,Sesquiterpenes,gpt_path
+87,Monoterpenes,gpt_path
+88,Diterpenes,gpt_path
+89,Triterpenes,gpt_path
+90,Sterols,gpt_path
+91,Saponins,gpt_path
+92,Olfaction Disorders,gpt_path
+93,Olfactory Perception,gpt_path
+94,Olfactory Pathways,gpt_path
+95,Olfactory Bulb,gpt_path
+96,Olfactory Nerve,gpt_path
+97,Olfactory Receptor Neurons,gpt_path
+98,Olfactory Mucosa,gpt_path

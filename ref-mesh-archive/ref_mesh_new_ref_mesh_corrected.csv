@@ -1,0 +1,659 @@
+,Preferred Label,mesh_id
+0,Food Preservation,D005519
+1,Food Safety,D059022
+2,Food Industry,D019649
+3,Food Handling,D005511
+4,Food Assistance,D063105
+5,Food Assistance,D063105
+6,"Hypertension, Pulmonary",D006976
+7,Insulin Resistance,D007333
+8,Inflammation,D007249
+9,Food Hypersensitivity,D005512
+10,Hypersensitivity,D006967
+11,Atherosclerosis,D050197
+12,Atherosclerosis,D050197
+13,Food-Drug Interactions,D018565
+14,Food-Drug Interactions,D018565
+15,Dyslipidemias,D050171
+16,Dyslipidemias,D050171
+17,Immune Tolerance,D007108
+18,Immune Tolerance,D007108
+19,Protein-Energy Malnutrition,D011502
+20,Protein-Energy Malnutrition,D011502
+21,Accessory Atrioventricular Bundle,D058606
+22,Accessory Atrioventricular Bundle,D058606
+23,Accessory Atrioventricular Bundle,D058606
+24,Accessory Atrioventricular Bundle,D058606
+25,"Stress, Physiological",D013312
+26,"Stress, Physiological",D013312
+27,"Stress, Physiological",D013312
+28,"Stress, Physiological",D013312
+29,"Stress, Physiological",D013312
+30,Lactation,D007774
+31,Bone Remodeling,D016723
+32,Nutritional Physiological Phenomena,D009747
+33,Nutritional Physiological Phenomena,D009747
+34,Nutritional Sciences,D052756
+35,Sports Nutritional Sciences,D064132
+36,Nutrigenomics,D054647
+37,Cardiology,D002309
+38,Dietetics,D004046
+39,"Cholesterol, Dietary",D002791
+40,Carbohydrates,D002241
+41,Lipids,D008055
+42,Prebiotics,D056692
+43,"Fatty Acids, Essential",D005228
+44,"Fatty Acids, Nonesterified",D005230
+45,Blood Glucose,D001786
+46,Dietary Carbohydrates,D004040
+47,"Dietary Fats, Unsaturated",D004042
+48,"Dietary Fats, Unsaturated",D004042
+49,"Lipoproteins, LDL",D008077
+50,"Lipoproteins, LDL",D008077
+51,"Lipoproteins, LDL",D008077
+52,Natriuretic Agents,D045283
+53,Natriuretic Agents,D045283
+54,Natriuretic Agents,D045283
+55,Natriuretic Agents,D045283
+56,Diethyl Pyrocarbonate,D004047
+57,Diethyl Pyrocarbonate,D004047
+58,Vitamins,D014815
+59,Vitamins,D014815
+60,Vitamins,D014815
+61,Glucosamine,D005944
+62,Glucosamine,D005944
+63,Glucans,D005936
+64,Glucans,D005936
+65,Cholecalciferol,D002762
+66,Cholecalciferol,D002762
+67,Cholecalciferol,D002762
+68,Ergocalciferols,D004872
+69,Ergocalciferols,D004872
+70,Ergocalciferols,D004872
+71,Folic Acid,D005492
+72,Folic Acid,D005492
+73,Folic Acid,D005492
+74,Niacin,D009525
+75,Niacin,D009525
+76,Niacin,D009525
+77,Butyric Acid,D020148
+78,Butyric Acid,D020148
+79,Ascorbic Acid,D001205
+80,Ascorbic Acid,D001205
+81,Ascorbic Acid,D001205
+82,Lactose,D007785
+83,Lactose,D007785
+84,Lactose,D007785
+85,Phytoestrogens,D048789
+86,Phytoestrogens,D048789
+87,Phytoestrogens,D048789
+88,Calcitriol,D002117
+89,Calcitriol,D002117
+90,Calcitriol,D002117
+91,Calcitriol,D002117
+92,Ergosterol,D004875
+93,Ergosterol,D004875
+94,Ergosterol,D004875
+95,Triglycerides,D014280
+96,Triglycerides,D014280
+97,"Fatty Acids, Monounsaturated",D005229
+98,"Fatty Acids, Monounsaturated",D005229
+99,Fatty Acids,D005227
+100,Fatty Acids,D005227
+101,Fatty Acids,D005227
+102,"Fatty Acids, Volatile",D005232
+103,"Fatty Acids, Volatile",D005232
+104,"Fatty Acids, Unsaturated",D005231
+105,"Fatty Acids, Unsaturated",D005231
+106,"Fatty Acids, Omega-3",D015525
+107,"Fatty Acids, Omega-3",D015525
+108,"Fatty Acids, Omega-3",D015525
+109,Glucose,D005947
+110,Glucose,D005947
+111,Glucose,D005947
+112,"Fatty Acids, Omega-6",D043371
+113,"Fatty Acids, Omega-6",D043371
+114,Liver Glycogen,D008112
+115,Liver Glycogen,D008112
+116,Phytic Acid,D010833
+117,Phytic Acid,D010833
+118,Phytic Acid,D010833
+119,Phytic Acid,D010833
+120,Glycogen,D006003
+121,Glycogen,D006003
+122,Oxalic Acid,D019815
+123,Oxalic Acid,D019815
+124,Oxalic Acid,D019815
+125,Phytochemicals,D064209
+126,Phytochemicals,D064209
+127,Chondroitin Sulfates,D002809
+128,Chondroitin Sulfates,D002809
+129,Chondroitin Sulfates,D002809
+130,Pectins,D010368
+131,Pectins,D010368
+132,Pectins,D010368
+133,Linoleic Acid,D019787
+134,Linoleic Acid,D019787
+135,Linoleic Acid,D019787
+136,Ketoglutaric Acids,D007656
+137,Ketoglutaric Acids,D007656
+138,Ketoglutaric Acids,D007656
+139,Estrogens,D004967
+140,Estrogens,D004967
+141,Estrogens,D004967
+142,Estrogens,D004967
+143,alpha-Linolenic Acid,D017962
+144,alpha-Linolenic Acid,D017962
+145,alpha-Linolenic Acid,D017962
+146,Isomaltose,D007534
+147,Isomaltose,D007534
+148,Pantothenic Acid,D010205
+149,Pantothenic Acid,D010205
+150,Pantothenic Acid,D010205
+151,Pantothenic Acid,D010205
+152,Pantothenic Acid,D010205
+153,Deoxycholic Acid,D003840
+154,Deoxycholic Acid,D003840
+155,Deoxycholic Acid,D003840
+156,Deoxycholic Acid,D003840
+157,"Iron, Dietary",D019266
+158,"Calcium, Dietary",D002136
+159,Minerals,D008903
+160,Free Radicals,D005609
+161,Selenic Acid,D064586
+162,Selenic Acid,D064586
+163,Selenic Acid,D064586
+164,Selenic Acid,D064586
+165,Selenic Acid,D064586
+166,Insulin Secretion,D000078790
+167,Osmoregulation,D064587
+168,Probiotics,D019936
+169,Gastrointestinal Microbiome,D000069196
+170,Gastrointestinal Microbiome,D000069196
+171,Carbohydrate Metabolism,D050260
+172,Lipid Metabolism,D050356
+173,Fermentation,D005285
+174,Lipid Peroxidation,D015227
+175,Glycogenolysis,D050261
+176,Gluconeogenesis,D005943
+177,Proteolysis,D059748
+178,Proteolysis,D059748
+179,Antioxidants,D000975
+180,Antioxidants,D000975
+181,Antioxidants,D000975
+182,Antioxidants,D000975
+183,Nutrition Policy,D018673
+184,Recommended Dietary Allowances,D064167
+185,Diet Records,D015930
+186,Obesity Management,D000073319
+187,Obesity Management,D000073319
+188,Nutrition Assessment,D015596
+189,Nutrition Assessment,D015596
+190,Nutrition Assessment,D015596
+191,Energy Metabolism,D004734
+192,Energy Metabolism,D004734
+193,Appetite,D001066
+194,Appetite,D001066
+195,Physical Functional Performance,D000076604
+196,Physical Functional Performance,D000076604
+197,Salt Stress,D000077323
+198,Salt Stress,D000077323
+199,Infant Nutritional Physiological Phenomena,D007227
+200,Infant Nutritional Physiological Phenomena,D007227
+201,Eating,D004435
+202,Eating,D004435
+203,Eating,D004435
+204,Maternal Nutritional Physiological Phenomena,D039382
+205,Prenatal Nutritional Physiological Phenomena,D039401
+206,Adolescent Nutritional Physiological Phenomena,D017195
+207,Animal Nutritional Physiological Phenomena,D000824
+208,Sports Nutritional Physiological Phenomena,D064133
+209,Elder Nutritional Physiological Phenomena,D058620
+210,Child Nutritional Physiological Phenomena,D002664
+211,Appetite Regulation,D001069
+212,Feeding Behavior,D005247
+213,Feeding Behavior,D005247
+214,Digestion,D004063
+215,Anti-Anxiety Agents,D014151
+216,Anti-Anxiety Agents,D014151
+217,Incretins,D054795
+218,Incretins,D054795
+219,Incretins,D054795
+220,Incretins,D054795
+221,Nutritional Requirements,D009751
+222,Body Composition,D001823
+223,Adiposity,D050154
+224,Body Weight,D001835
+225,Organism Hydration Status,D000074267
+226,Organism Hydration Status,D000074267
+227,Body-Weight Trajectory,D000077962
+228,Nutrition Surveys,D009749
+229,"Diet, Atherogenic",D004036
+230,Nutritionists,D064686
+231,Parenteral Nutrition,D010288
+232,"Parenteral Nutrition, Total",D010289
+233,Nutritional Support,D018529
+234,Nutrition Therapy,D044623
+235,Nutrition Therapy,D044623
+236,"Parenteral Nutrition, Home",D016331
+237,Enteral Nutrition,D004750
+238,Enteral Nutrition,D004750
+239,"Diet, Mediterranean",D038441
+240,"Diet, High-Fat",D059305
+241,Dietary Supplements,D019587
+242,Dietary Supplements,D019587
+243,Diet Therapy,D004035
+244,Diet Therapy,D004035
+245,"Diet, Sodium-Restricted",D004039
+246,"Diet, Reducing",D004038
+247,"Diet, Diabetic",D003927
+248,"Diet, High-Protein Low-Carbohydrate",D000076107
+249,"Diet, High-Protein",D000073600
+250,"Diet, Gluten-Free",D055050
+251,Dietary Approaches To Stop Hypertension,D000073601
+252,"Diet, Ketogenic",D055423
+253,"Diet, Carbohydrate Loading",D000070601
+254,"Diet, Carbohydrate-Restricted",D050528
+255,"Diet, Protein-Restricted",D018753
+256,"Diet, Fat-Restricted",D018752
+257,Plyometric Exercise,D059385
+258,Circuit-Based Exercise,D065327
+259,Circuit-Based Exercise,D065327
+260,Exercise,D015444
+261,Exercise,D015444
+262,Muscle Stretching Exercises,D052580
+263,Exercise Therapy,D005081
+264,Breathing Exercises,D001945
+265,Endurance Training,D000076663
+266,"Diet, Healthy",D000072001
+267,"Diet, Healthy",D000072001
+268,"Diet, Healthy",D000072001
+269,"Diet, Vegetarian",D014676
+270,"Diet, Vegetarian",D014676
+271,Caloric Restriction,D031204
+272,Caloric Restriction,D031204
+273,Resistance Training,D055070
+274,High-Intensity Interval Training,D000072696
+275,High-Intensity Interval Training,D000072696
+276,Fecal Microbiota Transplantation,D000069467
+277,"Food, Formulated",D005526
+278,"Food, Formulated",D005526
+279,Glycemic Control,D000085002
+280,Nutritional Status,D009752
+281,"Diet, Western",D066273
+282,"Diet, Vegan",D000067269
+283,"Diet, Macrobiotic",D015623
+284,"Diet, Paleolithic",D066046
+285,"Obesity, Maternal",D000079262
+286,Overweight,D050177
+287,Post-Exercise Hypotension,D057774
+288,Body Fat Distribution,D050218
+289,Sedentary Behavior,D057185
+290,Sedentary Behavior,D057185
+291,Heart Disease Risk Factors,D000082742
+292,Heart Disease Risk Factors,D000082742
+293,"Obesity, Abdominal",D056128
+294,"Obesity, Abdominal",D056128
+295,Pediatric Obesity,D063766
+296,Pediatric Obesity,D063766
+297,"Cardiomegaly, Exercise-Induced",D059267
+298,"Cardiomegaly, Exercise-Induced",D059267
+299,Hyperglycemia,D006943
+300,Hyperglycemia,D006943
+301,Fasting,D005215
+302,Fasting,D005215
+303,Food Insecurity,D000084884
+304,Food Insecurity,D000084884
+305,"Renal Insufficiency, Chronic",D051436
+306,Renal Insufficiency,D051437
+307,Food Intolerance,D000073923
+308,Glucose Intolerance,D018149
+309,Dehydration,D003681
+310,"Kidney Failure, Chronic",D007676
+311,Galactosemias,D005693
+312,"Kidney Diseases, Cystic",D052177
+313,Kidney Diseases,D007674
+314,Chronic Disease,D002908
+315,Noncommunicable Diseases,D000073296
+316,Crohn Disease,D003424
+317,Coronary Artery Disease,D003324
+318,Carotid Artery Diseases,D002340
+319,Hemochromatosis,D006432
+320,Avitaminosis,D001361
+321,Glycogen Storage Disease Type IIb,D052120
+322,Glycogen Storage Disease Type VII,D006014
+323,Glycogen Storage Disease Type IV,D006011
+324,Glycogen Storage Disease Type V,D006012
+325,Glycogen Storage Disease Type VIII,D006015
+326,Glycogen Storage Disease Type VI,D006013
+327,Glycogen Storage Disease Type III,D006010
+328,Glycogen Storage Disease Type I,D005953
+329,Glycogen Storage Disease Type II,D006009
+330,Glycogen Storage Disease,D006008
+331,"Colitis, Ulcerative",D003093
+332,"Osteoporosis, Postmenopausal",D015663
+333,Osteoporosis,D010024
+334,Osteoporotic Fractures,D058866
+335,Sarcopenia,D055948
+336,Intracranial Arteriosclerosis,D002537
+337,Metabolic Syndrome,D024821
+338,Gastrointestinal Diseases,D005767
+339,Inflammatory Bowel Diseases,D015212
+340,Non-alcoholic Fatty Liver Disease,D065626
+341,"Carbohydrate Metabolism, Inborn Errors",D002239
+342,Lipid Metabolism Disorders,D052439
+343,"Lipid Metabolism, Inborn Errors",D008052
+344,Hypoglycemia,D007003
+345,Homozygous Familial Hypercholesterolemia,D000090542
+346,Hypercholesterolemia,D006937
+347,Hypertriglyceridemia,D015228
+348,Glucose Metabolism Disorders,D044882
+349,Phosphorus Metabolism Disorders,D010760
+350,Calcium Metabolism Disorders,D002128
+351,"Hypophosphatemia, Familial",D007015
+352,Hyperlipoproteinemia Type III,D006952
+353,Hyperlipoproteinemia Type II,D006938
+354,Hyperlipoproteinemia Type IV,D006953
+355,Hyperlipoproteinemia Type I,D008072
+356,"Bone Diseases, Metabolic",D001851
+357,Fetal Nutrition Disorders,D048070
+358,Child Nutrition Disorders,D015362
+359,Nutrition Disorders,D009748
+360,Malnutrition,D044342
+361,"Obesity, Morbid",D009767
+362,Obesity,D009765
+363,Essential Hypertension,D000075222
+364,Hypertension,D006973
+365,"Hypertension, Portal",D006975
+366,"Hypertension, Renal",D006977
+367,"Hypertension, Renovascular",D006978
+368,Prehypertension,D058246
+369,Feeding and Eating Disorders,D001068
+370,Feeding and Eating Disorders,D001068
+371,Congenital Hyperinsulinism,D044903
+372,Malformations of Cortical Development,D054220
+373,Malformations of Cortical Development,D054220
+374,"Osteoarthropathy, Primary Hypertrophic",D010004
+375,"Osteoarthropathy, Primary Hypertrophic",D010004
+376,"Lipodystrophy, Congenital Generalized",D052497
+377,"Lipodystrophy, Congenital Generalized",D052497
+378,Congenital Hypothyroidism,D003409
+379,Congenital Hypothyroidism,D003409
+380,"Myopathies, Structural, Congenital",D020914
+381,"Myopathies, Structural, Congenital",D020914
+382,Pregnancy in Diabetics,D011254
+383,Cardiovascular Diseases,D002318
+384,Latent Autoimmune Diabetes in Adults,D000071698
+385,"Diabetes Insipidus, Nephrogenic",D018500
+386,"Diabetes, Gestational",D016640
+387,Diabetes Insipidus,D003919
+388,Diabetes Mellitus,D003920
+389,"Diabetes Mellitus, Type 2",D003924
+390,"Diabetes Mellitus, Lipoatrophic",D003923
+391,"Diabetes Mellitus, Type 1",D003922
+392,Diabetes Complications,D048909
+393,Vitamin A Deficiency,D014802
+394,Vitamin D Deficiency,D014808
+395,Vitamin E Deficiency,D014811
+396,Vitamin K Deficiency,D014813
+397,Vitamin K Deficiency Bleeding,D006475
+398,Riboflavin Deficiency,D012257
+399,Magnesium Deficiency,D008275
+400,Potassium Deficiency,D011191
+401,Glucosephosphate Dehydrogenase Deficiency,D005955
+402,Diabetic Nephropathies,D003928
+403,Vitamin B 6 Deficiency,D026681
+404,Ascorbic Acid Deficiency,D001206
+405,Vitamin B 12 Deficiency,D014806
+406,"Anemia, Iron-Deficiency",D018798
+407,Iron Deficiencies,D000090463
+408,Dystonic Disorders,D020821
+409,Dystonic Disorders,D020821
+410,Dietary Sucrose,D019422
+411,"Sodium, Dietary",D012982
+412,"Potassium, Dietary",D017419
+413,Diet,D004032
+414,Dietary Fats,D004041
+415,Dietary Fiber,D004043
+416,Dietary Sugars,D000073417
+417,"Sodium Chloride, Dietary",D017673
+418,Food Additives,D005503
+419,Fermented Foods,D000074421
+420,Cultured Milk Products,D043302
+421,Trans Fatty Acids,D044242
+422,"Yeast, Dried",D015002
+423,Artificially Sweetened Beverages,D000081229
+424,Nutrients,D000078622
+425,High Fructose Corn Syrup,D066248
+426,Diet Surveys,D004034
+427,"Phosphorus, Dietary",D016226
+428,Trace Elements,D014131
+429,Trace Elements,D014131
+430,Trace Elements,D014131
+431,Calcium,D002118
+432,Calcium,D002118
+433,Calcium,D002118
+434,Reactive Oxygen Species,D017382
+435,Reactive Oxygen Species,D017382
+436,Magnesium,D008274
+437,Magnesium,D008274
+438,Vitamin D Response Element,D030181
+439,Vitamin D Response Element,D030181
+440,Insulin-Like Growth Factor I,D007334
+441,Insulin-Like Growth Factor I,D007334
+442,Insulin-Like Growth Factor II,D007335
+443,Insulin-Like Growth Factor II,D007335
+444,Insulin-Like Growth Factor Binding Proteins,D018969
+445,Insulin-Like Growth Factor Binding Proteins,D018969
+446,Insulin Receptor Substrate Proteins,D055504
+447,Insulin Receptor Substrate Proteins,D055504
+448,Insulin-Like Growth Factor Binding Protein 1,D018970
+449,Insulin-Like Growth Factor Binding Protein 1,D018970
+450,Insulin-Like Growth Factor Binding Protein 2,D018971
+451,Insulin-Like Growth Factor Binding Protein 2,D018971
+452,Insulin-Like Growth Factor Binding Protein 5,D018975
+453,Insulin-Like Growth Factor Binding Protein 5,D018975
+454,Insulin-Like Growth Factor Binding Protein 6,D018976
+455,Insulin-Like Growth Factor Binding Protein 6,D018976
+456,Insulin-Like Growth Factor Binding Protein 4,D018974
+457,Insulin-Like Growth Factor Binding Protein 4,D018974
+458,Adiponectin,D052242
+459,Adiponectin,D052242
+460,Neuropeptide Y,D009478
+461,Neuropeptide Y,D009478
+462,Orexins,D000068797
+463,Orexins,D000068797
+464,"High-Density Lipoproteins, Pre-beta",D053442
+465,"High-Density Lipoproteins, Pre-beta",D053442
+466,Chylomicrons,D002914
+467,Chylomicrons,D002914
+468,Lipoproteins,D008074
+469,Lipoproteins,D008074
+470,"Lipoproteins, VLDL",D008079
+471,"Lipoproteins, VLDL",D008079
+472,"Lipoproteins, HDL",D008075
+473,"Lipoproteins, HDL",D008075
+474,"Lipoproteins, IDL",D053419
+475,"Lipoproteins, IDL",D053419
+476,"Lipoproteins, HDL3",D053440
+477,"Lipoproteins, HDL3",D053440
+478,Sodium-Glucose Transport Proteins,D051247
+479,Sodium-Glucose Transport Proteins,D051247
+480,"Glucose Transport Proteins, Facilitative",D051246
+481,"Glucose Transport Proteins, Facilitative",D051246
+482,Sodium-Glucose Transporter 2,D051297
+483,Sodium-Glucose Transporter 2,D051297
+484,Sodium-Glucose Transporter 1,D051269
+485,Sodium-Glucose Transporter 1,D051269
+486,Gastrin-Releasing Peptide,D019886
+487,Gastrin-Releasing Peptide,D019886
+488,Adipokines,D054392
+489,Adipokines,D054392
+490,Osteocalcin,D015675
+491,Osteocalcin,D015675
+492,Procalcitonin,D000077740
+493,Procalcitonin,D000077740
+494,Uncoupling Protein 1,D000071256
+495,Uncoupling Protein 1,D000071256
+496,LDL-Receptor Related Protein-Associated Protein,D026563
+497,LDL-Receptor Related Protein-Associated Protein,D026563
+498,Vitamin D-Binding Protein,D014809
+499,Vitamin D-Binding Protein,D014809
+500,Proglucagon,D052336
+501,Proglucagon,D052336
+502,Proglucagon,D052336
+503,Soybean Proteins,D030262
+504,Soybean Proteins,D030262
+505,Soybean Proteins,D030262
+506,Micronutrients,D018977
+507,"Obesity, Metabolically Benign",D000067329
+508,Anxiety,D001007
+509,Anxiety,D001007
+510,Anxiety,D001007
+511,Hunger,D006815
+512,Depression,D003863
+513,Depression,D003863
+514,Body Mass Index,D015992
+515,Exercise Tolerance,D017079
+516,Adipose Tissue,D000273
+517,Adipose Tissue,D000273
+518,Waist Circumference,D055105
+519,Ideal Body Weight,D056865
+520,Ideal Body Weight,D056865
+521,Ideal Body Weight,D056865
+522,Bone Density,D015519
+523,Bone Density,D015519
+524,Food Preferences,D005518
+525,Food Preferences,D005518
+526,Food Security,D000082302
+527,Body Image,D001828
+528,Body Image,D001828
+529,Nutritive Value,D009753
+530,Access to Healthy Foods,D000091483
+531,Dietary Proteins,D004044
+532,"Receptor, Insulin",D011972
+533,"Receptor, Insulin",D011972
+534,"Receptor, Insulin",D011972
+535,Glucagon-Like Peptide Receptors,D000067756
+536,Glucagon-Like Peptide Receptors,D000067756
+537,Glucagon-Like Peptides,D004763
+538,Glucagon-Like Peptides,D004763
+539,"Receptors, Glucagon",D018027
+540,"Receptors, Glucagon",D018027
+541,Glucagon-Like Peptide 2,D053767
+542,Glucagon-Like Peptide 2,D053767
+543,Glucagon-Like Peptide 1,D052216
+544,"Receptors, Leptin",D054411
+545,"Receptors, Leptin",D054411
+546,Leptin,D020738
+547,Leptin,D020738
+548,"Receptors, Adiponectin",D054419
+549,"Receptors, Adiponectin",D054419
+550,"Receptors, Ghrelin",D054440
+551,"Receptors, Ghrelin",D054440
+552,Ghrelin,D054439
+553,Ghrelin,D054439
+554,"Receptors, Cholecystokinin",D011949
+555,"Receptors, Cholecystokinin",D011949
+556,"Receptor, Cholecystokinin B",D043887
+557,"Receptor, Cholecystokinin B",D043887
+558,"Receptor, Cholecystokinin A",D043886
+559,"Receptor, Cholecystokinin A",D043886
+560,Peptide YY,D019894
+561,Peptide YY,D019894
+562,Oxyntomodulin,D053772
+563,Oxyntomodulin,D053772
+564,"Receptors, Neuropeptide Y",D017476
+565,"Receptors, Neuropeptide Y",D017476
+566,"Receptors, Corticotropin-Releasing Hormone",D018019
+567,"Receptors, Corticotropin-Releasing Hormone",D018019
+568,Resistin,D052243
+569,Resistin,D052243
+570,Glucose Transporter Type 5,D051296
+571,"Receptors, Somatostatin",D017481
+572,"Receptors, Somatostatin",D017481
+573,Calcitonin Receptor-Like Protein,D058286
+574,Calcitonin Receptor-Like Protein,D058286
+575,"Receptors, Calcitonin",D018003
+576,"Receptors, Calcitonin",D018003
+577,"Receptors, Calcitonin Gene-Related Peptide",D018015
+578,"Receptors, Calcitonin Gene-Related Peptide",D018015
+579,"Receptors, Calcitriol",D018167
+580,"Receptors, Calcitriol",D018167
+581,"Receptors, Calcium-Sensing",D044169
+582,"Receptors, Calcium-Sensing",D044169
+583,"Scavenger Receptors, Class E",D051127
+584,"Scavenger Receptors, Class E",D051127
+585,Low Density Lipoprotein Receptor-Related Protein-2,D026561
+586,Low Density Lipoprotein Receptor-Related Protein-2,D026561
+587,"Receptors, Lipoprotein",D018110
+588,"Receptors, Lipoprotein",D018110
+589,Calcitonin Gene-Related Peptide,D015740
+590,Calcitonin Gene-Related Peptide,D015740
+591,Vitamin D3 24-Hydroxylase,D065668
+592,Vitamin D3 24-Hydroxylase,D065668
+593,Pancreatic Hormones,D010187
+594,Pancreatic Hormones,D010187
+595,Pancreatic Hormones,D010187
+596,Melanocyte-Stimulating Hormones,D009074
+597,Melanocyte-Stimulating Hormones,D009074
+598,Melanocyte-Stimulating Hormones,D009074
+599,Insulin,D007328
+600,Insulin,D007328
+601,Insulin,D007328
+602,Insulin-Like Growth Factor Binding Protein 3,D018972
+603,Insulin-Like Growth Factor Binding Protein 3,D018972
+604,Glucagon,D005934
+605,Glucagon,D005934
+606,Glucagon,D005934
+607,Cholecystokinin,D002766
+608,Cholecystokinin,D002766
+609,Cholecystokinin,D002766
+610,Corticotropin-Releasing Hormone,D003346
+611,Corticotropin-Releasing Hormone,D003346
+612,Corticotropin-Releasing Hormone,D003346
+613,Secretin,D012633
+614,Secretin,D012633
+615,Secretin,D012633
+616,Gastrins,D005755
+617,Gastrins,D005755
+618,Gastrins,D005755
+619,Somatostatin,D013004
+620,Somatostatin,D013004
+621,Somatostatin,D013004
+622,Calcitonin,D002116
+623,Calcitonin,D002116
+624,Calcitonin,D002116
+625,Peptide Hydrolases,D010447
+626,Peptide Hydrolases,D010447
+627,Peptide Hydrolases,D010447
+628,Gastric Inhibitory Polypeptide,D005749
+629,Gastric Inhibitory Polypeptide,D005749
+630,Gastric Inhibitory Polypeptide,D005749
+631,Insulin Antibodies,D007330
+632,Oxidative Stress,D018384
+633,Nitrosative Stress,D000073039
+634,Endoplasmic Reticulum Stress,D059865
+635,DNA Damage,D004249
+636,Physical Endurance,D010807
+637,Anorexia Nervosa,D000856
+638,Bulimia Nervosa,D052018
+639,Binge-Eating Disorder,D056912
+640,Body Dysmorphic Disorders,D057215
+641,Satiety Response,D012528
+642,"Diabetes Mellitus, Experimental",D003921
+643,Body Weight Maintenance,D000068959
+644,Dietary Exposure,D000074341
+645,Body Weights and Measures,D001837
+646,Body Weights and Measures,D001837
+647,Anti-Obesity Agents,D019440
+648,Appetite Depressants,D001067
+649,Appetite Stimulants,D019167
+650,Insulins,D061385
+651,Vitamin D,D014807
+652,Vitamin D,D014807
+653,Exercise Test,D005080
+654,Blood Glucose Self-Monitoring,D015190
+655,Glucose Tolerance Test,D005951
+656,Glucose Tolerance Test,D005951
+657,Brain-Gut Axis,D000087502

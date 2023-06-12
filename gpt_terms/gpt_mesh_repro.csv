@@ -1,0 +1,714 @@
+,gpt_mesh,series
+0,Reproductive Physiology,gpt_phys
+1,Ovarian Physiology,gpt_phys
+2,Testicular Physiology,gpt_phys
+3,Hormonal Regulation,gpt_phys
+4,Menstrual Cycle,gpt_phys
+5,Ovarian Cycle,gpt_phys
+6,Spermatogenesis,gpt_phys
+7,Gametogenesis,gpt_phys
+8,Fertilization,gpt_phys
+9,Embryonic Development,gpt_phys
+10,Implantation,gpt_phys
+11,Placental Physiology,gpt_phys
+12,Gonadotropins,gpt_phys
+13,Sex Hormones,gpt_phys
+14,Pregnancy,gpt_phys
+15,Parturition,gpt_phys
+16,Lactation,gpt_phys
+17,Endometrial Physiology,gpt_phys
+18,Uterine Physiology,gpt_phys
+19,Fallopian Tube Physiology,gpt_phys
+20,Ovulation,gpt_phys
+21,Ejaculation,gpt_phys
+22,Erectile Function,gpt_phys
+23,Semen Analysis,gpt_phys
+24,Sperm Motility,gpt_phys
+25,Oocyte Maturation,gpt_phys
+26,Zygote,gpt_phys
+27,Embryo,gpt_phys
+28,Trophoblasts,gpt_phys
+29,Gestational Age,gpt_phys
+30,HCG,gpt_phys
+31,Progesterone,gpt_phys
+32,Estrogens,gpt_phys
+33,Androgens,gpt_phys
+34,Prolactin,gpt_phys
+35,Luteinizing Hormone,gpt_phys
+36,Follicle-Stimulating Hormone,gpt_phys
+37,Inhibin,gpt_phys
+38,Relaxin,gpt_phys
+39,GnRH,gpt_phys
+40,Steroid Hormones,gpt_phys
+41,Fetal Development,gpt_phys
+42,Preimplantation Period,gpt_phys
+43,Menopause,gpt_phys
+44,Ovarian Reserve,gpt_phys
+45,Ovarian Follicle,gpt_phys
+46,Corpus Luteum,gpt_phys
+47,Granulosa Cells,gpt_phys
+48,Theca Cells,gpt_phys
+49,Sertoli Cells,gpt_phys
+50,Leydig Cells,gpt_phys
+51,Seminiferous Tubules,gpt_phys
+52,Spermatozoa,gpt_phys
+53,Spermatozoan Acrosome Reaction,gpt_phys
+54,Sperm-Ovum Interactions,gpt_phys
+55,Oviducts,gpt_phys
+56,Uterus,gpt_phys
+57,Myometrium,gpt_phys
+58,Endometrium,gpt_phys
+59,Cervix,gpt_phys
+60,Vagina,gpt_phys
+61,Estrous Cycle,gpt_phys
+62,Menstruation,gpt_phys
+63,Decidual Cells,gpt_phys
+64,Placenta,gpt_phys
+65,Placental Circulation,gpt_phys
+66,Placental Hormones,gpt_phys
+67,Trophoblast Implantation,gpt_phys
+68,Decidua,gpt_phys
+69,Hemochorial Placentation,gpt_phys
+70,Syncytiotrophoblasts,gpt_phys
+71,Cytotrophoblasts,gpt_phys
+72,Fetal Membranes,gpt_phys
+73,Amnion,gpt_phys
+74,Chorion,gpt_phys
+75,Umbilical Cord,gpt_phys
+76,Fetal Blood,gpt_phys
+77,Fetal Nutrition,gpt_phys
+78,Fetal Growth,gpt_phys
+79,Labor Onset,gpt_phys
+80,Cervical Ripening,gpt_phys
+81,Uterine Contraction,gpt_phys
+82,Myometrial Excitability,gpt_phys
+83,Cesarean Section,gpt_phys
+84,Vaginal Birth,gpt_phys
+85,Breast,gpt_phys
+86,Mammary Glands,gpt_phys
+87,Milk Ejection,gpt_phys
+88,Milk Production,gpt_phys
+89,Lactation Disorders,gpt_phys
+90,Breastfeeding,gpt_phys
+91,Fertility,gpt_phys
+92,Infertility,gpt_phys
+93,Contraception,gpt_phys
+94,Contraceptive Agents,gpt_phys
+95,Assisted Reproductive Techniques,gpt_phys
+96,In Vitro Fertilization,gpt_phys
+97,Intracytoplasmic Sperm Injection,gpt_phys
+98,Embryo Transfer,gpt_phys
+99,Oocyte Donation,gpt_phys
+100,Sperm Donors,gpt_phys
+101,Reproductive Techniques,gpt_phys
+102,Reproductive Health,gpt_phys
+103,Reproductive Behavior,gpt_phys
+104,Sexual Behavior,gpt_phys
+105,Libido,gpt_phys
+106,Sexual Development,gpt_phys
+107,Sexual Differentiation,gpt_phys
+108,Sex Chromosomes,gpt_phys
+109,Sexual Maturation,gpt_phys
+110,Puberty,gpt_phys
+111,Sexual Dysfunction,gpt_phys
+112,Sexual Disorders,gpt_phys
+113,Sexually Transmitted Diseases,gpt_phys
+114,Reproductive System Neoplasms,gpt_phys
+115,Testicular Neoplasms,gpt_phys
+116,Ovarian Neoplasms,gpt_phys
+117,Uterine Neoplasms,gpt_phys
+118,Cervical Neoplasms,gpt_phys
+119,Prostatic Neoplasms,gpt_phys
+120,Breast Neoplasms,gpt_phys
+121,"Reproductive Techniques, Assisted",gpt_phys
+122,Prenatal Diagnosis,gpt_phys
+123,Preimplantation Diagnosis,gpt_phys
+124,Genetic Testing,gpt_phys
+125,Genetic Counseling,gpt_phys
+126,"Reproductive Techniques, Reproductive Techniques, Assisted",gpt_phys
+127,Cryopreservation,gpt_phys
+128,"Embryo Implantation, Reproductive Techniques, Assisted",gpt_phys
+129,Oocyte Cryopreservation,gpt_phys
+130,Sperm Cryopreservation,gpt_phys
+131,Zygote Intrafallopian Transfer,gpt_phys
+132,Oocyte Retrieval,gpt_phys
+133,Fertility Preservation,gpt_phys
+134,"Infertility, Female",gpt_phys
+135,"Infertility, Male",gpt_phys
+136,Semen Preservation,gpt_phys
+137,Ejaculatory Dysfunction,gpt_phys
+138,Erectile Dysfunction,gpt_phys
+139,"Genital Diseases, Male",gpt_phys
+140,"Genital Diseases, Female",gpt_phys
+141,"Sexual Dysfunction, Physiological",gpt_phys
+142,Pregnancy Complications,gpt_phys
+143,Pregnancy Outcome,gpt_phys
+144,"Abortion, Spontaneous",gpt_phys
+145,"Abortion, Induced",gpt_phys
+146,"Pregnancy Complications, Infectious",gpt_phys
+147,"Pregnancy Complications, Hematologic",gpt_phys
+148,"Pregnancy Complications, Cardiovascular",gpt_phys
+149,"Pregnancy Complications, Renal",gpt_phys
+150,"Pregnancy Complications, Neoplastic",gpt_phys
+151,"Pregnancy Complications, Parasitic",gpt_phys
+152,"Pregnancy Complications, Respiratory",gpt_phys
+153,"Pregnancy Complications, Gastrointestinal",gpt_phys
+154,"Pregnancy Complications, Dermatologic",gpt_phys
+155,"Pregnancy Complications, Endocrine",gpt_phys
+156,"Pregnancy Complications, Hematologic",gpt_phys
+157,"Pregnancy Complications, Immunologic",gpt_phys
+158,Stillbirth,gpt_phys
+159,Fetal Death,gpt_phys
+160,"Pregnancy, Ectopic",gpt_phys
+161,"Pregnancy, High-Risk",gpt_phys
+162,Pregnancy in Adolescence,gpt_phys
+163,"Pregnancy, Multiple",gpt_phys
+164,"Pregnancy, Unplanned",gpt_phys
+165,Reproductive Health Services,gpt_phys
+166,Family Planning Services,gpt_phys
+167,Sex Education,gpt_phys
+168,Pregnancy Tests,gpt_phys
+169,"Pregnancy, Unwanted",gpt_phys
+170,Prenatal Care,gpt_phys
+171,Perinatal Care,gpt_phys
+172,Prenatal Nutritional Physiological Phenomena,gpt_phys
+173,Maternal Nutritional Physiological Phenomena,gpt_phys
+174,Postpartum Period,gpt_phys
+175,Puerperal Disorders,gpt_phys
+176,Postpartum Hemorrhage,gpt_phys
+177,Postpartum Depression,gpt_phys
+178,Postpartum Psychoses,gpt_phys
+179,Maternal Mortality,gpt_phys
+180,Maternal Health Services,gpt_phys
+181,Perinatal Mortality,gpt_phys
+182,Perinatal Care,gpt_phys
+183,Midwifery,gpt_phys
+184,Obstetrics,gpt_phys
+185,Obstetric Labor Complications,gpt_phys
+186,Obstetric Surgical Procedures,gpt_phys
+187,Cesarean Section,gpt_phys
+188,Vaginal Birth after Cesarean,gpt_phys
+189,"Genitalia, Male",gpt_phys
+190,"Genitalia, Female",gpt_phys
+191,"Genitalia, Male",gpt_phys
+192,"Genitalia, Female",gpt_phys
+193,Gonadal Disorders,gpt_phys
+194,Disorders of Sex Development,gpt_phys
+195,"Puberty, Precocious",gpt_phys
+196,Infertility,gpt_phys
+197,"Reproductive Techniques, Assisted",gpt_phys
+198,Fertility,gpt_phys
+199,Contraception,gpt_phys
+200,"Contraception, Barrier",gpt_phys
+201,"Contraception, Hormonal",gpt_phys
+202,"Contraception, Postcoital",gpt_phys
+203,"Contraception, Intrauterine",gpt_phys
+204,"Contraception, Immunologic",gpt_phys
+205,"Contraception, Natural",gpt_phys
+206,"Contraception, Oral",gpt_phys
+207,"Contraception, Injectable",gpt_phys
+208,"Contraception, Male",gpt_phys
+209,"Contraception, Mechanical",gpt_phys
+210,"Contraception, Voluntary",gpt_phys
+211,"Contraception, Withdrawal",gpt_phys
+212,"Contraception, Emergency",gpt_phys
+213,"Pregnancy, Unplanned",gpt_phys
+214,"Abortion, Induced",gpt_phys
+215,Abortifacient Agents,gpt_phys
+216,Embryo Implantation,gpt_phys
+217,"Embryo Implantation, Delayed",gpt_phys
+218,Fertilization in Vitro,gpt_phys
+219,"Fertilization in Vitro, Human",gpt_phys
+220,"Insemination, Artificial",gpt_phys
+221,Pregnancy in Diabetics,gpt_phys
+222,Gestational Diabetes,gpt_phys
+223,"Infertility, Male",gpt_phys
+224,Erectile Dysfunction,gpt_phys
+225,"Infertility, Female",gpt_phys
+226,Polycystic Ovary Syndrome,gpt_phys
+227,"Infertility, Tubal",gpt_phys
+228,"Infertility, Uterine",gpt_phys
+229,"Infertility, Endocrine",gpt_phys
+230,Ovulation Induction,gpt_phys
+231,"Infertility, Female",gpt_phys
+232,Reproductive Techniques,gpt_phys
+233,Preimplantation Diagnosis,gpt_phys
+234,Preimplantation Diagnosis,gpt_phys
+235,"Preimplantation Diagnosis, Genetic",gpt_phys
+236,Embryo Transfer,gpt_phys
+237,Fertilization in Vitro,gpt_phys
+238,Gamete Intrafallopian Transfer,gpt_phys
+239,"Insemination, Artificial",gpt_phys
+240,"Insemination, Artificial, Homologous",gpt_phys
+241,"Insemination, Artificial, Heterologous",gpt_phys
+242,Oocyte Donation,gpt_phys
+243,Oocyte Retrieval,gpt_phys
+244,Semen Analysis,gpt_phys
+245,Semen Preservation,gpt_phys
+246,Sperm Banks,gpt_phys
+247,"Sperm Injections, Intracytoplasmic",gpt_phys
+248,Sperm Motility,gpt_phys
+249,Spermatozoa,gpt_phys
+250,Fertilization in Vitro,gpt_phys
+251,"Reproductive Techniques, Assisted",gpt_phys
+252,Spermatozoa,gpt_phys
+253,Embryo Implantation,gpt_phys
+254,Ovulation Detection,gpt_phys
+255,Ovulation Induction,gpt_phys
+256,Zygote Intrafallopian Transfer,gpt_phys
+257,Gamete Intrafallopian Transfer,gpt_phys
+258,Fertility Preservation,gpt_phys
+259,Oocyte Cryopreservation,gpt_phys
+260,Semen Cryopreservation,gpt_phys
+261,In Vitro Oocyte Maturation Techniques,gpt_phys
+262,Intrauterine Insemination,gpt_phys
+263,Assisted Reproductive Techniques,gpt_phys
+264,Fertilization in Vitro,gpt_phys
+265,Embryo Transfer,gpt_phys
+266,Intracytoplasmic Sperm Injection,gpt_phys
+267,Oocyte Donation,gpt_phys
+268,Sperm Donors,gpt_phys
+269,"Pregnancy, Multiple",gpt_phys
+270,"Twinning, Monozygotic",gpt_phys
+271,"Twinning, Dizygotic",gpt_phys
+272,Superovulation,gpt_phys
+273,Gynecological Examination,gpt_phys
+274,Prenatal Diagnosis,gpt_phys
+275,Preimplantation Diagnosis,gpt_phys
+276,"Preimplantation Diagnosis, Genetic",gpt_phys
+277,Preconception Care,gpt_phys
+278,Genetic Testing,gpt_phys
+279,Genetic Counseling,gpt_phys
+280,Genetic Screening,gpt_phys
+281,Prenatal Diagnosis,gpt_phys
+282,Preimplantation Diagnosis,gpt_phys
+283,Genetic Testing,gpt_phys
+284,Genetic Counseling,gpt_phys
+285,Preimplantation Diagnosis,gpt_phys
+286,Genetic Testing,gpt_phys
+287,Genetic Counseling,gpt_phys
+288,Genetic Carrier Screening,gpt_phys
+289,Genetic Predisposition to Disease,gpt_phys
+0,Reproductive System Diseases,gpt_path
+1,Infertility,gpt_path
+2,Menstruation Disturbances,gpt_path
+3,Menorrhagia,gpt_path
+4,Amenorrhea,gpt_path
+5,Dysmenorrhea,gpt_path
+6,Oligomenorrhea,gpt_path
+7,Premenstrual Syndrome,gpt_path
+8,Polycystic Ovary Syndrome,gpt_path
+9,Endometriosis,gpt_path
+10,Uterine Diseases,gpt_path
+11,Uterine Fibroids,gpt_path
+12,Uterine Hemorrhage,gpt_path
+13,Uterine Prolapse,gpt_path
+14,Uterine Neoplasms,gpt_path
+15,Ovarian Diseases,gpt_path
+16,Ovarian Cysts,gpt_path
+17,Ovarian Neoplasms,gpt_path
+18,Ovarian Hyperstimulation Syndrome,gpt_path
+19,Fallopian Tube Diseases,gpt_path
+20,Tubal Pregnancy,gpt_path
+21,Salpingitis,gpt_path
+22,Ectopic Pregnancy,gpt_path
+23,Vaginal Diseases,gpt_path
+24,Vaginal Neoplasms,gpt_path
+25,Vaginal Fistula,gpt_path
+26,Vaginitis,gpt_path
+27,Cervix Diseases,gpt_path
+28,Cervical Intraepithelial Neoplasia,gpt_path
+29,Cervical Dysplasia,gpt_path
+30,Cervical Polyps,gpt_path
+31,Cervical Insufficiency,gpt_path
+32,Cervical Inflammation,gpt_path
+33,Cervical Neoplasms,gpt_path
+34,Pelvic Inflammatory Disease,gpt_path
+35,Pelvic Pain,gpt_path
+36,Pelvic Floor Disorders,gpt_path
+37,Endometrial Hyperplasia,gpt_path
+38,Endometritis,gpt_path
+39,Endometrial Neoplasms,gpt_path
+40,Endometrial Polyps,gpt_path
+41,Endometrial Stromal Sarcoma,gpt_path
+42,Endometrial Ablation Techniques,gpt_path
+43,Vulvar Diseases,gpt_path
+44,Vulvar Neoplasms,gpt_path
+45,Vulvitis,gpt_path
+46,Vulvar Lichen Sclerosus,gpt_path
+47,Vulvar Lichen Planus,gpt_path
+48,Vulvar Hemangioma,gpt_path
+49,Vulvar Vestibulitis,gpt_path
+50,Testicular Diseases,gpt_path
+51,Testicular Neoplasms,gpt_path
+52,Testicular Hydrocele,gpt_path
+53,Testicular Torsion,gpt_path
+54,Testicular Injury,gpt_path
+55,Testicular Failure,gpt_path
+56,Orchitis,gpt_path
+57,Epididymitis,gpt_path
+58,Erectile Dysfunction,gpt_path
+59,Varicocele,gpt_path
+60,Prostatic Diseases,gpt_path
+61,Prostatic Hyperplasia,gpt_path
+62,Prostatitis,gpt_path
+63,Prostate Cancer,gpt_path
+64,Benign Prostatic Hyperplasia,gpt_path
+65,Ejaculatory Disorders,gpt_path
+66,Ejaculatory Dysfunction,gpt_path
+67,Premature Ejaculation,gpt_path
+68,Erectile Dysfunction,gpt_path
+69,Penile Diseases,gpt_path
+70,Peyronie Disease,gpt_path
+71,Penile Neoplasms,gpt_path
+72,Priapism,gpt_path
+73,Penile Induration,gpt_path
+74,"Impotence, Vasculogenic",gpt_path
+75,"Impotence, Psychogenic",gpt_path
+76,"Impotence, Organic",gpt_path
+77,"Impotence, Vasculogenic",gpt_path
+78,Erectile Dysfunction,gpt_path
+79,"Impotence, Psychogenic",gpt_path
+80,"Sexual Dysfunction, Physiological",gpt_path
+81,"Sexual Dysfunctions, Psychological",gpt_path
+82,Sexual and Gender Disorders,gpt_path
+83,"Genital Diseases, Male",gpt_path
+84,"Genital Diseases, Female",gpt_path
+85,Fertility Disorders,gpt_path
+86,"Genetic Diseases, Inborn",gpt_path
+87,Congenital Abnormalities,gpt_path
+88,Disorders of Sex Development,gpt_path
+89,Pregnancy Complications,gpt_path
+90,"Abortion, Spontaneous",gpt_path
+91,"Abortion, Induced",gpt_path
+92,Placental Diseases,gpt_path
+93,"Pregnancy Complications, Infectious",gpt_path
+94,"Pregnancy Complications, Hematologic",gpt_path
+95,"Pregnancy Complications, Cardiovascular",gpt_path
+96,"Pregnancy Complications, Renal",gpt_path
+97,"Pregnancy Complications, Neoplastic",gpt_path
+98,"Pregnancy Complications, Parasitic",gpt_path
+99,"Pregnancy Complications, Respiratory",gpt_path
+100,"Pregnancy Complications, Gastrointestinal",gpt_path
+101,"Pregnancy Complications, Dermatologic",gpt_path
+102,"Pregnancy Complications, Endocrine",gpt_path
+103,"Pregnancy Complications, Hematologic",gpt_path
+104,"Pregnancy Complications, Immunologic",gpt_path
+105,Stillbirth,gpt_path
+106,Fetal Death,gpt_path
+107,"Pregnancy, Ectopic",gpt_path
+108,"Pregnancy, High-Risk",gpt_path
+109,Pregnancy in Adolescence,gpt_path
+110,"Pregnancy, Multiple",gpt_path
+111,"Pregnancy, Unplanned",gpt_path
+112,Reproductive Tract Infections,gpt_path
+113,Sexually Transmitted Diseases,gpt_path
+114,HIV Infections,gpt_path
+115,Syphilis,gpt_path
+116,Gonorrhea,gpt_path
+117,Chlamydia Infections,gpt_path
+118,Herpes Genitalis,gpt_path
+119,Trichomonas Infections,gpt_path
+120,Pelvic Inflammatory Disease,gpt_path
+121,Urinary Tract Infections,gpt_path
+122,Genital Herpes,gpt_path
+123,Human Papillomavirus Infections,gpt_path
+124,Chlamydia trachomatis Infections,gpt_path
+125,"Neoplasms, Germ Cell and Embryonal",gpt_path
+126,Ovarian Neoplasms,gpt_path
+127,Testicular Neoplasms,gpt_path
+128,Embryonal Carcinoma,gpt_path
+129,Teratoma,gpt_path
+130,Choriocarcinoma,gpt_path
+131,Gonadal Dysgenesis,gpt_path
+132,Disorders of Sex Development,gpt_path
+133,Germ Cell and Embryonal Neoplasms,gpt_path
+134,Sex Cord-Gonadal Stromal Tumors,gpt_path
+135,Granulosa Cell Tumor,gpt_path
+136,Sertoli-Leydig Cell Tumor,gpt_path
+137,Arrhenoblastoma,gpt_path
+138,Gynandroblastoma,gpt_path
+139,Luteoma,gpt_path
+140,Seminoma,gpt_path
+141,Dysgerminoma,gpt_path
+142,Mixed Germ Cell Tumor,gpt_path
+143,Ovarian Epithelial Neoplasms,gpt_path
+144,"Cystadenocarcinoma, Serous",gpt_path
+145,"Cystadenocarcinoma, Mucinous",gpt_path
+146,Brenner Tumor,gpt_path
+147,Ovarian Cysts,gpt_path
+148,Ovarian Hyperstimulation Syndrome,gpt_path
+149,"Ovarian Hyperstimulation Syndrome, Controlled",gpt_path
+150,Endometrial Hyperplasia,gpt_path
+151,Endometrial Neoplasms,gpt_path
+152,Uterine Neoplasms,gpt_path
+153,Endometriosis,gpt_path
+154,Adenomyosis,gpt_path
+155,Cervical Intraepithelial Neoplasia,gpt_path
+156,Cervical Dysplasia,gpt_path
+157,Cervical Polyps,gpt_path
+158,Cervical Neoplasms,gpt_path
+159,Vulvar Neoplasms,gpt_path
+160,Vulvar Intraepithelial Neoplasia,gpt_path
+161,Vulvar Lichen Sclerosus,gpt_path
+162,Vulvar Lichen Planus,gpt_path
+163,Vaginal Neoplasms,gpt_path
+164,Vaginal Intraepithelial Neoplasia,gpt_path
+165,Vaginal Fistula,gpt_path
+166,Vulvar Hemangioma,gpt_path
+167,Vulvar Vestibulitis,gpt_path
+168,Vulvar Inflammation,gpt_path
+169,Testicular Neoplasms,gpt_path
+170,Seminoma,gpt_path
+171,Teratoma,gpt_path
+172,Embryonal Carcinoma,gpt_path
+173,Choriocarcinoma,gpt_path
+174,Testicular Hydrocele,gpt_path
+175,Varicocele,gpt_path
+176,Testicular Failure,gpt_path
+177,Testicular Injury,gpt_path
+178,"Hydrocele, Spermatic",gpt_path
+179,Erectile Dysfunction,gpt_path
+180,Penile Diseases,gpt_path
+181,Penile Induration,gpt_path
+182,Peyronie Disease,gpt_path
+183,Prostatic Neoplasms,gpt_path
+184,Prostatic Hyperplasia,gpt_path
+185,Prostatitis,gpt_path
+186,Prostatic Intraepithelial Neoplasia,gpt_path
+187,Ejaculatory Disorders,gpt_path
+188,Prostatic Diseases,gpt_path
+189,Orchitis,gpt_path
+190,Epididymitis,gpt_path
+191,"Infertility, Male",gpt_path
+192,Male Urogenital Diseases,gpt_path
+193,"Genital Diseases, Male",gpt_path
+194,"Genital Diseases, Female",gpt_path
+195,"Infertility, Female",gpt_path
+196,Menstruation Disturbances,gpt_path
+197,Premenstrual Syndrome,gpt_path
+198,Menorrhagia,gpt_path
+199,Amenorrhea,gpt_path
+200,Dysmenorrhea,gpt_path
+201,Oligomenorrhea,gpt_path
+202,Polycystic Ovary Syndrome,gpt_path
+203,Endometrial Hyperplasia,gpt_path
+204,Endometritis,gpt_path
+205,Endometriosis,gpt_path
+206,Pelvic Inflammatory Disease,gpt_path
+207,Uterine Hemorrhage,gpt_path
+208,Uterine Prolapse,gpt_path
+209,Uterine Fibroids,gpt_path
+210,Uterine Neoplasms,gpt_path
+211,Ovarian Cysts,gpt_path
+212,Ovarian Neoplasms,gpt_path
+213,Fallopian Tube Diseases,gpt_path
+214,Vaginal Fistula,gpt_path
+215,Vaginal Neoplasms,gpt_path
+216,Vaginitis,gpt_path
+217,Cervical Intraepithelial Neoplasia,gpt_path
+218,Cervical Dysplasia,gpt_path
+219,Cervical Polyps,gpt_path
+220,Cervical Neoplasms,gpt_path
+221,Pelvic Pain,gpt_path
+222,Endometrial Neoplasms,gpt_path
+223,Vulvar Diseases,gpt_path
+224,Vulvar Neoplasms,gpt_path
+225,Vulvitis,gpt_path
+226,Vulvar Lichen Sclerosus,gpt_path
+227,Vulvar Lichen Planus,gpt_path
+228,Vulvar Hemangioma,gpt_path
+229,Vulvar Vestibulitis,gpt_path
+230,Gonadal Disorders,gpt_path
+231,Disorders of Sex Development,gpt_path
+232,Hermaphroditism,gpt_path
+233,"46, XX Disorders of Sex Development",gpt_path
+234,"46, XY Disorders of Sex Development",gpt_path
+235,Puberty Disorders,gpt_path
+236,Precocious Puberty,gpt_path
+237,Delayed Puberty,gpt_path
+238,Primary Ovarian Insufficiency,gpt_path
+239,Turner Syndrome,gpt_path
+240,Klinefelter Syndrome,gpt_path
+241,Androgen-Insensitivity Syndrome,gpt_path
+242,Gonadal Dysgenesis,gpt_path
+243,Ovarian Hyperstimulation Syndrome,gpt_path
+244,Menopause,gpt_path
+245,Postmenopause,gpt_path
+246,Premature Menopause,gpt_path
+247,"Ovarian Failure, Premature",gpt_path
+248,"Genital Diseases, Female",gpt_path
+249,Pelvic Floor Disorders,gpt_path
+250,Uterine Prolapse,gpt_path
+251,Rectocele,gpt_path
+252,Cystocele,gpt_path
+253,Enterocele,gpt_path
+254,Genital Prolapse,gpt_path
+255,Fistula,gpt_path
+256,Rectovaginal Fistula,gpt_path
+257,Vesicovaginal Fistula,gpt_path
+258,Urethrovaginal Fistula,gpt_path
+259,"Anal Canal, Imperforate",gpt_path
+260,Pelvic Organ Prolapse,gpt_path
+261,Posthysterectomy Vault Prolapse,gpt_path
+262,Bladder Exstrophy,gpt_path
+263,Urinary Incontinence,gpt_path
+264,Stress Urinary Incontinence,gpt_path
+0,In Vitro Fertilization,gpt_jolly
+1,Embryo Transfer,gpt_jolly
+2,Intracytoplasmic Sperm Injection,gpt_jolly
+3,Gamete Intrafallopian Transfer,gpt_jolly
+4,Ovulation Induction,gpt_jolly
+5,Assisted Reproductive Techniques,gpt_jolly
+6,Cryopreservation,gpt_jolly
+7,"Reproductive Techniques, Assisted",gpt_jolly
+8,Embryo Culture Techniques,gpt_jolly
+9,Fertilization in Vitro,gpt_jolly
+10,Pregnancy Rate,gpt_jolly
+11,Oocyte Retrieval,gpt_jolly
+12,Embryo Implantation,gpt_jolly
+13,Fertility Preservation,gpt_jolly
+14,Ovarian Stimulation,gpt_jolly
+15,Assisted Hatching,gpt_jolly
+16,Reproductive Medicine,gpt_jolly
+17,Semen Analysis,gpt_jolly
+18,Egg Donation,gpt_jolly
+19,Sperm Banks,gpt_jolly
+20,Spermatozoa,gpt_jolly
+21,Oocytes,gpt_jolly
+22,Micromanipulation,gpt_jolly
+23,Follicular Phase,gpt_jolly
+24,Gonadotropins,gpt_jolly
+25,Embryo Development,gpt_jolly
+26,Embryo Quality,gpt_jolly
+27,Zygote Intrafallopian Transfer,gpt_jolly
+28,Intracytoplasmic Sperm Injections,gpt_jolly
+29,Ovarian Reserve,gpt_jolly
+30,Follicle Stimulating Hormone,gpt_jolly
+31,Luteinizing Hormone,gpt_jolly
+32,Blastocyst,gpt_jolly
+33,Fertilization,gpt_jolly
+34,"Cleavage Stage, Ovum",gpt_jolly
+35,"Embryo Implantation, Delayed",gpt_jolly
+36,Embryo Transfer Techniques,gpt_jolly
+37,Egg Retrieval,gpt_jolly
+38,Egg Yolk,gpt_jolly
+39,Fertilization Techniques,gpt_jolly
+40,"Insemination, Artificial",gpt_jolly
+41,Oocyte Donation,gpt_jolly
+42,"Sperm Injections, Intracytoplasmic",gpt_jolly
+43,Sperm Motility,gpt_jolly
+44,Testicular Sperm Extraction,gpt_jolly
+45,Zona Pellucida,gpt_jolly
+46,Semen Preservation,gpt_jolly
+47,Ovarian Follicle,gpt_jolly
+48,Embryo Loss,gpt_jolly
+49,Semen,gpt_jolly
+50,Sperm Capacitation,gpt_jolly
+51,Sperm Count,gpt_jolly
+52,Sperm Maturation,gpt_jolly
+53,Sperm Transport,gpt_jolly
+54,Sperm-Ovum Interactions,gpt_jolly
+55,Uterine Contraction,gpt_jolly
+56,Zygote,gpt_jolly
+57,Blastomeres,gpt_jolly
+58,Oocyte Maturation,gpt_jolly
+59,Pronuclear Stage,gpt_jolly
+60,Ovarian Failure,gpt_jolly
+61,Ovum Transport,gpt_jolly
+62,"Spermatozoa, Immobilized",gpt_jolly
+63,Ejaculation,gpt_jolly
+64,"Fertilization in vitro, Intracytoplasmic",gpt_jolly
+65,"Fertilization in vitro, Delayed",gpt_jolly
+66,Follicular Atresia,gpt_jolly
+67,Gamete Donors,gpt_jolly
+68,Ovary,gpt_jolly
+69,Pregnancy Outcome,gpt_jolly
+70,Progesterone,gpt_jolly
+71,Reproduction,gpt_jolly
+72,Sperm Agglutination,gpt_jolly
+73,"Spermatozoa, Abnormal",gpt_jolly
+74,Spermatogenesis,gpt_jolly
+75,Testicular Diseases,gpt_jolly
+76,Uterine Hemorrhage,gpt_jolly
+77,Zygote Intrafallopian Transfer Techniques,gpt_jolly
+78,Assisted Reproductive Technology,gpt_jolly
+79,In Vitro Oocyte Maturation Techniques,gpt_jolly
+80,"Semen Analysis, Computer-Assisted",gpt_jolly
+81,Sperm Capacitation Test,gpt_jolly
+82,Sperm Retrieval,gpt_jolly
+83,Sperm-Ovum Fusion,gpt_jolly
+84,Sperm-Ovum Junction,gpt_jolly
+85,Testicular Neoplasms,gpt_jolly
+86,Transvaginal Oocyte Retrieval,gpt_jolly
+87,"Zygote Intrafallopian Transfer, Heterotopic",gpt_jolly
+88,Ovarian Hyperstimulation Syndrome,gpt_jolly
+89,"Pregnancy, Multiple",gpt_jolly
+90,"Embryo Transfer, Delayed",gpt_jolly
+91,"Pregnancy, Ectopic",gpt_jolly
+92,"Pregnancy, Tubal",gpt_jolly
+93,"Pregnancy, High-Risk",gpt_jolly
+94,Sperm Head,gpt_jolly
+95,Sperm Tail,gpt_jolly
+96,Sperm Tail Defects,gpt_jolly
+97,Sperm Midpiece,gpt_jolly
+98,Epididymis,gpt_jolly
+99,Semen Preservation Techniques,gpt_jolly
+100,Fertility Agents,gpt_jolly
+101,Ovulation Prediction,gpt_jolly
+102,"Pregnancy, Multiple, Twin",gpt_jolly
+103,"Pregnancy, Multiple, Triplet",gpt_jolly
+104,Cryoprotective Agents,gpt_jolly
+105,"Cryopreservation, Liquid Nitrogen",gpt_jolly
+106,"Cryopreservation, Vitrification",gpt_jolly
+107,Fallopian Tubes,gpt_jolly
+108,Cervical Mucus,gpt_jolly
+109,"Reproductive Techniques, Assisted, Heterotopic",gpt_jolly
+110,Egg Proteins,gpt_jolly
+111,"Zygote Intrafallopian Transfer, Homologous",gpt_jolly
+112,"Fertilization in Vitro, Homologous",gpt_jolly
+113,"Fertilization in Vitro, Intracytoplasmic, Homologous",gpt_jolly
+114,"Fertilization in Vitro, Delayed, Homologous",gpt_jolly
+115,"Sperm Injections, Intracytoplasmic, Homologous",gpt_jolly
+116,"Gamete Intrafallopian Transfer, Homologous",gpt_jolly
+117,"Insemination, Artificial, Homologous",gpt_jolly
+118,"Embryo Transfer, Homologous",gpt_jolly
+119,"Embryo Transfer, Delayed, Homologous",gpt_jolly
+120,"Oocyte Retrieval, Homologous",gpt_jolly
+121,"Ovulation Induction, Homologous",gpt_jolly
+122,"Ovulation Prediction, Homologous",gpt_jolly
+123,Ovum Donation,gpt_jolly
+124,"In Vitro Oocyte Maturation Techniques, Homologous",gpt_jolly
+125,"Semen Analysis, Computer-Assisted, Homologous",gpt_jolly
+126,"Sperm Capacitation Test, Homologous",gpt_jolly
+127,"Sperm Retrieval, Homologous",gpt_jolly
+128,"Sperm-Ovum Fusion, Homologous",gpt_jolly
+129,"Sperm-Ovum Junction, Homologous",gpt_jolly
+130,"Testicular Neoplasms, Homologous",gpt_jolly
+131,"Transvaginal Oocyte Retrieval, Homologous",gpt_jolly
+132,"Embryo Culture Techniques, Homologous",gpt_jolly
+133,"Follicular Phase, Homologous",gpt_jolly
+134,"Gonadotropins, Homologous",gpt_jolly
+135,"Embryo Development, Homologous",gpt_jolly
+136,"Embryo Quality, Homologous",gpt_jolly
+137,"Zygote Intrafallopian Transfer, Homologous",gpt_jolly
+138,"Intracytoplasmic Sperm Injections, Homologous",gpt_jolly
+139,"Ovarian Reserve, Homologous",gpt_jolly
+140,"Follicle Stimulating Hormone, Homologous",gpt_jolly
+141,"Luteinizing Hormone, Homologous",gpt_jolly
+142,"Blastocyst, Homologous",gpt_jolly
+143,"Fertilization, Homologous",gpt_jolly
+144,"Cleavage Stage, Ovum, Homologous",gpt_jolly
+145,"Embryo Implantation, Delayed, Homologous",gpt_jolly
+146,"Embryo Transfer Techniques, Homologous",gpt_jolly
+147,"Egg Retrieval, Homologous",gpt_jolly
+148,"Egg Yolk, Homologous",gpt_jolly
+149,"Fertilization Techniques, Homologous",gpt_jolly
+150,"Insemination, Artificial, Homologous",gpt_jolly
+151,"Oocyte Donation, Homologous",gpt_jolly
+152,"Sperm Injections, Intracytoplasmic, Homologous",gpt_jolly
+153,"Sperm Motility, Homologous",gpt_jolly
+154,"Testicular Sperm Extraction, Homologous",gpt_jolly
+155,"Zona Pellucida, Homologous",gpt_jolly
+156,"Semen Preservation, Homologous",gpt_jolly
+157,Ovarian Follicle,gpt_jolly
