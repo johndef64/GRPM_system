@@ -1,0 +1,28 @@
+how to convert automatically  a jupyter notebok into a py file that separates cell with %% 
+ChatGPT
+To automatically convert a Jupyter Notebook into a Python script (.py) file while separating the cells with %%, you can use the nbconvert library, which is a part of Jupyter ecosystem. Here's how you can do it:
+
+Install nbconvert if you haven't already done so. You can use pip to install it:
+shell
+Copy code
+pip install nbconvert
+Once you have nbconvert installed, you can use the --to script option to convert the Jupyter Notebook to a Python script. By default, it will separate the cells with # %% comments. Open a terminal or command prompt and navigate to the directory where your Jupyter Notebook (e.g., example.ipynb) is located. Then run the following command:
+shell
+Copy code
+jupyter nbconvert --to script example.ipynb
+This command converts the Jupyter Notebook file example.ipynb into a Python script file named example.py. Each cell will be separated with a comment line # %%.
+
+Note: Make sure you have Jupyter Notebook installed and added to your system's PATH variable for the jupyter command to work.
+
+Once the conversion is complete, you can open the generated .py file in your favorite text editor or IDE to view and work with the separated code cells.
+
+Please let me know if you need any further assistance!
+
+# add here your jupyter to convert
+jupyter nbconvert --to script GRPM_01_database_builder.ipynb
+jupyter nbconvert --to script GRPM_02_ref-mesh_builder.ipynb
+jupyter nbconvert --to script GRPM_03_database_survey.ipynb
+jupyter nbconvert --to script GRPM_04_data-analyzer.ipynb
+jupyter nbconvert --to script GRPM_05_gwas_data_analyzer.ipyn
+
+#paste block into shell
