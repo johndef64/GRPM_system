@@ -1,0 +1,134 @@
+,gpt_terms,series
+0,Xenobiotics,gpt_01
+1,Metabolism,gpt_01
+2,Biotransformation,gpt_01
+3,Cytochrome P-450 Enzyme System,gpt_01
+4,Phase I Metabolic Detoxication,gpt_01
+5,Phase II Metabolic Detoxication,gpt_01
+6,Oxidation-Reduction,gpt_01
+7,Hydroxylation,gpt_01
+8,Dealkylation,gpt_01
+9,Deamination,gpt_01
+10,Glucuronidation,gpt_01
+11,Conjugation,gpt_01
+12,Amination,gpt_01
+13,Glycosylation,gpt_01
+14,Sulfation,gpt_01
+15,Methylation,gpt_01
+16,Acetylation,gpt_01
+17,Glutathione Transferase,gpt_01
+18,"Conjugation, Genetic",gpt_01
+20,Absorption,gpt_01
+22,Excretion,gpt_01
+23,Half-Life,gpt_01
+24,Clearance,gpt_01
+25,Bioavailability,gpt_01
+26,Blood-Brain Barrier,gpt_01
+27,Blood-Air Barrier,gpt_01
+28,Blood-Retinal Barrier,gpt_01
+29,Blood-Testis Barrier,gpt_01
+30,Placental Barrier,gpt_01
+31,Biological Transport,gpt_01
+32,"Active Transport, Cell Nucleus",gpt_01
+33,Facilitated Diffusion,gpt_01
+34,Endocytosis,gpt_01
+35,Exocytosis,gpt_01
+36,Transcytosis,gpt_01
+37,Xenobiotics,gpt_01
+39,Cytochrome P-450 Enzyme System,gpt_01
+40,Phase I Metabolic Detoxication,gpt_01
+41,Phase II Metabolic Detoxication,gpt_01
+42,Toxicokinetics,gpt_01
+43,Biotransformation,gpt_01
+44,Glutathione Transferase,gpt_01
+45,Oxidoreductases,gpt_01
+47,Enzyme Induction,gpt_01
+49,Enzyme Inhibitors,gpt_01
+52,Liver,gpt_01
+53,Toxicity Tests,gpt_01
+55,Metabolomics,gpt_01
+57,Liver Microsomes,gpt_01
+58,"Liver Neoplasms, Experimental",gpt_01
+60,"Polymorphism, Genetic",gpt_01
+62,Toxicity,gpt_01
+63,Hepatocytes,gpt_01
+64,Carboxylesterase,gpt_01
+65,Aryl Hydrocarbon Hydroxylases,gpt_01
+66,Mixed Function Oxygenases,gpt_01
+67,Uridine Diphosphate Glucuronic Acid,gpt_01
+71,Glutathione,gpt_01
+72,Metabolome,gpt_01
+73,Toxicokinetics,gpt_01
+74,"Receptors, Aryl Hydrocarbon",gpt_01
+75,P-Glycoprotein,gpt_01
+76,Hepatocytes,gpt_01
+79,Cytochrome P-450,gpt_01
+80,CYP1A2,gpt_01
+83,Oxidative Stress,gpt_01
+85,Uridine Diphosphate Glucuronic Acid,gpt_01
+86,Liver,gpt_01
+87,Enzyme Induction,gpt_01
+90,Liver Diseases,gpt_01
+93,"Liver Neoplasms, Experimental",gpt_01
+94,Liver Microsomes,gpt_01
+97,"Liver Cirrhosis, Experimental",gpt_01
+98,Liver Failure,gpt_01
+99,Liver Function Tests,gpt_01
+100,Liver Regeneration,gpt_01
+101,Toxicology,gpt_01
+102,Toxicity Tests,gpt_01
+105,"Liver Diseases, Alcoholic",gpt_01
+106,Liver Transplantation,gpt_01
+107,Toxicity,gpt_01
+108,Toxicology,gpt_01
+110,Polypharmacy,gpt_01
+111,Toxicology,gpt_01
+112,Toxicogenetics,gpt_01
+113,Toxicology,gpt_01
+114,"Toxicology, Environmental",gpt_01
+115,"Toxicology, Forensic",gpt_01
+116,"Toxicology, Legal",gpt_01
+118,"Toxicology, Veterinary",gpt_01
+119,Toxicology Tests,gpt_01
+120,"Toxicology, Clinical",gpt_01
+121,Toxicity Tests,gpt_01
+122,"Toxicity Tests, Acute",gpt_01
+123,"Toxicity Tests, Chronic",gpt_01
+124,"Toxicity Tests, Subacute",gpt_01
+125,"Toxicity Tests, Subchronic",gpt_01
+126,"Toxicity Tests, Sublethal",gpt_01
+127,"Toxicity Tests, Mutagenicity",gpt_01
+128,"Toxicity Tests, Reproduction",gpt_01
+129,"Toxicity Tests, Teratogenicity",gpt_01
+130,Xenobiotics,gpt_01
+131,Environmental Pollutants,gpt_01
+132,"Water Pollutants, Chemical",gpt_01
+133,Soil Pollutants,gpt_01
+134,Air Pollutants,gpt_01
+135,Pesticides,gpt_01
+138,Food Additives,gpt_01
+139,"Radiation, Ionizing",gpt_01
+140,"Radiation, Nonionizing",gpt_01
+141,Toxicity,gpt_01
+142,Toxicology,gpt_01
+143,"Toxicology, Environmental",gpt_01
+144,"Toxicology, Forensic",gpt_01
+145,"Toxicology, Legal",gpt_01
+147,"Toxicology, Veterinary",gpt_01
+154,Polypharmacy,gpt_01
+155,Toxicogenetics,gpt_01
+158,Liver Diseases,gpt_01
+159,"Liver Cirrhosis, Experimental",gpt_01
+160,Liver Failure,gpt_01
+161,Liver Function Tests,gpt_01
+162,"Liver Neoplasms, Experimental",gpt_01
+163,Liver Regeneration,gpt_01
+164,Liver Transplantation,gpt_01
+165,Carboxylesterase,gpt_01
+166,Aryl Hydrocarbon Hydroxylases,gpt_01
+167,Mixed Function Oxygenases,gpt_01
+168,Glutathione Transferase,gpt_01
+169,"Receptors, Aryl Hydrocarbon",gpt_01
+170,P-Glycoprotein,gpt_01
+171,Cytochrome P-450 CYP1A2,gpt_01
+172,Oxidative Stress,gpt_01

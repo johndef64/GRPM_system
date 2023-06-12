@@ -1,0 +1,233 @@
+,gpt_terms,series
+0,Obesity,gpt_phys
+1,Overweight,gpt_phys
+2,Body Weight,gpt_phys
+3,Weight Gain,gpt_phys
+4,Weight Loss,gpt_phys
+5,Body Mass Index,gpt_phys
+6,Waist Circumference,gpt_phys
+7,Adiposity,gpt_phys
+8,Abdominal Fat,gpt_phys
+9,Visceral Fat,gpt_phys
+10,Subcutaneous Fat,gpt_phys
+11,Body Composition,gpt_phys
+12,Body Fat Distribution,gpt_phys
+13,Energy Intake,gpt_phys
+14,Energy Expenditure,gpt_phys
+15,Basal Metabolism,gpt_phys
+16,Physical Fitness,gpt_phys
+17,Exercise,gpt_phys
+18,Diet,gpt_phys
+19,Eating,gpt_phys
+20,Appetite,gpt_phys
+21,Satiety,gpt_phys
+22,Binge Eating,gpt_phys
+23,Feeding Behavior,gpt_phys
+24,Food Preferences,gpt_phys
+25,Nutritional Status,gpt_phys
+26,Caloric Restriction,gpt_phys
+27,Dietary Fats,gpt_phys
+28,Dietary Carbohydrates,gpt_phys
+29,Dietary Proteins,gpt_phys
+30,Dietary Fiber,gpt_phys
+31,Glycemic Index,gpt_phys
+32,Insulin Resistance,gpt_phys
+33,Leptin,gpt_phys
+34,Ghrelin,gpt_phys
+35,Peptide YY,gpt_phys
+36,Hunger,gpt_phys
+37,Metabolic Syndrome,gpt_phys
+38,Cardiovascular Diseases,gpt_phys
+39,Type 2 Diabetes Mellitus,gpt_phys
+40,Hypertension,gpt_phys
+41,Dyslipidemias,gpt_phys
+42,Nonalcoholic Fatty Liver Disease,gpt_phys
+43,"Sleep Apnea, Obstructive",gpt_phys
+44,Polycystic Ovary Syndrome,gpt_phys
+45,Bariatric Surgery,gpt_phys
+46,Anti-Obesity Agents,gpt_phys
+47,Weight Reduction Programs,gpt_phys
+48,Lifestyle Modification,gpt_phys
+49,Behavior Therapy,gpt_phys
+50,Cognitive Therapy,gpt_phys
+51,Pharmacotherapy,gpt_phys
+52,Diet Therapy,gpt_phys
+53,Physical Therapy Modalities,gpt_phys
+54,Exercise Therapy,gpt_phys
+55,Drug Therapy,gpt_phys
+56,"Diet, Reducing",gpt_phys
+57,Weight Loss Maintenance,gpt_phys
+58,Weight Loss Interventions,gpt_phys
+59,Weight Loss Programs,gpt_phys
+60,Dietary Supplements,gpt_phys
+61,Meal Replacement,gpt_phys
+62,Nutrition Assessment,gpt_phys
+63,Metabolomics,gpt_phys
+64,Gene Expression Profiling,gpt_phys
+65,Genome-Wide Association Study,gpt_phys
+66,"Polymorphism, Single Nucleotide",gpt_phys
+67,Epigenomics,gpt_phys
+68,Microbiota,gpt_phys
+69,Gut Microbiota,gpt_phys
+70,Metagenomics,gpt_phys
+71,"Obesity, Abdominal",gpt_phys
+72,"Obesity, Morbid",gpt_phys
+73,Anti-Obesity Agents,gpt_phys
+74,"Diet, Mediterranean",gpt_phys
+75,Physical Education and Training,gpt_phys
+76,Weight-Bearing,gpt_phys
+77,Walking,gpt_phys
+78,Resistance Training,gpt_phys
+79,Physical Exertion,gpt_phys
+80,Cardiorespiratory Fitness,gpt_phys
+81,Metabolic Equivalent,gpt_phys
+82,Body Size,gpt_phys
+83,Sedentary Behavior,gpt_phys
+84,Weight Stigma,gpt_phys
+85,Weight Perception,gpt_phys
+86,Weight Control,gpt_phys
+87,Weight Cycling,gpt_phys
+88,Healthy Lifestyle,gpt_phys
+89,Childhood Obesity,gpt_phys
+90,Adolescent Obesity,gpt_phys
+91,Obesity in Women,gpt_phys
+92,Obesity in Men,gpt_phys
+93,"Obesity, Metabolically Benign",gpt_phys
+94,Bulimia Nervosa,gpt_phys
+95,Anorexia Nervosa,gpt_phys
+96,Eating Disorders,gpt_phys
+97,Food Labeling,gpt_phys
+98,Healthy Diet,gpt_phys
+99,Preventive Health Services,gpt_phys
+100,Public Health,gpt_phys
+101,Health Promotion,gpt_phys
+102,Health Education,gpt_phys
+103,Primary Prevention,gpt_phys
+104,Secondary Prevention,gpt_phys
+105,Tertiary Prevention,gpt_phys
+106,Risk Factors,gpt_phys
+107,Obesity Paradox,gpt_phys
+108,Adipose Tissue,gpt_phys
+109,White Adipose Tissue,gpt_phys
+110,Brown Adipose Tissue,gpt_phys
+111,Adipokines,gpt_phys
+112,Inflammation,gpt_phys
+113,Insulin,gpt_phys
+114,Insulin Sensitivity,gpt_phys
+115,Insulin Secretion,gpt_phys
+116,Glucose Metabolism Disorders,gpt_phys
+117,Intra-Abdominal Fat,gpt_phys
+118,Physical Activity,gpt_phys
+119,Leisure Activities,gpt_phys
+120,Occupational Health,gpt_phys
+121,Sports,gpt_phys
+122,Health Behavior,gpt_phys
+123,Body Image,gpt_phys
+124,Weight Loss Products,gpt_phys
+125,Health Surveys,gpt_phys
+126,Risk Reduction Behavior,gpt_phys
+127,Body Height,gpt_phys
+128,Metabolic Diseases,gpt_phys
+129,Metabolic Syndrome X,gpt_phys
+130,"Diabetes Mellitus, Type 2",gpt_phys
+131,Health,gpt_phys
+132,Health Status,gpt_phys
+133,Wellness Programs,gpt_phys
+134,Quality of Life,gpt_phys
+135,Mental Health,gpt_phys
+136,Depression,gpt_phys
+137,"Stress, Psychological",gpt_phys
+139,Pregnancy Complications,gpt_phys
+140,Maternal Obesity,gpt_phys
+141,Pediatric Obesity,gpt_phys
+143,Public Health Surveillance,gpt_phys
+144,Genetic Predisposition to Disease,gpt_phys
+145,Feeding and Eating Disorders,gpt_phys
+146,Diet Records,gpt_phys
+147,Infant Nutritional Physiological Phenomena,gpt_phys
+148,Adipogenesis,gpt_phys
+149,Metabolic Networks and Pathways,gpt_phys
+150,Nutrigenomics,gpt_phys
+151,Energy Metabolism,gpt_phys
+152,"Diet, High-Fat",gpt_phys
+153,"Diet, Mediterranean",gpt_phys
+154,"Diet, Protein-Restricted",gpt_phys
+155,Dietary Approaches To Stop Hypertension,gpt_phys
+156,Dietary Sucrose,gpt_phys
+158,Genome-Wide Association Study,gpt_phys
+159,Metabolome,gpt_phys
+160,Metabolomics,gpt_phys
+161,Microbiome,gpt_phys
+162,Microbiota,gpt_phys
+163,Nutrigenetics,gpt_phys
+168,Weightlessness,gpt_phys
+169,Weightlessness Countermeasures,gpt_phys
+170,Weightlessness Simulation,gpt_phys
+171,Aptitude,gpt_phys
+172,Impulsive Behavior,gpt_phys
+173,Life Style,gpt_phys
+174,Sleep,gpt_phys
+175,Social Support,gpt_phys
+176,"Adipose Tissue, White",gpt_phys
+177,"Diet, Carbohydrate-Restricted",gpt_phys
+178,Epidemiologic Methods,gpt_phys
+179,Epidemiologic Research Design,gpt_phys
+180,Intervention Studies,gpt_phys
+181,Nutritional Physiological Phenomena,gpt_phys
+182,Weight-Bearing Exercise,gpt_phys
+183,Glycemic Load,gpt_phys
+184,Satiation,gpt_phys
+186,Waist-Hip Ratio,gpt_phys
+187,"Adipose Tissue, Brown",gpt_phys
+188,Exercise Therapy,gpt_phys
+189,Motor Activity,gpt_phys
+190,Obesity Hypoventilation Syndrome,gpt_phys
+191,"Obesity, Metabolically Benign",gpt_phys
+192,Dietary Approaches to Stop Hypertension,gpt_phys
+193,Dietary Fiber,gpt_phys
+194,Dietary Proteins,gpt_phys
+195,Dietary Sucrose,gpt_phys
+196,Dietary Supplements,gpt_phys
+197,Meal Replacement,gpt_phys
+198,Nutrition Assessment,gpt_phys
+199,Nutrition Policy,gpt_phys
+200,Nutrition Therapy,gpt_phys
+201,Body Size,gpt_phys
+202,Energy Intake,gpt_phys
+203,Energy Metabolism,gpt_phys
+204,Physical Endurance,gpt_phys
+205,Walking,gpt_phys
+206,Weight Stigma,gpt_phys
+207,Weight Perception,gpt_phys
+208,Weight Control,gpt_phys
+209,Weight Cycling,gpt_phys
+210,Healthy Lifestyle,gpt_phys
+211,Childhood Obesity,gpt_phys
+212,Adolescent Obesity,gpt_phys
+213,Obesity in Women,gpt_phys
+214,Obesity in Men,gpt_phys
+215,"Obesity, Morbid",gpt_phys
+216,Bulimia Nervosa,gpt_phys
+217,Anorexia Nervosa,gpt_phys
+218,Eating Disorders,gpt_phys
+219,Food Labeling,gpt_phys
+220,Healthy Diet,gpt_phys
+221,Health Promotion,gpt_phys
+222,Health Education,gpt_phys
+223,Primary Prevention,gpt_phys
+224,Secondary Prevention,gpt_phys
+225,Tertiary Prevention,gpt_phys
+226,Risk Factors,gpt_phys
+227,Obesity Paradox,gpt_phys
+228,Health Surveys,gpt_phys
+229,Risk Reduction Behavior,gpt_phys
+230,Metabolic Diseases,gpt_phys
+231,Metabolic Syndrome X,gpt_phys
+232,"Diabetes Mellitus, Type 2",gpt_phys
+233,Health,gpt_phys
+234,Health Status,gpt_phys
+235,Wellness Programs,gpt_phys
+236,Quality of Life,gpt_phys
+237,Mental Health,gpt_phys
+238,Depression,gpt_phys
+239,"Stress, Psychological",gpt_phys
