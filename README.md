@@ -2,7 +2,7 @@
 
 The GRPM (Gene-Rsid-Pmid-Mesh) system is designed to facilitate the integration and analysis of genetic polymorphism data associated with nutrition. The system consists of five modules, each serving a specific purpose and requiring different Python modules. Here's an overview of each module:
 
-- [Module 01: Database Builder](#module-01:-database-builder)
+- [Module 01: Database Builder](##module-01:-database-builder)
 - [Where to get it](#where-to-get-it)
 - [Dependencies](#dependencies)
 - [Installation from sources](#installation-from-sources)
