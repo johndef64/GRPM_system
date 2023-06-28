@@ -74,10 +74,6 @@
 72,Insulin Receptor Substrate Proteins,Biologically Active Substance,D055504
 81,Glucose Metabolism Disorders,Disease or Syndrome,D044882
 82,Glucose Metabolism Disorders,Disease or Syndrome,D044882
-83,"Muscle, Skeletal","Body Part, Organ, or Organ Component",D018482
-84,"Muscle, Skeletal","Body Part, Organ, or Organ Component",D018482
-85,"Muscle, Skeletal",Tissue,D018482
-86,"Muscle, Skeletal",Tissue,D018482
 91,Intercellular Signaling Peptides and Proteins,"Amino Acid, Peptide, or Protein",D036341
 92,Intercellular Signaling Peptides and Proteins,"Amino Acid, Peptide, or Protein",D036341
 93,Intercellular Signaling Peptides and Proteins,Biologically Active Substance,D036341
@@ -110,15 +106,10 @@
 120,Ghrelin,"Amino Acid, Peptide, or Protein",D054439
 121,Ghrelin,Hormone,D054439
 122,Ghrelin,Hormone,D054439
-139,Autophagy-Related Proteins,"Amino Acid, Peptide, or Protein",D000071183
-140,Autophagy-Related Proteins,"Amino Acid, Peptide, or Protein",D000071183
-141,Autophagy-Related Proteins,Biologically Active Substance,D000071183
-142,Autophagy-Related Proteins,Biologically Active Substance,D000071183
 143,Autophagy-Related Protein 5,"Amino Acid, Peptide, or Protein",D000071187
 144,Autophagy-Related Protein 5,"Amino Acid, Peptide, or Protein",D000071187
 145,Autophagy-Related Protein 5,Biologically Active Substance,D000071187
 146,Autophagy-Related Protein 5,Biologically Active Substance,D000071187
-149,Cellular Senescence,Cell Function,D016922
 150,AMP-Activated Protein Kinases,"Amino Acid, Peptide, or Protein",D055372
 151,AMP-Activated Protein Kinases,"Amino Acid, Peptide, or Protein",D055372
 152,AMP-Activated Protein Kinases,Enzyme,D055372
@@ -168,10 +159,6 @@
 196,Mitochondrial Proton-Translocating ATPases,"Amino Acid, Peptide, or Protein",D025261
 197,Mitochondrial Proton-Translocating ATPases,Enzyme,D025261
 198,Mitochondrial Proton-Translocating ATPases,Enzyme,D025261
-223,"Aldehyde Dehydrogenase, Mitochondrial","Amino Acid, Peptide, or Protein",D000071396
-224,"Aldehyde Dehydrogenase, Mitochondrial","Amino Acid, Peptide, or Protein",D000071396
-225,"Aldehyde Dehydrogenase, Mitochondrial",Enzyme,D000071396
-226,"Aldehyde Dehydrogenase, Mitochondrial",Enzyme,D000071396
 227,"Aspartate Aminotransferase, Mitochondrial","Amino Acid, Peptide, or Protein",D024442
 228,"Aspartate Aminotransferase, Mitochondrial","Amino Acid, Peptide, or Protein",D024442
 229,"Aspartate Aminotransferase, Mitochondrial",Enzyme,D024442
@@ -633,23 +620,6 @@
 731,"Adipocytes, Brown",Cell,D052437
 732,"Adipocytes, White",Cell,D052438
 733,Adipocytes,Cell,D017667
-734,Tumor Necrosis Factor-alpha,"Amino Acid, Peptide, or Protein",D014409
-735,Tumor Necrosis Factor-alpha,"Amino Acid, Peptide, or Protein",D014409
-736,Tumor Necrosis Factor-alpha,Immunologic Factor,D014409
-737,Tumor Necrosis Factor-alpha,Immunologic Factor,D014409
-738,Interleukin-6,"Amino Acid, Peptide, or Protein",D015850
-739,Interleukin-6,"Amino Acid, Peptide, or Protein",D015850
-740,Interleukin-6,Immunologic Factor,D015850
-741,Interleukin-6,Immunologic Factor,D015850
-742,"Receptors, Interleukin-6","Amino Acid, Peptide, or Protein",D019947
-743,"Receptors, Interleukin-6","Amino Acid, Peptide, or Protein",D019947
-744,"Receptors, Interleukin-6","Amino Acid, Peptide, or Protein",D019947
-745,"Receptors, Interleukin-6",Receptor,D019947
-746,"Receptors, Interleukin-6",Receptor,D019947
-747,"Receptors, Interleukin-6",Receptor,D019947
-748,"Receptors, Interleukin-6",Immunologic Factor,D019947
-749,"Receptors, Interleukin-6",Immunologic Factor,D019947
-750,"Receptors, Interleukin-6",Immunologic Factor,D019947
 751,"Receptors, Leptin","Amino Acid, Peptide, or Protein",D054411
 752,"Receptors, Leptin","Amino Acid, Peptide, or Protein",D054411
 753,"Receptors, Leptin",Receptor,D054411
