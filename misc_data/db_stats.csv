@@ -1,0 +1,4 @@
+Database Partition,Ensembl Genes,Genes Entries,rsID Entries,PMID Entries,MeSH Terms
+Protein Coding Genes ,"19318","15519","300239","260587","21755"
+RNA Genes,"11452","2535","19300","39240","13411"
+Pseudogenes,"9866",210,"1202","1793","3843"
