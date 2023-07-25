@@ -17,20 +17,19 @@ The GRPM System aims to build a comprehensive dataset of human genetic polymorph
 
 ## Modules
 
-The GRPM System comprises five modules that perform various tasks. Module 01 retrieves data from LitVar and PubMed databases, merging them into a CSV format. Module 02 generates a coherent MeSH term list with the help of the ChatGPT language model and the OpenAI API. Module 03 integrates the MeSH term list into the database, extracting a survey for further analysis, while Module 04 assesses reports, GRPM association data, and uses `matplotlib`, and `seaborn` for data visualization. Lastly, Module 05 incorporates GWAS data from the complete catalog, associating GWAS phenotypes and potential risk/effect alleles with GRPM relationships.
+The GRPM System comprises five modules that perform various tasks to facilitate the integration and analysis of genetic polymorphism data associated with nutrition. These modules are as follows:
 
-The GRPM System consists of the following modules:
+1. [Database Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_01_database_builder.ipynb): Retrieves data from LitVar and PubMed databases, merging them into a CSV format. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_playground/blob/main/GRPM_01_database_builder.ipynb) 
 
-1. [Database Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_01_database_builder.ipynb): Retrieves and merges data from LitVar and PubMed databases.
--  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_playground/blob/main/GRPM_01_database_builder.ipynb)
-2. [Reference Mesh List Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_02_ref-mesh_builder.ipynb): Generates a coherent MeSH term list for exploring the database.
--   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_playground/blob/main/GRPM_02_ref-mesh_builder.ipynb)
-3. [Database and Survey Integration](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_03_database_survey.ipynb): Incorporates the MeSH term list into the database and extracts a survey.
--   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_playground/blob/main/GRPM_03_database_survey.ipynb)
-4. [Analysis of Reports and GRPM Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_04_data-analyzer.ipynb): Analyzes reports and GRPM association data.
--  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_playground/blob/main/GRPM_04_data-analyzer.ipynb)
-5. [Incorporation of GWAS Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_05_gwas_data_analyzer.ipynb): Integrates GWAS data into the GRPM surveys.
--   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_playground/blob/main/GRPM_05_gwas_data_analyzer.ipynb)
+2. [Reference Mesh List Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_02_ref-mesh_builder.ipynb): Generates a coherent MeSH term list using the ChatGPT language model and the OpenAI API for exploring the database. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_playground/blob/main/GRPM_02_ref-mesh_builder.ipynb)
+
+3. [Database and Survey Integration](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_03_database_survey.ipynb): Integrates the MeSH term list into the database and extracts a survey for comprehensive analysis. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_playground/blob/main/GRPM_03_database_survey.ipynb)
+
+4. [Analysis of Reports and GRPM Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_04_data-analyzer.ipynb): Analyzes reports and GRPM association data, utilizing `matplotlib` and `seaborn` for data visualization. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_playground/blob/main/GRPM_04_data-analyzer.ipynb)
+
+5. [Incorporation of GWAS Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_05_gwas_data_analyzer.ipynb): Integrates GWAS data from the complete catalog, associating GWAS phenotypes and potential risk/effect alleles with GRPM relationships. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_playground/blob/main/GRPM_05_gwas_data_analyzer.ipynb)
+
+These modules provide a comprehensive framework for researchers and nutritionists to explore genetic polymorphism data and gain insights into gene-diet interactions and personalized nutrition interventions.
 
 ## Usage
 
