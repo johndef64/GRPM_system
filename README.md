@@ -63,15 +63,15 @@ git clone https://github.com/johndef64/GRPM_playground.git
 
 ## Trial
 
-To execute the GRPM System, you can run each module by clicking the "Open in Colab" button next to their respective links:
+To execute the GRPM System, you can run each module separately by clicking the "Open in Colab" button:
 
-1. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) [Database Builder]  
+1. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) - Database Builder
 
-2.  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) [Reference Mesh List Builder] 
+2.  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) - Reference Mesh List Builder
 
-3. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) [Database and Survey Integration]  
+3. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) - Database and Survey Integration
 
-4. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) [Analysis of Reports and GRPM Data]
+4. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  - Analysis of Reports and GRPM Data
 
-5. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) [Incorporation of GWAS Data] 
+5. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  - Incorporation of GWAS Data
 
