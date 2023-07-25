@@ -21,11 +21,11 @@ The GRPM System comprises five modules that perform various tasks. Module 01 ret
 
 The GRPM System consists of the following modules:
 
-1. [Database Builder](#module-01-database-builder): Retrieves and merges data from LitVar and PubMed databases.
-2. [Reference Mesh List Builder](#module-02-reference-mesh-list-builder): Generates a coherent MeSH term list for exploring the database.
-3. [Database and Survey Integration](#module-03-database-and-survey-integration): Incorporates the MeSH term list into the database and extracts a survey.
-4. [Analysis of Reports and GRPM Association Data](#module-04-analysis-of-reports-and-grpm-association-data): Analyzes reports and GRPM association data.
-5. [Incorporation of GWAS Data](#module-05-incorporation-of-gwas-data): Integrates GWAS data into the GRPM surveys.
+1. [Database Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_01_database_builder.ipynb): Retrieves and merges data from LitVar and PubMed databases.
+2. [Reference Mesh List Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_02_ref-mesh_builder.ipynb): Generates a coherent MeSH term list for exploring the database.
+3. [Database and Survey Integration](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_03_database_survey.ipynb): Incorporates the MeSH term list into the database and extracts a survey.
+4. [Analysis of Reports and GRPM Association Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_04_data-analyzer.ipynb): Analyzes reports and GRPM association data.
+5. [Incorporation of GWAS Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_05_gwas_data_analyzer.ipynb): Integrates GWAS data into the GRPM surveys.
 
 ## Usage
 
@@ -46,7 +46,6 @@ The GRPM System has the following requirements:
 - `seaborn`
 - `nltk`
 
-Please make sure to install these requirements before using the GRPM System.
 
 ## Installation
 
