@@ -20,15 +20,15 @@ The GRPM System aims to build a comprehensive dataset of human genetic polymorph
 
 The GRPM System comprises five modules that perform various tasks to facilitate the integration and analysis of genetic polymorphism data associated with nutrition. These modules are as follows:
 
-1. [Database Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_01_database_builder.ipynb): Retrieves data from LitVar and PubMed databases, merging them into a CSV format. 
+1. [Dataset Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_01_database_builder.ipynb): Retrieves data from LitVar and PubMed databases, merging them into a CSV format. 
 
-2. [Reference Mesh List Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_02_ref-mesh_builder.ipynb): Generates a coherent MeSH term list using the ChatGPT language model and the OpenAI API for exploring the database. 
+2. [Reference Mesh List Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_02_ref-mesh_builder.ipynb): Generates a coherent MeSH term list using the ChatGPT language model and the OpenAI API for exploring the GRPM dataset. 
 
-3. [Database and Survey Integration](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_03_database_survey.ipynb): Integrates the MeSH term list into the database and extracts a survey for comprehensive analysis. 
+3. [GRPM Dataset Screening](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_03_database_survey.ipynb): Integrates the MeSH term list into the GRPM dataset and extracts a survey for comprehensive analysis. 
 
-4. [Analysis of Reports and GRPM Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_04_data-analyzer.ipynb): Analyzes reports and GRPM association data, utilizing `matplotlib` and `seaborn` for data visualization. 
+4. [GRPM Reports and Data Analyzer](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_04_data-analyzer.ipynb): Analyzes reports and GRPM association data, utilizing `matplotlib` and `seaborn` for data visualization. 
 
-5. [Incorporation of GWAS Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_05_gwas_data_analyzer.ipynb): Integrates GWAS data from the complete catalog, associating GWAS phenotypes and potential risk/effect alleles with GRPM relationships. 
+5. [Merge GWAS and GRPM Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_05_gwas_data_analyzer.ipynb): Integrates GWAS data from the complete catalog, associating GWAS phenotypes and potential risk/effect alleles with GRPM relationships. 
 
 These modules provide a comprehensive framework for researchers and nutritionists to explore genetic polymorphism data and gain insights into gene-diet interactions and personalized nutrition interventions.
 
@@ -65,13 +65,13 @@ git clone https://github.com/johndef64/GRPM_playground.git
 
 To execute the GRPM System, you can run each module separately by clicking the "Open in Colab" button:
 
-1. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) - Database Builder
+1. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) - GRPM Dataset Builder
 
 2.  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) - Reference Mesh List Builder
 
-3. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) - Database and Survey Integration
+3. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) - GRPM Dataset Screening
 
-4. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  - Analysis of Reports and GRPM Data
+4. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  - GRPM Reports and Data Analyzer
 
-5. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  - Incorporation of GWAS Data
+5. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)  - Merge GWAS and GRPM Data
 
