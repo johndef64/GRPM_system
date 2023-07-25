@@ -63,7 +63,7 @@ git clone https://github.com/johndef64/GRPM_system.git
 
 ## Trial
 
-To execute the GRPM System, you can run each module separately by clicking the "Open in Colab" button:
+To try out the GRPM System, you can run each module separately by clicking the "Open in Colab" button. Be careful to import all necessary dependencies and files.
 
 1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb) GRPM Dataset Builder 
 
