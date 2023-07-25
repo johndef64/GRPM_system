@@ -21,11 +21,11 @@ The GRPM System comprises five modules that perform various tasks. Module 01 ret
 
 The GRPM System consists of the following modules:
 
-1. [Database Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_01_database_builder.ipynb): Retrieves and merges data from LitVar and PubMed databases.
-2. [Reference Mesh List Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_02_ref-mesh_builder.ipynb): Generates a coherent MeSH term list for exploring the database.
-3. [Database and Survey Integration](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_03_database_survey.ipynb): Incorporates the MeSH term list into the database and extracts a survey.
-4. [Analysis of Reports and GRPM Association Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_04_data-analyzer.ipynb): Analyzes reports and GRPM association data.
-5. [Incorporation of GWAS Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_05_gwas_data_analyzer.ipynb): Integrates GWAS data into the GRPM surveys.
+1. [Database Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_01_database_builder.ipynb): Retrieves and merges data from LitVar and PubMed databases. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/pychatgpt/blob/main/GRPM_01_database_builder.ipynb)
+2. [Reference Mesh List Builder](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_02_ref-mesh_builder.ipynb): Generates a coherent MeSH term list for exploring the database. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/pychatgpt/blob/main/GRPM_02_ref-mesh_builder.ipynb)
+3. [Database and Survey Integration](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_03_database_survey.ipynb): Incorporates the MeSH term list into the database and extracts a survey. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/pychatgpt/blob/main/GRPM_03_database_survey.ipynb)
+4. [Analysis of Reports and GRPM Association Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_04_data-analyzer.ipynb): Analyzes reports and GRPM association data. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/pychatgpt/blob/main/GRPM_04_data-analyzer.ipynb)
+5. [Incorporation of GWAS Data](https://github.com/johndef64/GRPM_playground/blob/main/GRPM_05_gwas_data_analyzer.ipynb): Integrates GWAS data into the GRPM surveys. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/pychatgpt/blob/main/GRPM_05_gwas_data_analyzer.ipynb)
 
 ## Usage
 
@@ -35,7 +35,7 @@ Detailed instructions on how to use each module of the GRPM System can be found 
 
 The GRPM System has the following requirements:
 
-- Python 3.9 or above
+- `Python 3.9 or above`
 - `pandas`
 - `requests`
 - `biopython`
