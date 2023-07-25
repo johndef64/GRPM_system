@@ -1,27 +1,59 @@
-## GRPM System
+# GRPM System
 
-The GRPM (Gene-RsID-PubMedID-MeSH) system is a comprehensive tool designed to integrate and analyze genetic polymorphism data associated with nutrition. It consists of five modules that streamline the process of data retrieval, merging, analysis, and incorporation of GWAS (Genome-Wide Association Study) data. 
+The GRPM (Gene-Rsid-Pmid-Mesh) system is a comprehensive tool designed to integrate and analyze genetic polymorphism data associated with nutrition. It comprises five modules that facilitate data retrieval, merging, analysis, and incorporation of GWAS data.
 
-### Module 01: Database Builder
+## Overview
 
-The Database Builder module retrieves data from the LitVar and PubMed databases and merges them into a CSV format. It uses Python modules such as `requests`, `pandas`, `biopython`, `nbib`, and `beautifulsoup` to extract, manipulate, and parse data.
+- [Introduction](#introduction)
+- [Modules](#modules)
+- [Usage](#usage)
+- [Requirements](#requirements)
+- [Installation](#installation)
 
-### Module 02: Reference MeSH Term List Builder
+## Introduction
 
-The Reference MeSH Term List Builder module creates a coherent MeSH (Medical Subject Headings) term list to explore the database. It utilizes the ChatGPT language model and interacts with the OpenAI API. The Python modules used are `pandas` and `openai`.
+The GRPM System aims to build a comprehensive dataset of human genetic polymorphisms associated with nutrition. By combining data from multiple sources and utilizing MeSH terms as a framework, the system enables researchers and nutritionists to explore gene-diet interactions and personalized nutrition interventions.
 
-### Module 03: Database and Survey Integration
 
-The Database and Survey Integration module incorporates the MeSH term list generated in Module 02 into the database. It extracts a survey from the integrated data, providing a comprehensive dataset for further analysis. The required Python module for this module is `pandas`.
+## Modules
 
-### Module 04: Analysis of Reports and GRPM Association Data
+The GRPM System comprises five modules that perform various tasks. Module 01 retrieves data from LitVar and PubMed databases, merging them into a CSV format. Module 02 generates a coherent MeSH term list with the help of the ChatGPT language model and the OpenAI API. Module 03 integrates the MeSH term list into the database, extracting a survey for further analysis, while Module 04 assesses reports, GRPM association data, and uses `matplotlib`, and `seaborn` for data visualization. Lastly, Module 05 incorporates GWAS data from the complete catalog, associating GWAS phenotypes and potential risk/effect alleles with GRPM relationships.
 
-The Analysis of Reports and GRPM Association Data module analyzes the reports generated in Module 01 and Module 03, as well as the GRPM association data. It utilizes Python modules such as `pandas`, `matplotlib`, and `seaborn` for data manipulation and data visualization.
+The GRPM System consists of the following modules:
 
-### Module 05: Incorporation of GWAS Data
+1. [Database Builder](#module-01-database-builder): Retrieves and merges data from LitVar and PubMed databases.
+2. [Reference Mesh List Builder](#module-02-reference-mesh-list-builder): Generates a coherent MeSH term list for exploring the database.
+3. [Database and Survey Integration](#module-03-database-and-survey-integration): Incorporates the MeSH term list into the database and extracts a survey.
+4. [Analysis of Reports and GRPM Association Data](#module-04-analysis-of-reports-and-grpm-association-data): Analyzes reports and GRPM association data.
+5. [Incorporation of GWAS Data](#module-05-incorporation-of-gwas-data): Integrates GWAS data into the GRPM surveys.
 
-The Incorporation of GWAS Data module integrates GWAS data from the complete GWAS catalog dataset into the GRPM surveys. It associates GWAS phenotypes and potential risk/effect alleles with the GRPM relationships. The required Python modules for this module are `pandas` and `Natural Language Toolkit (NLTK)`.
+## Usage
 
-The GRPM System provides a comprehensive framework for researchers and nutritionists to explore genetic polymorphisms associated with nutrition. By integrating data from multiple sources and employing MeSH terms as a framework, it enables in-depth analysis of gene-diet interactions. The incorporation of GWAS data further enhances the system's functionality and potential for personalized nutrition interventions. 
+Detailed instructions on how to use each module of the GRPM System can be found inside the relative Jupyter Module provided in the repository. Make sure to follow the instructions and install the necessary Python modules specified for each module.
 
-For instructions on using the GRPM System and the specific Python modules required for each module, please refer to the documentation provided in the repository.
+## Requirements
+
+The GRPM System has the following requirements:
+
+- Python 3.9 or above
+- `pandas`
+- `requests`
+- `biopython`
+- `nbib`
+- `beautifulsoup`
+- `openai`
+- `matplotlib`
+- `seaborn`
+- `nltk`
+
+Please make sure to install these requirements before using the GRPM System.
+
+## Installation
+
+To install the GRPM System, clone the repository to your local machine:
+
+```
+git clone https://github.com/johndef64/GRPM_playground.git
+```
+
+
