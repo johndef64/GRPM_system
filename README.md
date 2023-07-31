@@ -68,13 +68,13 @@ git clone https://github.com/johndef64/GRPM_system.git
 
 To try out the GRPM System, you can run each module separately by clicking the "Open in Colab" button. Be careful to import all necessary dependencies and files.
 
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb) GRPM Dataset Builder 
 
-2.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_02_ref-mesh_builder.ipynb) Reference Mesh List Builder
+| No. | Notebook | Module |
+| --- | --- | --- |
+| 1. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb) | GRPM Dataset Builder |
+| 2. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_02_ref-mesh_builder.ipynb) | Reference Mesh List Builder |
+| 3. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_03_dataset_survey.ipynb) | GRPM Dataset Screening |
+| 4. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_04_grpm-data_analyzer.ipynb) | GRPM Reports and Data Analyzer |
+| 5. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_merger.ipynb) | Merge GWAS and GRPM Data |
 
-3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_03_dataset_survey.ipynb) GRPM Dataset Screening
-
-4. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_04_grpm-data_analyzer.ipynb) GRPM Reports and Data Analyzer
-
-5. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_merger.ipynb) Merge GWAS and GRPM Data
 
