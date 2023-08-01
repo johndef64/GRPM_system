@@ -15,6 +15,7 @@ The GRPM (Gene-Rsid-Pmid-Mesh) system is a comprehensive tool designed to integr
 
 The GRPM System aims to build a comprehensive dataset of human genetic polymorphisms associated with nutrition. By combining data from multiple sources and utilizing MeSH terms as a framework, the system enables researchers and nutritionists to explore gene-diet interactions and personalized nutrition interventions.
 
+![Graphical Abstract](misc_data/graphical_abstract_s.png)
 
 ## Modules
 
@@ -31,7 +32,7 @@ The GRPM System comprises five modules that perform various tasks to facilitate 
 5. [Merge GWAS and GRPM Data](https://github.com/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_merger.ipynb): Integrates GWAS data from the complete catalog, associating GWAS phenotypes and potential risk/effect alleles with GRPM relationships. 
 
 
-![GRPM system: Integrating Genetic Polymorphism Data with PMIDs and MeSH Terms to Retrieve Genes and rsIDs for Biomedical Research Fields. GRPM Dataset: pcg, protein coding genes; rna, RNA genes; pseudo, presudogenes; in parentheses, dataset shape.](grpm_system.png)
+![GRPM system: Integrating Genetic Polymorphism Data with PMIDs and MeSH Terms to Retrieve Genes and rsIDs for Biomedical Research Fields. GRPM Dataset: pcg, protein coding genes; rna, RNA genes; pseudo, presudogenes; in parentheses, dataset shape.](misc_data/grpm_system.png)
 
 These modules provide a comprehensive framework for researchers and nutritionists to explore genetic polymorphism data and gain insights into gene-diet interactions and personalized nutrition interventions.
 
