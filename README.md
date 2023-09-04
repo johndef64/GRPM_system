@@ -24,7 +24,7 @@ The main purpose of developing this resource was to assist nutritionists in inve
 
 The GRPM System comprises five modules that perform various tasks to facilitate the integration and analysis of genetic polymorphism data associated with nutrition. These modules are as follows:
 
-To try out GRPM System. Run each module separately by clicking the "Open in Colab". Be careful to import all necessary dependencies and files. Google Drive folder synch available.git
+To try out GRPM System. Run each module separately by clicking the "Open in Colab". Be careful to import all necessary dependencies and files. Google Drive folder synch option available.
 
 | No. | Notebook | Module | Description |
 | --- | --- | --- |-------------|
