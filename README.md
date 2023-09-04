@@ -41,11 +41,11 @@ These modules provide a comprehensive framework for researchers and nutritionist
 
 ## Usage
 
-Detailed instructions on how to use each module of the GRPM System can be found inside the relative Jupyter Module provided in the repository. Make sure to follow the instructions and install the necessary Python packages specified for each module.
+Detailed instructions on how to use each module of  GRPM System can be found inside the relative Jupyter Module provided in the repository. Make sure to follow the instructions and install the necessary Python packages specified for each module.
 
 ## Requirements
 
-The GRPM System has the following requirements:
+GRPM System has the following requirements:
 
 - `Python 3.9 or above`
 - `pandas`
