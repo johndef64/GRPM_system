@@ -25,15 +25,15 @@ The main purpose of developing this resource was to assist nutritionists in inve
 
 The GRPM System comprises five modules that perform various tasks to facilitate the integration and analysis of genetic polymorphism data associated with nutrition. These modules are as follows:
 
-1. [Dataset Builder](https://github.com/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb): Retrieves data from LitVar and PubMed databases, merging them into a CSV format. 
+To try out GRPM System. Run each module separately by clicking the "Open in Colab". Be careful to import all necessary dependencies and files. Google Drive folder synch available.git
 
-2. [Reference Mesh List Builder](https://github.com/johndef64/GRPM_system/blob/main/GRPM_02_ref-mesh_builder.ipynb): Generates a coherent MeSH term list using the ChatGPT language model and the OpenAI API for exploring the GRPM dataset. 
-
-3. [GRPM Dataset Screening](https://github.com/johndef64/GRPM_system/blob/main/GRPM_03_dataset_survey.ipynb): Integrates the MeSH term list into the GRPM dataset and extracts a survey for comprehensive analysis. 
-
-4. [GRPM Reports and Data Analyzer](https://github.com/johndef64/GRPM_system/blob/main/GRPM_04_grpm-data_analyzer.ipynb): Analyzes reports and GRPM association data, utilizing `matplotlib` and `seaborn` for data visualization. 
-
-5. [Merge GWAS and GRPM Data](https://github.com/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_merger.ipynb): Integrates GWAS data from the complete catalog, associating GWAS phenotypes and potential risk/effect alleles with GRPM relationships. 
+| No. | Notebook | Module | Description |
+| --- | --- | --- |-------------|
+| 1. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb) | [Dataset Builder](https://github.com/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb)| Retrieves data from LitVar and PubMed databases, merging them into a CSV format.
+| 2. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_02_ref-mesh_builder.ipynb) | [Reference Mesh List Builder](https://github.com/johndef64/GRPM_system/blob/main/GRPM_02_ref-mesh_builder.ipynb)| Generates a coherent MeSH term list using the ChatGPT language model and the OpenAI API for exploring the GRPM dataset.
+| 3. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_03_dataset_survey.ipynb) | [GRPM Dataset Screening](https://github.com/johndef64/GRPM_system/blob/main/GRPM_03_dataset_survey.ipynb)| Integrates the MeSH term list into the GRPM dataset and extracts a survey for comprehensive analysis.
+| 4. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_04_grpm-data_analyzer.ipynb) |  [GRPM Reports and Data Analyzer](https://github.com/johndef64/GRPM_system/blob/main/GRPM_04_grpm-data_analyzer.ipynb) |Analyzes reports and GRPM association data, utilizing `matplotlib` and `seaborn` for data visualization. 
+| 5. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_merger.ipynb) | [Merge GWAS and GRPM Data](https://github.com/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_merger.ipynb) | Integrates GWAS data from the complete catalog, associating GWAS phenotypes and potential risk/effect alleles with GRPM relationships. 
 
 
 ![GRPM system: Integrating Genetic Polymorphism Data with PMIDs and MeSH Terms to Retrieve Genes and rsIDs for Biomedical Research Fields. GRPM Dataset: pcg, protein coding genes; rna, RNA genes; pseudo, presudogenes; in parentheses, dataset shape.](misc_data/grpm_system.png)
@@ -69,17 +69,5 @@ git clone https://github.com/johndef64/GRPM_system.git
 ```
 
 
-## Trial
-
-To try out GRPM System, you can run each module separately by clicking the "Open in Colab" button. Be careful to import all necessary dependencies and files.
-
-
-| No. | Notebook | Module |
-| --- | --- | --- |
-| 1. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb) | GRPM Dataset Builder |
-| 2. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_02_ref-mesh_builder.ipynb) | Reference Mesh List Builder |
-| 3. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_03_dataset_survey.ipynb) | GRPM Dataset Screening |
-| 4. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_04_grpm-data_analyzer.ipynb) | GRPM Reports and Data Analyzer |
-| 5. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_merger.ipynb) | Merge GWAS and GRPM Data |
 
 
