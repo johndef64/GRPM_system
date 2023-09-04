@@ -12,7 +12,6 @@ GRPM (Gene-Rsid-Pmid-Mesh) system is a comprehensive tool designed to integrate 
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Trial](#trial)
 
 ## Introduction
 
