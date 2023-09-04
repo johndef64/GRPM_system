@@ -9,9 +9,9 @@ GRPM (Gene-Rsid-Pmid-Mesh) system is a comprehensive tool designed to integrate 
 
 - [Introduction](#introduction)
 - [Modules](#modules)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Requirements](#requirements)
-- [Installation](#installation)
 
 ## Introduction
 
@@ -39,9 +39,20 @@ To try out GRPM System. Run each module separately by clicking the "Open in Cola
 
 These modules provide a comprehensive framework for researchers and nutritionists to explore genetic polymorphism data and gain insights into gene-diet interactions and personalized nutrition interventions.
 
+## Installation
+
+To install GRPM System, clone the repository to your local machine:
+
+```
+git clone https://github.com/johndef64/GRPM_system.git
+```
+Otherwise, run each module separately in Google Colab importing Google Drive to keep-up your progress.
+
+
 ## Usage
 
 Detailed instructions on how to use each module of  GRPM System can be found inside the relative Jupyter Module provided in the repository. Make sure to follow the instructions and install the necessary Python packages specified for each module.
+
 
 ## Requirements
 
@@ -59,13 +70,7 @@ GRPM System has the following requirements:
 - `nltk`
 
 
-## Installation
 
-To install the GRPM System, clone the repository to your local machine:
-
-```
-git clone https://github.com/johndef64/GRPM_system.git
-```
 
 
 
