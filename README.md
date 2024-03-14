@@ -9,6 +9,7 @@ GRPM (Gene-Rsid-Pmid-Mesh) system is a comprehensive tool designed to integrate 
 
 - [Introduction](#introduction)
 - [Modules](#modules)
+- [Updates](#updates)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Requirements](#requirements)
@@ -39,6 +40,10 @@ To try out GRPM System. Run each module separately by clicking the "Open in Cola
 
 These modules provide a comprehensive framework for researchers and nutritionists to explore genetic polymorphism data and gain insights into gene-diet interactions and personalized nutrition interventions.
 
+## Updates
+
+The GRPM Dataset available on Zenodo is a snapshot of [LitVar1](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/LitVar/help.html). LitVar1 is now deprecated and has been fully replaced by [LitVar2](https://www.ncbi.nlm.nih.gov/research/litvar2/). Module 1 ([Dataset Builder](https://github.com/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb)) has been updated to retrieve data from LitVar2. The subsequent modules in the pipeline remain functional and can be tested using the original version of the GRPM Dataset available on Zenodo.
+
 ## Installation
 
 To install GRPM System, clone the repository to your local machine:
@@ -68,6 +73,8 @@ GRPM System has the following requirements:
 - `matplotlib`
 - `seaborn`
 - `nltk`
+
+
 
 
 
