@@ -27,6 +27,8 @@ The GRPM System comprises five modules that perform various tasks to facilitate 
 
 To try out GRPM System. Run each module separately by clicking the "Open in Colab". Be careful to import all necessary dependencies and files. Google Drive folder synch option available.
 
+Each Jupyter notebook is provided with  the code for downloading and installing the necessary requirements for their execution.
+
 | No. | Notebook | Module | Description |
 | --- | --- | --- |-------------|
 | 1. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb) | [Dataset Builder](https://github.com/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb)| Retrieves data from LitVar and PubMed databases, merging them into a CSV format.
@@ -39,7 +41,6 @@ To try out GRPM System. Run each module separately by clicking the "Open in Cola
 ![GRPM system: Integrating Genetic Polymorphism Data with PMIDs and MeSH Terms to Retrieve Genes and rsIDs for Biomedical Research Fields. GRPM Dataset: pcg, protein coding genes; rna, RNA genes; pseudo, presudogenes; in parentheses, dataset shape.](misc_data/grpm_system.png)
 
 These modules provide a comprehensive framework for researchers and nutritionists to explore genetic polymorphism data and gain insights into gene-diet interactions and personalized nutrition interventions.
-
 
 
 ## Updates
