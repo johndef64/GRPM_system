@@ -1,92 +1,92 @@
-,topic_terms
-0,xenobiotics
-1,metabolism
-2,biotransformation
-3,cytochrome p-450 enzyme system
-4,phase i metabolic detoxication
-5,phase ii metabolic detoxication
-6,oxidation-reduction
-7,hydroxylation
-8,dealkylation
-9,deamination
-10,glucuronidation
-11,conjugation
-12,amination
-13,glycosylation
-14,sulfation
-15,methylation
-16,acetylation
-17,glutathione transferase
-18,"conjugation, genetic"
-19,absorption
-20,excretion
-21,half-life
-22,clearance
-23,bioavailability
-24,blood-brain barrier
-25,blood-air barrier
-26,blood-retinal barrier
-27,blood-testis barrier
-28,placental barrier
-29,biological transport
-30,"active transport, cell nucleus"
-31,facilitated diffusion
-32,endocytosis
-33,exocytosis
-34,transcytosis
-39,toxicokinetics
-42,oxidoreductases
-43,enzyme induction
-44,enzyme inhibitors
-45,liver
-46,toxicity tests
-47,metabolomics
-48,liver microsomes
-49,"liver neoplasms, experimental"
-50,"polymorphism, genetic"
-51,toxicity
-52,hepatocytes
-53,carboxylesterase
-54,aryl hydrocarbon hydroxylases
-55,mixed function oxygenases
-56,uridine diphosphate glucuronic acid
-57,glutathione
-58,metabolome
-60,"receptors, aryl hydrocarbon"
-61,p-glycoprotein
-63,cytochrome p-450
-64,cyp1a2
-65,oxidative stress
-69,liver diseases
-72,"liver cirrhosis, experimental"
-73,liver failure
-74,liver function tests
-75,liver regeneration
-76,toxicology
-78,"liver diseases, alcoholic"
-79,liver transplantation
-82,polypharmacy
-84,toxicogenetics
-86,"toxicology, environmental"
-87,"toxicology, forensic"
-88,"toxicology, legal"
-89,"toxicology, veterinary"
-90,toxicology tests
-91,"toxicology, clinical"
-93,"toxicity tests, acute"
-94,"toxicity tests, chronic"
-95,"toxicity tests, subacute"
-96,"toxicity tests, subchronic"
-97,"toxicity tests, sublethal"
-98,"toxicity tests, mutagenicity"
-99,"toxicity tests, reproduction"
-100,"toxicity tests, teratogenicity"
-102,environmental pollutants
-103,"water pollutants, chemical"
-104,soil pollutants
-105,air pollutants
-106,pesticides
-107,food additives
-108,"radiation, ionizing"
-109,"radiation, nonionizing"
-131,cytochrome p-450 cyp1a2
+topic_terms
+xenobiotics
+metabolism
+biotransformation
+cytochrome p-450 enzyme system
+phase i metabolic detoxication
+phase ii metabolic detoxication
+oxidation-reduction
+hydroxylation
+dealkylation
+deamination
+glucuronidation
+conjugation
+amination
+glycosylation
+sulfation
+methylation
+acetylation
+glutathione transferase
+"conjugation, genetic"
+absorption
+excretion
+half-life
+clearance
+bioavailability
+blood-brain barrier
+blood-air barrier
+blood-retinal barrier
+blood-testis barrier
+placental barrier
+biological transport
+"active transport, cell nucleus"
+facilitated diffusion
+endocytosis
+exocytosis
+transcytosis
+toxicokinetics
+oxidoreductases
+enzyme induction
+enzyme inhibitors
+liver
+toxicity tests
+metabolomics
+liver microsomes
+"liver neoplasms, experimental"
+"polymorphism, genetic"
+toxicity
+hepatocytes
+carboxylesterase
+aryl hydrocarbon hydroxylases
+mixed function oxygenases
+uridine diphosphate glucuronic acid
+glutathione
+metabolome
+"receptors, aryl hydrocarbon"
+p-glycoprotein
+cytochrome p-450
+cyp1a2
+oxidative stress
+liver diseases
+"liver cirrhosis, experimental"
+liver failure
+liver function tests
+liver regeneration
+toxicology
+"liver diseases, alcoholic"
+liver transplantation
+polypharmacy
+toxicogenetics
+"toxicology, environmental"
+"toxicology, forensic"
+"toxicology, legal"
+"toxicology, veterinary"
+toxicology tests
+"toxicology, clinical"
+"toxicity tests, acute"
+"toxicity tests, chronic"
+"toxicity tests, subacute"
+"toxicity tests, subchronic"
+"toxicity tests, sublethal"
+"toxicity tests, mutagenicity"
+"toxicity tests, reproduction"
+"toxicity tests, teratogenicity"
+environmental pollutants
+"water pollutants, chemical"
+soil pollutants
+air pollutants
+pesticides
+food additives
+"radiation, ionizing"
+"radiation, nonionizing"
+cytochrome p-450 cyp1a2

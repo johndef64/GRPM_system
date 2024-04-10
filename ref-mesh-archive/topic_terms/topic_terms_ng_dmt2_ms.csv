@@ -1,139 +1,140 @@
-,topic_terms
-0,"diabetes mellitus, type 2"
-1,metabolic syndrome
-2,insulin resistance
-3,hyperglycemia
-4,glucose intolerance
-5,obesity
-6,dyslipidemias
-7,hypertension
-8,cardiovascular diseases
-9,adiposity
-10,abdominal obesity
-11,visceral fat
-12,insulin
-13,glucose
-14,glycemic control
-15,blood glucose
-16,pancreas
-17,insulin secretion
-18,insulin sensitivity
-19,insulin receptor
-20,glucagon
-21,adipokines
-22,adiponectin
-23,leptin
-24,interleukin-6
-25,tumor necrosis factor-alpha
-26,adipocytes
-27,inflammation
-28,inflammatory markers
-29,c-reactive protein
-30,oxidative stress
-31,antioxidants
-32,lipotoxicity
-33,fatty acids
-34,triglycerides
-35,cholesterol
-36,ldl cholesterol
-37,hdl cholesterol
-38,apolipoproteins
-39,microvascular complications
-40,nephropathy
-41,retinopathy
-42,neuropathy
-43,macrovascular complications
-44,coronary artery disease
-45,peripheral vascular diseases
-46,stroke
-47,obstructive sleep apnea
-48,non-alcoholic fatty liver disease
-49,polycystic ovary syndrome
-50,hyperinsulinemia
-51,beta-cell function
-52,"glycosylation end products, advanced"
-53,pancreatic beta cells
-54,glycogen
-55,glycogenolysis
-56,gluconeogenesis
-57,glycolysis
-58,ketogenesis
-59,amylin
-60,metformin
-61,sulfonylurea compounds
-62,thiazolidinediones
-63,dipeptidyl peptidase 4 inhibitors
-64,glucagon-like peptide 1
-65,sodium-glucose transport proteins
-66,glucose transporter type 4
-67,insulin infusion systems
-68,bariatric surgery
-69,exercise
-70,diet
-71,weight loss
-72,lifestyle modification
-73,physical activity
-74,nutrition therapy
-76,antidiabetic agents
-77,hypoglycemic agents
-78,blood pressure
-79,lipids
-80,glycated hemoglobin a
-81,fasting blood glucose
-82,postprandial blood glucose
-83,glycemic index
-84,glycemic load
-85,diabetic complications
-86,diabetic nephropathies
-87,diabetic retinopathy
-88,diabetic neuropathies
-89,diabetic foot
-90,diabetic ketoacidosis
-91,diabetic angiopathies
-92,gestational diabetes
-93,prediabetic state
-94,diabetes self-management
-95,diabetes education
-96,"diabetes mellitus, experimental"
-97,insulinoma
-98,pancreatic neoplasms
-99,islets of langerhans transplantation
-100,glucose clamp technique
-101,hyperinsulinism
-102,glucose tolerance test
-103,oral glucose tolerance test
-104,"hemoglobin a, glycosylated"
-105,homeostasis
-106,mitochondria
-107,proinsulin
-108,hepatocytes
-109,adipose tissue
-110,"glycation end products, advanced"
-111,insulin-like growth factor i
-112,ppar gamma
-113,ppar alpha
-114,amp-activated protein kinases
-115,cellular senescence
-116,mitochondrial dysfunction
-117,autophagy
-118,ghrelin
-119,osteopontin
-120,perilipin-1
-121,angiotensin ii
-122,insulin antagonists
-123,intercellular signaling peptides and proteins
-124,micrornas
-125,adiponectin receptor 1
-126,adiponectin receptor 2
-127,"muscle, skeletal"
-128,glucose metabolism disorders
-129,mitochondrial proteins
-130,insulin receptor substrate proteins
-131,inositol
-132,mitochondrial membrane transport proteins
-133,atp-binding cassette transporters
-134,dietary fats
-135,polyunsaturated fatty acids
-136,monounsaturated fatty acids
-137,gastrointestinal microbiome
-138,metabolomics
+topic_terms
+"diabetes mellitus, type 2"
+metabolic syndrome
+insulin resistance
+hyperglycemia
+glucose intolerance
+obesity
+dyslipidemias
+hypertension
+cardiovascular diseases
+adiposity
+abdominal obesity
+visceral fat
+insulin
+glucose
+glycemic control
+blood glucose
+pancreas
+insulin secretion
+insulin sensitivity
+insulin receptor
+glucagon
+adipokines
+adiponectin
+leptin
+interleukin-6
+tumor necrosis factor-alpha
+adipocytes
+inflammation
+inflammatory markers
+c-reactive protein
+oxidative stress
+antioxidants
+lipotoxicity
+fatty acids
+triglycerides
+cholesterol
+ldl cholesterol
+hdl cholesterol
+apolipoproteins
+microvascular complications
+nephropathy
+retinopathy
+neuropathy
+macrovascular complications
+coronary artery disease
+peripheral vascular diseases
+stroke
+obstructive sleep apnea
+non-alcoholic fatty liver disease
+polycystic ovary syndrome
+hyperinsulinemia
+beta-cell function
+"glycosylation end products, advanced"
+pancreatic beta cells
+glycogen
+glycogenolysis
+gluconeogenesis
+glycolysis
+ketogenesis
+amylin
+metformin
+sulfonylurea compounds
+thiazolidinediones
+dipeptidyl peptidase 4 inhibitors
+glucagon-like peptide 1
+sodium-glucose transport proteins
+glucose transporter type 4
+insulin infusion systems
+bariatric surgery
+exercise
+diet
+weight loss
+lifestyle modification
+physical activity
+nutrition therapy
+antidiabetic agents
+hypoglycemic agents
+blood pressure
+lipids
+glycated hemoglobin a
+fasting blood glucose
+postprandial blood glucose
+glycemic index
+glycemic load
+diabetic complications
+diabetic nephropathies
+diabetic retinopathy
+diabetic neuropathies
+diabetic foot
+diabetic ketoacidosis
+diabetic angiopathies
+gestational diabetes
+prediabetic state
+diabetes self-management
+diabetes education
+"diabetes mellitus, experimental"
+insulinoma
+pancreatic neoplasms
+islets of langerhans transplantation
+glucose clamp technique
+hyperinsulinism
+glucose tolerance test
+oral glucose tolerance test
+"hemoglobin a, glycosylated"
+homeostasis
+mitochondria
+proinsulin
+hepatocytes
+adipose tissue
+"glycation end products, advanced"
+insulin-like growth factor i
+ppar gamma
+ppar alpha
+amp-activated protein kinases
+cellular senescence
+mitochondrial dysfunction
+autophagy
+ghrelin
+osteopontin
+perilipin-1
+angiotensin ii
+insulin antagonists
+intercellular signaling peptides and proteins
+micrornas
+adiponectin receptor 1
+adiponectin receptor 2
+"muscle, skeletal"
+glucose metabolism disorders
+mitochondrial proteins
+insulin receptor substrate proteins
+inositol
+mitochondrial membrane transport proteins
+atp-binding cassette transporters
+dietary fats
+polyunsaturated fatty acids
+monounsaturated fatty acids
+gastrointestinal microbiome
+metabolomics
+dietary

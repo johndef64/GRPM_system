@@ -1,190 +1,188 @@
-,topic_terms
-0,adipose tissue
-1,angiogenesis
-2,angiography
-3,angiotensin ii
-4,anticoagulants
-5,apoptosis
-6,"arrhythmias, cardiac"
-7,arterial pressure
-8,arteries
-9,atherosclerosis
-10,autonomic nervous system
-11,blood coagulation
-12,blood flow velocity
-13,blood platelets
-14,blood pressure
-15,blood vessels
-16,body weight
-17,calcium signaling
-18,capillaries
-19,cardiac output
-20,cardiac surgical procedures
-21,cardiomyopathies
-22,cardiopulmonary resuscitation
-23,cardiovascular agents
-24,cardiovascular diseases
-25,cardiovascular physiological phenomena
-26,cardiovascular system
-27,cell communication
-28,cell differentiation
-29,cell proliferation
-30,chemokines
-31,cholesterol
-32,collagen
-33,coronary artery disease
-34,coronary circulation
-35,coronary vessels
-36,cytokines
-37,diabetes mellitus
-38,diet
-39,dyslipidemias
-40,echocardiography
-41,eicosanoids
-42,electrocardiography
-43,endothelial cells
-44,"endothelium, vascular"
-45,exercise
-46,extracellular matrix
-47,fatty acids
-48,fibrinolysis
-49,glycogen metabolism
-50,heart
-51,heart failure
-52,heart rate
-53,hemodynamics
-54,hemostasis
-55,hypertension
-56,"hypertrophy, left ventricular"
-57,inflammation
-58,insulin resistance
-59,intercellular signaling peptides and proteins
-60,intracellular signaling peptides and proteins
-61,ischemia
-62,lipid metabolism
-63,lipoproteins
-64,macrophages
-65,matrix metalloproteinases
-66,microcirculation
-67,mitochondria
-68,"muscle, smooth, vascular"
-69,myocardial contraction
-70,myocardial infarction
-71,myocardial ischemia
-72,myocardium
-73,natriuretic peptides
-74,nitric oxide
-75,obesity
-76,oxidative stress
-77,peptide hormones
-78,pericardium
-79,pericytes
-80,phosphatidylinositol 3-kinases
-81,platelet activation
-82,platelet aggregation
-83,platelet function tests
-84,plasminogen activators
-85,protein kinase c
-86,protein transport
-87,proteolysis
-88,reactive oxygen species
-89,"receptors, adrenergic"
-90,"receptors, angiotensin"
-91,"receptors, ldl"
-92,"receptors, purinergic"
-93,"receptors, thrombin"
-94,renin-angiotensin system
-95,"smooth muscle, vascular"
-96,sodium-hydrogen exchanger 1
-97,stroke volume
-98,thrombosis
-99,thromboxanes
-100,toll-like receptors
-101,transforming growth factor beta
-102,vascular calcification
-103,vascular cell adhesion molecules
-104,vascular diseases
-105,vascular endothelial growth factor a
-106,vascular resistance
-107,vasoconstriction
-108,vasodilation
-109,vasodilator agents
-110,ventricular function
-111,ventricular remodeling
-112,ventricular dysfunction
-113,vitamin d
-114,vitamin k
-115,wound healing
-116,apolipoprotein b-100
-117,apolipoprotein e4
-118,apolipoproteins
-119,blood lipids
-120,cholesterol ester transfer proteins
-121,"cholesterol, hdl"
-122,"cholesterol, ldl"
-123,"cholesterol, vldl"
-124,fatty acid-binding proteins
-125,"fatty acids, monounsaturated"
-126,"fatty acids, omega-3"
-127,"fatty acids, omega-6"
-128,"fatty acids, unsaturated"
-129,fatty liver
-130,hyperlipidemias
-131,hypertriglyceridemia
-132,lecithin cholesterol acyltransferase
-133,lipid peroxidation
-134,lipids
-135,lipogenesis
-136,lipoprotein(a)
-137,lipoprotein lipase
-138,"lipoproteins, hdl"
-139,"lipoproteins, ldl"
-140,"lipoproteins, vldl"
-141,metabolic syndrome
-142,phospholipids
-143,reverse cholesterol transport
-144,serum amyloid a protein
-145,sterol regulatory element-binding proteins
-146,triglycerides
-147,very-low-density lipoproteins
-148,acyl-coa dehydrogenases
-149,acyltransferases
-150,adipocytes
-151,adiponectin
-152,apolipoprotein a-i
-153,apolipoprotein c-iii
-154,apolipoproteins b
-155,apolipoproteins c
-156,apolipoproteins e
-157,apolipoproteins e2
-158,apolipoproteins e3
-159,apolipoproteins e4
-160,arachidonate 5-lipoxygenase
-161,carnitine o-palmitoyltransferase
-162,ceramides
-163,cholesterol 7-alpha-hydroxylase
-164,cholesterol acyltransferase
-165,cholesterol ester storage disease
-166,cholesterol esters
-167,cholesterol side-chain cleavage enzyme
-168,coenzyme a ligases
-169,coenzyme a-transferases
-170,fatty acid desaturases
-171,fatty acid transport proteins
-172,hydroxymethylglutaryl-coa reductase inhibitors
-173,lipase
-174,lipid droplets
-175,lipolysis
-176,lipopeptides
-177,lipopolysaccharides
-178,liposomes
-179,lysophosphatidylcholines
-180,oxidation-reduction
-181,peroxisomal disorders
-182,phosphatidate phosphatase
-183,plasma
-184,stearoyl-coa desaturase
-185,sterol regulatory element-binding protein 1
-186,sterol regulatory element-binding protein 2
-187,triglyceride lipase
-188,vldl receptors
+topic_terms
+adipose tissue
+angiogenesis
+angiography
+angiotensin ii
+anticoagulants
+apoptosis
+"arrhythmias, cardiac"
+arterial pressure
+arteries
+atherosclerosis
+autonomic nervous system
+blood coagulation
+blood flow velocity
+blood platelets
+blood pressure
+blood vessels
+body weight
+calcium signaling
+capillaries
+cardiac output
+cardiac surgical procedures
+cardiomyopathies
+cardiopulmonary resuscitation
+cardiovascular agents
+cardiovascular diseases
+cardiovascular physiological phenomena
+cardiovascular system
+chemokines
+cholesterol
+collagen
+coronary artery disease
+coronary circulation
+coronary vessels
+cytokines
+diabetes mellitus
+diet
+dyslipidemias
+echocardiography
+eicosanoids
+electrocardiography
+endothelial cells
+"endothelium, vascular"
+exercise
+extracellular matrix
+fatty acids
+fibrinolysis
+glycogen metabolism
+heart
+heart failure
+heart rate
+hemodynamics
+hemostasis
+hypertension
+"hypertrophy, left ventricular"
+inflammation
+insulin resistance
+intercellular signaling peptides and proteins
+intracellular signaling peptides and proteins
+ischemia
+lipid metabolism
+lipoproteins
+macrophages
+matrix metalloproteinases
+microcirculation
+mitochondria
+"muscle, smooth, vascular"
+myocardial contraction
+myocardial infarction
+myocardial ischemia
+myocardium
+natriuretic peptides
+nitric oxide
+obesity
+oxidative stress
+peptide hormones
+pericardium
+pericytes
+phosphatidylinositol 3-kinases
+platelet activation
+platelet aggregation
+platelet function tests
+plasminogen activators
+protein kinase c
+protein transport
+proteolysis
+reactive oxygen species
+receptors adrenergic
+receptors angiotensin
+receptors ldl
+receptors purinergic
+receptors thrombin
+renin-angiotensin system
+"smooth muscle, vascular"
+sodium-hydrogen exchanger 1
+stroke volume
+thrombosis
+thromboxanes
+toll-like receptors
+transforming growth factor beta
+vascular calcification
+vascular cell adhesion molecules
+vascular diseases
+vascular endothelial growth factor a
+vascular resistance
+vasoconstriction
+vasodilation
+vasodilator agents
+ventricular function
+ventricular remodeling
+ventricular dysfunction
+vitamin d
+vitamin k
+wound healing
+apolipoprotein b-100
+apolipoprotein e4
+apolipoproteins
+blood lipids
+cholesterol ester transfer proteins
+"cholesterol, hdl"
+"cholesterol, ldl"
+"cholesterol, vldl"
+fatty acid-binding proteins
+"fatty acids, monounsaturated"
+"fatty acids, omega-3"
+"fatty acids, omega-6"
+"fatty acids, unsaturated"
+fatty liver
+hyperlipidemias
+hypertriglyceridemia
+lecithin cholesterol acyltransferase
+lipid peroxidation
+lipids
+lipogenesis
+lipoprotein(a)
+lipoprotein lipase
+"lipoproteins, hdl"
+"lipoproteins, ldl"
+"lipoproteins, vldl"
+metabolic syndrome
+phospholipids
+reverse cholesterol transport
+serum amyloid a protein
+sterol regulatory element-binding proteins
+triglycerides
+very-low-density lipoproteins
+acyl-coa dehydrogenases
+acyltransferases
+adipocytes
+adiponectin
+apolipoprotein a-i
+apolipoprotein c-iii
+apolipoproteins b
+apolipoproteins c
+apolipoproteins e
+apolipoproteins e2
+apolipoproteins e3
+apolipoproteins e4
+arachidonate 5-lipoxygenase
+carnitine o-palmitoyltransferase
+ceramides
+cholesterol 7-alpha-hydroxylase
+cholesterol acyltransferase
+cholesterol ester storage disease
+cholesterol esters
+cholesterol side-chain cleavage enzyme
+coenzyme a ligases
+coenzyme a-transferases
+fatty acid desaturases
+fatty acid transport proteins
+hydroxymethylglutaryl-coa reductase inhibitors
+lipase
+lipid droplets
+lipolysis
+lipopeptides
+lipopolysaccharides
+liposomes
+lysophosphatidylcholines
+oxidation-reduction
+peroxisomal disorders
+phosphatidate phosphatase
+stearoyl-coa desaturase
+sterol regulatory element-binding protein 1
+sterol regulatory element-binding protein 2
+triglyceride lipase
+vldl receptors
+dietary
+dietetics
