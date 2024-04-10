@@ -1,0 +1,242 @@
+,topic_terms
+0,nutritional physiological phenomena
+1,appetite
+2,diet
+3,"diet, high-fat"
+4,"diet, carbohydrate-restricted"
+5,"diet, mediterranean"
+6,"diet, vegetarian"
+7,dietary fats
+8,dietary carbohydrates
+9,dietary fiber
+10,dietary proteins
+11,dietary supplements
+12,energy intake
+13,energy metabolism
+14,eating
+15,feeding behavior
+16,food preferences
+17,food habits
+18,malnutrition
+19,micronutrients
+20,nutrition assessment
+21,nutrition policy
+22,nutritional requirements
+23,nutritional status
+24,nutrition surveys
+25,nutrition therapy
+26,nutrition disorders
+27,obesity
+28,overnutrition
+29,undernutrition
+30,vitamins
+31,trace elements
+32,minerals
+33,caloric restriction
+34,body composition
+35,basal metabolism
+36,beverages
+37,carbohydrate metabolism
+38,"dietary fats, unsaturated"
+39,dietary sodium
+40,dietary sucrose
+41,"dietary proteins, casein"
+42,"dietary proteins, milk"
+43,"dietary fats, saturated"
+44,"dietary carbohydrates, starch-modified"
+45,"dietary proteins, vegetable"
+46,"dietary carbohydrates, non-nutritive"
+47,"dietary fats, omega-3"
+48,"dietary fats, omega-6"
+49,"dietary carbohydrates, simple"
+50,"dietary fats, monounsaturated"
+51,"dietary proteins, soybean"
+52,"dietary fats, unsaturated, omega-6"
+53,"dietary fats, unsaturated, omega-3"
+54,"dietary fats, trans"
+55,"dietary fats, saturated, synthetic"
+56,"dietary fats, saturated, synthetic, hydrogenated"
+57,"dietary fats, saturated, synthetic, nonhydrogenated"
+58,"dietary fats, unsaturated, monounsaturated"
+59,"dietary fats, unsaturated, polyunsaturated"
+60,"dietary fats, unsaturated, monounsaturated, synthetic"
+61,"dietary fats, unsaturated, monounsaturated, natural"
+62,"dietary fats, unsaturated, polyunsaturated, synthetic"
+63,"dietary fats, unsaturated, polyunsaturated, natural"
+64,"dietary fats, unsaturated, omega-9"
+65,"dietary fats, unsaturated, omega-9, synthetic"
+66,"dietary fats, unsaturated, omega-9, natural"
+67,"dietary fats, unsaturated, omega-6, synthetic"
+68,"dietary fats, unsaturated, omega-6, natural"
+69,"dietary fats, unsaturated, omega-3, synthetic"
+70,"dietary fats, unsaturated, omega-3, natural"
+71,"dietary proteins, sulfur amino acids"
+72,"dietary proteins, methionine-restricted"
+73,"dietary proteins, plant"
+74,"dietary proteins, milk, human"
+75,"dietary proteins, essential"
+76,"dietary proteins, wheat-germ"
+77,"dietary proteins, egg"
+78,"dietary proteins, fish"
+79,"dietary proteins, insect"
+80,"dietary proteins, poultry"
+81,"dietary proteins, red-meat"
+82,"dietary proteins, beef"
+83,"dietary proteins, pork"
+84,"dietary proteins, shellfish"
+85,"dietary proteins, gelatin"
+86,"dietary proteins, myofibril"
+87,"dietary proteins, collagen"
+88,"dietary proteins, milk, bovine"
+89,"dietary proteins, milk, human, colostrum"
+90,"dietary proteins, milk, human, secretory"
+91,"dietary proteins, milk, human, transitional"
+92,"dietary proteins, milk, human, mature"
+93,"dietary proteins, milk, human, late"
+94,"dietary proteins, milk, human, colostrum, bovine"
+95,"dietary proteins, milk, human, secretory, bovine"
+96,"dietary proteins, milk, human, transitional, bovine"
+97,"dietary proteins, milk, human, mature, bovine"
+98,"dietary proteins, milk, human, late, bovine"
+99,"dietary proteins, soybean, fermented"
+100,"dietary proteins, soybean, defatted"
+101,"dietary proteins, soybean, isolated"
+102,"dietary proteins, soybean, hydrolyzed"
+103,"dietary proteins, soybean, concentrated"
+104,"anemia, iron-deficiency"
+105,anorexia
+106,anorexia nervosa
+107,binge-eating disorder
+108,bulimia nervosa
+109,cachexia
+110,"carbohydrate metabolism, inborn errors"
+111,cardiovascular diseases
+112,child nutrition disorders
+113,diabetes mellitus
+114,"diabetes mellitus, experimental"
+115,"diabetes mellitus, type 1"
+116,"diabetes mellitus, type 2"
+118,"diet, fat-restricted"
+119,"diet, gluten-free"
+121,"diet, high-protein"
+122,"diet, ketogenic"
+124,"diet, reducing"
+125,"diet, sodium-restricted"
+131,dyslipidemias
+132,eating disorders
+133,feeding and eating disorders
+135,food hypersensitivity
+136,foodborne diseases
+137,gastrointestinal diseases
+138,hypercholesterolemia
+139,hyperglycemia
+140,hyperlipidemias
+141,hyperphagia
+142,hypoglycemia
+143,hypophagia
+144,insulin resistance
+145,kidney diseases
+146,liver diseases
+147,malabsorption syndromes
+149,metabolic diseases
+150,metabolic syndrome
+155,overweight
+156,pediatric obesity
+157,protein-energy malnutrition
+158,sarcopenia
+159,starvation
+160,weight gain
+161,weight loss
+162,adiposity
+163,alcoholism
+164,anemia
+165,"anemia, megaloblastic"
+166,"anemia, pernicious"
+167,"anemia, sickle cell"
+168,"anemia, hemolytic"
+169,celiac disease
+170,"colitis, ulcerative"
+171,constipation
+172,crohn disease
+173,"diverticulosis, colonic"
+174,esophageal diseases
+175,fatty liver
+177,gastroenteritis
+178,gastroesophageal reflux
+179,gout
+180,growth disorders
+181,heart diseases
+182,hyperglycemic hyperosmolar nonketotic coma
+183,hypertension
+184,hypoglycemic agents
+185,inflammatory bowel diseases
+186,intra-abdominal fat
+187,iron overload
+188,"kidney failure, chronic"
+189,liver cirrhosis
+190,liver neoplasms
+191,malocclusion
+192,metabolic syndrome x
+193,micronutrient deficiencies
+194,neoplasms
+195,"obesity, abdominal"
+196,pancreatic diseases
+197,peptic ulcer
+198,porphyrias
+199,premature birth
+200,"renal insufficiency, chronic"
+201,rickets
+202,sepsis
+203,stroke
+204,tooth diseases
+205,tooth loss
+206,vitamin b 12 deficiency
+207,vitamin d deficiency
+208,wasting syndrome
+209,water-electrolyte imbalance
+211,appetite regulation
+213,binge eating
+215,body weight
+217,carbohydrates
+218,child nutrition sciences
+219,"cholesterol, dietary"
+220,cooking
+222,diet records
+223,diet surveys
+224,diet therapy
+230,drinking
+235,fast foods
+237,food
+238,food analysis
+240,food labeling
+242,food supply
+243,"food, formulated"
+244,fruit
+245,gastrointestinal transit
+246,healthy diet
+247,hungry hypothesis
+248,infant nutritional physiological phenomena
+249,infant nutrition disorders
+250,insensible water loss
+251,ketogenic diet
+252,macronutrients
+254,meat
+256,milk
+263,nutritional sciences
+264,nutritive value
+267,plant oils
+268,probiotics
+269,reduced caloric intake
+270,satiation
+271,snacks
+272,"sodium, dietary"
+273,sports nutritional physiological phenomena
+274,sports nutritional sciences
+276,sucrose
+277,sugar-sweetened beverages
+278,supervised feeding
+279,sweets
+281,vegetables
+285,weight reduction programs
+286,"zinc, dietary"
+289,carbohydrate-restricted diet
