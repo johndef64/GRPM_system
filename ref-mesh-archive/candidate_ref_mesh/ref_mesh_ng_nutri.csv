@@ -27,8 +27,6 @@
 504723,Nutritive Value,Qualitative Concept,D009753
 506117,Nutritional Sciences,Biomedical Occupation or Discipline,D052756
 506314,Sports Nutritional Sciences,Biomedical Occupation or Discipline,D064132
-151780,Milk Proteins,"Amino Acid, Peptide, or Protein",D008894
-371068,Milk Proteins,Biologically Active Substance,D008894
 487393,Milk Thistle,Plant,D020944
 503717,Soy Milk,Food,D041942
 503800,Cultured Milk Products,Food,D043302
@@ -42,8 +40,6 @@
 503880,Pork Meat,Food,D000080305
 423587,"Diet, Ketogenic",Therapeutic or Preventive Procedure,D055423
 513351,"Water Loss, Insensible",Organism Function,D014870
-423258,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
-513424,Infant Nutritional Physiological Phenomena,Organism Function,D007227
 422483,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
 501275,"Diet, Healthy",Finding,D000072001
 512655,"Diet, Healthy",Individual Behavior,D000072001
@@ -63,7 +59,6 @@
 501553,Food Addiction,Finding,D000073932
 501643,Food Microbiology,Phenomenon or Process,D005516
 501669,Food Contamination,Phenomenon or Process,D005506
-502457,United States Food and Drug Administration,Health Care Related Organization,D014486
 503692,Raw Foods,Food,D066256
 503704,"Foods, Specialized",Food,D019648
 503728,"Food, Preserved",Food,D057141
@@ -73,12 +68,10 @@
 503797,Soy Foods,Food,D045730
 503807,Food Additives,Food,D005503
 503808,Food,Food,D005502
-503819,Infant Food,Food,D007225
 503833,"Food, Organic",Food,D058870
 503837,Food Ingredients,Food,D000074385
 503890,"Food, Formulated",Food,D005526
 503891,"Food, Fortified",Food,D005527
-504183,Food-Drug Interactions,Natural Phenomenon or Process,D018565
 504208,Food Chain,Natural Phenomenon or Process,D020387
 504601,Access to Healthy Foods,Qualitative Concept,D000091483
 504626,Food Preferences,Qualitative Concept,D005518
@@ -92,7 +85,6 @@
 509614,Food Safety,Occupational Activity,D059022
 509634,Food Handling,Occupational Activity,D005511
 509635,Food Preservation,Occupational Activity,D005519
-509991,Food-Drug Interactions,Pathologic Function,D018565
 510102,Food Hypersensitivity,Pathologic Function,D005512
 512645,Food Preferences,Individual Behavior,D005518
 512689,Food Fussiness,Individual Behavior,D000081010
@@ -123,7 +115,6 @@
 258604,Carbohydrates,Organic Chemical,D002241
 410336,Carbohydrate Dehydrogenases,Enzyme,D002237
 410337,Carbohydrate Epimerases,Enzyme,D002238
-422975,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
 423602,"Diet, Carbohydrate Loading",Therapeutic or Preventive Procedure,D000070601
 423609,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
 495616,"Carbohydrate Metabolism, Inborn Errors",Disease or Syndrome,D002239
@@ -164,7 +155,6 @@
 497395,Embolic Stroke,Disease or Syndrome,D000083262
 498386,Stroke,Disease or Syndrome,D020521
 501218,Stroke Volume,Finding,D013318
-502545,National Institute of Neurological Disorders and Stroke (U.S.),Health Care Related Organization,D055825
 514056,Stroke Volume,Laboratory or Test Result,D013318
 514527,Stroke Volume,Clinical Attribute,D013318
 490643,Neonatal Sepsis,Disease or Syndrome,D000071074
@@ -223,8 +213,6 @@
 494432,Rheumatic Heart Disease,Disease or Syndrome,D012214
 497320,Pulmonary Heart Disease,Disease or Syndrome,D011660
 498081,Heart Valve Diseases,Disease or Syndrome,D006349
-501610,Heart Disease Risk Factors,Finding,D000082742
-504745,Heart Disease Risk Factors,Qualitative Concept,D000082742
 509984,Growth Disorders,Pathologic Function,D006130
 495617,"Arthritis, Gouty",Disease or Syndrome,D015210
 21378,Gout Suppressants,Pharmacologic Substance,D006074
@@ -247,24 +235,6 @@
 491214,"Anemia, Hemolytic, Congenital Nonspherocytic",Disease or Syndrome,D000746
 495093,"Anemia, Pernicious",Disease or Syndrome,D000752
 491205,"Anemia, Megaloblastic",Disease or Syndrome,D000749
-89492,Fanconi Anemia Complementation Group Proteins,"Amino Acid, Peptide, or Protein",D051856
-89922,Fanconi Anemia Complementation Group L Protein,"Amino Acid, Peptide, or Protein",D052240
-89926,Fanconi Anemia Complementation Group G Protein,"Amino Acid, Peptide, or Protein",D052241
-151029,Fanconi Anemia Complementation Group N Protein,"Amino Acid, Peptide, or Protein",D000076164
-168469,Fanconi Anemia Complementation Group D2 Protein,"Amino Acid, Peptide, or Protein",D052236
-168470,Fanconi Anemia Complementation Group E Protein,"Amino Acid, Peptide, or Protein",D052239
-173656,Fanconi Anemia Complementation Group F Protein,"Amino Acid, Peptide, or Protein",D052219
-173657,Fanconi Anemia Complementation Group C Protein,"Amino Acid, Peptide, or Protein",D052218
-173658,Fanconi Anemia Complementation Group A Protein,"Amino Acid, Peptide, or Protein",D052217
-333978,Fanconi Anemia Complementation Group Proteins,Biologically Active Substance,D051856
-334226,Fanconi Anemia Complementation Group G Protein,Biologically Active Substance,D052241
-370578,Fanconi Anemia Complementation Group N Protein,Biologically Active Substance,D000076164
-381191,Fanconi Anemia Complementation Group D2 Protein,Biologically Active Substance,D052236
-381192,Fanconi Anemia Complementation Group E Protein,Biologically Active Substance,D052239
-384220,Fanconi Anemia Complementation Group F Protein,Biologically Active Substance,D052219
-384221,Fanconi Anemia Complementation Group C Protein,Biologically Active Substance,D052218
-384222,Fanconi Anemia Complementation Group A Protein,Biologically Active Substance,D052217
-397964,Fanconi Anemia Complementation Group L Protein,Enzyme,D052240
 491205,"Anemia, Megaloblastic",Disease or Syndrome,D000749
 491206,"Anemia, Hemolytic",Disease or Syndrome,D000743
 491207,"Anemia, Dyserythropoietic, Congenital",Disease or Syndrome,D000742
@@ -341,8 +311,6 @@
 501192,Gestational Weight Gain,Finding,D000078064
 501515,Starvation,Finding,D013217
 490089,Sarcopenia,Disease or Syndrome,D055948
-497104,Protein-Energy Malnutrition,Disease or Syndrome,D011502
-510276,Protein-Energy Malnutrition,Pathologic Function,D011502
 493844,Pediatric Obesity,Disease or Syndrome,D063766
 501287,Pediatric Obesity,Finding,D063766
 501120,Overweight,Finding,D050177
@@ -363,7 +331,6 @@
 493274,Chronic Kidney Disease-Mineral and Bone Disorder,Disease or Syndrome,D012080
 493472,"Kidney Diseases, Cystic",Disease or Syndrome,D052177
 493828,Kidney Diseases,Disease or Syndrome,D007674
-502409,National Institute of Diabetes and Digestive and Kidney Diseases (U.S.),Health Care Related Organization,D054586
 509981,Insulin Resistance,Pathologic Function,D007333
 496618,Hypoglycemia,Disease or Syndrome,D007003
 501434,Hyperphagia,Finding,D006963
@@ -379,16 +346,13 @@
 510102,Food Hypersensitivity,Pathologic Function,D005512
 496087,Feeding and Eating Disorders,Disease or Syndrome,D001068
 499963,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
-500022,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
 496087,Feeding and Eating Disorders,Disease or Syndrome,D001068
 499771,Binge-Eating Disorder,Mental or Behavioral Dysfunction,D056912
 499963,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
-500022,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
 490514,Dyslipidemias,Disease or Syndrome,D050171
 509994,Dyslipidemias,Pathologic Function,D050171
 506191,Dietetics,Biomedical Occupation or Discipline,D004046
 87,Recommended Dietary Allowances,Intellectual Product,D064167
-126728,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
 187112,"Cholesterol, Dietary",Organic Chemical,D002791
 243974,Dietary Carbohydrates,Organic Chemical,D004040
 243977,"Dietary Fats, Unsaturated",Organic Chemical,D004042
@@ -415,13 +379,10 @@
 422483,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
 422504,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
 422603,"Diet, Diabetic",Therapeutic or Preventive Procedure,D003927
-422975,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
-423073,"Diet, High-Protein",Therapeutic or Preventive Procedure,D000073600
 423126,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
 423587,"Diet, Ketogenic",Therapeutic or Preventive Procedure,D055423
 423602,"Diet, Carbohydrate Loading",Therapeutic or Preventive Procedure,D000070601
 423609,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
-423808,"Diet, Protein-Restricted",Therapeutic or Preventive Procedure,D018753
 423809,"Diet, Fat-Restricted",Therapeutic or Preventive Procedure,D018752
 501275,"Diet, Healthy",Finding,D000072001
 501277,"Diet, Vegetarian",Finding,D014676
@@ -437,8 +398,6 @@
 421964,"Diet, Sodium-Restricted",Therapeutic or Preventive Procedure,D004039
 421965,"Diet, Reducing",Therapeutic or Preventive Procedure,D004038
 423587,"Diet, Ketogenic",Therapeutic or Preventive Procedure,D055423
-422975,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
-423073,"Diet, High-Protein",Therapeutic or Preventive Procedure,D000073600
 423126,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
 423809,"Diet, Fat-Restricted",Therapeutic or Preventive Procedure,D018752
 493954,"Diabetes Mellitus, Type 2",Disease or Syndrome,D003924
@@ -449,7 +408,6 @@
 493955,"Diabetes Mellitus, Lipoatrophic",Disease or Syndrome,D003923
 493957,"Diabetes Mellitus, Type 1",Disease or Syndrome,D003922
 513830,"Diabetes Mellitus, Experimental",Experimental Model of Disease,D003921
-491572,Child Nutrition Disorders,Disease or Syndrome,D015362
 490966,Cardiovascular Diseases,Disease or Syndrome,D002318
 495616,"Carbohydrate Metabolism, Inborn Errors",Disease or Syndrome,D002239
 507787,Cachexia,Sign or Symptom,D002100
@@ -497,7 +455,6 @@
 83662,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
 87619,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
 88214,Vitamin D3 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D065668
-148512,Vitamin D-Binding Protein,"Amino Acid, Peptide, or Protein",D014809
 209539,Vitamins,Organic Chemical,D014815
 209540,Vitamin K,Organic Chemical,D014812
 209541,Vitamin E,Organic Chemical,D014810
@@ -509,7 +466,6 @@
 290480,Vitamin K 2,Organic Chemical,D024482
 294774,Vitamin B 6,Organic Chemical,D025101
 330455,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
-368983,Vitamin D-Binding Protein,Biologically Active Substance,D014809
 371829,Vitamin D Response Element,Biologically Active Substance,D030181
 397458,Vitamin K Epoxide Reductases,Enzyme,D064417
 397574,Vitamin D3 24-Hydroxylase,Enzyme,D065668
@@ -535,19 +491,15 @@
 502868,Vitamin K 2,Vitamin,D024482
 502882,Vitamin B 6,Vitamin,D025101
 493116,Overnutrition,Disease or Syndrome,D044343
-166,Obesity Management,Intellectual Product,D000073319
 52643,Anti-Obesity Agents,Pharmacologic Substance,D019440
 493697,"Obesity, Morbid",Disease or Syndrome,D009767
 493699,Obesity,Disease or Syndrome,D009765
 493844,Pediatric Obesity,Disease or Syndrome,D063766
 501287,Pediatric Obesity,Finding,D063766
-501364,"Obesity, Maternal",Finding,D000079262
 501607,"Obesity, Abdominal",Finding,D056128
 507776,"Obesity, Metabolically Benign",Sign or Symptom,D000067329
 507824,"Obesity, Abdominal",Sign or Symptom,D056128
-508556,Obesity Management,Health Care Activity,D000073319
 490937,Fetal Nutrition Disorders,Disease or Syndrome,D048070
-491572,Child Nutrition Disorders,Disease or Syndrome,D015362
 496190,Nutrition Disorders,Disease or Syndrome,D009748
 422130,Nutrition Therapy,Therapeutic or Preventive Procedure,D044623
 508542,Nutrition Therapy,Health Care Activity,D044623
@@ -560,8 +512,6 @@
 509242,Nutrition Assessment,Quantitative Concept,D015596
 350339,Micronutrients,Biologically Active Substance,D018977
 493115,Malnutrition,Disease or Syndrome,D044342
-497104,Protein-Energy Malnutrition,Disease or Syndrome,D011502
-510276,Protein-Energy Malnutrition,Pathologic Function,D011502
 504626,Food Preferences,Qualitative Concept,D005518
 512645,Food Preferences,Individual Behavior,D005518
 512695,Feeding Behavior,Individual Behavior,D005247
@@ -569,7 +519,6 @@
 496087,Feeding and Eating Disorders,Disease or Syndrome,D001068
 499771,Binge-Eating Disorder,Mental or Behavioral Dysfunction,D056912
 499963,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
-500022,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
 501479,Eating,Finding,D004435
 513436,Eating,Organism Function,D004435
 515292,Eating,Biologic Function,D004435
@@ -578,7 +527,6 @@
 509080,Energy Intake,Quantitative Concept,D002149
 421890,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
 503679,Dietary Supplements,Food,D019587
-126728,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
 503751,Dietary Fiber,Food,D004043
 243974,Dietary Carbohydrates,Organic Chemical,D004040
 243977,"Dietary Fats, Unsaturated",Organic Chemical,D004042
@@ -598,13 +546,10 @@
 422483,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
 422504,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
 422603,"Diet, Diabetic",Therapeutic or Preventive Procedure,D003927
-422975,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
-423073,"Diet, High-Protein",Therapeutic or Preventive Procedure,D000073600
 423126,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
 423587,"Diet, Ketogenic",Therapeutic or Preventive Procedure,D055423
 423602,"Diet, Carbohydrate Loading",Therapeutic or Preventive Procedure,D000070601
 423609,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
-423808,"Diet, Protein-Restricted",Therapeutic or Preventive Procedure,D018753
 423809,"Diet, Fat-Restricted",Therapeutic or Preventive Procedure,D018752
 501275,"Diet, Healthy",Finding,D000072001
 501277,"Diet, Vegetarian",Finding,D014676
@@ -623,14 +568,7 @@
 512685,Appetitive Behavior,Individual Behavior,D001070
 513416,Appetite,Organism Function,D001066
 513417,Appetite Regulation,Organism Function,D001069
-423258,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
 504083,Nutritional Physiological Phenomena,Organ or Tissue Function,D009747
 512218,Nutritional Physiological Phenomena,Physiologic Function,D009747
-513302,Maternal Nutritional Physiological Phenomena,Organism Function,D039382
 513339,Prenatal Nutritional Physiological Phenomena,Organism Function,D039401
-513368,Adolescent Nutritional Physiological Phenomena,Organism Function,D017195
-513403,Animal Nutritional Physiological Phenomena,Organism Function,D000824
 513422,Sports Nutritional Physiological Phenomena,Organism Function,D064133
-513424,Infant Nutritional Physiological Phenomena,Organism Function,D007227
-513466,Elder Nutritional Physiological Phenomena,Organism Function,D058620
-513484,Child Nutritional Physiological Phenomena,Organism Function,D002664

@@ -7,22 +7,13 @@
 513536,Waist-Hip Ratio,Organism Attribute,D049629
 499234,Satiation,Mental Process,D012527
 509199,Glycemic Load,Quantitative Concept,D000067940
-423258,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
 504083,Nutritional Physiological Phenomena,Organ or Tissue Function,D009747
 512218,Nutritional Physiological Phenomena,Physiologic Function,D009747
-513302,Maternal Nutritional Physiological Phenomena,Organism Function,D039382
 513339,Prenatal Nutritional Physiological Phenomena,Organism Function,D039401
-513368,Adolescent Nutritional Physiological Phenomena,Organism Function,D017195
-513403,Animal Nutritional Physiological Phenomena,Organism Function,D000824
 513422,Sports Nutritional Physiological Phenomena,Organism Function,D064133
-513424,Infant Nutritional Physiological Phenomena,Organism Function,D007227
-513466,Elder Nutritional Physiological Phenomena,Organism Function,D058620
-513484,Child Nutritional Physiological Phenomena,Organism Function,D002664
 505826,Epidemiologic Research Design,Research Activity,D015340
 505712,Epidemiologic Methods,Research Activity,D004812
 423609,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
-512955,Social Support,Social Behavior,D012944
-32184,"Sleep Aids, Pharmaceutical",Pharmacologic Substance,D000068776
 491807,Sleep Wake Disorders,Disease or Syndrome,D012893
 491809,Sleep Apnea Syndromes,Disease or Syndrome,D012891
 491810,Sleep Deprivation,Disease or Syndrome,D012892
@@ -57,7 +48,6 @@
 512702,Sleep Hygiene,Individual Behavior,D000070263
 513318,Sleep Stages,Organism Function,D012894
 513319,Sleep,Organism Function,D012890
-515406,"Sleep Aids, Pharmaceutical",Clinical Drug,D000068776
 496695,Life Style,Disease or Syndrome,D008019
 512909,Life Style,Social Behavior,D008019
 500083,Impulsive Behavior,Mental or Behavioral Dysfunction,D007175
@@ -75,7 +65,6 @@
 512145,Metabolome,Physiologic Function,D055442
 503660,Dietary Sucrose,Food,D019422
 423403,Dietary Approaches To Stop Hypertension,Therapeutic or Preventive Procedure,D000073601
-423808,"Diet, Protein-Restricted",Therapeutic or Preventive Procedure,D018753
 421694,"Diet, High-Fat",Therapeutic or Preventive Procedure,D059305
 512228,Energy Metabolism,Physiologic Function,D004734
 513440,Energy Metabolism,Organism Function,D004734
@@ -83,16 +72,11 @@
 504518,Metabolic Networks and Pathways,Molecular Function,D053858
 515695,Metabolic Networks and Pathways,Functional Concept,D053858
 504530,Adipogenesis,Molecular Function,D050156
-423258,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
-513424,Infant Nutritional Physiological Phenomena,Organism Function,D007227
 300,Diet Records,Intellectual Product,D015930
 496087,Feeding and Eating Disorders,Disease or Syndrome,D001068
 499963,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
-500022,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
-508804,Public Health Surveillance,Health Care Activity,D062486
 493844,Pediatric Obesity,Disease or Syndrome,D063766
 501287,Pediatric Obesity,Finding,D063766
-501364,"Obesity, Maternal",Finding,D000079262
 490584,"Pregnancy Complications, Cardiovascular",Disease or Syndrome,D011249
 494772,"Pregnancy Complications, Parasitic",Disease or Syndrome,D015597
 498745,"Pregnancy Complications, Hematologic",Disease or Syndrome,D011250
@@ -113,173 +97,43 @@
 514535,Cortical Spreading Depression,Clinical Attribute,D013181
 423472,Mental Health Recovery,Therapeutic or Preventive Procedure,D000073038
 499296,Mental Health,Mental Process,D008603
-500303,Community Mental Health Centers,Manufactured Object,D003155
-502430,Community Mental Health Centers,Health Care Related Organization,D003155
-502555,National Institute of Mental Health (U.S.),Health Care Related Organization,D009315
-508645,Community Mental Health Services,Health Care Activity,D003156
 509408,Quality-Adjusted Life Years,Temporal Concept,D019057
 513045,Quality of Life,Idea or Concept,D011788
-504654,Health Status,Qualitative Concept,D006304
-504709,Health Status Disparities,Qualitative Concept,D054624
-508656,Health Status Indicators,Health Care Activity,D006305
-509231,Health Status Indicators,Quantitative Concept,D006305
-1,Electronic Health Records,Intellectual Product,D057286
-298,Health Systems Plans,Intellectual Product,D006308
-341,Health Care Surveys,Intellectual Product,D019538
-377,Health Promotion,Intellectual Product,D006293
 395,Patient Health Questionnaire,Intellectual Product,D000073222
-403,Regional Health Planning,Intellectual Product,D012040
-496,Consumer Health Information,Intellectual Product,D054626
-532,Health Information Systems,Intellectual Product,D063005
-605,National Health Programs,Intellectual Product,D009313
-423362,Holistic Health,Therapeutic or Preventive Procedure,D006694
 423472,Mental Health Recovery,Therapeutic or Preventive Procedure,D000073038
-499072,Attitude of Health Personnel,Mental Process,D001291
 499216,Health Literacy,Mental Process,D057220
 499296,Mental Health,Mental Process,D008603
 499598,"Catchment Area, Health",Geographic Area,D002391
-500101,Electronic Health Records,Manufactured Object,D057286
-500117,Rural Health Services,Manufactured Object,D019035
-500302,Community Health Centers,Manufactured Object,D003151
-500303,Community Mental Health Centers,Manufactured Object,D003155
 500388,Health Resorts,Manufactured Object,D006294
-500499,Mobile Health Units,Manufactured Object,D008952
 500506,Health Maintenance Organizations,Manufactured Object,D006279
-500519,Health Facilities,Manufactured Object,D006268
-501115,Minority Health,Finding,D054525
 501131,Oral Health,Finding,D009909
-501228,Social Determinants of Health,Finding,D064890
-501391,Health Services Accessibility,Finding,D006297
 501473,Family Health,Finding,D005192
-501636,Social Determinants of Health,Phenomenon or Process,D064890
-502334,"Delivery of Health Care, Integrated",Health Care Related Organization,D019033
-502335,Rural Health Services,Health Care Related Organization,D019035
-502375,Community Health Planning,Health Care Related Organization,D018672
-502380,"National Center for Health Statistics, U.S.",Health Care Related Organization,D009309
 502399,Health Level Seven,Health Care Related Organization,D057208
-502429,Community Health Centers,Health Care Related Organization,D003151
-502430,Community Mental Health Centers,Health Care Related Organization,D003155
 502455,"Insurance, Health, Reimbursement",Health Care Related Organization,D007349
-502491,Delivery of Health Care,Health Care Related Organization,D003695
-502527,Maternal-Child Health Centers,Health Care Related Organization,D008430
-502529,Mobile Health Units,Health Care Related Organization,D008952
 502532,Health Maintenance Organizations,Health Care Related Organization,D006279
 502539,World Health Organization,Health Care Related Organization,D014944
-502543,Health Facilities,Health Care Related Organization,D006268
-502554,National Institutes of Health (U.S.),Health Care Related Organization,D009316
-502555,National Institute of Mental Health (U.S.),Health Care Related Organization,D009315
-502559,"National Institute for Occupational Safety and Health, U.S.",Health Care Related Organization,D009314
-504560,Infant Health,Qualitative Concept,D000068104
-504569,"Quality Indicators, Health Care",Qualitative Concept,D019984
-504582,Health Equity,Qualitative Concept,D000069576
-504620,"Quality Assurance, Health Care",Qualitative Concept,D011785
-504629,Patient Acceptance of Health Care,Qualitative Concept,D010342
-504654,Health Status,Qualitative Concept,D006304
-504655,Health Services Needs and Demand,Qualitative Concept,D006301
-504681,Health Priorities,Qualitative Concept,D006292
-504682,Health Services Accessibility,Qualitative Concept,D006297
-504709,Health Status Disparities,Qualitative Concept,D054624
 504728,Health,Qualitative Concept,D006262
-505644,"Outcome Assessment, Health Care",Research Activity,D017063
-505737,Health Surveys,Research Activity,D006306
-505738,Health Services Research,Research Activity,D006302
-505761,Health Care Surveys,Research Activity,D019538
-506066,Public Health,Biomedical Occupation or Discipline,D011634
-506242,Reproductive Health,Biomedical Occupation or Discipline,D060728
 506272,Women's Health,Biomedical Occupation or Discipline,D016387
 506316,Occupational Health,Biomedical Occupation or Discipline,D016272
 506343,Environmental Health,Biomedical Occupation or Discipline,D004782
 506365,Global Health,Biomedical Occupation or Discipline,D014943
 506367,Health Occupations,Biomedical Occupation or Discipline,D006281
-508465,Child Health,Health Care Activity,D000067576
-508469,"Delivery of Health Care, Integrated",Health Care Activity,D019033
-508470,Rural Health Services,Health Care Activity,D019035
-508472,Urban Health Services,Health Care Activity,D019037
-508489,Public Health Administration,Health Care Activity,D011635
-508498,"Outcome and Process Assessment, Health Care",Health Care Activity,D010043
-508528,Comprehensive Health Care,Health Care Activity,D003191
-508531,Community Health Planning,Health Care Activity,D018672
-508564,Quality of Health Care,Health Care Activity,D011787
-508583,Health Information Interoperability,Health Care Activity,D000073892
-508592,Patient Acceptance of Health Care,Health Care Activity,D010342
-508601,Adolescent Health Services,Health Care Activity,D016497
-508618,Health Information Exchange,Health Care Activity,D066275
-508619,School Health Services,Health Care Activity,D012572
 508632,Population Health,Health Care Activity,D000075485
-508645,Community Mental Health Services,Health Care Activity,D003156
-508646,Community Health Services,Health Care Activity,D003153
-508655,"Health Services, Indigenous",Health Care Activity,D006303
-508656,Health Status Indicators,Health Care Activity,D006305
-508657,Health Systems Plans,Health Care Activity,D006308
 508677,"Insurance, Health, Reimbursement",Health Care Activity,D007349
 508680,"Insurance, Health",Health Care Activity,D007348
-508689,Health Care Surveys,Health Care Activity,D019538
-508692,Maternal Health Services,Health Care Activity,D008427
-508705,Health Services,Health Care Activity,D006296
-508706,Health Promotion,Health Care Activity,D006293
-508708,Health Services for the Aged,Health Care Activity,D006299
-508712,Delivery of Health Care,Health Care Activity,D003695
-508716,Public Health Practice,Health Care Activity,D015980
-508727,Regional Health Planning,Health Care Activity,D012040
 508735,Voluntary Health Agencies,Health Care Activity,D014837
-508766,Preventive Health Services,Health Care Activity,D011314
-508776,Maternal-Child Health Services,Health Care Activity,D000068101
-508804,Public Health Surveillance,Health Care Activity,D062486
-508805,Health Impact Assessment,Health Care Activity,D062489
-508806,Primary Health Care,Health Care Activity,D011320
-508839,Health Plan Implementation,Health Care Activity,D006284
 508841,"Health Benefit Plans, Employee",Health Care Activity,D006264
-508842,Health Education,Health Care Activity,D006266
-508857,Reproductive Health Services,Health Care Activity,D034121
-508863,National Health Programs,Health Care Activity,D009313
-508875,Child Health Services,Health Care Activity,D002662
-508878,Health Care Rationing,Health Care Activity,D015276
-508890,Health Educators,Professional or Occupational Group,D040441
-508924,Allied Health Personnel,Professional or Occupational Group,D000488
-508977,Community Health Workers,Professional or Occupational Group,D003150
-509052,Health Personnel,Professional or Occupational Group,D006282
-509090,"Outcome Assessment, Health Care",Quantitative Concept,D017063
-509092,"Quality Indicators, Health Care",Quantitative Concept,D019984
-509210,Health Care Costs,Quantitative Concept,D017048
-509211,Employer Health Costs,Quantitative Concept,D017049
-509230,Health Expenditures,Quantitative Concept,D005102
-509231,Health Status Indicators,Quantitative Concept,D006305
-509353,National Longitudinal Study of Adolescent Health,Quantitative Concept,D063588
-509370,Maternal Health,Quantitative Concept,D000068097
-509575,"Outcome Assessment, Health Care",Occupational Activity,D017063
-509699,Regional Health Planning,Occupational Activity,D012040
 512620,Health Behavior,Individual Behavior,D015438
-512649,Patient Acceptance of Health Care,Individual Behavior,D010342
-512675,Health Services Misuse,Individual Behavior,D006300
 512710,Health Risk Behaviors,Individual Behavior,D000073599
 512763,Attitude to Health,Social Behavior,D001294
-512981,Child Health,Idea or Concept,D000067576
-513020,Community Health Planning,Idea or Concept,D018672
-513078,Adolescent Health,Idea or Concept,D000067697
 513091,Rural Health,Idea or Concept,D012423
 513141,Health Resources,Idea or Concept,D006295
 513167,Occupational Health,Idea or Concept,D016272
-513183,Urban Health,Idea or Concept,D014504
-513184,Holistic Health,Idea or Concept,D006694
 513198,One Health,Idea or Concept,D000074823
 513212,Global Health,Idea or Concept,D014943
-513226,Health Planning Guidelines,Idea or Concept,D006287
 513227,Health,Idea or Concept,D006262
-513499,Sexual Health,Organism Attribute,D000074384
-513809,Universal Health Care,Governmental or Regulatory Activity,D000080423
-513810,Health Care Reform,Governmental or Regulatory Activity,D018166
-514017,Health Education,Educational Activity,D006266
-514173,Minority Health,Regulation or Law,D054525
-514214,Health Policy,Regulation or Law,D006291
-514216,Health Insurance Portability and Accountability Act,Regulation or Law,D020408
-514234,Health Planning Guidelines,Regulation or Law,D006287
-514631,Health Services Needs and Demand,Population Group,D006301
 515588,Men's Health,Group Attribute,D054526
-515599,Adolescent Health,Group Attribute,D000067697
-515602,Community Health Workers,Group Attribute,D003150
 515608,Veterans Health,Group Attribute,D058014
-515660,Quality of Health Care,Functional Concept,D011787
-515848,Health Transition,Human-caused Phenomenon or Process,D019456
 515995,"Health Knowledge, Attitudes, Practice",Behavior,D007722
 493954,"Diabetes Mellitus, Type 2",Disease or Syndrome,D003924
 492071,"Skin Diseases, Metabolic",Disease or Syndrome,D012875
@@ -289,10 +143,6 @@
 498061,"Brain Diseases, Metabolic, Inborn",Disease or Syndrome,D020739
 513506,Body Height,Organism Attribute,D001827
 512650,Risk Reduction Behavior,Individual Behavior,D040242
-341,Health Care Surveys,Intellectual Product,D019538
-505737,Health Surveys,Research Activity,D006306
-505761,Health Care Surveys,Research Activity,D019538
-508689,Health Care Surveys,Health Care Activity,D019538
 499122,Body Image,Mental Process,D001828
 504594,Body Image,Qualitative Concept,D001828
 505079,Whole Body Imaging,Diagnostic Procedure,D051598
@@ -305,9 +155,6 @@
 514707,Racquet Sports,Daily or Recreational Activity,D015865
 514716,Water Sports,Daily or Recreational Activity,D000073678
 514717,Sports,Daily or Recreational Activity,D013177
-514754,Youth Sports,Daily or Recreational Activity,D000067009
-515208,Doping in Sports,Activity,D004300
-502559,"National Institute for Occupational Safety and Health, U.S.",Health Care Related Organization,D009314
 506316,Occupational Health,Biomedical Occupation or Discipline,D016272
 506367,Health Occupations,Biomedical Occupation or Discipline,D006281
 513167,Occupational Health,Idea or Concept,D016272
@@ -322,7 +169,6 @@
 30490,"Insulin, Short-Acting",Pharmacologic Substance,D061266
 30491,Insulin Aspart,Pharmacologic Substance,D061267
 39256,Insulin,Pharmacologic Substance,D007328
-41410,Insulin-Like Growth Factor Binding Protein 3,Pharmacologic Substance,D018972
 41689,Insulin Glargine,Pharmacologic Substance,D000069036
 56351,"Insulin, Regular, Human",Pharmacologic Substance,D061386
 56353,Insulins,Pharmacologic Substance,D061385
@@ -333,32 +179,17 @@
 82619,Insulin-Like Growth Factor II,"Amino Acid, Peptide, or Protein",D007335
 88686,"Receptor, Insulin","Amino Acid, Peptide, or Protein",D011972
 96593,Insulin Detemir,"Amino Acid, Peptide, or Protein",D000069057
-97566,Insulin-Like Growth Factor Binding Proteins,"Amino Acid, Peptide, or Protein",D018969
 97819,Biphasic Insulins,"Amino Acid, Peptide, or Protein",D061265
 97820,Insulin Lispro,"Amino Acid, Peptide, or Protein",D061268
 97821,"Insulin, Short-Acting","Amino Acid, Peptide, or Protein",D061266
 97822,Insulin Aspart,"Amino Acid, Peptide, or Protein",D061267
 113377,Insulin,"Amino Acid, Peptide, or Protein",D007328
-113599,Insulin Receptor Substrate Proteins,"Amino Acid, Peptide, or Protein",D055504
-117059,Insulin-Like Growth Factor Binding Protein 1,"Amino Acid, Peptide, or Protein",D018970
-117060,Insulin-Like Growth Factor Binding Protein 3,"Amino Acid, Peptide, or Protein",D018972
-117061,Insulin-Like Growth Factor Binding Protein 2,"Amino Acid, Peptide, or Protein",D018971
-117062,Insulin-Like Growth Factor Binding Protein 5,"Amino Acid, Peptide, or Protein",D018975
-117063,Insulin-Like Growth Factor Binding Protein 6,"Amino Acid, Peptide, or Protein",D018976
-117064,Insulin-Like Growth Factor Binding Protein 4,"Amino Acid, Peptide, or Protein",D018974
 117557,Insulin Glargine,"Amino Acid, Peptide, or Protein",D000069036
 142681,"Insulin, Regular, Human","Amino Acid, Peptide, or Protein",D061386
 143920,"Isophane Insulin, Human","Amino Acid, Peptide, or Protein",D000068880
 181935,"Insulin, Long-Acting","Amino Acid, Peptide, or Protein",D049528
 329856,Insulin-Like Growth Factor I,Biologically Active Substance,D007334
 329857,Insulin-Like Growth Factor II,Biologically Active Substance,D007335
-338723,Insulin-Like Growth Factor Binding Proteins,Biologically Active Substance,D018969
-348275,Insulin Receptor Substrate Proteins,Biologically Active Substance,D055504
-350337,Insulin-Like Growth Factor Binding Protein 1,Biologically Active Substance,D018970
-350338,Insulin-Like Growth Factor Binding Protein 2,Biologically Active Substance,D018971
-350340,Insulin-Like Growth Factor Binding Protein 5,Biologically Active Substance,D018975
-350341,Insulin-Like Growth Factor Binding Protein 6,Biologically Active Substance,D018976
-350342,Insulin-Like Growth Factor Binding Protein 4,Biologically Active Substance,D018974
 390023,Insulin Antibodies,Immunologic Factor,D007330
 397673,"Receptor, Insulin",Enzyme,D011972
 503206,Insulin Infusion Systems,Medical Device,D007332
@@ -372,34 +203,15 @@
 172985,Adipokines,"Amino Acid, Peptide, or Protein",D054392
 383811,Adipokines,Biologically Active Substance,D054392
 514518,Adipose Tissue,Clinical Attribute,D000273
-501195,Risk Factors,Finding,D012307
-501610,Heart Disease Risk Factors,Finding,D000082742
-504600,Risk Factors,Qualitative Concept,D012307
-504645,Cardiometabolic Risk Factors,Qualitative Concept,D000083202
-504745,Heart Disease Risk Factors,Qualitative Concept,D000082742
-508676,Behavioral Risk Factor Surveillance System,Health Care Activity,D040343
-514524,Risk Factors,Clinical Attribute,D012307
-514596,Risk Factors,Population Group,D012307
 421712,Tertiary Prevention,Therapeutic or Preventive Procedure,D055512
 422363,Secondary Prevention,Therapeutic or Preventive Procedure,D055502
 423656,Primary Prevention,Therapeutic or Preventive Procedure,D011322
-508842,Health Education,Health Care Activity,D006266
-508890,Health Educators,Professional or Occupational Group,D040441
-514017,Health Education,Educational Activity,D006266
-377,Health Promotion,Intellectual Product,D006293
-508706,Health Promotion,Health Care Activity,D006293
-506066,Public Health,Biomedical Occupation or Discipline,D011634
-508489,Public Health Administration,Health Care Activity,D011635
-508716,Public Health Practice,Health Care Activity,D015980
-508804,Public Health Surveillance,Health Care Activity,D062486
-508766,Preventive Health Services,Health Care Activity,D011314
 422483,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
 501275,"Diet, Healthy",Finding,D000072001
 512655,"Diet, Healthy",Individual Behavior,D000072001
 496087,Feeding and Eating Disorders,Disease or Syndrome,D001068
 499771,Binge-Eating Disorder,Mental or Behavioral Dysfunction,D056912
 499963,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
-500022,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
 499930,Anorexia Nervosa,Mental or Behavioral Dysfunction,D000856
 499996,Bulimia Nervosa,Mental or Behavioral Dysfunction,D052018
 507776,"Obesity, Metabolically Benign",Sign or Symptom,D000067329
@@ -485,7 +297,6 @@
 509981,Insulin Resistance,Pathologic Function,D007333
 509161,Glycemic Index,Quantitative Concept,D038321
 503751,Dietary Fiber,Food,D004043
-126728,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
 243974,Dietary Carbohydrates,Organic Chemical,D004040
 243977,"Dietary Fats, Unsaturated",Organic Chemical,D004042
 503750,Dietary Fats,Food,D004041
@@ -508,13 +319,11 @@
 496087,Feeding and Eating Disorders,Disease or Syndrome,D001068
 499771,Binge-Eating Disorder,Mental or Behavioral Dysfunction,D056912
 499963,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
-500022,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
 501479,Eating,Finding,D004435
 513436,Eating,Organism Function,D004435
 515292,Eating,Biologic Function,D004435
 506191,Dietetics,Biomedical Occupation or Discipline,D004046
 87,Recommended Dietary Allowances,Intellectual Product,D064167
-126728,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
 187112,"Cholesterol, Dietary",Organic Chemical,D002791
 243974,Dietary Carbohydrates,Organic Chemical,D004040
 243977,"Dietary Fats, Unsaturated",Organic Chemical,D004042
@@ -541,13 +350,10 @@
 422483,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
 422504,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
 422603,"Diet, Diabetic",Therapeutic or Preventive Procedure,D003927
-422975,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
-423073,"Diet, High-Protein",Therapeutic or Preventive Procedure,D000073600
 423126,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
 423587,"Diet, Ketogenic",Therapeutic or Preventive Procedure,D055423
 423602,"Diet, Carbohydrate Loading",Therapeutic or Preventive Procedure,D000070601
 423609,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
-423808,"Diet, Protein-Restricted",Therapeutic or Preventive Procedure,D018753
 423809,"Diet, Fat-Restricted",Therapeutic or Preventive Procedure,D018752
 501275,"Diet, Healthy",Finding,D000072001
 501277,"Diet, Vegetarian",Finding,D014676
@@ -594,14 +400,11 @@
 514526,Ideal Body Weight,Clinical Attribute,D056865
 515154,Body Weight Maintenance,Activity,D000068959
 501120,Overweight,Finding,D050177
-166,Obesity Management,Intellectual Product,D000073319
 52643,Anti-Obesity Agents,Pharmacologic Substance,D019440
 493697,"Obesity, Morbid",Disease or Syndrome,D009767
 493699,Obesity,Disease or Syndrome,D009765
 493844,Pediatric Obesity,Disease or Syndrome,D063766
 501287,Pediatric Obesity,Finding,D063766
-501364,"Obesity, Maternal",Finding,D000079262
 501607,"Obesity, Abdominal",Finding,D056128
 507776,"Obesity, Metabolically Benign",Sign or Symptom,D000067329
 507824,"Obesity, Abdominal",Sign or Symptom,D056128
-508556,Obesity Management,Health Care Activity,D000073319

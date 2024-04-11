@@ -2,15 +2,12 @@
 124798,Superoxide Dismutase-1,"Amino Acid, Peptide, or Protein",D000072105
 405949,Superoxide Dismutase-1,Enzyme,D000072105
 485479,Reactive Nitrogen Species,Inorganic Chemical,D026361
-116874,C-Reactive Protein,"Amino Acid, Peptide, or Protein",D002097
-391877,C-Reactive Protein,Immunologic Factor,D002097
 29586,Inflammation Mediators,Pharmacologic Substance,D018836
 487992,Neurogenic Inflammation,Injury or Poisoning,D020078
 509987,Inflammation,Pathologic Function,D007249
 138350,Receptor for Advanced Glycation End Products,"Amino Acid, Peptide, or Protein",D000067759
 226658,"Glycation End Products, Advanced",Organic Chemical,D017127
 347980,"Glycation End Products, Advanced",Biologically Active Substance,D017127
-504458,Protein Carbonylation,Molecular Function,D050050
 107530,"Receptors, Oxidized LDL","Amino Acid, Peptide, or Protein",D051131
 183771,Isoprostanes,Organic Chemical,D028421
 269127,F2-Isoprostanes,Organic Chemical,D028441
@@ -60,7 +57,6 @@
 81139,Glutathione,"Amino Acid, Peptide, or Protein",D005978
 81142,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
 122794,Glutathione S-Transferase pi,"Amino Acid, Peptide, or Protein",D051549
-129801,Protein Disulfide Reductase (Glutathione),"Amino Acid, Peptide, or Protein",D011490
 154116,Glutathione Synthase,"Amino Acid, Peptide, or Protein",D005981
 154118,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
 154120,Glutathione Reductase,"Amino Acid, Peptide, or Protein",D005980
@@ -69,7 +65,6 @@
 374747,Glutathione Disulfide,Biologically Active Substance,D019803
 395979,Glutathione Peroxidase,Enzyme,D005979
 405526,Glutathione S-Transferase pi,Enzyme,D051549
-407067,Protein Disulfide Reductase (Glutathione),Enzyme,D011490
 412637,Glutathione Synthase,Enzyme,D005981
 412639,Glutathione Transferase,Enzyme,D005982
 412640,Glutathione Reductase,Enzyme,D005980
@@ -100,7 +95,6 @@
 501313,Food Insecurity,Finding,D000084884
 501553,Food Addiction,Finding,D000073932
 501669,Food Contamination,Phenomenon or Process,D005506
-502457,United States Food and Drug Administration,Health Care Related Organization,D014486
 503692,Raw Foods,Food,D066256
 503728,"Food, Preserved",Food,D057141
 503729,Fast Foods,Food,D057140
@@ -109,11 +103,9 @@
 503797,Soy Foods,Food,D045730
 503807,Food Additives,Food,D005503
 503808,Food,Food,D005502
-503819,Infant Food,Food,D007225
 503833,"Food, Organic",Food,D058870
 503837,Food Ingredients,Food,D000074385
 503891,"Food, Fortified",Food,D005527
-504183,Food-Drug Interactions,Natural Phenomenon or Process,D018565
 504601,Access to Healthy Foods,Qualitative Concept,D000091483
 504626,Food Preferences,Qualitative Concept,D005518
 504736,Food Security,Qualitative Concept,D000082302
@@ -122,7 +114,6 @@
 509614,Food Safety,Occupational Activity,D059022
 509634,Food Handling,Occupational Activity,D005511
 509635,Food Preservation,Occupational Activity,D005519
-509991,Food-Drug Interactions,Pathologic Function,D018565
 510102,Food Hypersensitivity,Pathologic Function,D005512
 512645,Food Preferences,Individual Behavior,D005518
 512689,Food Fussiness,Individual Behavior,D000081010

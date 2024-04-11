@@ -13,24 +13,6 @@
 499905,"Depressive Disorder, Major",Mental or Behavioral Dysfunction,D003865
 499906,Depressive Disorder,Mental or Behavioral Dysfunction,D003866
 499983,"Depressive Disorder, Treatment-Resistant",Mental or Behavioral Dysfunction,D061218
-89492,Fanconi Anemia Complementation Group Proteins,"Amino Acid, Peptide, or Protein",D051856
-89922,Fanconi Anemia Complementation Group L Protein,"Amino Acid, Peptide, or Protein",D052240
-89926,Fanconi Anemia Complementation Group G Protein,"Amino Acid, Peptide, or Protein",D052241
-151029,Fanconi Anemia Complementation Group N Protein,"Amino Acid, Peptide, or Protein",D000076164
-168469,Fanconi Anemia Complementation Group D2 Protein,"Amino Acid, Peptide, or Protein",D052236
-168470,Fanconi Anemia Complementation Group E Protein,"Amino Acid, Peptide, or Protein",D052239
-173656,Fanconi Anemia Complementation Group F Protein,"Amino Acid, Peptide, or Protein",D052219
-173657,Fanconi Anemia Complementation Group C Protein,"Amino Acid, Peptide, or Protein",D052218
-173658,Fanconi Anemia Complementation Group A Protein,"Amino Acid, Peptide, or Protein",D052217
-333978,Fanconi Anemia Complementation Group Proteins,Biologically Active Substance,D051856
-334226,Fanconi Anemia Complementation Group G Protein,Biologically Active Substance,D052241
-370578,Fanconi Anemia Complementation Group N Protein,Biologically Active Substance,D000076164
-381191,Fanconi Anemia Complementation Group D2 Protein,Biologically Active Substance,D052236
-381192,Fanconi Anemia Complementation Group E Protein,Biologically Active Substance,D052239
-384220,Fanconi Anemia Complementation Group F Protein,Biologically Active Substance,D052219
-384221,Fanconi Anemia Complementation Group C Protein,Biologically Active Substance,D052218
-384222,Fanconi Anemia Complementation Group A Protein,Biologically Active Substance,D052217
-397964,Fanconi Anemia Complementation Group L Protein,Enzyme,D052240
 491205,"Anemia, Megaloblastic",Disease or Syndrome,D000749
 491206,"Anemia, Hemolytic",Disease or Syndrome,D000743
 491207,"Anemia, Dyserythropoietic, Congenital",Disease or Syndrome,D000742
@@ -62,7 +44,6 @@
 507743,Nausea,Sign or Symptom,D009325
 507612,Constipation,Sign or Symptom,D003248
 507752,Diarrhea,Sign or Symptom,D003967
-507753,"Diarrhea, Infantile",Sign or Symptom,D003968
 507766,Abdominal Pain,Sign or Symptom,D015746
 497815,Gastrointestinal Diseases,Disease or Syndrome,D005767
 27398,Fructose,Pharmacologic Substance,D005632
@@ -132,34 +113,25 @@
 497082,Shellfish Hypersensitivity,Disease or Syndrome,D000067208
 508384,Shellfish,Eukaryote,D012758
 77240,Fish Oils,Pharmacologic Substance,D005395
-87698,Fish Proteins,"Amino Acid, Peptide, or Protein",D029941
 312698,Fish Oils,Organic Chemical,D005395
-332887,Fish Proteins,Biologically Active Substance,D029941
 498552,Fish Diseases,Disease or Syndrome,D005393
 502921,Fish Oils,Vitamin,D005395
 503888,Fish Products,Food,D005396
 509558,Electric Fish,Fish,D004555
 509564,Fishes,Fish,D005399
-32055,Soybean Proteins,Pharmacologic Substance,D030262
 42758,"Trypsin Inhibitor, Kunitz Soybean",Pharmacologic Substance,D014360
 47978,Soybean Oil,Pharmacologic Substance,D013024
-100613,Soybean Proteins,"Amino Acid, Peptide, or Protein",D030262
 119427,"Trypsin Inhibitor, Kunitz Soybean","Amino Acid, Peptide, or Protein",D014360
-340550,Soybean Proteins,Biologically Active Substance,D030262
 351646,"Trypsin Inhibitor, Kunitz Soybean",Biologically Active Substance,D014360
 503753,Soybeans,Food,D013025
 503754,Soybean Oil,Food,D013024
 123974,Wheat Germ Agglutinins,"Amino Acid, Peptide, or Protein",D014909
 392285,Wheat Germ Agglutinins,Immunologic Factor,D014909
 497311,Wheat Hypersensitivity,Disease or Syndrome,D021182
-129873,Egg Proteins,"Amino Acid, Peptide, or Protein",D004527
-357955,Egg Proteins,Biologically Active Substance,D004527
 503731,Egg Yolk,Food,D004530
 503732,Eggs,Food,D004531
 505600,Parasite Egg Count,Laboratory Procedure,D010270
 514375,Egg Shell,Embryonic Structure,D004528
-151780,Milk Proteins,"Amino Acid, Peptide, or Protein",D008894
-371068,Milk Proteins,Biologically Active Substance,D008894
 487393,Milk Thistle,Plant,D020944
 503717,Soy Milk,Food,D041942
 503800,Cultured Milk Products,Food,D043302

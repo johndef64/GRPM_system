@@ -12,7 +12,6 @@
 490211,Biotinidase Deficiency,Disease or Syndrome,D028921
 505358,Biotinylation,Laboratory Procedure,D019921
 87,Recommended Dietary Allowances,Intellectual Product,D064167
-126728,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
 187112,"Cholesterol, Dietary",Organic Chemical,D002791
 243974,Dietary Carbohydrates,Organic Chemical,D004040
 243977,"Dietary Fats, Unsaturated",Organic Chemical,D004042
@@ -43,7 +42,6 @@
 496736,"Hemoglobinuria, Paroxysmal",Disease or Syndrome,D006457
 493869,Hartnup Disease,Disease or Syndrome,D006250
 494536,Glucosephosphate Dehydrogenase Deficiency,Disease or Syndrome,D005955
-490368,Mannosidase Deficiency Diseases,Disease or Syndrome,D044904
 491526,Deficiency Diseases,Disease or Syndrome,D003677
 492148,Multiple Sulfatase Deficiency Disease,Disease or Syndrome,D052517
 495877,Carbamoyl-Phosphate Synthase I Deficiency Disease,Disease or Syndrome,D020165
@@ -73,7 +71,6 @@
 487942,Fluoride Poisoning,Injury or Poisoning,D005458
 508782,Fluoridation,Health Care Activity,D005457
 512580,Fluoridation,Environmental Effect of Humans,D005457
-483410,Manganese Compounds,Inorganic Chemical,D017895
 484289,Magnesium Compounds,Inorganic Chemical,D017616
 483226,Selenium Compounds,Inorganic Chemical,D018036
 26085,Iron Carbonyl Compounds,Pharmacologic Substance,D054354
@@ -83,8 +80,6 @@
 490325,Choline Deficiency,Disease or Syndrome,D002796
 496901,Thiamine Deficiency,Disease or Syndrome,D013832
 496850,Riboflavin Deficiency,Disease or Syndrome,D012257
-497104,Protein-Energy Malnutrition,Disease or Syndrome,D011502
-510276,Protein-Energy Malnutrition,Pathologic Function,D011502
 493700,Lipid Metabolism Disorders,Disease or Syndrome,D052439
 495284,Phosphorus Metabolism Disorders,Disease or Syndrome,D010760
 492848,Iron Metabolism Disorders,Disease or Syndrome,D019189
@@ -104,7 +99,6 @@
 81139,Glutathione,"Amino Acid, Peptide, or Protein",D005978
 81142,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
 122794,Glutathione S-Transferase pi,"Amino Acid, Peptide, or Protein",D051549
-129801,Protein Disulfide Reductase (Glutathione),"Amino Acid, Peptide, or Protein",D011490
 154116,Glutathione Synthase,"Amino Acid, Peptide, or Protein",D005981
 154118,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
 154120,Glutathione Reductase,"Amino Acid, Peptide, or Protein",D005980
@@ -113,7 +107,6 @@
 374747,Glutathione Disulfide,Biologically Active Substance,D019803
 395979,Glutathione Peroxidase,Enzyme,D005979
 405526,Glutathione S-Transferase pi,Enzyme,D051549
-407067,Protein Disulfide Reductase (Glutathione),Enzyme,D011490
 412637,Glutathione Synthase,Enzyme,D005981
 412639,Glutathione Transferase,Enzyme,D005982
 412640,Glutathione Reductase,Enzyme,D005980
@@ -184,7 +177,6 @@
 83662,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
 87619,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
 88214,Vitamin D3 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D065668
-148512,Vitamin D-Binding Protein,"Amino Acid, Peptide, or Protein",D014809
 209539,Vitamins,Organic Chemical,D014815
 209540,Vitamin K,Organic Chemical,D014812
 209541,Vitamin E,Organic Chemical,D014810
@@ -196,7 +188,6 @@
 290480,Vitamin K 2,Organic Chemical,D024482
 294774,Vitamin B 6,Organic Chemical,D025101
 330455,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
-368983,Vitamin D-Binding Protein,Biologically Active Substance,D014809
 371829,Vitamin D Response Element,Biologically Active Substance,D030181
 397458,Vitamin K Epoxide Reductases,Enzyme,D064417
 397574,Vitamin D3 24-Hydroxylase,Enzyme,D065668
@@ -231,7 +222,6 @@
 492554,"Rickets, Hypophosphatemic",Disease or Syndrome,D063730
 496486,Familial Hypophosphatemic Rickets,Disease or Syndrome,D053098
 498223,Rickets,Disease or Syndrome,D012279
-136151,Parathyroid Hormone-Related Protein,"Amino Acid, Peptide, or Protein",D044162
 297617,Hydroxycholecalciferols,Organic Chemical,D006887
 502890,Hydroxycholecalciferols,Vitamin,D006887
 28517,Dehydroascorbic Acid,Pharmacologic Substance,D003683
@@ -246,17 +236,10 @@
 495880,"Bone Diseases, Metabolic",Disease or Syndrome,D001851
 496057,"Brain Diseases, Metabolic",Disease or Syndrome,D001928
 498061,"Brain Diseases, Metabolic, Inborn",Disease or Syndrome,D020739
-423258,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
 504083,Nutritional Physiological Phenomena,Organ or Tissue Function,D009747
 512218,Nutritional Physiological Phenomena,Physiologic Function,D009747
-513302,Maternal Nutritional Physiological Phenomena,Organism Function,D039382
 513339,Prenatal Nutritional Physiological Phenomena,Organism Function,D039401
-513368,Adolescent Nutritional Physiological Phenomena,Organism Function,D017195
-513403,Animal Nutritional Physiological Phenomena,Organism Function,D000824
 513422,Sports Nutritional Physiological Phenomena,Organism Function,D064133
-513424,Infant Nutritional Physiological Phenomena,Organism Function,D007227
-513466,Elder Nutritional Physiological Phenomena,Organism Function,D058620
-513484,Child Nutritional Physiological Phenomena,Organism Function,D002664
 421991,Nutritional Support,Therapeutic or Preventive Procedure,D018529
 501559,Nutritional Status,Finding,D009752
 505794,Nutrition Surveys,Research Activity,D009749
@@ -266,14 +249,11 @@
 509242,Nutrition Assessment,Quantitative Concept,D015596
 493116,Overnutrition,Disease or Syndrome,D044343
 493115,Malnutrition,Disease or Syndrome,D044342
-497104,Protein-Energy Malnutrition,Disease or Syndrome,D011502
-510276,Protein-Energy Malnutrition,Pathologic Function,D011502
 503687,"Sodium, Dietary",Food,D012982
 503867,"Sodium Chloride, Dietary",Food,D017673
 503690,"Potassium, Dietary",Food,D017419
 484681,"Iron, Dietary",Inorganic Chemical,D019266
 484817,"Calcium, Dietary",Inorganic Chemical,D002136
-126728,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
 421890,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
 503679,Dietary Supplements,Food,D019587
 513575,Nutritional Requirements,Organism Attribute,D009751
@@ -382,7 +362,6 @@
 83662,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
 87619,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
 88214,Vitamin D3 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D065668
-148512,Vitamin D-Binding Protein,"Amino Acid, Peptide, or Protein",D014809
 209539,Vitamins,Organic Chemical,D014815
 209540,Vitamin K,Organic Chemical,D014812
 209541,Vitamin E,Organic Chemical,D014810
@@ -394,7 +373,6 @@
 290480,Vitamin K 2,Organic Chemical,D024482
 294774,Vitamin B 6,Organic Chemical,D025101
 330455,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
-368983,Vitamin D-Binding Protein,Biologically Active Substance,D014809
 371829,Vitamin D Response Element,Biologically Active Substance,D030181
 397458,Vitamin K Epoxide Reductases,Enzyme,D064417
 397574,Vitamin D3 24-Hydroxylase,Enzyme,D065668
@@ -464,7 +442,6 @@
 83662,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
 87619,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
 88214,Vitamin D3 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D065668
-148512,Vitamin D-Binding Protein,"Amino Acid, Peptide, or Protein",D014809
 209539,Vitamins,Organic Chemical,D014815
 209540,Vitamin K,Organic Chemical,D014812
 209541,Vitamin E,Organic Chemical,D014810
@@ -476,7 +453,6 @@
 290480,Vitamin K 2,Organic Chemical,D024482
 294774,Vitamin B 6,Organic Chemical,D025101
 330455,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
-368983,Vitamin D-Binding Protein,Biologically Active Substance,D014809
 371829,Vitamin D Response Element,Biologically Active Substance,D030181
 397458,Vitamin K Epoxide Reductases,Enzyme,D064417
 397574,Vitamin D3 24-Hydroxylase,Enzyme,D065668
@@ -542,7 +518,6 @@
 83662,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
 87619,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
 88214,Vitamin D3 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D065668
-148512,Vitamin D-Binding Protein,"Amino Acid, Peptide, or Protein",D014809
 209539,Vitamins,Organic Chemical,D014815
 209540,Vitamin K,Organic Chemical,D014812
 209541,Vitamin E,Organic Chemical,D014810
@@ -554,7 +529,6 @@
 290480,Vitamin K 2,Organic Chemical,D024482
 294774,Vitamin B 6,Organic Chemical,D025101
 330455,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
-368983,Vitamin D-Binding Protein,Biologically Active Substance,D014809
 371829,Vitamin D Response Element,Biologically Active Substance,D030181
 397458,Vitamin K Epoxide Reductases,Enzyme,D064417
 397574,Vitamin D3 24-Hydroxylase,Enzyme,D065668

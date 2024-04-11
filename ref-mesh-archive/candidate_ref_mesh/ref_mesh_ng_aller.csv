@@ -1,0 +1,365 @@
+,Preferred Label,Semantic Types Label,mesh_id
+491682,"Mastocytosis, Cutaneous",Disease or Syndrome,D034701
+493518,Mastocytosis,Disease or Syndrome,D008415
+36596,"Immunoglobulins, Intravenous",Pharmacologic Substance,D016756
+75974,Immunoglobulin D,Pharmacologic Substance,D007072
+75975,Immunoglobulin G,Pharmacologic Substance,D007074
+90434,"Receptors, Polymeric Immunoglobulin","Amino Acid, Peptide, or Protein",D019056
+93220,"Immunoglobulins, Thyroid-Stimulating","Amino Acid, Peptide, or Protein",D018828
+109032,"Immunoglobulins, Intravenous","Amino Acid, Peptide, or Protein",D016756
+109538,Leukocyte Immunoglobulin-like Receptor B1,"Amino Acid, Peptide, or Protein",D000075362
+113432,"Immunoglobulin Light Chains, Surrogate","Amino Acid, Peptide, or Protein",D054444
+114517,Immunoglobulin Constant Regions,"Amino Acid, Peptide, or Protein",D007127
+114518,Immunoglobulin Gm Allotypes,"Amino Acid, Peptide, or Protein",D007129
+114519,Immunoglobulin Fragments,"Amino Acid, Peptide, or Protein",D007128
+138939,Sialic Acid Binding Immunoglobulin-like Lectins,"Amino Acid, Peptide, or Protein",D063265
+166472,Immunoglobulin gamma-Chains,"Amino Acid, Peptide, or Protein",D007142
+166474,Immunoglobulin mu-Chains,"Amino Acid, Peptide, or Protein",D007148
+166475,Immunoglobulin Fc Fragments,"Amino Acid, Peptide, or Protein",D007141
+166476,Immunoglobulin Fab Fragments,"Amino Acid, Peptide, or Protein",D007140
+166477,Immunoglobulin Light Chains,"Amino Acid, Peptide, or Protein",D007147
+166478,Immunoglobulin lambda-Chains,"Amino Acid, Peptide, or Protein",D007146
+166479,Immunoglobulin kappa-Chains,"Amino Acid, Peptide, or Protein",D007145
+166480,Immunoglobulin Heavy Chains,"Amino Acid, Peptide, or Protein",D007143
+176414,Immunoglobulin D,"Amino Acid, Peptide, or Protein",D007072
+176415,"Immunoglobulin A, Secretory","Amino Acid, Peptide, or Protein",D007071
+176416,Immunoglobulin G,"Amino Acid, Peptide, or Protein",D007074
+176417,Immunoglobulin E,"Amino Acid, Peptide, or Protein",D007073
+176418,Immunoglobulin A,"Amino Acid, Peptide, or Protein",D007070
+176419,Immunoglobulin M,"Amino Acid, Peptide, or Protein",D007075
+180978,Immunoglobulins,"Amino Acid, Peptide, or Protein",D007136
+180979,Immunoglobulin Variable Region,"Amino Acid, Peptide, or Protein",D007135
+180980,Immunoglobulin Joining Region,"Amino Acid, Peptide, or Protein",D007133
+180981,Immunoglobulin epsilon-Chains,"Amino Acid, Peptide, or Protein",D007139
+180982,Immunoglobulin Isotypes,"Amino Acid, Peptide, or Protein",D007132
+180984,Immunoglobulin alpha-Chains,"Amino Acid, Peptide, or Protein",D007137
+388617,Immunoglobulin Switch Region,Biologically Active Substance,D007134
+390432,"Receptors, Polymeric Immunoglobulin",Immunologic Factor,D019056
+390586,"Immunoglobulins, Thyroid-Stimulating",Immunologic Factor,D018828
+391439,"Immunoglobulins, Intravenous",Immunologic Factor,D016756
+391693,"Immunoglobulin Light Chains, Surrogate",Immunologic Factor,D054444
+391758,Immunoglobulin Constant Regions,Immunologic Factor,D007127
+391759,Immunoglobulin Gm Allotypes,Immunologic Factor,D007129
+391760,Immunoglobulin Allotypes,Immunologic Factor,D007126
+391761,Immunoglobulin Fragments,Immunologic Factor,D007128
+393112,Sialic Acid Binding Immunoglobulin-like Lectins,Immunologic Factor,D063265
+394706,Immunoglobulin gamma-Chains,Immunologic Factor,D007142
+394708,Immunoglobulin mu-Chains,Immunologic Factor,D007148
+394709,Immunoglobulin Fc Fragments,Immunologic Factor,D007141
+394710,Immunoglobulin Fab Fragments,Immunologic Factor,D007140
+394711,Immunoglobulin Light Chains,Immunologic Factor,D007147
+394712,Immunoglobulin lambda-Chains,Immunologic Factor,D007146
+394713,Immunoglobulin kappa-Chains,Immunologic Factor,D007145
+394714,Immunoglobulin Heavy Chains,Immunologic Factor,D007143
+395259,Immunoglobulin D,Immunologic Factor,D007072
+395260,"Immunoglobulin A, Secretory",Immunologic Factor,D007071
+395261,Immunoglobulin G,Immunologic Factor,D007074
+395262,Immunoglobulin E,Immunologic Factor,D007073
+395263,Immunoglobulin A,Immunologic Factor,D007070
+395264,Immunoglobulin M,Immunologic Factor,D007075
+395503,Immunoglobulins,Immunologic Factor,D007136
+395504,Immunoglobulin Variable Region,Immunologic Factor,D007135
+395505,Immunoglobulin Joining Region,Immunologic Factor,D007133
+395506,Immunoglobulin epsilon-Chains,Immunologic Factor,D007139
+395507,Immunoglobulin Isotypes,Immunologic Factor,D007132
+395509,Immunoglobulin alpha-Chains,Immunologic Factor,D007137
+480623,Immunoglobulin Switch Region,"Nucleic Acid, Nucleoside, or Nucleotide",D007134
+493736,Immunoglobulin G4-Related Disease,Disease or Syndrome,D000077733
+513591,Immunoglobulin Class Switching,Genetic Function,D017578
+36596,"Immunoglobulins, Intravenous",Pharmacologic Substance,D016756
+75974,Immunoglobulin D,Pharmacologic Substance,D007072
+75975,Immunoglobulin G,Pharmacologic Substance,D007074
+90434,"Receptors, Polymeric Immunoglobulin","Amino Acid, Peptide, or Protein",D019056
+93220,"Immunoglobulins, Thyroid-Stimulating","Amino Acid, Peptide, or Protein",D018828
+109032,"Immunoglobulins, Intravenous","Amino Acid, Peptide, or Protein",D016756
+109538,Leukocyte Immunoglobulin-like Receptor B1,"Amino Acid, Peptide, or Protein",D000075362
+113432,"Immunoglobulin Light Chains, Surrogate","Amino Acid, Peptide, or Protein",D054444
+114517,Immunoglobulin Constant Regions,"Amino Acid, Peptide, or Protein",D007127
+114518,Immunoglobulin Gm Allotypes,"Amino Acid, Peptide, or Protein",D007129
+114519,Immunoglobulin Fragments,"Amino Acid, Peptide, or Protein",D007128
+138939,Sialic Acid Binding Immunoglobulin-like Lectins,"Amino Acid, Peptide, or Protein",D063265
+166472,Immunoglobulin gamma-Chains,"Amino Acid, Peptide, or Protein",D007142
+166474,Immunoglobulin mu-Chains,"Amino Acid, Peptide, or Protein",D007148
+166475,Immunoglobulin Fc Fragments,"Amino Acid, Peptide, or Protein",D007141
+166476,Immunoglobulin Fab Fragments,"Amino Acid, Peptide, or Protein",D007140
+166477,Immunoglobulin Light Chains,"Amino Acid, Peptide, or Protein",D007147
+166478,Immunoglobulin lambda-Chains,"Amino Acid, Peptide, or Protein",D007146
+166479,Immunoglobulin kappa-Chains,"Amino Acid, Peptide, or Protein",D007145
+166480,Immunoglobulin Heavy Chains,"Amino Acid, Peptide, or Protein",D007143
+176414,Immunoglobulin D,"Amino Acid, Peptide, or Protein",D007072
+176415,"Immunoglobulin A, Secretory","Amino Acid, Peptide, or Protein",D007071
+176416,Immunoglobulin G,"Amino Acid, Peptide, or Protein",D007074
+176417,Immunoglobulin E,"Amino Acid, Peptide, or Protein",D007073
+176418,Immunoglobulin A,"Amino Acid, Peptide, or Protein",D007070
+176419,Immunoglobulin M,"Amino Acid, Peptide, or Protein",D007075
+180978,Immunoglobulins,"Amino Acid, Peptide, or Protein",D007136
+180979,Immunoglobulin Variable Region,"Amino Acid, Peptide, or Protein",D007135
+180980,Immunoglobulin Joining Region,"Amino Acid, Peptide, or Protein",D007133
+180981,Immunoglobulin epsilon-Chains,"Amino Acid, Peptide, or Protein",D007139
+180982,Immunoglobulin Isotypes,"Amino Acid, Peptide, or Protein",D007132
+180984,Immunoglobulin alpha-Chains,"Amino Acid, Peptide, or Protein",D007137
+388617,Immunoglobulin Switch Region,Biologically Active Substance,D007134
+390432,"Receptors, Polymeric Immunoglobulin",Immunologic Factor,D019056
+390586,"Immunoglobulins, Thyroid-Stimulating",Immunologic Factor,D018828
+391439,"Immunoglobulins, Intravenous",Immunologic Factor,D016756
+391693,"Immunoglobulin Light Chains, Surrogate",Immunologic Factor,D054444
+391758,Immunoglobulin Constant Regions,Immunologic Factor,D007127
+391759,Immunoglobulin Gm Allotypes,Immunologic Factor,D007129
+391760,Immunoglobulin Allotypes,Immunologic Factor,D007126
+391761,Immunoglobulin Fragments,Immunologic Factor,D007128
+393112,Sialic Acid Binding Immunoglobulin-like Lectins,Immunologic Factor,D063265
+394706,Immunoglobulin gamma-Chains,Immunologic Factor,D007142
+394708,Immunoglobulin mu-Chains,Immunologic Factor,D007148
+394709,Immunoglobulin Fc Fragments,Immunologic Factor,D007141
+394710,Immunoglobulin Fab Fragments,Immunologic Factor,D007140
+394711,Immunoglobulin Light Chains,Immunologic Factor,D007147
+394712,Immunoglobulin lambda-Chains,Immunologic Factor,D007146
+394713,Immunoglobulin kappa-Chains,Immunologic Factor,D007145
+394714,Immunoglobulin Heavy Chains,Immunologic Factor,D007143
+395259,Immunoglobulin D,Immunologic Factor,D007072
+395260,"Immunoglobulin A, Secretory",Immunologic Factor,D007071
+395261,Immunoglobulin G,Immunologic Factor,D007074
+395262,Immunoglobulin E,Immunologic Factor,D007073
+395263,Immunoglobulin A,Immunologic Factor,D007070
+395264,Immunoglobulin M,Immunologic Factor,D007075
+395503,Immunoglobulins,Immunologic Factor,D007136
+395504,Immunoglobulin Variable Region,Immunologic Factor,D007135
+395505,Immunoglobulin Joining Region,Immunologic Factor,D007133
+395506,Immunoglobulin epsilon-Chains,Immunologic Factor,D007139
+395507,Immunoglobulin Isotypes,Immunologic Factor,D007132
+395509,Immunoglobulin alpha-Chains,Immunologic Factor,D007137
+480623,Immunoglobulin Switch Region,"Nucleic Acid, Nucleoside, or Nucleotide",D007134
+493736,Immunoglobulin G4-Related Disease,Disease or Syndrome,D000077733
+513591,Immunoglobulin Class Switching,Genetic Function,D017578
+36596,"Immunoglobulins, Intravenous",Pharmacologic Substance,D016756
+75974,Immunoglobulin D,Pharmacologic Substance,D007072
+75975,Immunoglobulin G,Pharmacologic Substance,D007074
+90434,"Receptors, Polymeric Immunoglobulin","Amino Acid, Peptide, or Protein",D019056
+93220,"Immunoglobulins, Thyroid-Stimulating","Amino Acid, Peptide, or Protein",D018828
+109032,"Immunoglobulins, Intravenous","Amino Acid, Peptide, or Protein",D016756
+109538,Leukocyte Immunoglobulin-like Receptor B1,"Amino Acid, Peptide, or Protein",D000075362
+113432,"Immunoglobulin Light Chains, Surrogate","Amino Acid, Peptide, or Protein",D054444
+114517,Immunoglobulin Constant Regions,"Amino Acid, Peptide, or Protein",D007127
+114518,Immunoglobulin Gm Allotypes,"Amino Acid, Peptide, or Protein",D007129
+114519,Immunoglobulin Fragments,"Amino Acid, Peptide, or Protein",D007128
+138939,Sialic Acid Binding Immunoglobulin-like Lectins,"Amino Acid, Peptide, or Protein",D063265
+166472,Immunoglobulin gamma-Chains,"Amino Acid, Peptide, or Protein",D007142
+166474,Immunoglobulin mu-Chains,"Amino Acid, Peptide, or Protein",D007148
+166475,Immunoglobulin Fc Fragments,"Amino Acid, Peptide, or Protein",D007141
+166476,Immunoglobulin Fab Fragments,"Amino Acid, Peptide, or Protein",D007140
+166477,Immunoglobulin Light Chains,"Amino Acid, Peptide, or Protein",D007147
+166478,Immunoglobulin lambda-Chains,"Amino Acid, Peptide, or Protein",D007146
+166479,Immunoglobulin kappa-Chains,"Amino Acid, Peptide, or Protein",D007145
+166480,Immunoglobulin Heavy Chains,"Amino Acid, Peptide, or Protein",D007143
+176414,Immunoglobulin D,"Amino Acid, Peptide, or Protein",D007072
+176415,"Immunoglobulin A, Secretory","Amino Acid, Peptide, or Protein",D007071
+176416,Immunoglobulin G,"Amino Acid, Peptide, or Protein",D007074
+176417,Immunoglobulin E,"Amino Acid, Peptide, or Protein",D007073
+176418,Immunoglobulin A,"Amino Acid, Peptide, or Protein",D007070
+176419,Immunoglobulin M,"Amino Acid, Peptide, or Protein",D007075
+180978,Immunoglobulins,"Amino Acid, Peptide, or Protein",D007136
+180979,Immunoglobulin Variable Region,"Amino Acid, Peptide, or Protein",D007135
+180980,Immunoglobulin Joining Region,"Amino Acid, Peptide, or Protein",D007133
+180981,Immunoglobulin epsilon-Chains,"Amino Acid, Peptide, or Protein",D007139
+180982,Immunoglobulin Isotypes,"Amino Acid, Peptide, or Protein",D007132
+180984,Immunoglobulin alpha-Chains,"Amino Acid, Peptide, or Protein",D007137
+388617,Immunoglobulin Switch Region,Biologically Active Substance,D007134
+390432,"Receptors, Polymeric Immunoglobulin",Immunologic Factor,D019056
+390586,"Immunoglobulins, Thyroid-Stimulating",Immunologic Factor,D018828
+391439,"Immunoglobulins, Intravenous",Immunologic Factor,D016756
+391693,"Immunoglobulin Light Chains, Surrogate",Immunologic Factor,D054444
+391758,Immunoglobulin Constant Regions,Immunologic Factor,D007127
+391759,Immunoglobulin Gm Allotypes,Immunologic Factor,D007129
+391760,Immunoglobulin Allotypes,Immunologic Factor,D007126
+391761,Immunoglobulin Fragments,Immunologic Factor,D007128
+393112,Sialic Acid Binding Immunoglobulin-like Lectins,Immunologic Factor,D063265
+394706,Immunoglobulin gamma-Chains,Immunologic Factor,D007142
+394708,Immunoglobulin mu-Chains,Immunologic Factor,D007148
+394709,Immunoglobulin Fc Fragments,Immunologic Factor,D007141
+394710,Immunoglobulin Fab Fragments,Immunologic Factor,D007140
+394711,Immunoglobulin Light Chains,Immunologic Factor,D007147
+394712,Immunoglobulin lambda-Chains,Immunologic Factor,D007146
+394713,Immunoglobulin kappa-Chains,Immunologic Factor,D007145
+394714,Immunoglobulin Heavy Chains,Immunologic Factor,D007143
+395259,Immunoglobulin D,Immunologic Factor,D007072
+395260,"Immunoglobulin A, Secretory",Immunologic Factor,D007071
+395261,Immunoglobulin G,Immunologic Factor,D007074
+395262,Immunoglobulin E,Immunologic Factor,D007073
+395263,Immunoglobulin A,Immunologic Factor,D007070
+395264,Immunoglobulin M,Immunologic Factor,D007075
+395503,Immunoglobulins,Immunologic Factor,D007136
+395504,Immunoglobulin Variable Region,Immunologic Factor,D007135
+395505,Immunoglobulin Joining Region,Immunologic Factor,D007133
+395506,Immunoglobulin epsilon-Chains,Immunologic Factor,D007139
+395507,Immunoglobulin Isotypes,Immunologic Factor,D007132
+395509,Immunoglobulin alpha-Chains,Immunologic Factor,D007137
+480623,Immunoglobulin Switch Region,"Nucleic Acid, Nucleoside, or Nucleotide",D007134
+493736,Immunoglobulin G4-Related Disease,Disease or Syndrome,D000077733
+513591,Immunoglobulin Class Switching,Genetic Function,D017578
+75975,Immunoglobulin G,Pharmacologic Substance,D007074
+176416,Immunoglobulin G,"Amino Acid, Peptide, or Protein",D007074
+395261,Immunoglobulin G,Immunologic Factor,D007074
+83752,Chemokine CCL2,"Amino Acid, Peptide, or Protein",D018932
+90611,Chemokine CXCL10,"Amino Acid, Peptide, or Protein",D054357
+93209,Chemokine CCL5,"Amino Acid, Peptide, or Protein",D018946
+95675,Chemokines,"Amino Acid, Peptide, or Protein",D018925
+110247,"Receptors, Chemokine","Amino Acid, Peptide, or Protein",D019707
+116122,Chemokine CCL7,"Amino Acid, Peptide, or Protein",D054410
+116123,Chemokine CCL20,"Amino Acid, Peptide, or Protein",D054418
+116124,Chemokine CCL8,"Amino Acid, Peptide, or Protein",D054412
+116125,Chemokine CCL17,"Amino Acid, Peptide, or Protein",D054414
+116126,Chemokine CCL19,"Amino Acid, Peptide, or Protein",D054415
+116127,Chemokine CCL11,"Amino Acid, Peptide, or Protein",D054413
+121263,Chemokine CXCL16,"Amino Acid, Peptide, or Protein",D000075743
+125571,Chemokine CXCL11,"Amino Acid, Peptide, or Protein",D054371
+125572,Chemokine CXCL9,"Amino Acid, Peptide, or Protein",D054370
+125573,Chemokine CXCL12,"Amino Acid, Peptide, or Protein",D054377
+125748,Chemokine CCL4,"Amino Acid, Peptide, or Protein",D054407
+125750,Chemokine CCL3,"Amino Acid, Peptide, or Protein",D054405
+125751,Chemokine CCL1,"Amino Acid, Peptide, or Protein",D054402
+132863,CX3C Chemokine Receptor 1,"Amino Acid, Peptide, or Protein",D000073883
+151225,"Chemokines, CC","Amino Acid, Peptide, or Protein",D019742
+151228,"Chemokines, CXC","Amino Acid, Peptide, or Protein",D019743
+151229,"Chemokines, C","Amino Acid, Peptide, or Protein",D019744
+161119,Chemokine CCL26,"Amino Acid, Peptide, or Protein",D000075906
+173231,Chemokine CXCL1,"Amino Acid, Peptide, or Protein",D054360
+173232,Chemokine CXCL5,"Amino Acid, Peptide, or Protein",D054365
+174350,Chemokine CCL24,"Amino Acid, Peptide, or Protein",D054423
+174351,Chemokine CXCL6,"Amino Acid, Peptide, or Protein",D054427
+174352,Chemokine CX3CL1,"Amino Acid, Peptide, or Protein",D054428
+174353,Chemokine CCL27,"Amino Acid, Peptide, or Protein",D054425
+174354,Chemokine CCL22,"Amino Acid, Peptide, or Protein",D054422
+174355,Chemokine CCL21,"Amino Acid, Peptide, or Protein",D054421
+174356,Chemokine CXCL2,"Amino Acid, Peptide, or Protein",D054426
+176676,"Chemokines, CX3C","Amino Acid, Peptide, or Protein",D020523
+181503,Chemokine CXCL13,"Amino Acid, Peptide, or Protein",D054382
+334638,Chemokine CXCL10,Biologically Active Substance,D054357
+349795,Chemokine CCL20,Biologically Active Substance,D054418
+349796,Chemokine CCL8,Biologically Active Substance,D054412
+349797,Chemokine CCL17,Biologically Active Substance,D054414
+349798,Chemokine CCL11,Biologically Active Substance,D054413
+355329,Chemokine CXCL12,Biologically Active Substance,D054377
+355459,Chemokine CCL4,Biologically Active Substance,D054407
+355460,Chemokine CCL3,Biologically Active Substance,D054405
+355461,Chemokine CCL1,Biologically Active Substance,D054402
+383954,Chemokine CXCL1,Biologically Active Substance,D054360
+383955,Chemokine CXCL5,Biologically Active Substance,D054365
+384658,Chemokine CCL27,Biologically Active Substance,D054425
+388947,Chemokine CXCL13,Biologically Active Substance,D054382
+390086,Chemokine CCL2,Immunologic Factor,D018932
+390585,Chemokine CCL5,Immunologic Factor,D018946
+390723,Chemokines,Immunologic Factor,D018925
+391516,"Receptors, Chemokine",Immunologic Factor,D019707
+391836,Chemokine CCL7,Immunologic Factor,D054410
+391837,Chemokine CCL19,Immunologic Factor,D054415
+392364,Chemokine CXCL11,Immunologic Factor,D054371
+392365,Chemokine CXCL9,Immunologic Factor,D054370
+392366,Chemokine CXCL12,Immunologic Factor,D054377
+392380,Chemokine CCL4,Immunologic Factor,D054407
+392381,Chemokine CCL3,Immunologic Factor,D054405
+393876,"Chemokines, CC",Immunologic Factor,D019742
+393877,"Chemokines, CXC",Immunologic Factor,D019743
+393878,"Chemokines, C",Immunologic Factor,D019744
+394435,Chemokine CCL26,Immunologic Factor,D000075906
+395148,Chemokine CCL24,Immunologic Factor,D054423
+395150,Chemokine CXCL6,Immunologic Factor,D054427
+395151,Chemokine CCL22,Immunologic Factor,D054422
+395152,Chemokine CCL21,Immunologic Factor,D054421
+395153,Chemokine CXCL2,Immunologic Factor,D054426
+395272,"Chemokines, CX3C",Immunologic Factor,D020523
+107024,"Receptors, Cytokine","Amino Acid, Peptide, or Protein",D018121
+165704,Cytokine Receptor Common beta Subunit,"Amino Acid, Peptide, or Protein",D053648
+167661,Cytokine TWEAK,"Amino Acid, Peptide, or Protein",D000074049
+173542,Cytokine Receptor gp130,"Amino Acid, Peptide, or Protein",D050822
+175811,Cytokines,"Amino Acid, Peptide, or Protein",D016207
+380727,Cytokine TWEAK,Biologically Active Substance,D000074049
+391337,"Receptors, Cytokine",Immunologic Factor,D018121
+395095,Cytokine Receptor gp130,Immunologic Factor,D050822
+395231,Cytokines,Immunologic Factor,D016207
+493985,Cytokine Release Syndrome,Disease or Syndrome,D000080424
+111,B-Lymphocyte Subsets,Intellectual Product,D016175
+122434,"Antigens, Differentiation, B-Lymphocyte","Amino Acid, Peptide, or Protein",D000944
+391278,"Epitopes, B-Lymphocyte",Immunologic Factor,D018985
+392171,"Antigens, Differentiation, B-Lymphocyte",Immunologic Factor,D000944
+111,B-Lymphocyte Subsets,Intellectual Product,D016175
+122434,"Antigens, Differentiation, B-Lymphocyte","Amino Acid, Peptide, or Protein",D000944
+122435,"Antigens, Differentiation, T-Lymphocyte","Amino Acid, Peptide, or Protein",D000945
+128763,Lymphocyte Antigen 96,"Amino Acid, Peptide, or Protein",D051218
+128772,Lymphocyte Function-Associated Antigen-1,"Amino Acid, Peptide, or Protein",D016169
+133308,Signaling Lymphocytic Activation Molecule Family Member 1,"Amino Acid, Peptide, or Protein",D000071177
+137970,Signaling Lymphocytic Activation Molecule Family,"Amino Acid, Peptide, or Protein",D000071176
+175814,"Receptors, Lymphocyte Homing","Amino Acid, Peptide, or Protein",D016201
+362737,Signaling Lymphocytic Activation Molecule Family,Biologically Active Substance,D000071176
+391278,"Epitopes, B-Lymphocyte",Immunologic Factor,D018985
+391279,"Epitopes, T-Lymphocyte",Immunologic Factor,D018984
+392171,"Antigens, Differentiation, B-Lymphocyte",Immunologic Factor,D000944
+392173,"Antigens, Differentiation, T-Lymphocyte",Immunologic Factor,D000945
+392550,Lymphocyte Antigen 96,Immunologic Factor,D051218
+392553,Lymphocyte Function-Associated Antigen-1,Immunologic Factor,D016169
+392799,Signaling Lymphocytic Activation Molecule Family Member 1,Immunologic Factor,D000071177
+395233,"Receptors, Lymphocyte Homing",Immunologic Factor,D016201
+422219,Lymphocyte Transfusion,Therapeutic or Preventive Procedure,D017710
+423019,Lymphocyte Depletion,Therapeutic or Preventive Procedure,D008212
+495429,Lymphocytic Choriomeningitis,Disease or Syndrome,D008216
+505370,"Lymphocyte Culture Test, Mixed",Laboratory Procedure,D007959
+505434,CD4 Lymphocyte Count,Laboratory Procedure,D018791
+505533,Lymphocyte Count,Laboratory Procedure,D018655
+509860,Lymphocyte Cooperation,Cell Function,D008211
+509861,Lymphocyte Activation,Cell Function,D008213
+515779,Lymphocyte Subsets,Classification,D016131
+71140,Eosinophil-Derived Neurotoxin,Pharmacologic Substance,D047208
+167953,Eosinophil-Derived Neurotoxin,"Amino Acid, Peptide, or Protein",D047208
+167954,Eosinophil Peroxidase,"Amino Acid, Peptide, or Protein",D047209
+390504,"Chemotactic Factors, Eosinophil",Immunologic Factor,D002631
+415854,Eosinophil-Derived Neurotoxin,Enzyme,D047208
+415855,Eosinophil Peroxidase,Enzyme,D047209
+493272,Eosinophilic Esophagitis,Disease or Syndrome,D057765
+423126,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
+53599,Anti-Inflammatory Agents,Pharmacologic Substance,D000893
+53604,"Anti-Inflammatory Agents, Non-Steroidal",Pharmacologic Substance,D000894
+7963,Gastrointestinal Microbiome,Bacterium,D000069196
+514030,Gastrointestinal Microbiome,Organism,D000069196
+257426,Prebiotics,Organic Chemical,D056692
+16633,Probiotics,Bacterium,D019936
+422068,"Desensitization, Immunologic",Therapeutic or Preventive Procedure,D003888
+34656,Omalizumab,Pharmacologic Substance,D000069444
+105263,Omalizumab,"Amino Acid, Peptide, or Protein",D000069444
+391251,Omalizumab,Immunologic Factor,D000069444
+48405,Leukotriene Antagonists,Pharmacologic Substance,D020024
+247641,Leukotriene Antagonists,Organic Chemical,D020024
+40392,Epinephrine,Pharmacologic Substance,D004837
+229579,Epinephrine,Organic Chemical,D004837
+421822,"Immunotherapy, Adoptive",Therapeutic or Preventive Procedure,D016219
+423455,"Immunotherapy, Active",Therapeutic or Preventive Procedure,D016233
+423959,Immunotherapy,Therapeutic or Preventive Procedure,D007167
+505208,Radioallergosorbent Test,Laboratory Procedure,D011852
+505032,Patch Tests,Diagnostic Procedure,D010328
+505145,Skin Tests,Diagnostic Procedure,D012882
+510255,Latex Hypersensitivity,Pathologic Function,D020315
+491621,Celiac Disease,Disease or Syndrome,D002446
+493272,Eosinophilic Esophagitis,Disease or Syndrome,D057765
+490117,Anaphylaxis,Disease or Syndrome,D000707
+505438,Passive Cutaneous Anaphylaxis,Laboratory Procedure,D010323
+509975,Anaphylaxis,Pathologic Function,D000707
+176417,Immunoglobulin E,"Amino Acid, Peptide, or Protein",D007073
+395262,Immunoglobulin E,Immunologic Factor,D007073
+390851,Allergens,Immunologic Factor,D000485
+497082,Shellfish Hypersensitivity,Disease or Syndrome,D000067208
+497311,Wheat Hypersensitivity,Disease or Syndrome,D021182
+497309,Egg Hypersensitivity,Disease or Syndrome,D021181
+510024,Milk Hypersensitivity,Pathologic Function,D016269
+497308,Peanut Hypersensitivity,Disease or Syndrome,D021183
+498129,Nut and Peanut Hypersensitivity,Disease or Syndrome,D000074924
+497082,Shellfish Hypersensitivity,Disease or Syndrome,D000067208
+497308,Peanut Hypersensitivity,Disease or Syndrome,D021183
+497309,Egg Hypersensitivity,Disease or Syndrome,D021181
+497311,Wheat Hypersensitivity,Disease or Syndrome,D021182
+498129,Nut and Peanut Hypersensitivity,Disease or Syndrome,D000074924
+510024,Milk Hypersensitivity,Pathologic Function,D016269
+510102,Food Hypersensitivity,Pathologic Function,D005512
+510203,Respiratory Hypersensitivity,Pathologic Function,D012130
+510233,"Hypersensitivity, Delayed",Pathologic Function,D006968
+510234,Hypersensitivity,Pathologic Function,D006967
+510236,"Hypersensitivity, Immediate",Pathologic Function,D006969
+510255,Latex Hypersensitivity,Pathologic Function,D020315
+510102,Food Hypersensitivity,Pathologic Function,D005512

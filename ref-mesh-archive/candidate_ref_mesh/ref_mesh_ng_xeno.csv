@@ -28,7 +28,6 @@
 493249,Non-alcoholic Fatty Liver Disease,Disease or Syndrome,D065626
 505992,Forensic Toxicology,Occupation or Discipline,D053593
 506053,Toxicology,Biomedical Occupation or Discipline,D014116
-515284,Pharmacological and Toxicological Phenomena,Biologic Function,D002620
 503958,Liver Regeneration,Organ or Tissue Function,D008115
 505274,Liver Function Tests,Laboratory Procedure,D008111
 492553,Acute-On-Chronic Liver Failure,Disease or Syndrome,D065290
@@ -102,7 +101,6 @@
 81139,Glutathione,"Amino Acid, Peptide, or Protein",D005978
 81142,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
 122794,Glutathione S-Transferase pi,"Amino Acid, Peptide, or Protein",D051549
-129801,Protein Disulfide Reductase (Glutathione),"Amino Acid, Peptide, or Protein",D011490
 154116,Glutathione Synthase,"Amino Acid, Peptide, or Protein",D005981
 154118,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
 154120,Glutathione Reductase,"Amino Acid, Peptide, or Protein",D005980
@@ -111,7 +109,6 @@
 374747,Glutathione Disulfide,Biologically Active Substance,D019803
 395979,Glutathione Peroxidase,Enzyme,D005979
 405526,Glutathione S-Transferase pi,Enzyme,D051549
-407067,Protein Disulfide Reductase (Glutathione),Enzyme,D011490
 412637,Glutathione Synthase,Enzyme,D005981
 412639,Glutathione Transferase,Enzyme,D005982
 412640,Glutathione Reductase,Enzyme,D005980
@@ -166,7 +163,6 @@
 396884,"Phosphofructokinase-1, Liver Type",Enzyme,D025501
 411317,"Glycogen Phosphorylase, Liver Form",Enzyme,D025001
 422159,Liver Transplantation,Therapeutic or Preventive Procedure,D016031
-487818,Chemical and Drug Induced Liver Injury,Injury or Poisoning,D056486
 491854,"Liver Cirrhosis, Alcoholic",Disease or Syndrome,D008104
 491855,Liver Abscess,Disease or Syndrome,D008100
 491856,"Liver Diseases, Parasitic",Disease or Syndrome,D008109
@@ -177,8 +173,6 @@
 491861,"Liver Cirrhosis, Biliary",Disease or Syndrome,D008105
 492103,"Liver Abscess, Pyogenic",Disease or Syndrome,D046290
 492553,Acute-On-Chronic Liver Failure,Disease or Syndrome,D065290
-493167,Chemical and Drug Induced Liver Injury,Disease or Syndrome,D056486
-493168,"Chemical and Drug Induced Liver Injury, Chronic",Disease or Syndrome,D056487
 493197,Fatty Liver,Disease or Syndrome,D005234
 493198,"Fatty Liver, Alcoholic",Disease or Syndrome,D005235
 493249,Non-alcoholic Fatty Liver Disease,Disease or Syndrome,D065626
@@ -278,8 +272,6 @@
 68420,alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid,Pharmacologic Substance,D018350
 69805,"3,4-Dichloro-N-methyl-N-(2-(1-pyrrolidinyl)-cyclohexyl)-benzeneacetamide, (trans)-Isomer",Pharmacologic Substance,D019900
 97250,Tosylarginine Methyl Ester,"Amino Acid, Peptide, or Protein",D014106
-111011,Methyl-CpG-Binding Protein 2,"Amino Acid, Peptide, or Protein",D051783
-130325,Methyl-Accepting Chemotaxis Proteins,"Amino Acid, Peptide, or Protein",D000072236
 139433,3-Methyl-2-Oxobutanoate Dehydrogenase (Lipoamide),"Amino Acid, Peptide, or Protein",D042942
 149191,"Receptors, N-Methyl-D-Aspartate","Amino Acid, Peptide, or Protein",D016194
 149408,NG-Nitroarginine Methyl Ester,"Amino Acid, Peptide, or Protein",D019331
@@ -296,8 +288,6 @@
 286153,"3-Pyridinecarboxylic acid, 1,4-dihydro-2,6-dimethyl-5-nitro-4-(2-(trifluoromethyl)phenyl)-, Methyl ester",Organic Chemical,D001498
 292701,alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid,Organic Chemical,D018350
 295893,"3,4-Dichloro-N-methyl-N-(2-(1-pyrrolidinyl)-cyclohexyl)-benzeneacetamide, (trans)-Isomer",Organic Chemical,D019900
-346777,Methyl-CpG-Binding Protein 2,Biologically Active Substance,D051783
-358223,Methyl-Accepting Chemotaxis Proteins,Biologically Active Substance,D000072236
 369568,NG-Nitroarginine Methyl Ester,Biologically Active Substance,D019331
 409359,3-Methyl-2-Oxobutanoate Dehydrogenase (Lipoamide),Enzyme,D042942
 469953,Methyl Parathion,Hazardous or Poisonous Substance,D008743
@@ -354,11 +344,9 @@
 44992,Biogenic Amines,Pharmacologic Substance,D001679
 127350,Amine Oxidase (Copper-Containing),"Amino Acid, Peptide, or Protein",D006631
 135681,"Receptors, Biogenic Amine","Amino Acid, Peptide, or Protein",D017982
-151589,Vesicular Biogenic Amine Transport Proteins,"Amino Acid, Peptide, or Protein",D050492
 189043,Amines,Organic Chemical,D000588
 239833,Biogenic Amines,Organic Chemical,D001679
 354068,Biogenic Amines,Biologically Active Substance,D001679
-370931,Vesicular Biogenic Amine Transport Proteins,Biologically Active Substance,D050492
 406540,Amine Oxidase (Copper-Containing),Enzyme,D006631
 504181,Amination,Natural Phenomenon or Process,D000586
 25323,Heptavalent Pneumococcal Conjugate Vaccine,Pharmacologic Substance,D000069443
