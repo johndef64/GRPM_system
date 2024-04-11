@@ -1,0 +1,509 @@
+,Preferred Label,Semantic Types Label,mesh_id
+502942,Olfactory Receptor Neurons,Cell Component,D018034
+494727,Olfaction Disorders,Disease or Syndrome,D000857
+501327,Olfaction Disorders,Finding,D000857
+265879,Quillaja Saponins,Organic Chemical,D062605
+309856,Saponins,Organic Chemical,D012503
+84127,Sterol O-Acyltransferase,"Amino Acid, Peptide, or Protein",D002785
+84128,Sterol Esterase,"Amino Acid, Peptide, or Protein",D002787
+111012,Sterol Regulatory Element Binding Protein 2,"Amino Acid, Peptide, or Protein",D051782
+111014,Sterol Regulatory Element Binding Protein 1,"Amino Acid, Peptide, or Protein",D051780
+130783,Sterol Regulatory Element Binding Proteins,"Amino Acid, Peptide, or Protein",D051779
+136266,Sterol 14-Demethylase,"Amino Acid, Peptide, or Protein",D058886
+178870,Phosphatidylcholine-Sterol O-Acyltransferase,"Amino Acid, Peptide, or Protein",D007862
+215279,Sterols,Organic Chemical,D013261
+346778,Sterol Regulatory Element Binding Protein 2,Biologically Active Substance,D051782
+346780,Sterol Regulatory Element Binding Protein 1,Biologically Active Substance,D051780
+358496,Sterol Regulatory Element Binding Proteins,Biologically Active Substance,D051779
+396672,Sterol O-Acyltransferase,Enzyme,D002785
+396673,Sterol Esterase,Enzyme,D002787
+408606,Sterol 14-Demethylase,Enzyme,D058886
+418438,Phosphatidylcholine-Sterol O-Acyltransferase,Enzyme,D007862
+204907,Triterpenes,Organic Chemical,D014315
+220090,Pentacyclic Triterpenes,Organic Chemical,D053978
+187753,"Diterpenes, Clerodane",Organic Chemical,D045785
+187754,"Diterpenes, Kaurane",Organic Chemical,D045786
+242361,Diterpenes,Organic Chemical,D004224
+330206,"Diterpenes, Clerodane",Biologically Active Substance,D045785
+210810,Monoterpenes,Organic Chemical,D039821
+266152,Cyclohexane Monoterpenes,Organic Chemical,D000081005
+282431,Acyclic Monoterpenes,Organic Chemical,D000080462
+299926,Cyclopentane Monoterpenes,Organic Chemical,D000081004
+315274,Bicyclic Monoterpenes,Organic Chemical,D000081008
+187756,"Sesquiterpenes, Guaiane",Organic Chemical,D045789
+187759,"Sesquiterpenes, Germacrane",Organic Chemical,D045788
+216055,Sesquiterpenes,Organic Chemical,D012717
+293189,Polycyclic Sesquiterpenes,Organic Chemical,D000081223
+298012,Terpenes,Organic Chemical,D013729
+380400,Terpenes,Biologically Active Substance,D013729
+188355,Benzaldehydes,Organic Chemical,D001547
+29812,Eugenol,Pharmacologic Substance,D005054
+205559,Eugenol,Organic Chemical,D005054
+39892,Eucalyptol,Pharmacologic Substance,D000077591
+228398,Eucalyptol,Organic Chemical,D000077591
+74599,Menthol,Pharmacologic Substance,D008610
+306767,Menthol,Organic Chemical,D008610
+486725,Onions,Plant,D019697
+503776,Onions,Food,D019697
+503671,Garlic,Food,D005737
+82851,Horseradish Peroxidase,"Amino Acid, Peptide, or Protein",D006735
+396362,Horseradish Peroxidase,Enzyme,D006735
+486856,Mustard Plant,Plant,D009149
+503796,Mustard Plant,Food,D009149
+486506,Ginger,Plant,D020939
+36502,Capsaicin,Pharmacologic Substance,D002211
+221012,Capsaicin,Organic Chemical,D002211
+35374,Propylthiouracil,Pharmacologic Substance,D011441
+474829,Propylthiouracil,"Nucleic Acid, Nucleoside, or Nucleotide",D011441
+51991,Caffeine,Pharmacologic Substance,D002110
+255471,Caffeine,Organic Chemical,D002110
+24101,Quinine,Pharmacologic Substance,D011803
+192763,Quinine,Organic Chemical,D011803
+52528,Lactic Acid,Pharmacologic Substance,D019344
+256634,Lactic Acid,Organic Chemical,D019344
+361523,Lactic Acid,Biologically Active Substance,D019344
+52526,Citric Acid,Pharmacologic Substance,D019343
+256632,Citric Acid,Organic Chemical,D019343
+361522,Citric Acid,Biologically Active Substance,D019343
+368147,Guanosine Monophosphate,Biologically Active Substance,D006157
+478033,Guanosine Monophosphate,"Nucleic Acid, Nucleoside, or Nucleotide",D006157
+54193,Inosine Monophosphate,Pharmacologic Substance,D007291
+363324,Inosine Monophosphate,Biologically Active Substance,D007291
+477372,Inosine Monophosphate,"Nucleic Acid, Nucleoside, or Nucleotide",D007291
+421964,"Diet, Sodium-Restricted",Therapeutic or Preventive Procedure,D004039
+200233,Fructosephosphates,Organic Chemical,D005636
+131559,Glucosephosphate Dehydrogenase,"Amino Acid, Peptide, or Protein",D005954
+407485,Glucosephosphate Dehydrogenase,Enzyme,D005954
+494536,Glucosephosphate Dehydrogenase Deficiency,Disease or Syndrome,D005955
+53789,Glucose,Pharmacologic Substance,D005947
+108326,Sodium-Glucose Transport Proteins,"Amino Acid, Peptide, or Protein",D051247
+108327,"Glucose Transport Proteins, Facilitative","Amino Acid, Peptide, or Protein",D051246
+110050,Glucose Transporter Type 5,"Amino Acid, Peptide, or Protein",D051296
+126853,Sodium-Glucose Transporter 1,"Amino Acid, Peptide, or Protein",D051269
+131558,Glucose-6-Phosphatase,"Amino Acid, Peptide, or Protein",D005952
+131561,UTP-Glucose-1-Phosphate Uridylyltransferase,"Amino Acid, Peptide, or Protein",D005957
+135938,Uridine Diphosphate Glucose Dehydrogenase,"Amino Acid, Peptide, or Protein",D014533
+138169,Glucose Oxidase,"Amino Acid, Peptide, or Protein",D005949
+259516,Glucose,Organic Chemical,D005947
+345162,Sodium-Glucose Transport Proteins,Biologically Active Substance,D051247
+345163,"Glucose Transport Proteins, Facilitative",Biologically Active Substance,D051246
+356144,Sodium-Glucose Transporter 1,Biologically Active Substance,D051269
+361508,Uridine Diphosphate Glucose,Biologically Active Substance,D014532
+362851,Glucose,Biologically Active Substance,D005947
+407484,Glucose-6-Phosphatase,Enzyme,D005952
+407487,UTP-Glucose-1-Phosphate Uridylyltransferase,Enzyme,D005957
+408525,Uridine Diphosphate Glucose Dehydrogenase,Enzyme,D014533
+409064,Glucose Oxidase,Enzyme,D005949
+477134,Uridine Diphosphate Glucose,"Nucleic Acid, Nucleoside, or Nucleotide",D014532
+491562,Glucose Metabolism Disorders,Disease or Syndrome,D044882
+492896,Glucose Intolerance,Disease or Syndrome,D018149
+504781,Glucose Clamp Technique,Diagnostic Procedure,D015309
+504993,Glucose Tolerance Test,Diagnostic Procedure,D005951
+505408,Glucose Tolerance Test,Laboratory Procedure,D005951
+505640,Glucose Clamp Technique,Research Activity,D015309
+515302,Glucose Clamp Technique,Research Device,D015309
+27398,Fructose,Pharmacologic Substance,D005632
+92905,Fructose-Bisphosphate Aldolase,"Amino Acid, Peptide, or Protein",D005634
+135458,Fructose-Bisphosphatase,"Amino Acid, Peptide, or Protein",D006597
+138168,Glutamine-Fructose-6-Phosphate Transaminase (Isomerizing),"Amino Acid, Peptide, or Protein",D005945
+200235,Fructose,Organic Chemical,D005632
+398683,Fructose-Bisphosphate Aldolase,Enzyme,D005634
+408406,Fructose-Bisphosphatase,Enzyme,D006597
+409063,Glutamine-Fructose-6-Phosphate Transaminase (Isomerizing),Enzyme,D005945
+491157,Fructose Intolerance,Disease or Syndrome,D005633
+492488,"Fructose-1,6-Diphosphatase Deficiency",Disease or Syndrome,D015319
+492489,"Fructose Metabolism, Inborn Errors",Disease or Syndrome,D015318
+503810,High Fructose Corn Syrup,Food,D066248
+55383,Sucrose,Pharmacologic Substance,D013395
+263226,Sucrose,Organic Chemical,D013395
+364583,Sucrose,Biologically Active Substance,D013395
+503660,Dietary Sucrose,Food,D019422
+503709,Artificially Sweetened Beverages,Food,D000081229
+499888,Pica,Mental or Behavioral Dysfunction,D010842
+496087,Feeding and Eating Disorders,Disease or Syndrome,D001068
+499963,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+500022,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
+499930,Anorexia Nervosa,Mental or Behavioral Dysfunction,D000856
+499996,Bulimia Nervosa,Mental or Behavioral Dysfunction,D052018
+59692,Appetite Depressants,Pharmacologic Substance,D001067
+66789,Appetite Stimulants,Pharmacologic Substance,D019167
+513417,Appetite Regulation,Organism Function,D001069
+503815,Yogurt,Food,D015014
+508768,Weight Reduction Programs,Health Care Activity,D061217
+507701,Postoperative Nausea and Vomiting,Sign or Symptom,D020250
+507748,Vomiting,Sign or Symptom,D014839
+496161,Persistent Vegetative State,Disease or Syndrome,D018458
+503736,Vegetables,Food,D014675
+503834,Vegetable Products,Food,D000067075
+503884,Fruit and Vegetable Juices,Food,D000067030
+510227,Persistent Vegetative State,Pathologic Function,D018458
+509226,Taste Threshold,Quantitative Concept,D013652
+497239,Sweet Syndrome,Disease or Syndrome,D016463
+503870,Sugar-Sweetened Beverages,Food,D000080845
+68910,Starch,Pharmacologic Substance,D013213
+163799,Starch Synthase,"Amino Acid, Peptide, or Protein",D013214
+293820,Starch,Organic Chemical,D013213
+378338,Starch,Biologically Active Substance,D013213
+414890,Starch Synthase,Enzyme,D013214
+503848,Starch,Food,D013213
+505409,"Electrophoresis, Starch Gel",Laboratory Procedure,D004592
+503748,Spices,Food,D017365
+30116,Sodium Potassium Chloride Symporter Inhibitors,Pharmacologic Substance,D049994
+30117,Sodium Chloride Symporter Inhibitors,Pharmacologic Substance,D049993
+44746,Sodium Chloride,Pharmacologic Substance,D012965
+97205,Sodium Chloride Symporters,"Amino Acid, Peptide, or Protein",D049992
+123449,Sodium-Potassium-Chloride Symporters,"Amino Acid, Peptide, or Protein",D028021
+338529,Sodium Chloride Symporters,Biologically Active Substance,D049992
+354052,Sodium-Potassium-Chloride Symporters,Biologically Active Substance,D028021
+484113,Sodium Chloride,Inorganic Chemical,D012965
+503867,"Sodium Chloride, Dietary",Food,D017673
+503763,Snacks,Food,D062410
+509447,Snacks,Temporal Concept,D062410
+512677,Snacks,Individual Behavior,D062410
+499234,Satiation,Mental Process,D012527
+497104,Protein-Energy Malnutrition,Disease or Syndrome,D011502
+510276,Protein-Energy Malnutrition,Pathologic Function,D011502
+294876,Phenylthiourea,Organic Chemical,D010670
+501559,Nutritional Status,Finding,D009752
+423258,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
+504083,Nutritional Physiological Phenomena,Organ or Tissue Function,D009747
+512218,Nutritional Physiological Phenomena,Physiologic Function,D009747
+513302,Maternal Nutritional Physiological Phenomena,Organism Function,D039382
+513339,Prenatal Nutritional Physiological Phenomena,Organism Function,D039401
+513368,Adolescent Nutritional Physiological Phenomena,Organism Function,D017195
+513403,Animal Nutritional Physiological Phenomena,Organism Function,D000824
+513422,Sports Nutritional Physiological Phenomena,Organism Function,D064133
+513424,Infant Nutritional Physiological Phenomena,Organism Function,D007227
+513466,Elder Nutritional Physiological Phenomena,Organism Function,D058620
+513484,Child Nutritional Physiological Phenomena,Organism Function,D002664
+506374,Nutrigenomics,Biomedical Occupation or Discipline,D054647
+420289,Mouthwashes,Biomedical or Dental Material,D009067
+493445,Mouth Diseases,Disease or Syndrome,D009059
+495445,Foot-and-Mouth Disease,Disease or Syndrome,D005536
+495599,"Hand, Foot and Mouth Disease",Disease or Syndrome,D006232
+501280,"Mouth, Edentulous",Finding,D009066
+514119,Mouth,Body Location or Region,D009055
+514122,Mouth Floor,Body Location or Region,D009060
+514808,Mouth,Body Space or Junction,D009055
+503665,Red Meat,Food,D000069466
+503718,Meat,Food,D008460
+503719,Meat Products,Food,D008461
+503880,Pork Meat,Food,D000080305
+50396,Glutamic Acid,Pharmacologic Substance,D018698
+132630,Glutamic Acid,"Amino Acid, Peptide, or Protein",D018698
+359584,Glutamic Acid,Biologically Active Substance,D018698
+487810,Foodborne Diseases,Injury or Poisoning,D005517
+504644,Food Quality,Qualitative Concept,D063427
+503728,"Food, Preserved",Food,D057141
+509635,Food Preservation,Occupational Activity,D005519
+513934,Food Preservatives,Chemical Viewed Functionally,D005520
+501643,Food Microbiology,Phenomenon or Process,D005516
+501669,Food Contamination,Phenomenon or Process,D005506
+515877,Food Contamination,Human-caused Phenomenon or Process,D005506
+505477,Food Analysis,Laboratory Procedure,D005504
+513879,Flavoring Agents,Chemical Viewed Functionally,D005421
+503758,Fermented Foods,Food,D000074421
+504467,Fermentation,Molecular Function,D005285
+496087,Feeding and Eating Disorders,Disease or Syndrome,D001068
+499963,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+500022,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
+503825,Energy Drinks,Food,D061215
+512665,Binge Drinking,Individual Behavior,D063425
+512672,Drinking Behavior,Individual Behavior,D004327
+512720,Underage Drinking,Individual Behavior,D000066608
+512730,Alcohol Drinking,Individual Behavior,D000428
+512910,Alcohol Drinking in College,Social Behavior,D000067292
+513372,Drinking,Organism Function,D004326
+513799,Underage Drinking,Governmental or Regulatory Activity,D000066608
+515464,Drinking Water,Substance,D060766
+421890,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+503679,Dietary Supplements,Food,D019587
+503660,Dietary Sucrose,Food,D019422
+126728,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
+243977,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+503750,Dietary Fats,Food,D004041
+503752,"Dietary Fats, Unsaturated",Food,D004042
+503751,Dietary Fiber,Food,D004043
+506191,Dietetics,Biomedical Occupation or Discipline,D004046
+87,Recommended Dietary Allowances,Intellectual Product,D064167
+126728,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
+187112,"Cholesterol, Dietary",Organic Chemical,D002791
+243974,Dietary Carbohydrates,Organic Chemical,D004040
+243977,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+421890,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+423403,Dietary Approaches To Stop Hypertension,Therapeutic or Preventive Procedure,D000073601
+484681,"Iron, Dietary",Inorganic Chemical,D019266
+484817,"Calcium, Dietary",Inorganic Chemical,D002136
+487793,Dietary Exposure,Injury or Poisoning,D000074341
+503660,Dietary Sucrose,Food,D019422
+503679,Dietary Supplements,Food,D019587
+503687,"Sodium, Dietary",Food,D012982
+503690,"Potassium, Dietary",Food,D017419
+503750,Dietary Fats,Food,D004041
+503751,Dietary Fiber,Food,D004043
+503752,"Dietary Fats, Unsaturated",Food,D004042
+503822,Dietary Sugars,Food,D000073417
+503867,"Sodium Chloride, Dietary",Food,D017673
+300,Diet Records,Intellectual Product,D015930
+421672,"Diet, Mediterranean",Therapeutic or Preventive Procedure,D038441
+421694,"Diet, High-Fat",Therapeutic or Preventive Procedure,D059305
+421963,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+421964,"Diet, Sodium-Restricted",Therapeutic or Preventive Procedure,D004039
+421965,"Diet, Reducing",Therapeutic or Preventive Procedure,D004038
+422483,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+422504,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
+422603,"Diet, Diabetic",Therapeutic or Preventive Procedure,D003927
+422975,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
+423073,"Diet, High-Protein",Therapeutic or Preventive Procedure,D000073600
+423126,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
+423587,"Diet, Ketogenic",Therapeutic or Preventive Procedure,D055423
+423602,"Diet, Carbohydrate Loading",Therapeutic or Preventive Procedure,D000070601
+423609,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
+423808,"Diet, Protein-Restricted",Therapeutic or Preventive Procedure,D018753
+423809,"Diet, Fat-Restricted",Therapeutic or Preventive Procedure,D018752
+501275,"Diet, Healthy",Finding,D000072001
+501277,"Diet, Vegetarian",Finding,D014676
+501281,"Diet, Western",Finding,D066273
+501441,"Diet, Vegan",Finding,D000067269
+501555,"Diet, Macrobiotic",Finding,D015623
+501586,"Diet, Paleolithic",Finding,D066046
+503691,Diet,Food,D004032
+505667,"Diet, Atherogenic",Research Activity,D004036
+508522,Diet Therapy,Health Care Activity,D004035
+508523,Diet Surveys,Health Care Activity,D004034
+512655,"Diet, Healthy",Individual Behavior,D000072001
+503685,Coffee,Food,D003069
+60052,Carotenoids,Pharmacologic Substance,D002338
+273750,Carotenoids,Organic Chemical,D002338
+369338,Carotenoids,Biologically Active Substance,D002338
+143683,Carbohydrate Dehydrogenases,"Amino Acid, Peptide, or Protein",D002237
+143685,Carbohydrate Epimerases,"Amino Acid, Peptide, or Protein",D002238
+243974,Dietary Carbohydrates,Organic Chemical,D004040
+258604,Carbohydrates,Organic Chemical,D002241
+410336,Carbohydrate Dehydrogenases,Enzyme,D002237
+410337,Carbohydrate Epimerases,Enzyme,D002238
+422975,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
+423602,"Diet, Carbohydrate Loading",Therapeutic or Preventive Procedure,D000070601
+423609,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
+495616,"Carbohydrate Metabolism, Inborn Errors",Disease or Syndrome,D002239
+504526,Carbohydrate Metabolism,Molecular Function,D050260
+507419,Carbohydrate Conformation,Spatial Concept,D002236
+513140,Carbohydrate Conformation,Idea or Concept,D002236
+516155,Carbohydrate Sequence,Carbohydrate Sequence,D002240
+423835,Caloric Restriction,Therapeutic or Preventive Procedure,D031204
+501584,Caloric Restriction,Finding,D031204
+503673,Carbonated Beverages,Food,D002253
+503698,Beverages,Food,D001628
+503709,Artificially Sweetened Beverages,Food,D000081229
+503726,Alcoholic Beverages,Food,D000434
+503870,Sugar-Sweetened Beverages,Food,D000080845
+21366,Excitatory Amino Acid Agents,Pharmacologic Substance,D018683
+50392,Excitatory Amino Acid Agonists,Pharmacologic Substance,D018690
+50394,Excitatory Amino Acid Antagonists,Pharmacologic Substance,D018691
+59972,Amino Acid Chloromethyl Ketones,Pharmacologic Substance,D000590
+59973,Amino Acids,Pharmacologic Substance,D000596
+66881,"Amino Acids, Essential",Pharmacologic Substance,D000601
+68420,alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid,Pharmacologic Substance,D018350
+80936,"Amino Acid Transport Systems, Neutral","Amino Acid, Peptide, or Protein",D026921
+80937,Amino Acid Transport System A,"Amino Acid, Peptide, or Protein",D026924
+80938,"Amino Acid Transport Systems, Acidic","Amino Acid, Peptide, or Protein",D026922
+80939,"Amino Acid Transport Systems, Basic","Amino Acid, Peptide, or Protein",D026923
+82380,Cationic Amino Acid Transporter 1,"Amino Acid, Peptide, or Protein",D027201
+82381,Cationic Amino Acid Transporter 2,"Amino Acid, Peptide, or Protein",D027202
+95734,Amino Acid Transport System ASC,"Amino Acid, Peptide, or Protein",D026962
+95791,L-Amino Acid Oxidase,"Amino Acid, Peptide, or Protein",D050830
+96724,Amino Acid Transport System y+L,"Amino Acid, Peptide, or Protein",D027241
+112018,Amino Acid Transport System L,"Amino Acid, Peptide, or Protein",D027062
+115451,Amino Acid Transport System y+,"Amino Acid, Peptide, or Protein",D027182
+118469,"Amino Acids, Neutral","Amino Acid, Peptide, or Protein",D021542
+121101,Amino-Acid N-Acetyltransferase,"Amino Acid, Peptide, or Protein",D051046
+121357,"Amino Acids, Acidic","Amino Acid, Peptide, or Protein",D024342
+122480,D-Amino-Acid Oxidase,"Amino Acid, Peptide, or Protein",D003605
+128204,Excitatory Amino Acids,"Amino Acid, Peptide, or Protein",D018846
+132151,Amino Acid Transport System X-AG,"Amino Acid, Peptide, or Protein",D027322
+142970,Amino Acid Transport Systems,"Amino Acid, Peptide, or Protein",D026905
+148864,"Amino Acids, Diamino","Amino Acid, Peptide, or Protein",D000599
+148865,"Amino Acids, Cyclic","Amino Acid, Peptide, or Protein",D000598
+148866,Amino Acid Oxidoreductases,"Amino Acid, Peptide, or Protein",D000594
+148867,Amino Acid Chloromethyl Ketones,"Amino Acid, Peptide, or Protein",D000590
+148868,Amino Acids,"Amino Acid, Peptide, or Protein",D000596
+148869,Amino Acid Isomerases,"Amino Acid, Peptide, or Protein",D000591
+148870,"Amino Acids, Branched-Chain","Amino Acid, Peptide, or Protein",D000597
+151586,Vesicular Inhibitory Amino Acid Transport Proteins,"Amino Acid, Peptide, or Protein",D050495
+160379,"Amino Acids, Dicarboxylic","Amino Acid, Peptide, or Protein",D000600
+160380,"Amino Acids, Essential","Amino Acid, Peptide, or Protein",D000601
+160383,"Amino Acids, Sulfur","Amino Acid, Peptide, or Protein",D000603
+160673,Large Neutral Amino Acid-Transporter 1,"Amino Acid, Peptide, or Protein",D027283
+169730,"Amino Acids, Basic","Amino Acid, Peptide, or Protein",D024361
+175711,Excitatory Amino Acid Transporter 1,"Amino Acid, Peptide, or Protein",D027341
+175712,Excitatory Amino Acid Transporter 2,"Amino Acid, Peptide, or Protein",D027342
+175864,Excitatory Amino Acid Transporter 3,"Amino Acid, Peptide, or Protein",D050580
+175865,Excitatory Amino Acid Transporter 4,"Amino Acid, Peptide, or Protein",D050581
+292701,alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid,Organic Chemical,D018350
+328881,"Amino Acid Transport Systems, Neutral",Biologically Active Substance,D026921
+328882,Amino Acid Transport System A,Biologically Active Substance,D026924
+328883,"Amino Acid Transport Systems, Acidic",Biologically Active Substance,D026922
+328884,"Amino Acid Transport Systems, Basic",Biologically Active Substance,D026923
+329698,Cationic Amino Acid Transporter 2,Biologically Active Substance,D027202
+337675,Amino Acid Transport System ASC,Biologically Active Substance,D026962
+338250,Amino Acid Transport System y+L,Biologically Active Substance,D027241
+347349,Amino Acid Transport System L,Biologically Active Substance,D027062
+349394,Amino Acid Transport System y+,Biologically Active Substance,D027182
+351142,"Amino Acids, Neutral",Biologically Active Substance,D021542
+359307,Amino Acid Transport System X-AG,Biologically Active Substance,D027322
+365725,Amino Acid Transport Systems,Biologically Active Substance,D026905
+369238,Amino Acids,Biologically Active Substance,D000596
+369239,"Amino Acids, Branched-Chain",Biologically Active Substance,D000597
+370929,Vesicular Inhibitory Amino Acid Transport Proteins,Biologically Active Substance,D050495
+376265,"Amino Acids, Essential",Biologically Active Substance,D000601
+376266,"Amino Acids, Sulfur",Biologically Active Substance,D000603
+376437,Large Neutral Amino Acid-Transporter 1,Biologically Active Substance,D027283
+385492,Excitatory Amino Acid Transporter 1,Biologically Active Substance,D027341
+385493,Excitatory Amino Acid Transporter 2,Biologically Active Substance,D027342
+385574,Excitatory Amino Acid Transporter 3,Biologically Active Substance,D050580
+385575,Excitatory Amino Acid Transporter 4,Biologically Active Substance,D050581
+399317,L-Amino Acid Oxidase,Enzyme,D050830
+405137,Amino-Acid N-Acetyltransferase,Enzyme,D051046
+405440,D-Amino-Acid Oxidase,Enzyme,D003605
+411498,Amino Acid Oxidoreductases,Enzyme,D000594
+411499,Amino Acid Isomerases,Enzyme,D000591
+496136,"Amino Acid Metabolism, Inborn Errors",Disease or Syndrome,D000592
+496820,"Amino Acid Transport Disorders, Inborn",Disease or Syndrome,D020157
+509287,"Sequence Homology, Amino Acid",Quantitative Concept,D017386
+512110,Excitatory Amino Acid Agents,Physiologic Function,D018683
+513668,Amino Acid Substitution,Genetic Function,D019943
+515963,"Sequence Homology, Amino Acid",Amino Acid Sequence,D017386
+515964,Amino Acid Sequence,Amino Acid Sequence,D000595
+515974,"Repetitive Sequences, Amino Acid",Amino Acid Sequence,D020449
+52529,Acetic Acid,Pharmacologic Substance,D019342
+256635,Acetic Acid,Organic Chemical,D019342
+490180,Xerostomia,Disease or Syndrome,D014987
+501191,Weight Loss,Finding,D015431
+501190,Weight Gain,Finding,D015430
+501192,Gestational Weight Gain,Finding,D000078064
+491498,"Tongue, Fissured",Disease or Syndrome,D014063
+491499,Tongue Diseases,Disease or Syndrome,D014060
+512238,Thirst,Physiologic Function,D013894
+499167,Taste Perception,Mental Process,D055697
+494238,Taste Disorders,Disease or Syndrome,D013651
+507698,Taste Disorders,Sign or Symptom,D013651
+494238,Taste Disorders,Disease or Syndrome,D013651
+499167,Taste Perception,Mental Process,D055697
+504119,Taste,Organ or Tissue Function,D013649
+507698,Taste Disorders,Sign or Symptom,D013651
+509226,Taste Threshold,Quantitative Concept,D013652
+503770,Sweetening Agents,Food,D013549
+513902,Sweetening Agents,Chemical Viewed Functionally,D013549
+501515,Starvation,Finding,D013217
+503687,"Sodium, Dietary",Food,D012982
+503867,"Sodium Chloride, Dietary",Food,D017673
+513392,Smell,Organism Function,D012903
+21362,Sensory System Agents,Pharmacologic Substance,D018689
+499235,Satiety Response,Mental Process,D012528
+499092,Motion Perception,Mental Process,D009039
+499115,Time Perception,Mental Process,D013998
+499147,Speech Perception,Mental Process,D013067
+499166,Touch Perception,Mental Process,D055698
+499167,Taste Perception,Mental Process,D055697
+499168,Olfactory Perception,Mental Process,D055696
+499185,Visual Perception,Mental Process,D014796
+499196,Color Perception,Mental Process,D003118
+499200,Space Perception,Mental Process,D013028
+499208,Perception,Mental Process,D010465
+499231,Loudness Perception,Mental Process,D008144
+499267,Social Perception,Mental Process,D012938
+504972,Color Perception Tests,Diagnostic Procedure,D003119
+513315,Pain Perception,Organism Function,D058748
+499168,Olfactory Perception,Mental Process,D055696
+506117,Nutritional Sciences,Biomedical Occupation or Discipline,D052756
+506314,Sports Nutritional Sciences,Biomedical Occupation or Discipline,D064132
+509410,Meals,Temporal Concept,D062407
+514699,Meals,Daily or Recreational Activity,D062407
+507652,Hunger,Sign or Symptom,D006815
+509614,Food Safety,Occupational Activity,D059022
+504626,Food Preferences,Qualitative Concept,D005518
+512645,Food Preferences,Individual Behavior,D005518
+423912,"Food, Formulated",Therapeutic or Preventive Procedure,D005526
+495627,Food Intolerance,Disease or Syndrome,D000073923
+500052,Food Addiction,Mental or Behavioral Dysfunction,D000073932
+501313,Food Insecurity,Finding,D000084884
+501553,Food Addiction,Finding,D000073932
+501643,Food Microbiology,Phenomenon or Process,D005516
+501669,Food Contamination,Phenomenon or Process,D005506
+503692,Raw Foods,Food,D066256
+503704,"Foods, Specialized",Food,D019648
+503728,"Food, Preserved",Food,D057141
+503729,Fast Foods,Food,D057140
+503749,Functional Food,Food,D055951
+503758,Fermented Foods,Food,D000074421
+503797,Soy Foods,Food,D045730
+503807,Food Additives,Food,D005503
+503808,Food,Food,D005502
+503819,Infant Food,Food,D007225
+503833,"Food, Organic",Food,D058870
+503837,Food Ingredients,Food,D000074385
+503890,"Food, Formulated",Food,D005526
+503891,"Food, Fortified",Food,D005527
+504183,Food-Drug Interactions,Natural Phenomenon or Process,D018565
+504208,Food Chain,Natural Phenomenon or Process,D020387
+504601,Access to Healthy Foods,Qualitative Concept,D000091483
+504626,Food Preferences,Qualitative Concept,D005518
+504644,Food Quality,Qualitative Concept,D063427
+504736,Food Security,Qualitative Concept,D000082302
+505477,Food Analysis,Laboratory Procedure,D005504
+505789,Food Deprivation,Research Activity,D005508
+509392,Food Supply,Quantitative Concept,D005523
+509591,Food Assistance,Occupational Activity,D063105
+509612,Food Industry,Occupational Activity,D019649
+509614,Food Safety,Occupational Activity,D059022
+509634,Food Handling,Occupational Activity,D005511
+509635,Food Preservation,Occupational Activity,D005519
+509991,Food-Drug Interactions,Pathologic Function,D018565
+510102,Food Hypersensitivity,Pathologic Function,D005512
+512645,Food Preferences,Individual Behavior,D005518
+512689,Food Fussiness,Individual Behavior,D000081010
+513741,Food Assistance,Governmental or Regulatory Activity,D063105
+513913,Food Coloring Agents,Chemical Viewed Functionally,D005505
+513934,Food Preservatives,Chemical Viewed Functionally,D005520
+515680,Food Insecurity,Functional Concept,D000084884
+515877,Food Contamination,Human-caused Phenomenon or Process,D005506
+512695,Feeding Behavior,Individual Behavior,D005247
+513399,Feeding Behavior,Organism Function,D005247
+496087,Feeding and Eating Disorders,Disease or Syndrome,D001068
+499771,Binge-Eating Disorder,Mental or Behavioral Dysfunction,D056912
+499963,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+500022,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
+496087,Feeding and Eating Disorders,Disease or Syndrome,D001068
+499771,Binge-Eating Disorder,Mental or Behavioral Dysfunction,D056912
+499963,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+500022,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
+501479,Eating,Finding,D004435
+513436,Eating,Organism Function,D004435
+515292,Eating,Biologic Function,D004435
+422485,"Endoscopy, Digestive System",Therapeutic or Preventive Procedure,D016145
+423574,Digestive System Surgical Procedures,Therapeutic or Preventive Procedure,D013505
+498256,Digestive System Diseases,Disease or Syndrome,D004066
+504920,"Diagnostic Techniques, Digestive System",Diagnostic Procedure,D003938
+504938,"Endoscopy, Digestive System",Diagnostic Procedure,D016145
+508604,"Endoscopy, Digestive System",Health Care Activity,D016145
+515575,Digestive System,Body System,D004064
+422485,"Endoscopy, Digestive System",Therapeutic or Preventive Procedure,D016145
+423574,Digestive System Surgical Procedures,Therapeutic or Preventive Procedure,D013505
+498256,Digestive System Diseases,Disease or Syndrome,D004066
+502409,National Institute of Diabetes and Digestive and Kidney Diseases (U.S.),Health Care Related Organization,D054586
+504920,"Diagnostic Techniques, Digestive System",Diagnostic Procedure,D003938
+504938,"Endoscopy, Digestive System",Diagnostic Procedure,D016145
+508604,"Endoscopy, Digestive System",Health Care Activity,D016145
+513471,Digestion,Organism Function,D004063
+515575,Digestive System,Body System,D004064
+499822,Bulimia,Mental or Behavioral Dysfunction,D002032
+499996,Bulimia Nervosa,Mental or Behavioral Dysfunction,D052018
+499771,Binge-Eating Disorder,Mental or Behavioral Dysfunction,D056912
+59692,Appetite Depressants,Pharmacologic Substance,D001067
+66789,Appetite Stimulants,Pharmacologic Substance,D019167
+512216,Appetite,Physiologic Function,D001066
+512685,Appetitive Behavior,Individual Behavior,D001070
+513416,Appetite,Organism Function,D001066
+513417,Appetite Regulation,Organism Function,D001069
+494728,Anorexia,Disease or Syndrome,D000855
+499930,Anorexia Nervosa,Mental or Behavioral Dysfunction,D000856

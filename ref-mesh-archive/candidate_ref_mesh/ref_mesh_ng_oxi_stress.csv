@@ -1,0 +1,134 @@
+,Preferred Label,Semantic Types Label,mesh_id
+124798,Superoxide Dismutase-1,"Amino Acid, Peptide, or Protein",D000072105
+405949,Superoxide Dismutase-1,Enzyme,D000072105
+485479,Reactive Nitrogen Species,Inorganic Chemical,D026361
+116874,C-Reactive Protein,"Amino Acid, Peptide, or Protein",D002097
+391877,C-Reactive Protein,Immunologic Factor,D002097
+29586,Inflammation Mediators,Pharmacologic Substance,D018836
+487992,Neurogenic Inflammation,Injury or Poisoning,D020078
+509987,Inflammation,Pathologic Function,D007249
+138350,Receptor for Advanced Glycation End Products,"Amino Acid, Peptide, or Protein",D000067759
+226658,"Glycation End Products, Advanced",Organic Chemical,D017127
+347980,"Glycation End Products, Advanced",Biologically Active Substance,D017127
+504458,Protein Carbonylation,Molecular Function,D050050
+107530,"Receptors, Oxidized LDL","Amino Acid, Peptide, or Protein",D051131
+183771,Isoprostanes,Organic Chemical,D028421
+269127,F2-Isoprostanes,Organic Chemical,D028441
+328490,Isoprostanes,Biologically Active Substance,D028421
+367244,F2-Isoprostanes,Biologically Active Substance,D028441
+251263,Malondialdehyde,Organic Chemical,D008315
+359304,Malondialdehyde,Biologically Active Substance,D008315
+248522,Lipid Peroxides,Organic Chemical,D008054
+504480,Lipid Peroxidation,Molecular Function,D015227
+357280,Peroxynitrous Acid,Biologically Active Substance,D030421
+484234,Peroxynitrous Acid,Inorganic Chemical,D030421
+20760,Nitric Oxide,Pharmacologic Substance,D009569
+68900,Nitric Oxide Donors,Pharmacologic Substance,D020030
+89925,Nitric Oxide Synthase Type I,"Amino Acid, Peptide, or Protein",D052248
+89927,Nitric Oxide Synthase Type II,"Amino Acid, Peptide, or Protein",D052247
+92371,Nitric Oxide Synthase,"Amino Acid, Peptide, or Protein",D019001
+182640,Nitric Oxide Synthase Type III,"Amino Acid, Peptide, or Protein",D052250
+397965,Nitric Oxide Synthase Type I,Enzyme,D052248
+397966,Nitric Oxide Synthase Type II,Enzyme,D052247
+398563,Nitric Oxide Synthase,Enzyme,D019001
+419269,Nitric Oxide Synthase Type III,Enzyme,D052250
+483185,Nitric Oxide,Inorganic Chemical,D009569
+484544,Hydroxyl Radical,Inorganic Chemical,D017665
+21263,Superoxide Dismutase,Pharmacologic Substance,D013482
+21264,Superoxides,Pharmacologic Substance,D013481
+82153,Superoxide Dismutase,"Amino Acid, Peptide, or Protein",D013482
+124798,Superoxide Dismutase-1,"Amino Acid, Peptide, or Protein",D000072105
+186406,Superoxides,Organic Chemical,D013481
+396195,Superoxide Dismutase,Enzyme,D013482
+405949,Superoxide Dismutase-1,Enzyme,D000072105
+27077,Hydrogen Peroxide,Pharmacologic Substance,D006861
+483447,Hydrogen Peroxide,Inorganic Chemical,D006861
+483747,Free Radicals,Inorganic Chemical,D005609
+513894,Free Radical Scavengers,Chemical Viewed Functionally,D016166
+368321,Reactive Oxygen Species,Biologically Active Substance,D017382
+81142,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
+395979,Glutathione Peroxidase,Enzyme,D005979
+116550,Catalase,"Amino Acid, Peptide, or Protein",D002374
+403994,Catalase,Enzyme,D002374
+21263,Superoxide Dismutase,Pharmacologic Substance,D013482
+82153,Superoxide Dismutase,"Amino Acid, Peptide, or Protein",D013482
+124798,Superoxide Dismutase-1,"Amino Acid, Peptide, or Protein",D000072105
+396195,Superoxide Dismutase,Enzyme,D013482
+405949,Superoxide Dismutase-1,Enzyme,D000072105
+20565,Glutathione,Pharmacologic Substance,D005978
+65423,Glutathione Disulfide,Pharmacologic Substance,D019803
+81139,Glutathione,"Amino Acid, Peptide, or Protein",D005978
+81142,Glutathione Peroxidase,"Amino Acid, Peptide, or Protein",D005979
+122794,Glutathione S-Transferase pi,"Amino Acid, Peptide, or Protein",D051549
+129801,Protein Disulfide Reductase (Glutathione),"Amino Acid, Peptide, or Protein",D011490
+154116,Glutathione Synthase,"Amino Acid, Peptide, or Protein",D005981
+154118,Glutathione Transferase,"Amino Acid, Peptide, or Protein",D005982
+154120,Glutathione Reductase,"Amino Acid, Peptide, or Protein",D005980
+157842,Glutathione Disulfide,"Amino Acid, Peptide, or Protein",D019803
+328988,Glutathione,Biologically Active Substance,D005978
+374747,Glutathione Disulfide,Biologically Active Substance,D019803
+395979,Glutathione Peroxidase,Enzyme,D005979
+405526,Glutathione S-Transferase pi,Enzyme,D051549
+407067,Protein Disulfide Reductase (Glutathione),Enzyme,D011490
+412637,Glutathione Synthase,Enzyme,D005981
+412639,Glutathione Transferase,Enzyme,D005982
+412640,Glutathione Reductase,Enzyme,D005980
+514040,Glutathione,Laboratory or Test Result,D005978
+31590,Vitamin E,Pharmacologic Substance,D014810
+209541,Vitamin E,Organic Chemical,D014810
+491747,Vitamin E Deficiency,Disease or Syndrome,D014811
+502634,Vitamin E,Vitamin,D014810
+83662,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
+330455,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
+60052,Carotenoids,Pharmacologic Substance,D002338
+273750,Carotenoids,Organic Chemical,D002338
+369338,Carotenoids,Biologically Active Substance,D002338
+69306,Flavonoids,Pharmacologic Substance,D005419
+294725,Flavonoids,Organic Chemical,D005419
+502880,Flavonoids,Vitamin,D005419
+43063,Polyphenols,Pharmacologic Substance,D059808
+235383,Polyphenols,Organic Chemical,D059808
+57013,Antioxidants,Pharmacologic Substance,D000975
+365107,Antioxidant Response Elements,Biologically Active Substance,D061745
+366225,Antioxidants,Biologically Active Substance,D000975
+477556,Antioxidant Response Elements,"Nucleic Acid, Nucleoside, or Nucleotide",D061745
+504525,Antioxidants,Molecular Function,D000975
+512207,Antioxidants,Physiologic Function,D000975
+503807,Food Additives,Food,D005503
+510102,Food Hypersensitivity,Pathologic Function,D005512
+500052,Food Addiction,Mental or Behavioral Dysfunction,D000073932
+501313,Food Insecurity,Finding,D000084884
+501553,Food Addiction,Finding,D000073932
+501669,Food Contamination,Phenomenon or Process,D005506
+502457,United States Food and Drug Administration,Health Care Related Organization,D014486
+503692,Raw Foods,Food,D066256
+503728,"Food, Preserved",Food,D057141
+503729,Fast Foods,Food,D057140
+503749,Functional Food,Food,D055951
+503758,Fermented Foods,Food,D000074421
+503797,Soy Foods,Food,D045730
+503807,Food Additives,Food,D005503
+503808,Food,Food,D005502
+503819,Infant Food,Food,D007225
+503833,"Food, Organic",Food,D058870
+503837,Food Ingredients,Food,D000074385
+503891,"Food, Fortified",Food,D005527
+504183,Food-Drug Interactions,Natural Phenomenon or Process,D018565
+504601,Access to Healthy Foods,Qualitative Concept,D000091483
+504626,Food Preferences,Qualitative Concept,D005518
+504736,Food Security,Qualitative Concept,D000082302
+509392,Food Supply,Quantitative Concept,D005523
+509591,Food Assistance,Occupational Activity,D063105
+509614,Food Safety,Occupational Activity,D059022
+509634,Food Handling,Occupational Activity,D005511
+509635,Food Preservation,Occupational Activity,D005519
+509991,Food-Drug Interactions,Pathologic Function,D018565
+510102,Food Hypersensitivity,Pathologic Function,D005512
+512645,Food Preferences,Individual Behavior,D005518
+512689,Food Fussiness,Individual Behavior,D000081010
+513741,Food Assistance,Governmental or Regulatory Activity,D063105
+513913,Food Coloring Agents,Chemical Viewed Functionally,D005505
+513934,Food Preservatives,Chemical Viewed Functionally,D005520
+515680,Food Insecurity,Functional Concept,D000084884
+515877,Food Contamination,Human-caused Phenomenon or Process,D005506
+514985,Oxidative Stress,Cell or Molecular Dysfunction,D018384

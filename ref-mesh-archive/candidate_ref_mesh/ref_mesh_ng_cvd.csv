@@ -1,0 +1,1078 @@
+,Preferred Label,Semantic Types Label,mesh_id
+111012,Sterol Regulatory Element Binding Protein 2,"Amino Acid, Peptide, or Protein",D051782
+111014,Sterol Regulatory Element Binding Protein 1,"Amino Acid, Peptide, or Protein",D051780
+130783,Sterol Regulatory Element Binding Proteins,"Amino Acid, Peptide, or Protein",D051779
+346778,Sterol Regulatory Element Binding Protein 2,Biologically Active Substance,D051782
+346780,Sterol Regulatory Element Binding Protein 1,Biologically Active Substance,D051780
+358496,Sterol Regulatory Element Binding Proteins,Biologically Active Substance,D051779
+120189,Stearoyl-CoA Desaturase,"Amino Acid, Peptide, or Protein",D013230
+404909,Stearoyl-CoA Desaturase,Enzyme,D013230
+138594,Phosphatidate Phosphatase,"Amino Acid, Peptide, or Protein",D010711
+409168,Phosphatidate Phosphatase,Enzyme,D010711
+504436,Oxidation-Reduction,Molecular Function,D010084
+192368,Lysophosphatidylcholines,Organic Chemical,D008244
+219564,Unilamellar Liposomes,Organic Chemical,D053835
+239857,Liposomes,Organic Chemical,D008081
+104296,Lipopolysaccharide Receptors,"Amino Acid, Peptide, or Protein",D018950
+246662,Lipopolysaccharides,Organic Chemical,D008070
+391197,Lipopolysaccharide Receptors,Immunologic Factor,D018950
+34883,Lipopeptides,Pharmacologic Substance,D055666
+105708,Lipopeptides,"Amino Acid, Peptide, or Protein",D055666
+343581,Lipopeptides,Biologically Active Substance,D055666
+513337,Lipolysis,Organism Function,D008066
+133397,Lipid Droplet Associated Proteins,"Amino Acid, Peptide, or Protein",D000070136
+360050,Lipid Droplet Associated Proteins,Biologically Active Substance,D000070136
+503125,Lipid Droplets,Cell Component,D066292
+78089,Lipase,Pharmacologic Substance,D008049
+87649,Monoacylglycerol Lipases,"Amino Acid, Peptide, or Protein",D008994
+128690,Lipoprotein Lipase,"Amino Acid, Peptide, or Protein",D008071
+180094,Lipase,"Amino Acid, Peptide, or Protein",D008049
+397463,Monoacylglycerol Lipases,Enzyme,D008994
+406817,Lipoprotein Lipase,Enzyme,D008071
+418704,Lipase,Enzyme,D008049
+66790,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Pharmacologic Substance,D019161
+289024,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Organic Chemical,D019161
+174550,Fatty Acid Transport Proteins,"Amino Acid, Peptide, or Protein",D050612
+384769,Fatty Acid Transport Proteins,Biologically Active Substance,D050612
+101801,Fatty Acid Desaturases,"Amino Acid, Peptide, or Protein",D044943
+164118,Delta-5 Fatty Acid Desaturase,"Amino Acid, Peptide, or Protein",D000090943
+400667,Fatty Acid Desaturases,Enzyme,D044943
+414971,Delta-5 Fatty Acid Desaturase,Enzyme,D000090943
+172532,Coenzyme A-Transferases,"Amino Acid, Peptide, or Protein",D015256
+417007,Coenzyme A-Transferases,Enzyme,D015256
+94624,Coenzyme A Ligases,"Amino Acid, Peptide, or Protein",D003066
+399037,Coenzyme A Ligases,Enzyme,D003066
+84126,Cholesterol Side-Chain Cleavage Enzyme,"Amino Acid, Peptide, or Protein",D002786
+396671,Cholesterol Side-Chain Cleavage Enzyme,Enzyme,D002786
+150228,Cholesterol Ester Transfer Proteins,"Amino Acid, Peptide, or Protein",D053480
+188975,Cholesterol Esters,Organic Chemical,D002788
+330751,Cholesterol Esters,Biologically Active Substance,D002788
+370070,Cholesterol Ester Transfer Proteins,Biologically Active Substance,D053480
+495621,Cholesterol Ester Storage Disease,Disease or Syndrome,D015217
+495621,Cholesterol Ester Storage Disease,Disease or Syndrome,D015217
+498614,Lecithin Cholesterol Acyltransferase Deficiency,Disease or Syndrome,D007863
+82773,Cholesterol 7-alpha-Hydroxylase,"Amino Acid, Peptide, or Protein",D002790
+396345,Cholesterol 7-alpha-Hydroxylase,Enzyme,D002790
+238564,Ceramides,Organic Chemical,D002518
+353423,Ceramides,Biologically Active Substance,D002518
+148999,Carnitine O-Palmitoyltransferase,"Amino Acid, Peptide, or Protein",D002334
+411527,Carnitine O-Palmitoyltransferase,Enzyme,D002334
+148192,Arachidonate 5-Lipoxygenase,"Amino Acid, Peptide, or Protein",D001094
+411343,Arachidonate 5-Lipoxygenase,Enzyme,D001094
+100834,Apolipoprotein E4,"Amino Acid, Peptide, or Protein",D053327
+149091,Apolipoprotein E3,"Amino Acid, Peptide, or Protein",D053318
+100833,Apolipoprotein E2,"Amino Acid, Peptide, or Protein",D053329
+340670,Apolipoprotein E2,Biologically Active Substance,D053329
+129013,Apolipoproteins E,"Amino Acid, Peptide, or Protein",D001057
+357441,Apolipoproteins E,Biologically Active Substance,D001057
+107473,Apolipoprotein C-I,"Amino Acid, Peptide, or Protein",D053302
+107476,Apolipoprotein C-II,"Amino Acid, Peptide, or Protein",D053304
+107478,Apolipoprotein C-III,"Amino Acid, Peptide, or Protein",D053305
+129012,Apolipoproteins C,"Amino Acid, Peptide, or Protein",D001056
+344663,Apolipoprotein C-I,Biologically Active Substance,D053302
+344665,Apolipoprotein C-II,Biologically Active Substance,D053304
+344666,Apolipoprotein C-III,Biologically Active Substance,D053305
+357440,Apolipoproteins C,Biologically Active Substance,D001056
+129016,Apolipoproteins B,"Amino Acid, Peptide, or Protein",D001055
+131300,Apolipoprotein B-48,"Amino Acid, Peptide, or Protein",D053283
+148062,Apolipoprotein B-100,"Amino Acid, Peptide, or Protein",D053299
+357444,Apolipoproteins B,Biologically Active Substance,D001055
+358798,Apolipoprotein B-48,Biologically Active Substance,D053283
+368722,Apolipoprotein B-100,Biologically Active Substance,D053299
+498093,"Hypobetalipoproteinemia, Familial, Apolipoprotein B",Disease or Syndrome,D052476
+107478,Apolipoprotein C-III,"Amino Acid, Peptide, or Protein",D053305
+344666,Apolipoprotein C-III,Biologically Active Substance,D053305
+94666,Apolipoproteins M,"Amino Acid, Peptide, or Protein",D000075243
+100833,Apolipoprotein E2,"Amino Acid, Peptide, or Protein",D053329
+100834,Apolipoprotein E4,"Amino Acid, Peptide, or Protein",D053327
+107473,Apolipoprotein C-I,"Amino Acid, Peptide, or Protein",D053302
+107476,Apolipoprotein C-II,"Amino Acid, Peptide, or Protein",D053304
+107478,Apolipoprotein C-III,"Amino Acid, Peptide, or Protein",D053305
+109734,Apolipoproteins L,"Amino Acid, Peptide, or Protein",D000075943
+114796,Apolipoprotein A-V,"Amino Acid, Peptide, or Protein",D000072040
+116003,Apolipoproteins D,"Amino Acid, Peptide, or Protein",D053399
+116697,Apolipoprotein L1,"Amino Acid, Peptide, or Protein",D000075944
+129010,Apolipoproteins A,"Amino Acid, Peptide, or Protein",D001054
+129012,Apolipoproteins C,"Amino Acid, Peptide, or Protein",D001056
+129013,Apolipoproteins E,"Amino Acid, Peptide, or Protein",D001057
+129014,Apolipoproteins,"Amino Acid, Peptide, or Protein",D001053
+129016,Apolipoproteins B,"Amino Acid, Peptide, or Protein",D001055
+131300,Apolipoprotein B-48,"Amino Acid, Peptide, or Protein",D053283
+144050,Apolipoprotein A-I,"Amino Acid, Peptide, or Protein",D016632
+144051,Apolipoprotein A-II,"Amino Acid, Peptide, or Protein",D016633
+148062,Apolipoprotein B-100,"Amino Acid, Peptide, or Protein",D053299
+149091,Apolipoprotein E3,"Amino Acid, Peptide, or Protein",D053318
+340670,Apolipoprotein E2,Biologically Active Substance,D053329
+344663,Apolipoprotein C-I,Biologically Active Substance,D053302
+344665,Apolipoprotein C-II,Biologically Active Substance,D053304
+344666,Apolipoprotein C-III,Biologically Active Substance,D053305
+346012,Apolipoproteins L,Biologically Active Substance,D000075943
+349723,Apolipoproteins D,Biologically Active Substance,D053399
+357438,Apolipoproteins A,Biologically Active Substance,D001054
+357440,Apolipoproteins C,Biologically Active Substance,D001056
+357441,Apolipoproteins E,Biologically Active Substance,D001057
+357442,Apolipoproteins,Biologically Active Substance,D001053
+357444,Apolipoproteins B,Biologically Active Substance,D001055
+358798,Apolipoprotein B-48,Biologically Active Substance,D053283
+366334,Apolipoprotein A-I,Biologically Active Substance,D016632
+366335,Apolipoprotein A-II,Biologically Active Substance,D016633
+368722,Apolipoprotein B-100,Biologically Active Substance,D053299
+498093,"Hypobetalipoproteinemia, Familial, Apolipoprotein B",Disease or Syndrome,D052476
+89923,Adiponectin,"Amino Acid, Peptide, or Protein",D052242
+116128,"Receptors, Adiponectin","Amino Acid, Peptide, or Protein",D054419
+334225,Adiponectin,Biologically Active Substance,D052242
+84127,Sterol O-Acyltransferase,"Amino Acid, Peptide, or Protein",D002785
+86813,1-Acylglycerophosphocholine O-Acyltransferase,"Amino Acid, Peptide, or Protein",D008243
+87380,Acyltransferases,"Amino Acid, Peptide, or Protein",D000217
+121099,Diacylglycerol O-Acyltransferase,"Amino Acid, Peptide, or Protein",D051048
+121103,Sphingosine N-Acyltransferase,"Amino Acid, Peptide, or Protein",D051049
+149003,Carnitine Acyltransferases,"Amino Acid, Peptide, or Protein",D002333
+154717,Glycerol-3-Phosphate O-Acyltransferase,"Amino Acid, Peptide, or Protein",D005992
+156495,Acetyl-CoA C-Acyltransferase,"Amino Acid, Peptide, or Protein",D000102
+167142,1-Acylglycerol-3-Phosphate O-Acyltransferase,"Amino Acid, Peptide, or Protein",D051103
+178870,Phosphatidylcholine-Sterol O-Acyltransferase,"Amino Acid, Peptide, or Protein",D007862
+396672,Sterol O-Acyltransferase,Enzyme,D002785
+397296,1-Acylglycerophosphocholine O-Acyltransferase,Enzyme,D008243
+397402,Acyltransferases,Enzyme,D000217
+405135,Diacylglycerol O-Acyltransferase,Enzyme,D051048
+405138,Sphingosine N-Acyltransferase,Enzyme,D051049
+411529,Carnitine Acyltransferases,Enzyme,D002333
+412777,Glycerol-3-Phosphate O-Acyltransferase,Enzyme,D005992
+413200,Acetyl-CoA C-Acyltransferase,Enzyme,D000102
+415647,1-Acylglycerol-3-Phosphate O-Acyltransferase,Enzyme,D051103
+418438,Phosphatidylcholine-Sterol O-Acyltransferase,Enzyme,D007862
+498614,Lecithin Cholesterol Acyltransferase Deficiency,Disease or Syndrome,D007863
+101799,Acyl-CoA Dehydrogenases,"Amino Acid, Peptide, or Protein",D044944
+101800,"Acyl-CoA Dehydrogenase, Long-Chain","Amino Acid, Peptide, or Protein",D044942
+179692,Acyl-CoA Dehydrogenase,"Amino Acid, Peptide, or Protein",D042964
+400665,Acyl-CoA Dehydrogenases,Enzyme,D044944
+400666,"Acyl-CoA Dehydrogenase, Long-Chain",Enzyme,D044942
+418614,Acyl-CoA Dehydrogenase,Enzyme,D042964
+80860,Low Density Lipoprotein Receptor-Related Protein-5,"Amino Acid, Peptide, or Protein",D060492
+119023,Low Density Lipoprotein Receptor-Related Protein-1,"Amino Acid, Peptide, or Protein",D026503
+124156,Low Density Lipoprotein Receptor-Related Protein-2,"Amino Acid, Peptide, or Protein",D026561
+176213,Low Density Lipoprotein Receptor-Related Protein-6,"Amino Acid, Peptide, or Protein",D060488
+302245,Triglycerides,Organic Chemical,D014280
+382295,Triglycerides,Biologically Active Substance,D014280
+111012,Sterol Regulatory Element Binding Protein 2,"Amino Acid, Peptide, or Protein",D051782
+111014,Sterol Regulatory Element Binding Protein 1,"Amino Acid, Peptide, or Protein",D051780
+130783,Sterol Regulatory Element Binding Proteins,"Amino Acid, Peptide, or Protein",D051779
+346778,Sterol Regulatory Element Binding Protein 2,Biologically Active Substance,D051782
+346780,Sterol Regulatory Element Binding Protein 1,Biologically Active Substance,D051780
+358496,Sterol Regulatory Element Binding Proteins,Biologically Active Substance,D051779
+169173,Serum Amyloid A Protein,"Amino Acid, Peptide, or Protein",D000685
+381617,Serum Amyloid A Protein,Biologically Active Substance,D000685
+394849,Serum Amyloid A Protein,Immunologic Factor,D000685
+85957,Phospholipid Transfer Proteins,"Amino Acid, Peptide, or Protein",D049294
+196346,Phospholipids,Organic Chemical,D010743
+196347,Phospholipid Ethers,Organic Chemical,D010742
+331868,Phospholipid Transfer Proteins,Biologically Active Substance,D049294
+334202,Phospholipids,Biologically Active Substance,D010743
+496843,Metabolic Syndrome,Disease or Syndrome,D024821
+128693,"Lipoproteins, VLDL","Amino Acid, Peptide, or Protein",D008079
+357252,"Lipoproteins, VLDL",Biologically Active Substance,D008079
+128692,"Lipoproteins, LDL","Amino Acid, Peptide, or Protein",D008077
+246664,"Lipoproteins, LDL",Organic Chemical,D008077
+357251,"Lipoproteins, LDL",Biologically Active Substance,D008077
+128694,"Lipoproteins, HDL","Amino Acid, Peptide, or Protein",D008075
+357253,"Lipoproteins, HDL",Biologically Active Substance,D008075
+128690,Lipoprotein Lipase,"Amino Acid, Peptide, or Protein",D008071
+406817,Lipoprotein Lipase,Enzyme,D008071
+119498,Lipoprotein(a),"Amino Acid, Peptide, or Protein",D017270
+351685,Lipoprotein(a),Biologically Active Substance,D017270
+513418,Lipogenesis,Organism Function,D050155
+68148,Lipid Regulating Agents,Pharmacologic Substance,D057847
+133397,Lipid Droplet Associated Proteins,"Amino Acid, Peptide, or Protein",D000070136
+169422,Lipid-Linked Proteins,"Amino Acid, Peptide, or Protein",D058635
+232921,Membrane Lipids,Organic Chemical,D008563
+248521,Lipids,Organic Chemical,D008055
+248522,Lipid Peroxides,Organic Chemical,D008054
+248523,Lipid A,Organic Chemical,D008050
+360050,Lipid Droplet Associated Proteins,Biologically Active Substance,D000070136
+381758,Lipid-Linked Proteins,Biologically Active Substance,D058635
+392629,Lipid A,Immunologic Factor,D008050
+493700,Lipid Metabolism Disorders,Disease or Syndrome,D052439
+494421,"Lipid Metabolism, Inborn Errors",Disease or Syndrome,D008052
+503056,Lipid Bilayers,Cell Component,D008051
+503125,Lipid Droplets,Cell Component,D066292
+504035,Lipid Mobilization,Organ or Tissue Function,D008053
+504469,Lipid Metabolism,Molecular Function,D050356
+504480,Lipid Peroxidation,Molecular Function,D015227
+509335,Lipid Accumulation Product,Quantitative Concept,D064237
+248522,Lipid Peroxides,Organic Chemical,D008054
+504480,Lipid Peroxidation,Molecular Function,D015227
+498614,Lecithin Cholesterol Acyltransferase Deficiency,Disease or Syndrome,D007863
+493356,Hypertriglyceridemia,Disease or Syndrome,D015228
+493316,"Hyperlipidemia, Familial Combined",Disease or Syndrome,D006950
+497332,Hyperlipidemias,Disease or Syndrome,D006949
+501513,Hyperlipidemias,Finding,D006949
+493197,Fatty Liver,Disease or Syndrome,D005234
+493198,"Fatty Liver, Alcoholic",Disease or Syndrome,D005235
+493249,Non-alcoholic Fatty Liver Disease,Disease or Syndrome,D065626
+231576,"Fatty Acids, Unsaturated",Organic Chemical,D005231
+350224,"Fatty Acids, Unsaturated",Biologically Active Substance,D005231
+281305,"Fatty Acids, Omega-6",Organic Chemical,D043371
+372738,"Fatty Acids, Omega-6",Biologically Active Substance,D043371
+58708,"Fatty Acids, Omega-3",Pharmacologic Substance,D015525
+270724,"Fatty Acids, Omega-3",Organic Chemical,D015525
+367884,"Fatty Acids, Omega-3",Biologically Active Substance,D015525
+207460,"Fatty Acids, Monounsaturated",Organic Chemical,D005229
+339100,"Fatty Acids, Monounsaturated",Biologically Active Substance,D005229
+116015,Fatty Acid-Binding Proteins,"Amino Acid, Peptide, or Protein",D050556
+158643,Fatty Acid Binding Protein 3,"Amino Acid, Peptide, or Protein",D000074026
+176265,Fatty Acid-Binding Protein 7,"Amino Acid, Peptide, or Protein",D000071438
+349726,Fatty Acid-Binding Proteins,Biologically Active Substance,D050556
+375230,Fatty Acid Binding Protein 3,Biologically Active Substance,D000074026
+385795,Fatty Acid-Binding Protein 7,Biologically Active Substance,D000071438
+219460,"Cholesterol, VLDL",Organic Chemical,D015243
+344747,"Cholesterol, VLDL",Biologically Active Substance,D015243
+246663,"Cholesterol, LDL",Organic Chemical,D008078
+357249,"Cholesterol, LDL",Biologically Active Substance,D008078
+246665,"Cholesterol, HDL",Organic Chemical,D008076
+357255,"Cholesterol, HDL",Biologically Active Substance,D008076
+150228,Cholesterol Ester Transfer Proteins,"Amino Acid, Peptide, or Protein",D053480
+370070,Cholesterol Ester Transfer Proteins,Biologically Active Substance,D053480
+94666,Apolipoproteins M,"Amino Acid, Peptide, or Protein",D000075243
+100833,Apolipoprotein E2,"Amino Acid, Peptide, or Protein",D053329
+100834,Apolipoprotein E4,"Amino Acid, Peptide, or Protein",D053327
+107473,Apolipoprotein C-I,"Amino Acid, Peptide, or Protein",D053302
+107476,Apolipoprotein C-II,"Amino Acid, Peptide, or Protein",D053304
+107478,Apolipoprotein C-III,"Amino Acid, Peptide, or Protein",D053305
+109734,Apolipoproteins L,"Amino Acid, Peptide, or Protein",D000075943
+114796,Apolipoprotein A-V,"Amino Acid, Peptide, or Protein",D000072040
+116003,Apolipoproteins D,"Amino Acid, Peptide, or Protein",D053399
+116697,Apolipoprotein L1,"Amino Acid, Peptide, or Protein",D000075944
+129010,Apolipoproteins A,"Amino Acid, Peptide, or Protein",D001054
+129012,Apolipoproteins C,"Amino Acid, Peptide, or Protein",D001056
+129013,Apolipoproteins E,"Amino Acid, Peptide, or Protein",D001057
+129014,Apolipoproteins,"Amino Acid, Peptide, or Protein",D001053
+129016,Apolipoproteins B,"Amino Acid, Peptide, or Protein",D001055
+131300,Apolipoprotein B-48,"Amino Acid, Peptide, or Protein",D053283
+144050,Apolipoprotein A-I,"Amino Acid, Peptide, or Protein",D016632
+144051,Apolipoprotein A-II,"Amino Acid, Peptide, or Protein",D016633
+148062,Apolipoprotein B-100,"Amino Acid, Peptide, or Protein",D053299
+149091,Apolipoprotein E3,"Amino Acid, Peptide, or Protein",D053318
+340670,Apolipoprotein E2,Biologically Active Substance,D053329
+344663,Apolipoprotein C-I,Biologically Active Substance,D053302
+344665,Apolipoprotein C-II,Biologically Active Substance,D053304
+344666,Apolipoprotein C-III,Biologically Active Substance,D053305
+346012,Apolipoproteins L,Biologically Active Substance,D000075943
+349723,Apolipoproteins D,Biologically Active Substance,D053399
+357438,Apolipoproteins A,Biologically Active Substance,D001054
+357440,Apolipoproteins C,Biologically Active Substance,D001056
+357441,Apolipoproteins E,Biologically Active Substance,D001057
+357442,Apolipoproteins,Biologically Active Substance,D001053
+357444,Apolipoproteins B,Biologically Active Substance,D001055
+358798,Apolipoprotein B-48,Biologically Active Substance,D053283
+366334,Apolipoprotein A-I,Biologically Active Substance,D016632
+366335,Apolipoprotein A-II,Biologically Active Substance,D016633
+368722,Apolipoprotein B-100,Biologically Active Substance,D053299
+498093,"Hypobetalipoproteinemia, Familial, Apolipoprotein B",Disease or Syndrome,D052476
+100834,Apolipoprotein E4,"Amino Acid, Peptide, or Protein",D053327
+148062,Apolipoprotein B-100,"Amino Acid, Peptide, or Protein",D053299
+368722,Apolipoprotein B-100,Biologically Active Substance,D053299
+513462,Wound Healing,Organism Function,D014945
+31589,Vitamin K,Pharmacologic Substance,D014812
+48195,Vitamin K 1,Pharmacologic Substance,D010837
+67468,Vitamin K 3,Pharmacologic Substance,D024483
+67469,Vitamin K 2,Pharmacologic Substance,D024482
+87619,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
+209540,Vitamin K,Organic Chemical,D014812
+247177,Vitamin K 1,Organic Chemical,D010837
+290479,Vitamin K 3,Organic Chemical,D024483
+290480,Vitamin K 2,Organic Chemical,D024482
+397458,Vitamin K Epoxide Reductases,Enzyme,D064417
+491748,Vitamin K Deficiency,Disease or Syndrome,D014813
+497286,Vitamin K Deficiency Bleeding,Disease or Syndrome,D006475
+502633,Vitamin K,Vitamin,D014812
+502733,Vitamin K 1,Vitamin,D010837
+502867,Vitamin K 3,Vitamin,D024483
+502868,Vitamin K 2,Vitamin,D024482
+31588,Vitamins,Pharmacologic Substance,D014815
+31589,Vitamin K,Pharmacologic Substance,D014812
+31590,Vitamin E,Pharmacologic Substance,D014810
+48195,Vitamin K 1,Pharmacologic Substance,D010837
+59760,Vitamin B 12,Pharmacologic Substance,D014805
+59761,Vitamin B Complex,Pharmacologic Substance,D014803
+59762,Vitamin A,Pharmacologic Substance,D014801
+59763,Vitamin D,Pharmacologic Substance,D014807
+67468,Vitamin K 3,Pharmacologic Substance,D024483
+67469,Vitamin K 2,Pharmacologic Substance,D024482
+69335,Vitamin B 6,Pharmacologic Substance,D025101
+83662,Sodium-Coupled Vitamin C Transporters,"Amino Acid, Peptide, or Protein",D060347
+87619,Vitamin K Epoxide Reductases,"Amino Acid, Peptide, or Protein",D064417
+88214,Vitamin D3 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D065668
+148512,Vitamin D-Binding Protein,"Amino Acid, Peptide, or Protein",D014809
+209539,Vitamins,Organic Chemical,D014815
+209540,Vitamin K,Organic Chemical,D014812
+209541,Vitamin E,Organic Chemical,D014810
+247177,Vitamin K 1,Organic Chemical,D010837
+273080,Vitamin B 12,Organic Chemical,D014805
+273081,Vitamin B Complex,Organic Chemical,D014803
+273082,Vitamin A,Organic Chemical,D014801
+290479,Vitamin K 3,Organic Chemical,D024483
+290480,Vitamin K 2,Organic Chemical,D024482
+294774,Vitamin B 6,Organic Chemical,D025101
+330455,Sodium-Coupled Vitamin C Transporters,Biologically Active Substance,D060347
+368983,Vitamin D-Binding Protein,Biologically Active Substance,D014809
+371829,Vitamin D Response Element,Biologically Active Substance,D030181
+397458,Vitamin K Epoxide Reductases,Enzyme,D064417
+397574,Vitamin D3 24-Hydroxylase,Enzyme,D065668
+478142,Vitamin B 12,"Nucleic Acid, Nucleoside, or Nucleotide",D014805
+478477,Vitamin D Response Element,"Nucleic Acid, Nucleoside, or Nucleotide",D030181
+491747,Vitamin E Deficiency,Disease or Syndrome,D014811
+491748,Vitamin K Deficiency,Disease or Syndrome,D014813
+492912,Vitamin B 6 Deficiency,Disease or Syndrome,D026681
+496109,Vitamin A Deficiency,Disease or Syndrome,D014802
+496110,Vitamin B 12 Deficiency,Disease or Syndrome,D014806
+496111,Vitamin D Deficiency,Disease or Syndrome,D014808
+496112,Vitamin B Deficiency,Disease or Syndrome,D014804
+497286,Vitamin K Deficiency Bleeding,Disease or Syndrome,D006475
+502632,Vitamins,Vitamin,D014815
+502633,Vitamin K,Vitamin,D014812
+502634,Vitamin E,Vitamin,D014810
+502733,Vitamin K 1,Vitamin,D010837
+502791,Vitamin B 12,Vitamin,D014805
+502792,Vitamin B Complex,Vitamin,D014803
+502793,Vitamin A,Vitamin,D014801
+502794,Vitamin D,Vitamin,D014807
+502867,Vitamin K 3,Vitamin,D024483
+502868,Vitamin K 2,Vitamin,D024482
+502882,Vitamin B 6,Vitamin,D025101
+510088,"Ventricular Dysfunction, Left",Pathologic Function,D018487
+510089,"Ventricular Dysfunction, Right",Pathologic Function,D018497
+510350,Ventricular Dysfunction,Pathologic Function,D018754
+504030,Ventricular Remodeling,Organ or Tissue Function,D020257
+504093,Ventricular Function,Organ or Tissue Function,D016276
+504094,"Ventricular Function, Left",Organ or Tissue Function,D016277
+504095,"Ventricular Function, Right",Organ or Tissue Function,D016278
+53297,Vasodilator Agents,Pharmacologic Substance,D014665
+53297,Vasodilator Agents,Pharmacologic Substance,D014665
+504055,Vasodilation,Organ or Tissue Function,D014664
+504054,Vasoconstriction,Organ or Tissue Function,D014661
+501407,Vascular Resistance,Finding,D014655
+512214,Vascular Resistance,Physiologic Function,D014655
+83305,Vascular Endothelial Growth Factor D,"Amino Acid, Peptide, or Protein",D042643
+88513,"Vascular Endothelial Growth Factor, Endocrine-Gland-Derived","Amino Acid, Peptide, or Protein",D042662
+89231,Vascular Endothelial Growth Factor B,"Amino Acid, Peptide, or Protein",D042561
+91330,Vascular Endothelial Growth Factor C,"Amino Acid, Peptide, or Protein",D042582
+97407,Vascular Endothelial Growth Factor Receptor-1,"Amino Acid, Peptide, or Protein",D040281
+104425,Vascular Endothelial Growth Factor A,"Amino Acid, Peptide, or Protein",D042461
+111331,Vascular Endothelial Growth Factor Receptor-3,"Amino Acid, Peptide, or Protein",D040321
+158728,"Receptors, Vascular Endothelial Growth Factor","Amino Acid, Peptide, or Protein",D040262
+169119,Vascular Endothelial Growth Factors,"Amino Acid, Peptide, or Protein",D042442
+181668,Vascular Endothelial Growth Factor Receptor-2,"Amino Acid, Peptide, or Protein",D040301
+330266,Vascular Endothelial Growth Factor D,Biologically Active Substance,D042643
+333387,"Vascular Endothelial Growth Factor, Endocrine-Gland-Derived",Biologically Active Substance,D042662
+333814,Vascular Endothelial Growth Factor B,Biologically Active Substance,D042561
+335071,Vascular Endothelial Growth Factor C,Biologically Active Substance,D042582
+342855,Vascular Endothelial Growth Factor A,Biologically Active Substance,D042461
+381571,Vascular Endothelial Growth Factors,Biologically Active Substance,D042442
+399682,Vascular Endothelial Growth Factor Receptor-1,Enzyme,D040281
+402822,Vascular Endothelial Growth Factor Receptor-3,Enzyme,D040321
+413721,"Receptors, Vascular Endothelial Growth Factor",Enzyme,D040262
+493499,Peripheral Vascular Diseases,Disease or Syndrome,D016491
+495930,Vascular Diseases,Disease or Syndrome,D014652
+496186,"Skin Diseases, Vascular",Disease or Syndrome,D017445
+492522,Vascular Calcification,Disease or Syndrome,D061205
+19777,Transforming Growth Factor beta1,Pharmacologic Substance,D053773
+79815,Transforming Growth Factor beta1,"Amino Acid, Peptide, or Protein",D053773
+88919,Transforming Growth Factor alpha,"Amino Acid, Peptide, or Protein",D016211
+88921,Transforming Growth Factor beta,"Amino Acid, Peptide, or Protein",D016212
+97658,"Receptor, Transforming Growth Factor-beta Type I","Amino Acid, Peptide, or Protein",D000077293
+107025,"Receptors, Transforming Growth Factor beta","Amino Acid, Peptide, or Protein",D018125
+124869,Transforming Growth Factor beta2,"Amino Acid, Peptide, or Protein",D053781
+124870,Transforming Growth Factor beta3,"Amino Acid, Peptide, or Protein",D053782
+134852,"Receptor, Transforming Growth Factor-beta Type II","Amino Acid, Peptide, or Protein",D000077294
+170761,Transforming Growth Factors,"Amino Acid, Peptide, or Protein",D015291
+328190,Transforming Growth Factor beta1,Biologically Active Substance,D053773
+333640,Transforming Growth Factor alpha,Biologically Active Substance,D016211
+333642,Transforming Growth Factor beta,Biologically Active Substance,D016212
+354922,Transforming Growth Factor beta2,Biologically Active Substance,D053781
+354923,Transforming Growth Factor beta3,Biologically Active Substance,D053782
+382583,Transforming Growth Factors,Biologically Active Substance,D015291
+391338,"Receptors, Transforming Growth Factor beta",Immunologic Factor,D018125
+408259,"Receptor, Transforming Growth Factor-beta Type II",Enzyme,D000077294
+98642,"Receptors, Thromboxane A2, Prostaglandin H2","Amino Acid, Peptide, or Protein",D044244
+140930,"Receptors, Thromboxane","Amino Acid, Peptide, or Protein",D017482
+171139,Thromboxane-A Synthase,"Amino Acid, Peptide, or Protein",D013930
+303265,Thromboxanes,Organic Chemical,D013931
+317038,Thromboxane A2,Organic Chemical,D013928
+317039,Thromboxane B2,Organic Chemical,D013929
+382817,Thromboxanes,Biologically Active Substance,D013931
+389290,Thromboxane B2,Biologically Active Substance,D013929
+416627,Thromboxane-A Synthase,Enzyme,D013930
+491021,Intracranial Embolism and Thrombosis,Disease or Syndrome,D002542
+492594,Coronary Thrombosis,Disease or Syndrome,D003328
+494894,Carotid Artery Thrombosis,Disease or Syndrome,D002341
+495712,Lateral Sinus Thrombosis,Disease or Syndrome,D020227
+495713,Sagittal Sinus Thrombosis,Disease or Syndrome,D020225
+495714,Cavernous Sinus Thrombosis,Disease or Syndrome,D020226
+495718,"Sinus Thrombosis, Intracranial",Disease or Syndrome,D012851
+496613,Venous Thrombosis,Disease or Syndrome,D020246
+497294,Upper Extremity Deep Vein Thrombosis,Disease or Syndrome,D056824
+498160,Intracranial Thrombosis,Disease or Syndrome,D020767
+510254,Venous Thrombosis,Pathologic Function,D020246
+510288,Upper Extremity Deep Vein Thrombosis,Pathologic Function,D056824
+510368,Thrombosis,Pathologic Function,D013927
+501218,Stroke Volume,Finding,D013318
+514056,Stroke Volume,Laboratory or Test Result,D013318
+514527,Stroke Volume,Clinical Attribute,D013318
+128286,Sodium-Hydrogen Exchanger 1,"Amino Acid, Peptide, or Protein",D000074082
+356988,Sodium-Hydrogen Exchanger 1,Biologically Active Substance,D000074082
+515545,Renin-Angiotensin System,Body System,D012084
+171199,"Receptors, Thrombin","Amino Acid, Peptide, or Protein",D018179
+382856,"Receptors, Thrombin",Biologically Active Substance,D018179
+41273,Purinergic P2Y Receptor Antagonists,Pharmacologic Substance,D058921
+41274,Purinergic P2X Receptor Antagonists,Pharmacologic Substance,D058920
+48794,Purinergic P1 Receptor Agonists,Pharmacologic Substance,D058906
+75431,Purinergic P2Y Receptor Agonists,Pharmacologic Substance,D058912
+75432,Purinergic P2X Receptor Agonists,Pharmacologic Substance,D058911
+75434,Purinergic P2 Receptor Agonists,Pharmacologic Substance,D058910
+75436,Purinergic P1 Receptor Antagonists,Pharmacologic Substance,D058915
+75439,Purinergic P2 Receptor Antagonists,Pharmacologic Substance,D058919
+84806,"Receptors, Purinergic P2X","Amino Acid, Peptide, or Protein",D058469
+96662,"Receptors, Purinergic","Amino Acid, Peptide, or Protein",D011983
+102269,"Receptors, Purinergic P2Y1","Amino Acid, Peptide, or Protein",D058472
+102270,"Receptors, Purinergic P2Y","Amino Acid, Peptide, or Protein",D058470
+102271,"Receptors, Purinergic P2Y2","Amino Acid, Peptide, or Protein",D058473
+102272,"Receptors, Purinergic P2X3","Amino Acid, Peptide, or Protein",D058477
+102273,"Receptors, Purinergic P2X2","Amino Acid, Peptide, or Protein",D058476
+104743,"Receptors, Purinergic P2X5","Amino Acid, Peptide, or Protein",D058485
+104744,"Receptors, Purinergic P2X7","Amino Acid, Peptide, or Protein",D058486
+116839,"Receptors, Purinergic P2Y12","Amino Acid, Peptide, or Protein",D058925
+153936,"Receptors, Purinergic P2X4","Amino Acid, Peptide, or Protein",D058848
+180251,"Receptors, Purinergic P2","Amino Acid, Peptide, or Protein",D018048
+180253,"Receptors, Purinergic P1","Amino Acid, Peptide, or Protein",D018047
+88693,"Receptors, LDL","Amino Acid, Peptide, or Protein",D011973
+107530,"Receptors, Oxidized LDL","Amino Acid, Peptide, or Protein",D051131
+119024,LDL-Receptor Related Proteins,"Amino Acid, Peptide, or Protein",D026502
+124155,LDL-Receptor Related Protein-Associated Protein,"Amino Acid, Peptide, or Protein",D026563
+351460,LDL-Receptor Related Proteins,Biologically Active Substance,D026502
+354491,LDL-Receptor Related Protein-Associated Protein,Biologically Active Substance,D026563
+70591,Angiotensin II Type 1 Receptor Blockers,Pharmacologic Substance,D047228
+77945,Angiotensin Receptor Antagonists,Pharmacologic Substance,D057911
+77946,Angiotensin II Type 2 Receptor Blockers,Pharmacologic Substance,D057912
+113654,"Receptors, Angiotensin","Amino Acid, Peptide, or Protein",D011945
+131852,"Receptor, Angiotensin, Type 2","Amino Acid, Peptide, or Protein",D044139
+170663,"Receptor, Angiotensin, Type 1","Amino Acid, Peptide, or Protein",D044140
+25963,Adrenergic beta-1 Receptor Antagonists,Pharmacologic Substance,D058671
+25964,Adrenergic beta-2 Receptor Antagonists,Pharmacologic Substance,D058672
+25965,Adrenergic beta-3 Receptor Antagonists,Pharmacologic Substance,D058673
+58332,Adrenergic alpha-2 Receptor Agonists,Pharmacologic Substance,D058647
+58333,Adrenergic alpha-1 Receptor Agonists,Pharmacologic Substance,D058646
+78770,Adrenergic beta-3 Receptor Agonists,Pharmacologic Substance,D058667
+78771,Adrenergic alpha-1 Receptor Antagonists,Pharmacologic Substance,D058668
+78772,Adrenergic beta-2 Receptor Agonists,Pharmacologic Substance,D058666
+78773,Adrenergic beta-1 Receptor Agonists,Pharmacologic Substance,D058665
+78774,Adrenergic alpha-2 Receptor Antagonists,Pharmacologic Substance,D058669
+91561,"Receptors, Adrenergic, alpha-1","Amino Acid, Peptide, or Protein",D018340
+91562,"Receptors, Adrenergic, alpha-2","Amino Acid, Peptide, or Protein",D018341
+91563,"Receptors, Adrenergic, beta-1","Amino Acid, Peptide, or Protein",D018342
+91564,"Receptors, Adrenergic, beta-2","Amino Acid, Peptide, or Protein",D018343
+101041,"Receptors, Adrenergic, beta-3","Amino Acid, Peptide, or Protein",D022702
+113651,"Receptors, Adrenergic, alpha","Amino Acid, Peptide, or Protein",D011942
+113655,"Receptors, Adrenergic","Amino Acid, Peptide, or Protein",D011941
+113656,"Receptors, Adrenergic, beta","Amino Acid, Peptide, or Protein",D011943
+177997,beta-Adrenergic Receptor Kinases,"Amino Acid, Peptide, or Protein",D051552
+418224,beta-Adrenergic Receptor Kinases,Enzyme,D051552
+368321,Reactive Oxygen Species,Biologically Active Substance,D017382
+504556,Proteolysis,Molecular Function,D059748
+513481,Proteolysis,Organism Function,D059748
+80634,Nucleocytoplasmic Transport Proteins,"Amino Acid, Peptide, or Protein",D029543
+85234,Cation Transport Proteins,"Amino Acid, Peptide, or Protein",D027682
+88589,Electron Transport Chain Complex Proteins,"Amino Acid, Peptide, or Protein",D045222
+94281,Vesicular Transport Proteins,"Amino Acid, Peptide, or Protein",D033921
+96762,Glycine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050487
+96763,Serotonin Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050486
+96764,Norepinephrine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050484
+96765,Plasma Membrane Neurotransmitter Transport Proteins,"Amino Acid, Peptide, or Protein",D050480
+96766,Catecholamine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050482
+96767,GABA Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050485
+96768,Dopamine Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050483
+108326,Sodium-Glucose Transport Proteins,"Amino Acid, Peptide, or Protein",D051247
+108327,"Glucose Transport Proteins, Facilitative","Amino Acid, Peptide, or Protein",D051246
+108619,Nucleotide Transport Proteins,"Amino Acid, Peptide, or Protein",D033704
+124328,Organic Cation Transport Proteins,"Amino Acid, Peptide, or Protein",D027701
+132152,Anion Transport Proteins,"Amino Acid, Peptide, or Protein",D027321
+132985,Organic Anion Transport Protein 1,"Amino Acid, Peptide, or Protein",D027362
+134542,Monosaccharide Transport Proteins,"Amino Acid, Peptide, or Protein",D009004
+136117,Neurotransmitter Transport Proteins,"Amino Acid, Peptide, or Protein",D050479
+142969,Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D026901
+151585,Glutamate Plasma Membrane Transport Proteins,"Amino Acid, Peptide, or Protein",D050491
+151586,Vesicular Inhibitory Amino Acid Transport Proteins,"Amino Acid, Peptide, or Protein",D050495
+151587,Vesicular Monoamine Transport Proteins,"Amino Acid, Peptide, or Protein",D050493
+151589,Vesicular Biogenic Amine Transport Proteins,"Amino Acid, Peptide, or Protein",D050492
+151590,Vesicular Glutamate Transport Proteins,"Amino Acid, Peptide, or Protein",D050496
+151591,Vesicular Acetylcholine Transport Proteins,"Amino Acid, Peptide, or Protein",D050494
+163365,Phosphate Transport Proteins,"Amino Acid, Peptide, or Protein",D028061
+167421,Copper Transport Proteins,"Amino Acid, Peptide, or Protein",D000079922
+172698,"Adaptor Proteins, Vesicular Transport","Amino Acid, Peptide, or Protein",D033942
+174550,Fatty Acid Transport Proteins,"Amino Acid, Peptide, or Protein",D050612
+177034,Vesicular Glutamate Transport Protein 2,"Amino Acid, Peptide, or Protein",D050599
+177035,Vesicular Glutamate Transport Protein 1,"Amino Acid, Peptide, or Protein",D050598
+328700,Nucleocytoplasmic Transport Proteins,Biologically Active Substance,D029543
+331426,Cation Transport Proteins,Biologically Active Substance,D027682
+333441,Electron Transport Chain Complex Proteins,Biologically Active Substance,D045222
+336855,Vesicular Transport Proteins,Biologically Active Substance,D033921
+338269,Glycine Plasma Membrane Transport Proteins,Biologically Active Substance,D050487
+338270,Serotonin Plasma Membrane Transport Proteins,Biologically Active Substance,D050486
+338271,Norepinephrine Plasma Membrane Transport Proteins,Biologically Active Substance,D050484
+338272,Plasma Membrane Neurotransmitter Transport Proteins,Biologically Active Substance,D050480
+338273,Catecholamine Plasma Membrane Transport Proteins,Biologically Active Substance,D050482
+338274,GABA Plasma Membrane Transport Proteins,Biologically Active Substance,D050485
+338275,Dopamine Plasma Membrane Transport Proteins,Biologically Active Substance,D050483
+345162,Sodium-Glucose Transport Proteins,Biologically Active Substance,D051247
+345163,"Glucose Transport Proteins, Facilitative",Biologically Active Substance,D051246
+345343,Nucleotide Transport Proteins,Biologically Active Substance,D033704
+354590,Organic Cation Transport Proteins,Biologically Active Substance,D027701
+359308,Anion Transport Proteins,Biologically Active Substance,D027321
+359787,Organic Anion Transport Protein 1,Biologically Active Substance,D027362
+360741,Monosaccharide Transport Proteins,Biologically Active Substance,D009004
+361604,Neurotransmitter Transport Proteins,Biologically Active Substance,D050479
+365724,Membrane Transport Proteins,Biologically Active Substance,D026901
+370928,Glutamate Plasma Membrane Transport Proteins,Biologically Active Substance,D050491
+370929,Vesicular Inhibitory Amino Acid Transport Proteins,Biologically Active Substance,D050495
+370930,Vesicular Monoamine Transport Proteins,Biologically Active Substance,D050493
+370931,Vesicular Biogenic Amine Transport Proteins,Biologically Active Substance,D050492
+370933,Vesicular Glutamate Transport Proteins,Biologically Active Substance,D050496
+370934,Vesicular Acetylcholine Transport Proteins,Biologically Active Substance,D050494
+378054,Phosphate Transport Proteins,Biologically Active Substance,D028061
+380575,Copper Transport Proteins,Biologically Active Substance,D000079922
+383664,"Adaptor Proteins, Vesicular Transport",Biologically Active Substance,D033942
+384769,Fatty Acid Transport Proteins,Biologically Active Substance,D050612
+386267,Vesicular Glutamate Transport Protein 2,Biologically Active Substance,D050599
+386268,Vesicular Glutamate Transport Protein 1,Biologically Active Substance,D050598
+410190,Membrane Transport Proteins,Enzyme,D026901
+83881,Protein Kinase C beta,"Amino Acid, Peptide, or Protein",D064546
+129799,Protein Kinase C,"Amino Acid, Peptide, or Protein",D011493
+136418,Protein Kinase C-delta,"Amino Acid, Peptide, or Protein",D051745
+136420,Protein Kinase C-epsilon,"Amino Acid, Peptide, or Protein",D051744
+153126,Protein Kinase C-alpha,"Amino Acid, Peptide, or Protein",D051571
+161146,Protein Kinase C-theta,"Amino Acid, Peptide, or Protein",D000074121
+396611,Protein Kinase C beta,Enzyme,D064546
+407065,Protein Kinase C,Enzyme,D011493
+408648,Protein Kinase C-delta,Enzyme,D051745
+408649,Protein Kinase C-epsilon,Enzyme,D051744
+412405,Protein Kinase C-alpha,Enzyme,D051571
+414294,Protein Kinase C-theta,Enzyme,D000074121
+28067,Urokinase-Type Plasminogen Activator,Pharmacologic Substance,D014568
+61112,Tissue Plasminogen Activator,Pharmacologic Substance,D010959
+77557,Plasminogen Activators,Pharmacologic Substance,D010960
+87569,"Receptors, Urokinase Plasminogen Activator","Amino Acid, Peptide, or Protein",D055293
+93853,Urokinase-Type Plasminogen Activator,"Amino Acid, Peptide, or Protein",D014568
+150737,Tissue Plasminogen Activator,"Amino Acid, Peptide, or Protein",D010959
+156407,Plasminogen Activator Inhibitor 1,"Amino Acid, Peptide, or Protein",D017395
+156408,Plasminogen Activator Inhibitor 2,"Amino Acid, Peptide, or Protein",D017396
+179023,Plasminogen Activators,"Amino Acid, Peptide, or Protein",D010960
+373848,Plasminogen Activator Inhibitor 1,Biologically Active Substance,D017395
+373849,Plasminogen Activator Inhibitor 2,Biologically Active Substance,D017396
+387435,Plasminogen Activators,Biologically Active Substance,D010960
+390272,"Receptors, Urokinase Plasminogen Activator",Immunologic Factor,D055293
+398870,Urokinase-Type Plasminogen Activator,Enzyme,D014568
+411917,Tissue Plasminogen Activator,Enzyme,D010959
+418466,Plasminogen Activators,Enzyme,D010960
+505399,Platelet Function Tests,Laboratory Procedure,D010979
+48066,Platelet Aggregation Inhibitors,Pharmacologic Substance,D010975
+509844,Platelet Aggregation,Cell Function,D010974
+246835,Platelet Activating Factor,Organic Chemical,D010972
+392559,Platelet Activating Factor,Immunologic Factor,D010972
+504006,Platelet Activation,Organ or Tissue Function,D015539
+108023,Class I Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D058534
+108024,Phosphatidylinositol 3-Kinase,"Amino Acid, Peptide, or Protein",D058539
+172304,Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D019869
+174499,Class III Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D058546
+174500,Class Ib Phosphatidylinositol 3-Kinase,"Amino Acid, Peptide, or Protein",D058544
+174501,Class II Phosphatidylinositol 3-Kinases,"Amino Acid, Peptide, or Protein",D058541
+174502,Class Ia Phosphatidylinositol 3-Kinase,"Amino Acid, Peptide, or Protein",D058543
+384741,Class Ib Phosphatidylinositol 3-Kinase,Biologically Active Substance,D058544
+384742,Class Ia Phosphatidylinositol 3-Kinase,Biologically Active Substance,D058543
+402053,Class I Phosphatidylinositol 3-Kinases,Enzyme,D058534
+402054,Phosphatidylinositol 3-Kinase,Enzyme,D058539
+416939,Phosphatidylinositol 3-Kinases,Enzyme,D019869
+417413,Class III Phosphatidylinositol 3-Kinases,Enzyme,D058546
+417414,Class Ib Phosphatidylinositol 3-Kinase,Enzyme,D058544
+417415,Class II Phosphatidylinositol 3-Kinases,Enzyme,D058541
+417416,Class Ia Phosphatidylinositol 3-Kinase,Enzyme,D058543
+514800,Pericardium,Body Space or Junction,D010496
+514985,Oxidative Stress,Cell or Molecular Dysfunction,D018384
+166,Obesity Management,Intellectual Product,D000073319
+52643,Anti-Obesity Agents,Pharmacologic Substance,D019440
+493697,"Obesity, Morbid",Disease or Syndrome,D009767
+493699,Obesity,Disease or Syndrome,D009765
+493844,Pediatric Obesity,Disease or Syndrome,D063766
+501287,Pediatric Obesity,Finding,D063766
+501364,"Obesity, Maternal",Finding,D000079262
+501607,"Obesity, Abdominal",Finding,D056128
+507776,"Obesity, Metabolically Benign",Sign or Symptom,D000067329
+507824,"Obesity, Abdominal",Sign or Symptom,D056128
+508556,Obesity Management,Health Care Activity,D000073319
+20760,Nitric Oxide,Pharmacologic Substance,D009569
+68900,Nitric Oxide Donors,Pharmacologic Substance,D020030
+89925,Nitric Oxide Synthase Type I,"Amino Acid, Peptide, or Protein",D052248
+89927,Nitric Oxide Synthase Type II,"Amino Acid, Peptide, or Protein",D052247
+92371,Nitric Oxide Synthase,"Amino Acid, Peptide, or Protein",D019001
+182640,Nitric Oxide Synthase Type III,"Amino Acid, Peptide, or Protein",D052250
+397965,Nitric Oxide Synthase Type I,Enzyme,D052248
+397966,Nitric Oxide Synthase Type II,Enzyme,D052247
+398563,Nitric Oxide Synthase,Enzyme,D019001
+419269,Nitric Oxide Synthase Type III,Enzyme,D052250
+483185,Nitric Oxide,Inorganic Chemical,D009569
+20208,Natriuretic Peptides,Pharmacologic Substance,D045265
+32440,"Natriuretic Peptide, Brain",Pharmacologic Substance,D020097
+80574,Natriuretic Peptides,"Amino Acid, Peptide, or Protein",D045265
+101325,"Natriuretic Peptide, C-Type","Amino Acid, Peptide, or Protein",D020098
+101326,"Natriuretic Peptide, Brain","Amino Acid, Peptide, or Protein",D020097
+340952,"Natriuretic Peptide, C-Type",Biologically Active Substance,D020098
+340953,"Natriuretic Peptide, Brain",Biologically Active Substance,D020097
+490208,Isolated Noncompaction of the Ventricular Myocardium,Disease or Syndrome,D056830
+496267,Myocardial Ischemia,Disease or Syndrome,D017202
+493650,Myocardial Infarction,Disease or Syndrome,D009203
+495336,ST Elevation Myocardial Infarction,Disease or Syndrome,D000072657
+497122,Inferior Wall Myocardial Infarction,Disease or Syndrome,D056989
+497124,Anterior Wall Myocardial Infarction,Disease or Syndrome,D056988
+497316,Non-ST Elevated Myocardial Infarction,Disease or Syndrome,D000072658
+504011,Myocardial Contraction,Organ or Tissue Function,D009200
+513354,Myocardial Contraction,Organism Function,D009200
+502992,"Mitochondria, Liver",Cell Component,D008930
+502993,"Mitochondria, Muscle",Cell Component,D008931
+503054,Mitochondria,Cell Component,D008928
+503055,"Mitochondria, Heart",Cell Component,D008929
+509847,Mitochondria,Cell Function,D008928
+504007,Microcirculation,Organ or Tissue Function,D008833
+31491,Matrix Metalloproteinase Inhibitors,Pharmacologic Substance,D061965
+99586,Matrix Metalloproteinase Inhibitors,"Amino Acid, Peptide, or Protein",D061965
+119346,Matrix Metalloproteinase 13,"Amino Acid, Peptide, or Protein",D053509
+119347,"Matrix Metalloproteinases, Membrane-Associated","Amino Acid, Peptide, or Protein",D053504
+119348,Matrix Metalloproteinase 11,"Amino Acid, Peptide, or Protein",D053507
+119350,Matrix Metalloproteinase 12,"Amino Acid, Peptide, or Protein",D053508
+119351,"Matrix Metalloproteinases, Secreted","Amino Acid, Peptide, or Protein",D053505
+119352,Matrix Metalloproteinase 10,"Amino Acid, Peptide, or Protein",D053506
+131937,Matrix Metalloproteinase 20,"Amino Acid, Peptide, or Protein",D053519
+131938,Matrix Metalloproteinase 15,"Amino Acid, Peptide, or Protein",D053517
+131939,Matrix Metalloproteinase 14,"Amino Acid, Peptide, or Protein",D053511
+131940,Matrix Metalloproteinase 16,"Amino Acid, Peptide, or Protein",D053513
+132812,Matrix Metalloproteinase 1,"Amino Acid, Peptide, or Protein",D020781
+132814,Matrix Metalloproteinase 8,"Amino Acid, Peptide, or Protein",D020784
+132815,Matrix Metalloproteinase 9,"Amino Acid, Peptide, or Protein",D020780
+132816,Matrix Metalloproteinases,"Amino Acid, Peptide, or Protein",D020782
+132817,Matrix Metalloproteinase 7,"Amino Acid, Peptide, or Protein",D020783
+140862,Matrix Metalloproteinase 2,"Amino Acid, Peptide, or Protein",D020778
+154958,Matrix Metalloproteinase 3,"Amino Acid, Peptide, or Protein",D019278
+339926,Matrix Metalloproteinase Inhibitors,Biologically Active Substance,D061965
+404685,Matrix Metalloproteinase 13,Enzyme,D053509
+404686,"Matrix Metalloproteinases, Membrane-Associated",Enzyme,D053504
+404687,Matrix Metalloproteinase 11,Enzyme,D053507
+404689,Matrix Metalloproteinase 12,Enzyme,D053508
+404690,"Matrix Metalloproteinases, Secreted",Enzyme,D053505
+404691,Matrix Metalloproteinase 10,Enzyme,D053506
+407582,Matrix Metalloproteinase 20,Enzyme,D053519
+407583,Matrix Metalloproteinase 15,Enzyme,D053517
+407584,Matrix Metalloproteinase 14,Enzyme,D053511
+407585,Matrix Metalloproteinase 16,Enzyme,D053513
+407787,Matrix Metalloproteinase 1,Enzyme,D020781
+407789,Matrix Metalloproteinase 8,Enzyme,D020784
+407790,Matrix Metalloproteinase 9,Enzyme,D020780
+407791,Matrix Metalloproteinases,Enzyme,D020782
+407792,Matrix Metalloproteinase 7,Enzyme,D020783
+409675,Matrix Metalloproteinase 2,Enzyme,D020778
+412841,Matrix Metalloproteinase 3,Enzyme,D019278
+48734,"Receptor, Macrophage Colony-Stimulating Factor",Pharmacologic Substance,D016186
+98743,Macrophage Colony-Stimulating Factor,"Amino Acid, Peptide, or Protein",D016173
+98744,Macrophage-1 Antigen,"Amino Acid, Peptide, or Protein",D016177
+98746,Granulocyte-Macrophage Colony-Stimulating Factor,"Amino Acid, Peptide, or Protein",D016178
+130006,"Receptors, Granulocyte-Macrophage Colony-Stimulating Factor","Amino Acid, Peptide, or Protein",D016187
+130009,"Receptor, Macrophage Colony-Stimulating Factor","Amino Acid, Peptide, or Protein",D016186
+163375,Macrophage Inflammatory Proteins,"Amino Acid, Peptide, or Protein",D019402
+180998,Macrophage Migration-Inhibitory Factors,"Amino Acid, Peptide, or Protein",D008263
+195201,Macrophage-Activating Factors,Organic Chemical,D016215
+388625,Macrophage Migration-Inhibitory Factors,Biologically Active Substance,D008263
+390345,Macrophage-Activating Factors,Immunologic Factor,D016215
+390888,Macrophage Colony-Stimulating Factor,Immunologic Factor,D016173
+390889,Macrophage-1 Antigen,Immunologic Factor,D016177
+390891,Granulocyte-Macrophage Colony-Stimulating Factor,Immunologic Factor,D016178
+392614,"Receptors, Granulocyte-Macrophage Colony-Stimulating Factor",Immunologic Factor,D016187
+392617,"Receptor, Macrophage Colony-Stimulating Factor",Immunologic Factor,D016186
+394556,Macrophage Inflammatory Proteins,Immunologic Factor,D019402
+395511,Macrophage Migration-Inhibitory Factors,Immunologic Factor,D008263
+492918,Macrophage Activation Syndrome,Disease or Syndrome,D055501
+509921,Macrophage Activation,Cell Function,D008262
+80860,Low Density Lipoprotein Receptor-Related Protein-5,"Amino Acid, Peptide, or Protein",D060492
+111604,"Receptors, Lipoprotein","Amino Acid, Peptide, or Protein",D018110
+119023,Low Density Lipoprotein Receptor-Related Protein-1,"Amino Acid, Peptide, or Protein",D026503
+124156,Low Density Lipoprotein Receptor-Related Protein-2,"Amino Acid, Peptide, or Protein",D026561
+128690,Lipoprotein Lipase,"Amino Acid, Peptide, or Protein",D008071
+128691,Lipoproteins,"Amino Acid, Peptide, or Protein",D008074
+128692,"Lipoproteins, LDL","Amino Acid, Peptide, or Protein",D008077
+128693,"Lipoproteins, VLDL","Amino Acid, Peptide, or Protein",D008079
+128694,"Lipoproteins, HDL","Amino Acid, Peptide, or Protein",D008075
+128695,Lipoprotein-X,"Amino Acid, Peptide, or Protein",D008073
+139299,"Lipoproteins, IDL","Amino Acid, Peptide, or Protein",D053419
+143561,"Lipoproteins, HDL3","Amino Acid, Peptide, or Protein",D053440
+143563,"High-Density Lipoproteins, Pre-beta","Amino Acid, Peptide, or Protein",D053442
+176213,Low Density Lipoprotein Receptor-Related Protein-6,"Amino Acid, Peptide, or Protein",D060488
+246664,"Lipoproteins, LDL",Organic Chemical,D008077
+357250,Lipoproteins,Biologically Active Substance,D008074
+357251,"Lipoproteins, LDL",Biologically Active Substance,D008077
+357252,"Lipoproteins, VLDL",Biologically Active Substance,D008079
+357253,"Lipoproteins, HDL",Biologically Active Substance,D008075
+357254,Lipoprotein-X,Biologically Active Substance,D008073
+363540,"Lipoproteins, IDL",Biologically Active Substance,D053419
+366053,"Lipoproteins, HDL3",Biologically Active Substance,D053440
+366055,"High-Density Lipoproteins, Pre-beta",Biologically Active Substance,D053442
+406817,Lipoprotein Lipase,Enzyme,D008071
+493700,Lipid Metabolism Disorders,Disease or Syndrome,D052439
+494421,"Lipid Metabolism, Inborn Errors",Disease or Syndrome,D008052
+504469,Lipid Metabolism,Molecular Function,D050356
+422448,Cold Ischemia,Therapeutic or Preventive Procedure,D050377
+490704,Mesenteric Ischemia,Disease or Syndrome,D065666
+491020,Brain Ischemia,Disease or Syndrome,D002545
+496267,Myocardial Ischemia,Disease or Syndrome,D017202
+496880,"Hypoxia-Ischemia, Brain",Disease or Syndrome,D020925
+498162,Spinal Cord Ischemia,Disease or Syndrome,D020760
+509438,Cold Ischemia,Temporal Concept,D050377
+510012,Mesenteric Ischemia,Pathologic Function,D065666
+510027,Brain Ischemia,Pathologic Function,D002545
+510304,Ischemia,Pathologic Function,D007511
+513848,Spinal Cord Ischemia,Experimental Model of Disease,D020760
+152819,Intracellular Signaling Peptides and Proteins,"Amino Acid, Peptide, or Protein",D047908
+371700,Intracellular Signaling Peptides and Proteins,Biologically Active Substance,D047908
+509981,Insulin Resistance,Pathologic Function,D007333
+29586,Inflammation Mediators,Pharmacologic Substance,D018836
+487992,Neurogenic Inflammation,Injury or Poisoning,D020078
+509987,Inflammation,Pathologic Function,D007249
+495004,"Hypertrophy, Left Ventricular",Disease or Syndrome,D017379
+423403,Dietary Approaches To Stop Hypertension,Therapeutic or Preventive Procedure,D000073601
+492182,"Hypertension, Renovascular",Disease or Syndrome,D006978
+492183,"Hypertension, Malignant",Disease or Syndrome,D006974
+492184,"Hypertension, Portal",Disease or Syndrome,D006975
+492185,Hypertension,Disease or Syndrome,D006973
+492188,"Hypertension, Renal",Disease or Syndrome,D006977
+492356,Pulmonary Arterial Hypertension,Disease or Syndrome,D000081029
+492520,Hypertensive Encephalopathy,Disease or Syndrome,D020343
+493248,Familial Primary Pulmonary Hypertension,Disease or Syndrome,D065627
+493454,White Coat Hypertension,Disease or Syndrome,D059466
+493681,Ocular Hypertension,Disease or Syndrome,D009798
+495109,Essential Hypertension,Disease or Syndrome,D000075222
+496338,Hypertensive Retinopathy,Disease or Syndrome,D058437
+497070,"Hypertension, Pregnancy-Induced",Disease or Syndrome,D046110
+501149,Intracranial Hypertension,Finding,D019586
+510063,"Hypertension, Pulmonary",Pathologic Function,D006976
+510196,"Intracranial Hemorrhage, Hypertensive",Pathologic Function,D020299
+510275,"Hypertension, Pregnancy-Induced",Pathologic Function,D046110
+503959,Hemostasis,Organ or Tissue Function,D006487
+504037,Hemodynamics,Organ or Tissue Function,D006439
+508747,Hemodynamic Monitoring,Health Care Activity,D000074743
+501565,"Heart Rate, Fetal",Finding,D006340
+503985,Heart Rate,Organ or Tissue Function,D006339
+508535,Heart Rate Determination,Health Care Activity,D000070276
+512160,Heart Rate,Physiologic Function,D006339
+514529,Heart Rate,Clinical Attribute,D006339
+490148,"Heart Failure, Systolic",Disease or Syndrome,D054143
+490149,"Heart Failure, Diastolic",Disease or Syndrome,D054144
+493002,Heart Failure,Disease or Syndrome,D006333
+510098,Heart Failure,Pathologic Function,D006333
+422471,Heart Transplantation,Therapeutic or Preventive Procedure,D016027
+422962,Heart Valve Prosthesis Implantation,Therapeutic or Preventive Procedure,D019918
+423968,"Heart Arrest, Induced",Therapeutic or Preventive Procedure,D006324
+487807,Heart Injuries,Injury or Poisoning,D006335
+490148,"Heart Failure, Systolic",Disease or Syndrome,D054143
+490149,"Heart Failure, Diastolic",Disease or Syndrome,D054144
+493001,Heart Diseases,Disease or Syndrome,D006331
+493002,Heart Failure,Disease or Syndrome,D006333
+494432,Rheumatic Heart Disease,Disease or Syndrome,D012214
+495839,Hypoplastic Left Heart Syndrome,Disease or Syndrome,D018636
+497320,Pulmonary Heart Disease,Disease or Syndrome,D011660
+498081,Heart Valve Diseases,Disease or Syndrome,D006349
+498854,Heart Arrest,Disease or Syndrome,D006323
+498855,Heart Block,Disease or Syndrome,D006327
+498856,Heart Aneurysm,Disease or Syndrome,D006322
+501565,"Heart Rate, Fetal",Finding,D006340
+501610,Heart Disease Risk Factors,Finding,D000082742
+502326,American Heart Association,Health Care Related Organization,D000572
+502351,"National Heart, Lung, and Blood Institute (U.S.)",Health Care Related Organization,D054555
+503055,"Mitochondria, Heart",Cell Component,D008929
+503443,Heart Valve Prosthesis,Medical Device,D006350
+503444,Heart-Assist Devices,Medical Device,D006353
+503985,Heart Rate,Organ or Tissue Function,D006339
+504745,Heart Disease Risk Factors,Qualitative Concept,D000082742
+504905,Heart Function Tests,Diagnostic Procedure,D006334
+505597,Isolated Heart Preparation,Laboratory Procedure,D000067268
+508535,Heart Rate Determination,Health Care Activity,D000070276
+510098,Heart Failure,Pathologic Function,D006333
+510364,Heart Arrest,Pathologic Function,D006323
+510365,Heart Block,Pathologic Function,D006327
+512160,Heart Rate,Physiologic Function,D006339
+514398,Fetal Heart,Embryonic Structure,D005318
+514529,Heart Rate,Clinical Attribute,D006339
+515578,Heart Conduction System,Body System,D006329
+512135,Fibrinolysis,Physiologic Function,D005342
+58708,"Fatty Acids, Omega-3",Pharmacologic Substance,D015525
+77430,Fatty Acid Synthesis Inhibitors,Pharmacologic Substance,D054872
+101801,Fatty Acid Desaturases,"Amino Acid, Peptide, or Protein",D044943
+111985,Fatty Acid Synthases,"Amino Acid, Peptide, or Protein",D064429
+112313,Fatty Acid Elongases,"Amino Acid, Peptide, or Protein",D000081031
+116015,Fatty Acid-Binding Proteins,"Amino Acid, Peptide, or Protein",D050556
+150316,"Fatty Acid Synthase, Type II","Amino Acid, Peptide, or Protein",D054889
+154641,"Fatty Acid Synthase, Type I","Amino Acid, Peptide, or Protein",D054890
+158643,Fatty Acid Binding Protein 3,"Amino Acid, Peptide, or Protein",D000074026
+164118,Delta-5 Fatty Acid Desaturase,"Amino Acid, Peptide, or Protein",D000090943
+174550,Fatty Acid Transport Proteins,"Amino Acid, Peptide, or Protein",D050612
+176265,Fatty Acid-Binding Protein 7,"Amino Acid, Peptide, or Protein",D000071438
+207460,"Fatty Acids, Monounsaturated",Organic Chemical,D005229
+207462,Fatty Acids,Organic Chemical,D005227
+207463,"Fatty Acids, Essential",Organic Chemical,D005228
+231574,"Fatty Acids, Volatile",Organic Chemical,D005232
+231575,"Fatty Acids, Nonesterified",Organic Chemical,D005230
+231576,"Fatty Acids, Unsaturated",Organic Chemical,D005231
+270724,"Fatty Acids, Omega-3",Organic Chemical,D015525
+281305,"Fatty Acids, Omega-6",Organic Chemical,D043371
+339100,"Fatty Acids, Monounsaturated",Biologically Active Substance,D005229
+339101,Fatty Acids,Biologically Active Substance,D005227
+349726,Fatty Acid-Binding Proteins,Biologically Active Substance,D050556
+350223,"Fatty Acids, Volatile",Biologically Active Substance,D005232
+350224,"Fatty Acids, Unsaturated",Biologically Active Substance,D005231
+367884,"Fatty Acids, Omega-3",Biologically Active Substance,D015525
+372738,"Fatty Acids, Omega-6",Biologically Active Substance,D043371
+375230,Fatty Acid Binding Protein 3,Biologically Active Substance,D000074026
+384769,Fatty Acid Transport Proteins,Biologically Active Substance,D050612
+385795,Fatty Acid-Binding Protein 7,Biologically Active Substance,D000071438
+400667,Fatty Acid Desaturases,Enzyme,D044943
+402969,Fatty Acid Synthases,Enzyme,D064429
+403050,Fatty Acid Elongases,Enzyme,D000081031
+411822,"Fatty Acid Synthase, Type II",Enzyme,D054889
+412753,"Fatty Acid Synthase, Type I",Enzyme,D054890
+414971,Delta-5 Fatty Acid Desaturase,Enzyme,D000090943
+503695,Fatty Acids,Food,D005227
+503696,Trans Fatty Acids,Food,D044242
+106416,Extracellular Matrix Proteins,"Amino Acid, Peptide, or Protein",D016326
+344025,Extracellular Matrix Proteins,Biologically Active Substance,D016326
+421746,Plyometric Exercise,Therapeutic or Preventive Procedure,D059385
+421754,Circuit-Based Exercise,Therapeutic or Preventive Procedure,D065327
+422372,Exercise,Therapeutic or Preventive Procedure,D015444
+422865,Muscle Stretching Exercises,Therapeutic or Preventive Procedure,D052580
+423027,Exercise Therapy,Therapeutic or Preventive Procedure,D005081
+423680,Breathing Exercises,Therapeutic or Preventive Procedure,D001945
+492740,"Cardiomegaly, Exercise-Induced",Disease or Syndrome,D059267
+495079,"Asthma, Exercise-Induced",Disease or Syndrome,D001250
+501174,Post-Exercise Hypotension,Finding,D057774
+501233,"Cardiomegaly, Exercise-Induced",Finding,D059267
+505046,Exercise Test,Diagnostic Procedure,D005080
+514543,Exercise Tolerance,Clinical Attribute,D017079
+514694,Circuit-Based Exercise,Daily or Recreational Activity,D065327
+514710,Exercise,Daily or Recreational Activity,D015444
+503250,Electrocardiography,Medical Device,D004562
+504853,Electrocardiography,Diagnostic Procedure,D004562
+505091,"Electrocardiography, Ambulatory",Diagnostic Procedure,D015716
+132379,"Receptors, Eicosanoid","Amino Acid, Peptide, or Protein",D018055
+296748,Eicosanoids,Organic Chemical,D015777
+504887,"Echocardiography, Transesophageal",Diagnostic Procedure,D017548
+504901,"Echocardiography, Doppler",Diagnostic Procedure,D015150
+504926,"Echocardiography, Doppler, Pulsed",Diagnostic Procedure,D018619
+504928,"Echocardiography, Doppler, Color",Diagnostic Procedure,D018618
+505020,Echocardiography,Diagnostic Procedure,D004452
+505152,"Echocardiography, Stress",Diagnostic Procedure,D025401
+505163,"Echocardiography, Three-Dimensional",Diagnostic Procedure,D019560
+490514,Dyslipidemias,Disease or Syndrome,D050171
+509994,Dyslipidemias,Pathologic Function,D050171
+506191,Dietetics,Biomedical Occupation or Discipline,D004046
+87,Recommended Dietary Allowances,Intellectual Product,D064167
+126728,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
+187112,"Cholesterol, Dietary",Organic Chemical,D002791
+243974,Dietary Carbohydrates,Organic Chemical,D004040
+243977,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+421890,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+423403,Dietary Approaches To Stop Hypertension,Therapeutic or Preventive Procedure,D000073601
+484681,"Iron, Dietary",Inorganic Chemical,D019266
+484817,"Calcium, Dietary",Inorganic Chemical,D002136
+487793,Dietary Exposure,Injury or Poisoning,D000074341
+503660,Dietary Sucrose,Food,D019422
+503679,Dietary Supplements,Food,D019587
+503687,"Sodium, Dietary",Food,D012982
+503690,"Potassium, Dietary",Food,D017419
+503750,Dietary Fats,Food,D004041
+503751,Dietary Fiber,Food,D004043
+503752,"Dietary Fats, Unsaturated",Food,D004042
+503822,Dietary Sugars,Food,D000073417
+503867,"Sodium Chloride, Dietary",Food,D017673
+300,Diet Records,Intellectual Product,D015930
+421672,"Diet, Mediterranean",Therapeutic or Preventive Procedure,D038441
+421694,"Diet, High-Fat",Therapeutic or Preventive Procedure,D059305
+421963,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+421964,"Diet, Sodium-Restricted",Therapeutic or Preventive Procedure,D004039
+421965,"Diet, Reducing",Therapeutic or Preventive Procedure,D004038
+422483,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+422504,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
+422603,"Diet, Diabetic",Therapeutic or Preventive Procedure,D003927
+422975,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
+423073,"Diet, High-Protein",Therapeutic or Preventive Procedure,D000073600
+423126,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
+423587,"Diet, Ketogenic",Therapeutic or Preventive Procedure,D055423
+423602,"Diet, Carbohydrate Loading",Therapeutic or Preventive Procedure,D000070601
+423609,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
+423808,"Diet, Protein-Restricted",Therapeutic or Preventive Procedure,D018753
+423809,"Diet, Fat-Restricted",Therapeutic or Preventive Procedure,D018752
+501275,"Diet, Healthy",Finding,D000072001
+501277,"Diet, Vegetarian",Finding,D014676
+501281,"Diet, Western",Finding,D066273
+501441,"Diet, Vegan",Finding,D000067269
+501555,"Diet, Macrobiotic",Finding,D015623
+501586,"Diet, Paleolithic",Finding,D066046
+503691,Diet,Food,D004032
+505667,"Diet, Atherogenic",Research Activity,D004036
+508522,Diet Therapy,Health Care Activity,D004035
+508523,Diet Surveys,Health Care Activity,D004034
+512655,"Diet, Healthy",Individual Behavior,D000072001
+493952,Diabetes Mellitus,Disease or Syndrome,D003920
+493954,"Diabetes Mellitus, Type 2",Disease or Syndrome,D003924
+493955,"Diabetes Mellitus, Lipoatrophic",Disease or Syndrome,D003923
+493957,"Diabetes Mellitus, Type 1",Disease or Syndrome,D003922
+513830,"Diabetes Mellitus, Experimental",Experimental Model of Disease,D003921
+503976,Coronary Circulation,Organ or Tissue Function,D003326
+492593,Coronary Artery Disease,Disease or Syndrome,D003324
+66617,Collagen,Pharmacologic Substance,D003094
+83146,"Receptors, Collagen","Amino Acid, Peptide, or Protein",D038981
+133065,Fibril-Associated Collagens,"Amino Acid, Peptide, or Protein",D024021
+133066,Fibrillar Collagens,"Amino Acid, Peptide, or Protein",D024022
+159943,Collagen,"Amino Acid, Peptide, or Protein",D003094
+163187,Non-Fibrillar Collagens,"Amino Acid, Peptide, or Protein",D024041
+359832,Fibril-Associated Collagens,Biologically Active Substance,D024021
+359833,Fibrillar Collagens,Biologically Active Substance,D024022
+375999,Collagen,Biologically Active Substance,D003094
+377938,Non-Fibrillar Collagens,Biologically Active Substance,D024041
+421132,Collagen,Biomedical or Dental Material,D003094
+494980,"Colitis, Collagenous",Disease or Syndrome,D046729
+497073,Collagen Diseases,Disease or Syndrome,D003095
+22386,Cholesterol,Pharmacologic Substance,D002784
+82773,Cholesterol 7-alpha-Hydroxylase,"Amino Acid, Peptide, or Protein",D002790
+84126,Cholesterol Side-Chain Cleavage Enzyme,"Amino Acid, Peptide, or Protein",D002786
+84129,Cholesterol Oxidase,"Amino Acid, Peptide, or Protein",D002789
+113338,Cholesterol 24-Hydroxylase,"Amino Acid, Peptide, or Protein",D000072556
+150228,Cholesterol Ester Transfer Proteins,"Amino Acid, Peptide, or Protein",D053480
+187112,"Cholesterol, Dietary",Organic Chemical,D002791
+188975,Cholesterol Esters,Organic Chemical,D002788
+188977,Cholesterol,Organic Chemical,D002784
+219460,"Cholesterol, VLDL",Organic Chemical,D015243
+246663,"Cholesterol, LDL",Organic Chemical,D008078
+246665,"Cholesterol, HDL",Organic Chemical,D008076
+330751,Cholesterol Esters,Biologically Active Substance,D002788
+330752,Cholesterol,Biologically Active Substance,D002784
+344747,"Cholesterol, VLDL",Biologically Active Substance,D015243
+357249,"Cholesterol, LDL",Biologically Active Substance,D008078
+357255,"Cholesterol, HDL",Biologically Active Substance,D008076
+370070,Cholesterol Ester Transfer Proteins,Biologically Active Substance,D053480
+396345,Cholesterol 7-alpha-Hydroxylase,Enzyme,D002790
+396671,Cholesterol Side-Chain Cleavage Enzyme,Enzyme,D002786
+396674,Cholesterol Oxidase,Enzyme,D002789
+403286,Cholesterol 24-Hydroxylase,Enzyme,D000072556
+491077,"Embolism, Cholesterol",Disease or Syndrome,D017700
+495621,Cholesterol Ester Storage Disease,Disease or Syndrome,D015217
+498614,Lecithin Cholesterol Acyltransferase Deficiency,Disease or Syndrome,D007863
+515534,Cardiovascular System,Body System,D002319
+503972,Cardiovascular Physiological Phenomena,Organ or Tissue Function,D002320
+490966,Cardiovascular Diseases,Disease or Syndrome,D002318
+26379,Cardiovascular Agents,Pharmacologic Substance,D002317
+423985,Cardiopulmonary Resuscitation,Therapeutic or Preventive Procedure,D016887
+490963,"Cardiomyopathy, Alcoholic",Disease or Syndrome,D002310
+490964,"Cardiomyopathy, Hypertrophic",Disease or Syndrome,D002312
+490965,"Cardiomyopathy, Restrictive",Disease or Syndrome,D002313
+490967,"Cardiomyopathy, Dilated",Disease or Syndrome,D002311
+491803,Takotsubo Cardiomyopathy,Disease or Syndrome,D054549
+491853,"Cardiomyopathy, Hypertrophic, Familial",Disease or Syndrome,D024741
+493211,Chagas Cardiomyopathy,Disease or Syndrome,D002598
+493648,Cardiomyopathies,Disease or Syndrome,D009202
+497218,Diabetic Cardiomyopathies,Disease or Syndrome,D058065
+423756,Cardiac Surgical Procedures,Therapeutic or Preventive Procedure,D006348
+501369,"Cardiac Output, Low",Finding,D002303
+510200,"Cardiac Output, Low",Pathologic Function,D002303
+514546,Cardiac Output,Clinical Attribute,D002302
+496012,Capillary Leak Syndrome,Disease or Syndrome,D019559
+503949,Capillary Permeability,Organ or Tissue Function,D002199
+504098,Capillary Resistance,Organ or Tissue Function,D002200
+504211,Capillary Action,Natural Phenomenon or Process,D002197
+505375,"Electrophoresis, Capillary",Laboratory Procedure,D019075
+509810,Calcium Signaling,Cell Function,D020013
+503261,Ideal Body Weight,Medical Device,D056865
+505117,Body Weights and Measures,Diagnostic Procedure,D001837
+509156,Ideal Body Weight,Quantitative Concept,D056865
+509331,Body Weights and Measures,Quantitative Concept,D001837
+513550,Body-Weight Trajectory,Organism Attribute,D000077962
+513566,Body Weight,Organism Attribute,D001835
+514526,Ideal Body Weight,Clinical Attribute,D056865
+515154,Body Weight Maintenance,Activity,D000068959
+422961,Blood Vessel Prosthesis Implantation,Therapeutic or Preventive Procedure,D019917
+503202,Blood Vessel Prosthesis,Medical Device,D001807
+504828,"Blood Pressure Monitoring, Ambulatory",Diagnostic Procedure,D018660
+508795,Blood Pressure Determination,Health Care Activity,D001795
+513449,Blood Pressure,Organism Function,D001794
+514560,Blood Pressure,Clinical Attribute,D001794
+497471,Blood Platelet Disorders,Disease or Syndrome,D001791
+514521,Blood Flow Velocity,Clinical Attribute,D001783
+48178,Blood Coagulation Factors,Pharmacologic Substance,D001779
+129137,Blood Coagulation Factors,"Amino Acid, Peptide, or Protein",D001779
+343608,Blood Coagulation Factor Inhibitors,Biologically Active Substance,D019774
+357530,Blood Coagulation Factors,Biologically Active Substance,D001779
+494306,Blood Coagulation Disorders,Disease or Syndrome,D001778
+496928,"Blood Coagulation Disorders, Inherited",Disease or Syndrome,D025861
+504033,Blood Coagulation,Organ or Tissue Function,D001777
+505247,Whole Blood Coagulation Time,Laboratory Procedure,D014914
+505277,Blood Coagulation Tests,Laboratory Procedure,D001780
+497391,Autonomic Nervous System Diseases,Disease or Syndrome,D001342
+515566,Autonomic Nervous System,Body System,D001341
+494583,Atherosclerosis,Disease or Syndrome,D050197
+510170,Atherosclerosis,Pathologic Function,D050197
+422832,"Infusions, Intra-Arterial",Therapeutic or Preventive Procedure,D007261
+423981,Coronary Artery Bypass,Therapeutic or Preventive Procedure,D001026
+487750,Carotid Artery Injuries,Injury or Poisoning,D020212
+487752,Vertebral Artery Dissection,Injury or Poisoning,D020217
+490699,Carotid Artery Injuries,Disease or Syndrome,D020212
+490702,Vertebral Artery Dissection,Disease or Syndrome,D020217
+490703,"Carotid Artery, Internal, Dissection",Disease or Syndrome,D020215
+492356,Pulmonary Arterial Hypertension,Disease or Syndrome,D000081029
+492593,Coronary Artery Disease,Disease or Syndrome,D003324
+493709,Retinal Arterial Macroaneurysm,Disease or Syndrome,D000080346
+494205,Retinal Artery Occlusion,Disease or Syndrome,D015356
+494894,Carotid Artery Thrombosis,Disease or Syndrome,D002341
+494895,Carotid Artery Diseases,Disease or Syndrome,D002340
+495147,Renal Artery Obstruction,Disease or Syndrome,D012078
+496278,Arterial Occlusive Diseases,Disease or Syndrome,D001157
+496614,"Infarction, Middle Cerebral Artery",Disease or Syndrome,D020244
+496617,"Infarction, Anterior Cerebral Artery",Disease or Syndrome,D020243
+496701,Peripheral Arterial Disease,Disease or Syndrome,D058729
+497261,Cerebral Arterial Diseases,Disease or Syndrome,D002539
+498158,Intracranial Arterial Diseases,Disease or Syndrome,D020765
+501203,Arterial Pressure,Finding,D062186
+513322,Arterial Pressure,Organism Function,D062186
+514053,Arterial Pressure,Laboratory or Test Result,D062186
+514401,Umbilical Arteries,Embryonic Structure,D014469
+515350,Retinal Arterial Macroaneurysm,Acquired Abnormality,D000080346
+515371,"Infarction, Middle Cerebral Artery",Acquired Abnormality,D020244
+515686,"Injections, Intra-Arterial",Functional Concept,D007269
+501203,Arterial Pressure,Finding,D062186
+513322,Arterial Pressure,Organism Function,D062186
+514053,Arterial Pressure,Laboratory or Test Result,D062186
+498024,"Arrhythmias, Cardiac",Disease or Syndrome,D001145
+59455,Anticoagulants,Pharmacologic Substance,D000925
+151260,Angiotensin III,"Amino Acid, Peptide, or Protein",D000805
+370712,Angiotensin III,Biologically Active Substance,D000805
+61429,Angiotensin II,Pharmacologic Substance,D000804
+70591,Angiotensin II Type 1 Receptor Blockers,Pharmacologic Substance,D047228
+77946,Angiotensin II Type 2 Receptor Blockers,Pharmacologic Substance,D057912
+151257,Angiotensin II,"Amino Acid, Peptide, or Protein",D000804
+370710,Angiotensin II,Biologically Active Substance,D000804
+501429,Angiography,Finding,D000792
+504802,Magnetic Resonance Angiography,Diagnostic Procedure,D018810
+504848,"Angiography, Digital Subtraction",Diagnostic Procedure,D015901
+505012,Computed Tomography Angiography,Diagnostic Procedure,D000072226
+505072,Angiography,Diagnostic Procedure,D000792
+505120,Cerebral Angiography,Diagnostic Procedure,D002533
+505205,Coronary Angiography,Diagnostic Procedure,D017023
+58150,Angiogenesis Modulating Agents,Pharmacologic Substance,D043924
+58151,Angiogenesis Inducing Agents,Pharmacologic Substance,D043925
+76416,Angiogenesis Inhibitors,Pharmacologic Substance,D020533
+177245,Angiogenesis Inhibitors,"Amino Acid, Peptide, or Protein",D020533
+367392,Angiogenesis Inducing Agents,Biologically Active Substance,D043925
+386387,Angiogenesis Inhibitors,Biologically Active Substance,D020533
+512212,Angiogenesis Inducing Agents,Physiologic Function,D043925
+512248,Angiogenesis Inhibitors,Physiologic Function,D020533
+514518,Adipose Tissue,Clinical Attribute,D000273
