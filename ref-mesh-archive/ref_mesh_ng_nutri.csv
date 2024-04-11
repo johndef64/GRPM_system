@@ -1,0 +1,860 @@
+,Preferred Label,Semantic Types Label,mesh_id
+0,Weight Reduction Programs,Health Care Activity,D061217
+1,Vegetables,Food,D014675
+2,Sugar-Sweetened Beverages,Food,D000080845
+3,Sugar-Sweetened Beverages,Food,D000080845
+4,Sucrose,Pharmacologic Substance,D013395
+5,Sucrose,Pharmacologic Substance,D013395
+6,Sucrose,Pharmacologic Substance,D013395
+7,Sucrose,Organic Chemical,D013395
+8,Sucrose,Organic Chemical,D013395
+9,Sucrose,Organic Chemical,D013395
+10,Sucrose,Biologically Active Substance,D013395
+11,Sucrose,Biologically Active Substance,D013395
+12,Sucrose,Biologically Active Substance,D013395
+13,Dietary Sucrose,Food,D019422
+14,Dietary Sucrose,Food,D019422
+15,Dietary Sucrose,Food,D019422
+16,Sports Nutritional Sciences,Biomedical Occupation or Discipline,D064132
+17,Sports Nutritional Sciences,Biomedical Occupation or Discipline,D064132
+18,Sports Nutritional Physiological Phenomena,Organism Function,D064133
+19,Sports Nutritional Physiological Phenomena,Organism Function,D064133
+20,"Sodium, Dietary",Food,D012982
+21,"Sodium, Dietary",Food,D012982
+22,Snacks,Food,D062410
+23,Snacks,Food,D062410
+24,Snacks,Food,D062410
+25,Snacks,Temporal Concept,D062410
+26,Snacks,Temporal Concept,D062410
+27,Snacks,Temporal Concept,D062410
+28,Snacks,Individual Behavior,D062410
+29,Snacks,Individual Behavior,D062410
+30,Snacks,Individual Behavior,D062410
+31,Satiation,Mental Process,D012527
+32,Probiotics,Bacterium,D019936
+33,Plant Oils,Organic Chemical,D010938
+34,Plant Oils,Organic Chemical,D010938
+35,Plant Oils,Organic Chemical,D010938
+36,Plant Oils,Biologically Active Substance,D010938
+37,Plant Oils,Biologically Active Substance,D010938
+38,Plant Oils,Biologically Active Substance,D010938
+39,Plant Oils,Food,D010938
+40,Plant Oils,Food,D010938
+41,Plant Oils,Food,D010938
+42,Nutritive Value,Qualitative Concept,D009753
+43,Nutritional Sciences,Biomedical Occupation or Discipline,D052756
+44,Milk Proteins,"Amino Acid, Peptide, or Protein",D008894
+45,Milk Proteins,"Amino Acid, Peptide, or Protein",D008894
+46,Milk Proteins,Biologically Active Substance,D008894
+47,Milk Proteins,Biologically Active Substance,D008894
+48,Milk Thistle,Plant,D020944
+49,Soy Milk,Food,D041942
+50,Cultured Milk Products,Food,D043302
+51,Milk,Food,D008892
+52,Milk,Food,D008892
+53,Milk,Body Substance,D008892
+54,Milk,Body Substance,D008892
+55,Milk Hypersensitivity,Pathologic Function,D016269
+56,"Milk, Human",Body Substance,D008895
+57,Red Meat,Food,D000069466
+58,Meat,Food,D008460
+59,Meat Products,Food,D008461
+60,Pork Meat,Food,D000080305
+61,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
+62,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
+63,Infant Nutritional Physiological Phenomena,Organism Function,D007227
+64,Infant Nutritional Physiological Phenomena,Organism Function,D007227
+65,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
+66,Infant Nutritional Physiological Phenomena,Therapeutic or Preventive Procedure,D007227
+67,Infant Nutritional Physiological Phenomena,Organism Function,D007227
+68,Infant Nutritional Physiological Phenomena,Organism Function,D007227
+69,Gastrointestinal Transit,Diagnostic Procedure,D005772
+70,"Fruiting Bodies, Fungal",Fungus,D048690
+71,Fruit,Plant,D005638
+72,Fruit,Plant,D005638
+73,Fruit,Food,D005638
+74,Fruit,Food,D005638
+75,Fruit and Vegetable Juices,Food,D000067030
+76,"Food, Formulated",Therapeutic or Preventive Procedure,D005526
+77,"Food, Formulated",Therapeutic or Preventive Procedure,D005526
+78,"Food, Formulated",Food,D005526
+79,"Food, Formulated",Food,D005526
+80,"Food, Formulated",Therapeutic or Preventive Procedure,D005526
+81,"Food, Formulated",Therapeutic or Preventive Procedure,D005526
+82,"Food, Formulated",Food,D005526
+83,"Food, Formulated",Food,D005526
+84,Food Supply,Quantitative Concept,D005523
+85,Food Supply,Quantitative Concept,D005523
+86,Food Analysis,Laboratory Procedure,D005504
+87,Food Analysis,Laboratory Procedure,D005504
+88,Foodborne Diseases,Injury or Poisoning,D005517
+89,Foodborne Diseases,Injury or Poisoning,D005517
+90,Food Intolerance,Disease or Syndrome,D000073923
+91,Food Addiction,Mental or Behavioral Dysfunction,D000073932
+92,Food Addiction,Mental or Behavioral Dysfunction,D000073932
+93,Food Addiction,Finding,D000073932
+94,Food Addiction,Finding,D000073932
+95,Food Insecurity,Finding,D000084884
+96,Food Insecurity,Finding,D000084884
+97,Food Insecurity,Functional Concept,D000084884
+98,Food Insecurity,Functional Concept,D000084884
+99,Food Microbiology,Phenomenon or Process,D005516
+100,Food Contamination,Phenomenon or Process,D005506
+101,Food Contamination,Phenomenon or Process,D005506
+102,Food Contamination,Human-caused Phenomenon or Process,D005506
+103,Food Contamination,Human-caused Phenomenon or Process,D005506
+104,United States Food and Drug Administration,Health Care Related Organization,D014486
+105,Raw Foods,Food,D066256
+106,"Foods, Specialized",Food,D019648
+107,"Food, Preserved",Food,D057141
+108,Fast Foods,Food,D057140
+109,Fast Foods,Food,D057140
+110,Functional Food,Food,D055951
+111,Fermented Foods,Food,D000074421
+112,Soy Foods,Food,D045730
+113,Food Additives,Food,D005503
+114,Food,Food,D005502
+115,Infant Food,Food,D007225
+116,"Food, Organic",Food,D058870
+117,Food Ingredients,Food,D000074385
+118,"Food, Genetically Modified",Food,D030841
+119,"Food, Fortified",Food,D005527
+120,Food-Drug Interactions,Natural Phenomenon or Process,D018565
+121,Food-Drug Interactions,Natural Phenomenon or Process,D018565
+122,Food-Drug Interactions,Pathologic Function,D018565
+123,Food-Drug Interactions,Pathologic Function,D018565
+124,Food Chain,Natural Phenomenon or Process,D020387
+125,Access to Healthy Foods,Qualitative Concept,D000091483
+126,Food Preferences,Qualitative Concept,D005518
+127,Food Preferences,Qualitative Concept,D005518
+128,Food Preferences,Individual Behavior,D005518
+129,Food Preferences,Individual Behavior,D005518
+130,Food Preferences,Qualitative Concept,D005518
+131,Food Preferences,Qualitative Concept,D005518
+132,Food Preferences,Individual Behavior,D005518
+133,Food Preferences,Individual Behavior,D005518
+134,Food Quality,Qualitative Concept,D063427
+135,Food Security,Qualitative Concept,D000082302
+136,Food Deprivation,Research Activity,D005508
+137,Food Assistance,Occupational Activity,D063105
+138,Food Assistance,Occupational Activity,D063105
+139,Food Assistance,Governmental or Regulatory Activity,D063105
+140,Food Assistance,Governmental or Regulatory Activity,D063105
+141,Food Industry,Occupational Activity,D019649
+142,Food Safety,Occupational Activity,D059022
+143,Food Handling,Occupational Activity,D005511
+144,Food Preservation,Occupational Activity,D005519
+145,Food Hypersensitivity,Pathologic Function,D005512
+146,Food Hypersensitivity,Pathologic Function,D005512
+147,Food Fussiness,Individual Behavior,D000081010
+148,Food Coloring Agents,Chemical Viewed Functionally,D005505
+149,Food Preservatives,Chemical Viewed Functionally,D005520
+150,Binge Drinking,Individual Behavior,D063425
+151,Drinking Behavior,Individual Behavior,D004327
+152,Underage Drinking,Individual Behavior,D000066608
+153,Underage Drinking,Individual Behavior,D000066608
+154,Underage Drinking,Governmental or Regulatory Activity,D000066608
+155,Underage Drinking,Governmental or Regulatory Activity,D000066608
+156,Alcohol Drinking,Individual Behavior,D000428
+157,Alcohol Drinking in College,Social Behavior,D000067292
+158,Drinking,Organism Function,D004326
+159,Drinking Water,Substance,D060766
+160,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+161,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+162,Diet Therapy,Health Care Activity,D004035
+163,Diet Therapy,Health Care Activity,D004035
+164,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+165,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+166,Diet Therapy,Health Care Activity,D004035
+167,Diet Therapy,Health Care Activity,D004035
+168,Diet Surveys,Health Care Activity,D004034
+169,Diet Surveys,Health Care Activity,D004034
+170,Diet Records,Intellectual Product,D015930
+171,Diet Records,Intellectual Product,D015930
+172,Cooking,Daily or Recreational Activity,D003296
+173,"Cholesterol, Dietary",Organic Chemical,D002791
+174,"Cholesterol, Dietary",Organic Chemical,D002791
+175,Dietary Carbohydrates,Organic Chemical,D004040
+176,Dietary Carbohydrates,Organic Chemical,D004040
+177,Dietary Carbohydrates,Organic Chemical,D004040
+178,Carbohydrates,Organic Chemical,D002241
+179,Ideal Body Weight,Medical Device,D056865
+180,Ideal Body Weight,Medical Device,D056865
+181,Ideal Body Weight,Medical Device,D056865
+182,Ideal Body Weight,Quantitative Concept,D056865
+183,Ideal Body Weight,Quantitative Concept,D056865
+184,Ideal Body Weight,Quantitative Concept,D056865
+185,Ideal Body Weight,Clinical Attribute,D056865
+186,Ideal Body Weight,Clinical Attribute,D056865
+187,Ideal Body Weight,Clinical Attribute,D056865
+188,Body Weights and Measures,Diagnostic Procedure,D001837
+189,Body Weights and Measures,Diagnostic Procedure,D001837
+190,Body Weights and Measures,Quantitative Concept,D001837
+191,Body Weights and Measures,Quantitative Concept,D001837
+192,Body Weight,Organism Attribute,D001835
+193,Body Weight Maintenance,Activity,D000068959
+194,Appetite Regulation,Organism Function,D001069
+195,Appetite Regulation,Organism Function,D001069
+196,Water-Electrolyte Imbalance,Pathologic Function,D014883
+197,Wasting Syndrome,Disease or Syndrome,D019282
+198,Porcine Postweaning Multisystemic Wasting Syndrome,Disease or Syndrome,D053570
+199,Vitamin D Deficiency,Disease or Syndrome,D014808
+200,Vitamin B 12 Deficiency,Disease or Syndrome,D014806
+201,Tooth Loss,Acquired Abnormality,D016388
+202,Tooth Diseases,Disease or Syndrome,D014076
+203,Stroke Rehabilitation,Therapeutic or Preventive Procedure,D000071939
+204,Heat Stroke,Injury or Poisoning,D018883
+205,Hemorrhagic Stroke,Disease or Syndrome,D000083302
+206,Ischemic Stroke,Disease or Syndrome,D000083242
+207,"Stroke, Lacunar",Disease or Syndrome,D059409
+208,Embolic Stroke,Disease or Syndrome,D000083262
+209,Stroke,Disease or Syndrome,D020521
+210,Stroke Volume,Finding,D013318
+211,Stroke Volume,Finding,D013318
+212,Stroke Volume,Finding,D013318
+213,Stroke Volume,Laboratory or Test Result,D013318
+214,Stroke Volume,Laboratory or Test Result,D013318
+215,Stroke Volume,Laboratory or Test Result,D013318
+216,Stroke Volume,Clinical Attribute,D013318
+217,Stroke Volume,Clinical Attribute,D013318
+218,Stroke Volume,Clinical Attribute,D013318
+219,National Institute of Neurological Disorders and Stroke (U.S.),Health Care Related Organization,D055825
+220,Neonatal Sepsis,Disease or Syndrome,D000071074
+221,Sepsis,Disease or Syndrome,D018805
+222,Sepsis,Disease or Syndrome,D018805
+223,Sepsis,Pathologic Function,D018805
+224,Sepsis,Pathologic Function,D018805
+225,Sepsis-Associated Encephalopathy,Disease or Syndrome,D065166
+226,Sepsis-Associated Encephalopathy,Disease or Syndrome,D065166
+227,Sepsis-Associated Encephalopathy,Mental or Behavioral Dysfunction,D065166
+228,Sepsis-Associated Encephalopathy,Mental or Behavioral Dysfunction,D065166
+229,"Rickets, Hypophosphatemic",Disease or Syndrome,D063730
+230,Familial Hypophosphatemic Rickets,Disease or Syndrome,D053098
+231,Rickets,Disease or Syndrome,D012279
+232,"Renal Insufficiency, Chronic",Disease or Syndrome,D051436
+233,Premature Birth,Pathologic Function,D047928
+234,Porphyrias,Disease or Syndrome,D011164
+235,"Porphyrias, Hepatic",Disease or Syndrome,D017094
+236,Peptic Ulcer,Disease or Syndrome,D010437
+237,Peptic Ulcer Hemorrhage,Pathologic Function,D010438
+238,Pancreatic Diseases,Disease or Syndrome,D010182
+239,"Obesity, Abdominal",Finding,D056128
+240,"Obesity, Abdominal",Finding,D056128
+241,"Obesity, Abdominal",Sign or Symptom,D056128
+242,"Obesity, Abdominal",Sign or Symptom,D056128
+243,"Obesity, Abdominal",Finding,D056128
+244,"Obesity, Abdominal",Finding,D056128
+245,"Obesity, Abdominal",Sign or Symptom,D056128
+246,"Obesity, Abdominal",Sign or Symptom,D056128
+247,"Colorectal Neoplasms, Hereditary Nonpolyposis",Disease or Syndrome,D003123
+248,"Colorectal Neoplasms, Hereditary Nonpolyposis",Disease or Syndrome,D003123
+249,"Colorectal Neoplasms, Hereditary Nonpolyposis",Neoplastic Process,D003123
+250,"Colorectal Neoplasms, Hereditary Nonpolyposis",Neoplastic Process,D003123
+251,Heart Neoplasms,Disease or Syndrome,D006338
+252,Heart Neoplasms,Disease or Syndrome,D006338
+253,Heart Neoplasms,Neoplastic Process,D006338
+254,Heart Neoplasms,Neoplastic Process,D006338
+255,Gingival Neoplasms,Congenital Abnormality,D005887
+256,Gingival Neoplasms,Congenital Abnormality,D005887
+257,Gingival Neoplasms,Neoplastic Process,D005887
+258,Gingival Neoplasms,Neoplastic Process,D005887
+259,Eye Neoplasms,Neoplastic Process,D005134
+260,"Mammary Neoplasms, Experimental",Neoplastic Process,D008325
+261,"Mammary Neoplasms, Experimental",Neoplastic Process,D008325
+262,"Mammary Neoplasms, Experimental",Experimental Model of Disease,D008325
+263,"Mammary Neoplasms, Experimental",Experimental Model of Disease,D008325
+264,"Neoplasms, Complex and Mixed",Neoplastic Process,D018193
+265,Salivary Gland Neoplasms,Neoplastic Process,D012468
+266,Mediastinal Neoplasms,Neoplastic Process,D008479
+267,Skull Base Neoplasms,Neoplastic Process,D019292
+268,Ovarian Neoplasms,Neoplastic Process,D010051
+269,Adrenal Gland Neoplasms,Neoplastic Process,D000310
+270,"Breast Neoplasms, Male",Neoplastic Process,D018567
+271,"Neoplasms, Neuroepithelial",Neoplastic Process,D018302
+272,"Neoplasms, Gonadal Tissue",Neoplastic Process,D018309
+273,"Neoplasms, Squamous Cell",Neoplastic Process,D018307
+274,Vulvar Neoplasms,Neoplastic Process,D014846
+275,Uveal Neoplasms,Neoplastic Process,D014604
+276,"Genital Neoplasms, Female",Neoplastic Process,D005833
+277,"Genital Neoplasms, Male",Neoplastic Process,D005834
+278,Penile Neoplasms,Neoplastic Process,D010412
+279,Common Bile Duct Neoplasms,Neoplastic Process,D003138
+280,Urologic Neoplasms,Neoplastic Process,D014571
+281,Intestinal Neoplasms,Neoplastic Process,D007414
+282,Urogenital Neoplasms,Neoplastic Process,D014565
+283,Soft Tissue Neoplasms,Neoplastic Process,D012983
+284,Parathyroid Neoplasms,Neoplastic Process,D010282
+285,Laryngeal Neoplasms,Neoplastic Process,D007822
+286,Tongue Neoplasms,Neoplastic Process,D014062
+287,Tonsillar Neoplasms,Neoplastic Process,D014067
+288,Gallbladder Neoplasms,Neoplastic Process,D005706
+289,Anus Neoplasms,Neoplastic Process,D001005
+290,Lung Neoplasms,Neoplastic Process,D008175
+291,Liver Neoplasms,Neoplastic Process,D008113
+292,Liver Neoplasms,Neoplastic Process,D008113
+293,"Liver Neoplasms, Experimental",Neoplastic Process,D008114
+294,"Liver Neoplasms, Experimental",Neoplastic Process,D008114
+295,"Liver Neoplasms, Experimental",Experimental Model of Disease,D008114
+296,"Liver Neoplasms, Experimental",Experimental Model of Disease,D008114
+297,"Liver Neoplasms, Experimental",Neoplastic Process,D008114
+298,"Liver Neoplasms, Experimental",Neoplastic Process,D008114
+299,"Liver Neoplasms, Experimental",Experimental Model of Disease,D008114
+300,"Liver Neoplasms, Experimental",Experimental Model of Disease,D008114
+301,Pharyngeal Neoplasms,Neoplastic Process,D010610
+302,Pleural Neoplasms,Neoplastic Process,D010997
+303,"Neoplasms, Unknown Primary",Neoplastic Process,D009382
+304,"Neoplasms, Nerve Tissue",Neoplastic Process,D009380
+305,"Neoplasms, Vascular Tissue",Neoplastic Process,D009383
+306,"Neoplasms, Radiation-Induced",Neoplastic Process,D009381
+307,Nasopharyngeal Neoplasms,Neoplastic Process,D009303
+308,Cecal Neoplasms,Neoplastic Process,D002430
+309,Skin Neoplasms,Neoplastic Process,D012878
+310,Perivascular Epithelioid Cell Neoplasms,Neoplastic Process,D054973
+311,Nerve Sheath Neoplasms,Neoplastic Process,D018317
+312,Meningeal Neoplasms,Neoplastic Process,D008577
+313,Thyroid Neoplasms,Neoplastic Process,D013964
+314,"Neoplasms, Plasma Cell",Neoplastic Process,D054219
+315,Brain Neoplasms,Neoplastic Process,D001932
+316,Hypothalamic Neoplasms,Neoplastic Process,D007029
+317,Nose Neoplasms,Neoplastic Process,D009669
+318,Prostatic Neoplasms,Neoplastic Process,D011471
+319,Testicular Neoplasms,Neoplastic Process,D013736
+320,"Prostatic Neoplasms, Castration-Resistant",Neoplastic Process,D064129
+321,Mandibular Neoplasms,Neoplastic Process,D008339
+322,Uterine Neoplasms,Neoplastic Process,D014594
+323,Inflammatory Breast Neoplasms,Neoplastic Process,D058922
+324,Infratentorial Neoplasms,Neoplastic Process,D015192
+325,Unilateral Breast Neoplasms,Neoplastic Process,D000069584
+326,Adrenal Cortex Neoplasms,Neoplastic Process,D000306
+327,Oropharyngeal Neoplasms,Neoplastic Process,D009959
+328,Muscle Neoplasms,Neoplastic Process,D019042
+329,Vascular Neoplasms,Neoplastic Process,D019043
+330,Bone Marrow Neoplasms,Neoplastic Process,D019046
+331,Pancreatic Neoplasms,Neoplastic Process,D010190
+332,Peripheral Nervous System Neoplasms,Neoplastic Process,D010524
+333,Mouth Neoplasms,Neoplastic Process,D009062
+334,Stomach Neoplasms,Neoplastic Process,D013274
+335,Head and Neck Neoplasms,Neoplastic Process,D006258
+336,Colitis-Associated Neoplasms,Neoplastic Process,D000083023
+337,Pituitary Neoplasms,Neoplastic Process,D010911
+338,Ureteral Neoplasms,Neoplastic Process,D014516
+339,Colonic Neoplasms,Neoplastic Process,D003110
+340,"Neoplasms, Adnexal and Skin Appendage",Neoplastic Process,D018294
+341,"Neoplasms, Cystic, Mucinous, and Serous",Neoplastic Process,D018297
+342,"Neoplasms, Basal Cell",Neoplastic Process,D018295
+343,"Neoplasms, Ductal, Lobular, and Medullary",Neoplastic Process,D018299
+344,Respiratory Tract Neoplasms,Neoplastic Process,D012142
+345,Parotid Neoplasms,Neoplastic Process,D010307
+346,Conjunctival Neoplasms,Neoplastic Process,D003230
+347,Fallopian Tube Neoplasms,Neoplastic Process,D005185
+348,"Neoplasms, Connective and Soft Tissue",Neoplastic Process,D018204
+349,"Neoplasms, Adipose Tissue",Neoplastic Process,D018205
+350,Uterine Cervical Neoplasms,Neoplastic Process,D002583
+351,Nervous System Neoplasms,Neoplastic Process,D009423
+352,Biliary Tract Neoplasms,Neoplastic Process,D001661
+353,Facial Neoplasms,Neoplastic Process,D005153
+354,Sweat Gland Neoplasms,Neoplastic Process,D013544
+355,Orbital Neoplasms,Neoplastic Process,D009918
+356,Splenic Neoplasms,Neoplastic Process,D013160
+357,Triple Negative Breast Neoplasms,Neoplastic Process,D064726
+358,Spinal Cord Neoplasms,Neoplastic Process,D013120
+359,Spinal Neoplasms,Neoplastic Process,D013125
+360,Bile Duct Neoplasms,Neoplastic Process,D001650
+361,Brain Stem Neoplasms,Neoplastic Process,D020295
+362,Sigmoid Neoplasms,Neoplastic Process,D012811
+363,Iris Neoplasms,Neoplastic Process,D015811
+364,Cerebellar Neoplasms,Neoplastic Process,D002528
+365,"Neoplasms, Experimental",Neoplastic Process,D009374
+366,"Neoplasms, Experimental",Neoplastic Process,D009374
+367,"Neoplasms, Experimental",Experimental Model of Disease,D009374
+368,"Neoplasms, Experimental",Experimental Model of Disease,D009374
+369,"Neoplasms, Connective Tissue",Neoplastic Process,D009372
+370,"Neoplasms, Glandular and Epithelial",Neoplastic Process,D009375
+371,"Neoplasms, Muscle Tissue",Neoplastic Process,D009379
+372,"Neoplasms, Multiple Primary",Neoplastic Process,D009378
+373,"Neoplasms, Hormone-Dependent",Neoplastic Process,D009376
+374,"Neoplasms, Germ Cell and Embryonal",Neoplastic Process,D009373
+375,Ear Neoplasms,Neoplastic Process,D004428
+376,Maxillary Sinus Neoplasms,Neoplastic Process,D008444
+377,Maxillary Neoplasms,Neoplastic Process,D008441
+378,Retinal Neoplasms,Neoplastic Process,D019572
+379,Optic Nerve Neoplasms,Neoplastic Process,D019574
+380,Cerebral Ventricle Neoplasms,Neoplastic Process,D002551
+381,Femoral Neoplasms,Neoplastic Process,D005266
+382,Jaw Neoplasms,Neoplastic Process,D007573
+383,Bone Neoplasms,Neoplastic Process,D001859
+384,Bronchial Neoplasms,Neoplastic Process,D001984
+385,Jejunal Neoplasms,Neoplastic Process,D007580
+386,Appendiceal Neoplasms,Neoplastic Process,D001063
+387,Hematologic Neoplasms,Neoplastic Process,D019337
+388,"Mammary Neoplasms, Animal",Neoplastic Process,D015674
+389,Otorhinolaryngologic Neoplasms,Neoplastic Process,D010039
+390,"Neoplasms, Second Primary",Neoplastic Process,D016609
+391,Cranial Nerve Neoplasms,Neoplastic Process,D003390
+392,Eyelid Neoplasms,Neoplastic Process,D005142
+393,Pelvic Neoplasms,Neoplastic Process,D010386
+394,Duodenal Neoplasms,Neoplastic Process,D004379
+395,Retroperitoneal Neoplasms,Neoplastic Process,D012186
+396,Submandibular Gland Neoplasms,Neoplastic Process,D013365
+397,Supratentorial Neoplasms,Neoplastic Process,D015173
+398,Colorectal Neoplasms,Neoplastic Process,D015179
+399,Kidney Neoplasms,Neoplastic Process,D007680
+400,Urethral Neoplasms,Neoplastic Process,D014523
+401,Choroid Neoplasms,Neoplastic Process,D002830
+402,Esophageal Neoplasms,Neoplastic Process,D004938
+403,Skull Neoplasms,Neoplastic Process,D012888
+404,Gastrointestinal Neoplasms,Neoplastic Process,D005770
+405,Thoracic Neoplasms,Neoplastic Process,D013899
+406,Choroid Plexus Neoplasms,Neoplastic Process,D016545
+407,Central Nervous System Neoplasms,Neoplastic Process,D016543
+408,Sebaceous Gland Neoplasms,Neoplastic Process,D012626
+409,Breast Neoplasms,Neoplastic Process,D001943
+410,Hypopharyngeal Neoplasms,Neoplastic Process,D007012
+411,Thymus Neoplasms,Neoplastic Process,D013953
+412,Pancreatic Intraductal Neoplasms,Neoplastic Process,D000077779
+413,Tracheal Neoplasms,Neoplastic Process,D014134
+414,Rectal Neoplasms,Neoplastic Process,D012004
+415,Digestive System Neoplasms,Neoplastic Process,D004067
+416,Paranasal Sinus Neoplasms,Neoplastic Process,D010255
+417,Ileal Neoplasms,Neoplastic Process,D007078
+418,Peritoneal Neoplasms,Neoplastic Process,D010534
+419,Vaginal Neoplasms,Neoplastic Process,D014625
+420,Abdominal Neoplasms,Neoplastic Process,D000008
+421,"Neoplasms, Bone Tissue",Neoplastic Process,D018213
+422,Lip Neoplasms,Neoplastic Process,D008048
+423,Urinary Bladder Neoplasms,Neoplastic Process,D001749
+424,Endocrine Gland Neoplasms,Neoplastic Process,D004701
+425,Endometrial Neoplasms,Neoplastic Process,D016889
+426,Neoplasms,Neoplastic Process,D009369
+427,"Malocclusion, Angle Class I",Disease or Syndrome,D008311
+428,"Malocclusion, Angle Class II",Anatomical Abnormality,D008312
+429,Malocclusion,Anatomical Abnormality,D008310
+430,Malocclusion,Anatomical Abnormality,D008310
+431,Malocclusion,Anatomical Abnormality,D008310
+432,Malocclusion,Finding,D008310
+433,Malocclusion,Finding,D008310
+434,Malocclusion,Finding,D008310
+435,Malocclusion,Idea or Concept,D008310
+436,Malocclusion,Idea or Concept,D008310
+437,Malocclusion,Idea or Concept,D008310
+438,"Malocclusion, Angle Class III",Congenital Abnormality,D008313
+439,"Liver Cirrhosis, Alcoholic",Disease or Syndrome,D008104
+440,Liver Cirrhosis,Disease or Syndrome,D008103
+441,"Liver Cirrhosis, Biliary",Disease or Syndrome,D008105
+442,"Liver Cirrhosis, Experimental",Experimental Model of Disease,D008106
+443,"Kidney Failure, Chronic",Disease or Syndrome,D007676
+444,Iron Overload,Disease or Syndrome,D019190
+445,Intra-Abdominal Fat,Tissue,D050152
+446,Inflammatory Bowel Diseases,Disease or Syndrome,D015212
+447,Hypoglycemic Agents,Pharmacologic Substance,D007004
+448,Hypoglycemic Agents,Pharmacologic Substance,D007004
+449,Hypoglycemic Agents,Physiologic Function,D007004
+450,Hypoglycemic Agents,Physiologic Function,D007004
+451,Dietary Approaches To Stop Hypertension,Therapeutic or Preventive Procedure,D000073601
+452,Dietary Approaches To Stop Hypertension,Therapeutic or Preventive Procedure,D000073601
+453,"Hypertension, Renovascular",Disease or Syndrome,D006978
+454,"Hypertension, Malignant",Disease or Syndrome,D006974
+455,"Hypertension, Portal",Disease or Syndrome,D006975
+456,Hypertension,Disease or Syndrome,D006973
+457,"Hypertension, Renal",Disease or Syndrome,D006977
+458,Pulmonary Arterial Hypertension,Disease or Syndrome,D000081029
+459,Familial Primary Pulmonary Hypertension,Disease or Syndrome,D065627
+460,White Coat Hypertension,Disease or Syndrome,D059466
+461,Ocular Hypertension,Disease or Syndrome,D009798
+462,Essential Hypertension,Disease or Syndrome,D000075222
+463,"Hypertension, Pregnancy-Induced",Disease or Syndrome,D046110
+464,"Hypertension, Pregnancy-Induced",Disease or Syndrome,D046110
+465,"Hypertension, Pregnancy-Induced",Pathologic Function,D046110
+466,"Hypertension, Pregnancy-Induced",Pathologic Function,D046110
+467,Intracranial Hypertension,Finding,D019586
+468,"Hypertension, Pulmonary",Pathologic Function,D006976
+469,Heart Diseases,Disease or Syndrome,D006331
+470,Growth Disorders,Pathologic Function,D006130
+471,Gout Suppressants,Pharmacologic Substance,D006074
+472,Gout,Disease or Syndrome,D006073
+473,"Arthritis, Gouty",Disease or Syndrome,D015210
+474,Gastroesophageal Reflux,Disease or Syndrome,D005764
+475,Gastroenteritis,Disease or Syndrome,D005759
+476,"Gastroenteritis, Transmissible, of Swine",Disease or Syndrome,D005761
+477,Fatty Liver,Disease or Syndrome,D005234
+478,"Fatty Liver, Alcoholic",Disease or Syndrome,D005235
+479,Non-alcoholic Fatty Liver Disease,Disease or Syndrome,D065626
+480,Esophageal Diseases,Disease or Syndrome,D004935
+481,"Diverticulosis, Colonic",Disease or Syndrome,D043963
+482,Crohn Disease,Disease or Syndrome,D003424
+483,Constipation,Sign or Symptom,D003248
+484,"Colitis, Ulcerative",Disease or Syndrome,D003093
+485,Celiac Disease,Disease or Syndrome,D002446
+486,"Anemia, Hemolytic",Disease or Syndrome,D000743
+487,"Anemia, Hemolytic",Disease or Syndrome,D000743
+488,"Anemia, Hemolytic, Autoimmune",Disease or Syndrome,D000744
+489,"Anemia, Hemolytic, Autoimmune",Disease or Syndrome,D000744
+490,"Anemia, Hemolytic, Congenital",Disease or Syndrome,D000745
+491,"Anemia, Hemolytic, Congenital",Disease or Syndrome,D000745
+492,"Anemia, Hemolytic, Congenital Nonspherocytic",Disease or Syndrome,D000746
+493,"Anemia, Hemolytic, Congenital Nonspherocytic",Disease or Syndrome,D000746
+494,"Anemia, Sickle Cell",Disease or Syndrome,D000755
+495,"Anemia, Sickle Cell",Disease or Syndrome,D000755
+496,"Anemia, Pernicious",Disease or Syndrome,D000752
+497,"Anemia, Pernicious",Disease or Syndrome,D000752
+498,"Anemia, Megaloblastic",Disease or Syndrome,D000749
+499,"Anemia, Megaloblastic",Disease or Syndrome,D000749
+500,Fanconi Anemia Complementation Group Proteins,"Amino Acid, Peptide, or Protein",D051856
+501,Fanconi Anemia Complementation Group Proteins,"Amino Acid, Peptide, or Protein",D051856
+502,Fanconi Anemia Complementation Group Proteins,Biologically Active Substance,D051856
+503,Fanconi Anemia Complementation Group Proteins,Biologically Active Substance,D051856
+504,Fanconi Anemia Complementation Group L Protein,"Amino Acid, Peptide, or Protein",D052240
+505,Fanconi Anemia Complementation Group L Protein,"Amino Acid, Peptide, or Protein",D052240
+506,Fanconi Anemia Complementation Group L Protein,Enzyme,D052240
+507,Fanconi Anemia Complementation Group L Protein,Enzyme,D052240
+508,Fanconi Anemia Complementation Group G Protein,"Amino Acid, Peptide, or Protein",D052241
+509,Fanconi Anemia Complementation Group G Protein,"Amino Acid, Peptide, or Protein",D052241
+510,Fanconi Anemia Complementation Group G Protein,Biologically Active Substance,D052241
+511,Fanconi Anemia Complementation Group G Protein,Biologically Active Substance,D052241
+512,Fanconi Anemia Complementation Group N Protein,"Amino Acid, Peptide, or Protein",D000076164
+513,Fanconi Anemia Complementation Group N Protein,"Amino Acid, Peptide, or Protein",D000076164
+514,Fanconi Anemia Complementation Group N Protein,Biologically Active Substance,D000076164
+515,Fanconi Anemia Complementation Group N Protein,Biologically Active Substance,D000076164
+516,Fanconi Anemia Complementation Group D2 Protein,"Amino Acid, Peptide, or Protein",D052236
+517,Fanconi Anemia Complementation Group D2 Protein,"Amino Acid, Peptide, or Protein",D052236
+518,Fanconi Anemia Complementation Group D2 Protein,Biologically Active Substance,D052236
+519,Fanconi Anemia Complementation Group D2 Protein,Biologically Active Substance,D052236
+520,Fanconi Anemia Complementation Group E Protein,"Amino Acid, Peptide, or Protein",D052239
+521,Fanconi Anemia Complementation Group E Protein,"Amino Acid, Peptide, or Protein",D052239
+522,Fanconi Anemia Complementation Group E Protein,Biologically Active Substance,D052239
+523,Fanconi Anemia Complementation Group E Protein,Biologically Active Substance,D052239
+524,Fanconi Anemia Complementation Group F Protein,"Amino Acid, Peptide, or Protein",D052219
+525,Fanconi Anemia Complementation Group F Protein,"Amino Acid, Peptide, or Protein",D052219
+526,Fanconi Anemia Complementation Group F Protein,Biologically Active Substance,D052219
+527,Fanconi Anemia Complementation Group F Protein,Biologically Active Substance,D052219
+528,Fanconi Anemia Complementation Group C Protein,"Amino Acid, Peptide, or Protein",D052218
+529,Fanconi Anemia Complementation Group C Protein,"Amino Acid, Peptide, or Protein",D052218
+530,Fanconi Anemia Complementation Group C Protein,Biologically Active Substance,D052218
+531,Fanconi Anemia Complementation Group C Protein,Biologically Active Substance,D052218
+532,Fanconi Anemia Complementation Group A Protein,"Amino Acid, Peptide, or Protein",D052217
+533,Fanconi Anemia Complementation Group A Protein,"Amino Acid, Peptide, or Protein",D052217
+534,Fanconi Anemia Complementation Group A Protein,Biologically Active Substance,D052217
+535,Fanconi Anemia Complementation Group A Protein,Biologically Active Substance,D052217
+536,"Anemia, Dyserythropoietic, Congenital",Disease or Syndrome,D000742
+537,"Anemia, Hypochromic",Disease or Syndrome,D000747
+538,"Anemia, Macrocytic",Disease or Syndrome,D000748
+539,"Anemia, Aplastic",Disease or Syndrome,D000741
+540,Anemia,Disease or Syndrome,D000740
+541,"Anemia, Diamond-Blackfan",Disease or Syndrome,D029503
+542,"Anemia, Hypoplastic, Congenital",Disease or Syndrome,D029502
+543,"Anemia, Neonatal",Disease or Syndrome,D000751
+544,"Anemia, Refractory",Disease or Syndrome,D000753
+545,"Anemia, Sideroblastic",Disease or Syndrome,D000756
+546,"Anemia, Myelophthisic",Disease or Syndrome,D000750
+547,"Anemia, Iron-Deficiency",Disease or Syndrome,D018798
+548,"Anemia, Iron-Deficiency",Disease or Syndrome,D018798
+549,Fanconi Anemia,Disease or Syndrome,D005199
+550,"Infectious Anemia Virus, Equine",Virus,D004860
+551,"Anemia, Refractory, with Excess of Blasts",Neoplastic Process,D000754
+552,Alcoholism,Mental or Behavioral Dysfunction,D000437
+553,Adiposity,Organism Attribute,D050154
+554,Weight Loss,Finding,D015431
+555,Weight Gain,Finding,D015430
+556,Gestational Weight Gain,Finding,D000078064
+557,Starvation,Finding,D013217
+558,Sarcopenia,Disease or Syndrome,D055948
+559,Protein-Energy Malnutrition,Disease or Syndrome,D011502
+560,Protein-Energy Malnutrition,Disease or Syndrome,D011502
+561,Protein-Energy Malnutrition,Pathologic Function,D011502
+562,Protein-Energy Malnutrition,Pathologic Function,D011502
+563,Protein-Energy Malnutrition,Disease or Syndrome,D011502
+564,Protein-Energy Malnutrition,Disease or Syndrome,D011502
+565,Protein-Energy Malnutrition,Pathologic Function,D011502
+566,Protein-Energy Malnutrition,Pathologic Function,D011502
+567,Pediatric Obesity,Disease or Syndrome,D063766
+568,Pediatric Obesity,Disease or Syndrome,D063766
+569,Pediatric Obesity,Finding,D063766
+570,Pediatric Obesity,Finding,D063766
+571,Pediatric Obesity,Disease or Syndrome,D063766
+572,Pediatric Obesity,Disease or Syndrome,D063766
+573,Pediatric Obesity,Finding,D063766
+574,Pediatric Obesity,Finding,D063766
+575,Overweight,Finding,D050177
+576,Metabolic Syndrome,Disease or Syndrome,D024821
+577,Metabolic Diseases,Disease or Syndrome,D008659
+578,Malabsorption Syndromes,Disease or Syndrome,D008286
+579,"Liver Diseases, Parasitic",Disease or Syndrome,D008109
+580,"Liver Diseases, Alcoholic",Disease or Syndrome,D008108
+581,Liver Diseases,Disease or Syndrome,D008107
+582,Liver Diseases,Disease or Syndrome,D008107
+583,Liver Diseases,Finding,D008107
+584,Liver Diseases,Finding,D008107
+585,Polycystic Kidney Diseases,Disease or Syndrome,D007690
+586,Polycystic Kidney Diseases,Disease or Syndrome,D007690
+587,Polycystic Kidney Diseases,Anatomical Abnormality,D007690
+588,Polycystic Kidney Diseases,Anatomical Abnormality,D007690
+589,"Kidney Diseases, Cystic",Disease or Syndrome,D052177
+590,Kidney Diseases,Disease or Syndrome,D007674
+591,National Institute of Diabetes and Digestive and Kidney Diseases (U.S.),Health Care Related Organization,D054586
+592,Insulin Resistance,Pathologic Function,D007333
+593,Hypoglycemia,Disease or Syndrome,D007003
+594,Hyperphagia,Finding,D006963
+595,Hyperlipidemias,Disease or Syndrome,D006949
+596,Hyperlipidemias,Disease or Syndrome,D006949
+597,Hyperlipidemias,Finding,D006949
+598,Hyperlipidemias,Finding,D006949
+599,Hyperglycemia,Disease or Syndrome,D006943
+600,Hyperglycemia,Disease or Syndrome,D006943
+601,Hyperglycemia,Finding,D006943
+602,Hyperglycemia,Finding,D006943
+603,Homozygous Familial Hypercholesterolemia,Disease or Syndrome,D000090542
+604,Hypercholesterolemia,Disease or Syndrome,D006937
+605,Gastrointestinal Diseases,Disease or Syndrome,D005767
+606,Feeding and Eating Disorders,Disease or Syndrome,D001068
+607,Feeding and Eating Disorders,Disease or Syndrome,D001068
+608,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+609,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+610,Feeding and Eating Disorders,Disease or Syndrome,D001068
+611,Feeding and Eating Disorders,Disease or Syndrome,D001068
+612,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+613,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+614,Feeding and Eating Disorders,Disease or Syndrome,D001068
+615,Feeding and Eating Disorders,Disease or Syndrome,D001068
+616,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+617,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+618,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
+619,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
+620,Feeding and Eating Disorders of Childhood,Mental or Behavioral Dysfunction,D019959
+621,Dyslipidemias,Disease or Syndrome,D050171
+622,Dyslipidemias,Disease or Syndrome,D050171
+623,Dyslipidemias,Pathologic Function,D050171
+624,Dyslipidemias,Pathologic Function,D050171
+625,"Diet, Sodium-Restricted",Therapeutic or Preventive Procedure,D004039
+626,"Diet, Sodium-Restricted",Therapeutic or Preventive Procedure,D004039
+627,"Diet, Reducing",Therapeutic or Preventive Procedure,D004038
+628,"Diet, Reducing",Therapeutic or Preventive Procedure,D004038
+629,"Diet, Ketogenic",Therapeutic or Preventive Procedure,D055423
+630,"Diet, Ketogenic",Therapeutic or Preventive Procedure,D055423
+631,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
+632,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
+633,"Diet, High-Protein",Therapeutic or Preventive Procedure,D000073600
+634,"Diet, High-Protein",Therapeutic or Preventive Procedure,D000073600
+635,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
+636,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
+637,"Diet, Fat-Restricted",Therapeutic or Preventive Procedure,D018752
+638,"Diet, Fat-Restricted",Therapeutic or Preventive Procedure,D018752
+639,"Diabetes Mellitus, Type 2",Disease or Syndrome,D003924
+640,"Diabetes Mellitus, Type 2",Disease or Syndrome,D003924
+641,"Diabetes Mellitus, Type 1",Disease or Syndrome,D003922
+642,"Diabetes Mellitus, Type 1",Disease or Syndrome,D003922
+643,"Diabetes Mellitus, Experimental",Experimental Model of Disease,D003921
+644,"Diabetes Mellitus, Experimental",Experimental Model of Disease,D003921
+645,Diabetes Mellitus,Disease or Syndrome,D003920
+646,"Diabetes Mellitus, Lipoatrophic",Disease or Syndrome,D003923
+647,Child Nutrition Disorders,Disease or Syndrome,D015362
+648,Child Nutrition Disorders,Disease or Syndrome,D015362
+649,Cardiovascular Diseases,Disease or Syndrome,D002318
+650,"Carbohydrate Metabolism, Inborn Errors",Disease or Syndrome,D002239
+651,"Carbohydrate Metabolism, Inborn Errors",Disease or Syndrome,D002239
+652,Cachexia,Sign or Symptom,D002100
+653,Bulimia Nervosa,Mental or Behavioral Dysfunction,D052018
+654,Binge-Eating Disorder,Mental or Behavioral Dysfunction,D056912
+655,Binge-Eating Disorder,Mental or Behavioral Dysfunction,D056912
+656,Anorexia Nervosa,Mental or Behavioral Dysfunction,D000856
+657,Anorexia Nervosa,Mental or Behavioral Dysfunction,D000856
+658,Anorexia,Disease or Syndrome,D000855
+659,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+660,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+661,"Dietary Fats, Unsaturated",Food,D004042
+662,"Dietary Fats, Unsaturated",Food,D004042
+663,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+664,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+665,"Dietary Fats, Unsaturated",Food,D004042
+666,"Dietary Fats, Unsaturated",Food,D004042
+667,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+668,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+669,"Dietary Fats, Unsaturated",Food,D004042
+670,"Dietary Fats, Unsaturated",Food,D004042
+671,Carbohydrate Metabolism,Molecular Function,D050260
+672,Carbonated Beverages,Food,D002253
+673,Beverages,Food,D001628
+674,Artificially Sweetened Beverages,Food,D000081229
+675,Alcoholic Beverages,Food,D000434
+676,Basal Metabolism,Organism Function,D001481
+677,Body Composition,Organism Attribute,D001823
+678,Caloric Restriction,Therapeutic or Preventive Procedure,D031204
+679,Caloric Restriction,Therapeutic or Preventive Procedure,D031204
+680,Caloric Restriction,Finding,D031204
+681,Caloric Restriction,Finding,D031204
+682,Minerals,Inorganic Chemical,D008903
+683,Trace Elements,Pharmacologic Substance,D014131
+684,Trace Elements,Pharmacologic Substance,D014131
+685,Trace Elements,Pharmacologic Substance,D014131
+686,Trace Elements,Biologically Active Substance,D014131
+687,Trace Elements,Biologically Active Substance,D014131
+688,Trace Elements,Biologically Active Substance,D014131
+689,Trace Elements,"Element, Ion, or Isotope",D014131
+690,Trace Elements,"Element, Ion, or Isotope",D014131
+691,Trace Elements,"Element, Ion, or Isotope",D014131
+692,Vitamins,Pharmacologic Substance,D014815
+693,Vitamins,Pharmacologic Substance,D014815
+694,Vitamins,Pharmacologic Substance,D014815
+695,Vitamins,Organic Chemical,D014815
+696,Vitamins,Organic Chemical,D014815
+697,Vitamins,Organic Chemical,D014815
+698,Vitamins,Vitamin,D014815
+699,Vitamins,Vitamin,D014815
+700,Vitamins,Vitamin,D014815
+701,Overnutrition,Disease or Syndrome,D044343
+702,Obesity Management,Intellectual Product,D000073319
+703,Obesity Management,Intellectual Product,D000073319
+704,Obesity Management,Health Care Activity,D000073319
+705,Obesity Management,Health Care Activity,D000073319
+706,Anti-Obesity Agents,Pharmacologic Substance,D019440
+707,"Obesity, Morbid",Disease or Syndrome,D009767
+708,Obesity,Disease or Syndrome,D009765
+709,"Obesity, Maternal",Finding,D000079262
+710,"Obesity, Metabolically Benign",Sign or Symptom,D000067329
+711,Fetal Nutrition Disorders,Disease or Syndrome,D048070
+712,Nutrition Disorders,Disease or Syndrome,D009748
+713,Nutrition Therapy,Therapeutic or Preventive Procedure,D044623
+714,Nutrition Therapy,Therapeutic or Preventive Procedure,D044623
+715,Nutrition Therapy,Health Care Activity,D044623
+716,Nutrition Therapy,Health Care Activity,D044623
+717,Nutrition Surveys,Research Activity,D009749
+718,Nutritional Status,Finding,D009752
+719,Nutritional Requirements,Organism Attribute,D009751
+720,Nutrition Policy,Intellectual Product,D018673
+721,Nutrition Assessment,Intellectual Product,D015596
+722,Nutrition Assessment,Intellectual Product,D015596
+723,Nutrition Assessment,Intellectual Product,D015596
+724,Nutrition Assessment,Diagnostic Procedure,D015596
+725,Nutrition Assessment,Diagnostic Procedure,D015596
+726,Nutrition Assessment,Diagnostic Procedure,D015596
+727,Nutrition Assessment,Quantitative Concept,D015596
+728,Nutrition Assessment,Quantitative Concept,D015596
+729,Nutrition Assessment,Quantitative Concept,D015596
+730,Micronutrients,Biologically Active Substance,D018977
+731,Malnutrition,Disease or Syndrome,D044342
+732,Feeding Behavior,Individual Behavior,D005247
+733,Feeding Behavior,Individual Behavior,D005247
+734,Feeding Behavior,Organism Function,D005247
+735,Feeding Behavior,Organism Function,D005247
+736,Eating,Finding,D004435
+737,Eating,Finding,D004435
+738,Eating,Finding,D004435
+739,Eating,Organism Function,D004435
+740,Eating,Organism Function,D004435
+741,Eating,Organism Function,D004435
+742,Eating,Biologic Function,D004435
+743,Eating,Biologic Function,D004435
+744,Eating,Biologic Function,D004435
+745,Energy Metabolism,Physiologic Function,D004734
+746,Energy Metabolism,Physiologic Function,D004734
+747,Energy Metabolism,Organism Function,D004734
+748,Energy Metabolism,Organism Function,D004734
+749,Energy Intake,Quantitative Concept,D002149
+750,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+751,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+752,Dietary Supplements,Food,D019587
+753,Dietary Supplements,Food,D019587
+754,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+755,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+756,Dietary Supplements,Food,D019587
+757,Dietary Supplements,Food,D019587
+758,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
+759,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
+760,Dietary Fiber,Food,D004043
+761,Dietary Fiber,Food,D004043
+762,Dietary Fats,Food,D004041
+763,Dietary Fats,Food,D004041
+764,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
+765,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
+766,"Diet, Vegetarian",Finding,D014676
+767,"Diet, Vegetarian",Finding,D014676
+768,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
+769,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
+770,"Diet, Vegetarian",Finding,D014676
+771,"Diet, Vegetarian",Finding,D014676
+772,"Diet, Mediterranean",Therapeutic or Preventive Procedure,D038441
+773,"Diet, Mediterranean",Therapeutic or Preventive Procedure,D038441
+774,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
+775,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
+776,"Diet, High-Fat",Therapeutic or Preventive Procedure,D059305
+777,"Diet, High-Fat",Therapeutic or Preventive Procedure,D059305
+778,Recommended Dietary Allowances,Intellectual Product,D064167
+779,Diethyl Pyrocarbonate,Pharmacologic Substance,D004047
+780,Diethyl Pyrocarbonate,Pharmacologic Substance,D004047
+781,Diethyl Pyrocarbonate,Organic Chemical,D004047
+782,Diethyl Pyrocarbonate,Organic Chemical,D004047
+783,Diethylpropion,Pharmacologic Substance,D004053
+784,Diethylpropion,Pharmacologic Substance,D004053
+785,Diethylpropion,Organic Chemical,D004053
+786,Diethylpropion,Organic Chemical,D004053
+787,Diethylstilbestrol,Pharmacologic Substance,D004054
+788,Diethylstilbestrol,Pharmacologic Substance,D004054
+789,Diethylstilbestrol,Pharmacologic Substance,D004054
+790,Diethylstilbestrol,Pharmacologic Substance,D004054
+791,Diethylstilbestrol,Organic Chemical,D004054
+792,Diethylstilbestrol,Organic Chemical,D004054
+793,Diethylstilbestrol,Organic Chemical,D004054
+794,Diethylstilbestrol,Organic Chemical,D004054
+795,Diethylstilbestrol,Hazardous or Poisonous Substance,D004054
+796,Diethylstilbestrol,Hazardous or Poisonous Substance,D004054
+797,Diethylstilbestrol,Hazardous or Poisonous Substance,D004054
+798,Diethylstilbestrol,Hazardous or Poisonous Substance,D004054
+799,Diethylstilbestrol,Hormone,D004054
+800,Diethylstilbestrol,Hormone,D004054
+801,Diethylstilbestrol,Hormone,D004054
+802,Diethylstilbestrol,Hormone,D004054
+803,Diethylamines,Organic Chemical,D004048
+804,Diethylnitrosamine,Organic Chemical,D004052
+805,Diethylnitrosamine,Organic Chemical,D004052
+806,Diethylnitrosamine,Hazardous or Poisonous Substance,D004052
+807,Diethylnitrosamine,Hazardous or Poisonous Substance,D004052
+808,Diethylhexyl Phthalate,Organic Chemical,D004051
+809,Diethylhexyl Phthalate,Organic Chemical,D004051
+810,Diethylhexyl Phthalate,Biomedical or Dental Material,D004051
+811,Diethylhexyl Phthalate,Biomedical or Dental Material,D004051
+812,Lysergic Acid Diethylamide,Organic Chemical,D008238
+813,Lysergic Acid Diethylamide,Organic Chemical,D008238
+814,Lysergic Acid Diethylamide,Hazardous or Poisonous Substance,D008238
+815,Lysergic Acid Diethylamide,Hazardous or Poisonous Substance,D008238
+816,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+817,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+818,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+819,"Diet, Healthy",Finding,D000072001
+820,"Diet, Healthy",Finding,D000072001
+821,"Diet, Healthy",Finding,D000072001
+822,"Diet, Healthy",Individual Behavior,D000072001
+823,"Diet, Healthy",Individual Behavior,D000072001
+824,"Diet, Healthy",Individual Behavior,D000072001
+825,"Diet, Diabetic",Therapeutic or Preventive Procedure,D003927
+826,"Diet, Carbohydrate Loading",Therapeutic or Preventive Procedure,D000070601
+827,"Diet, Protein-Restricted",Therapeutic or Preventive Procedure,D018753
+828,"Iron, Dietary",Inorganic Chemical,D019266
+829,"Calcium, Dietary",Inorganic Chemical,D002136
+830,Dietary Exposure,Injury or Poisoning,D000074341
+831,"Phosphorus, Dietary","Element, Ion, or Isotope",D016226
+832,Loeys-Dietz Syndrome,Disease or Syndrome,D055947
+833,"Diet, Western",Finding,D066273
+834,"Diet, Vegan",Finding,D000067269
+835,"Diet, Macrobiotic",Finding,D015623
+836,"Diet, Paleolithic",Finding,D066046
+837,"Potassium, Dietary",Food,D017419
+838,Diet,Food,D004032
+839,Dietary Sugars,Food,D000073417
+840,"Sodium Chloride, Dietary",Food,D017673
+841,"Diet, Atherogenic",Research Activity,D004036
+842,Dietetics,Biomedical Occupation or Discipline,D004046
+843,Appetite Depressants,Pharmacologic Substance,D001067
+844,Appetite Stimulants,Pharmacologic Substance,D019167
+845,Appetite,Physiologic Function,D001066
+846,Appetite,Physiologic Function,D001066
+847,Appetite,Organism Function,D001066
+848,Appetite,Organism Function,D001066
+849,Nutritional Physiological Phenomena,Organ or Tissue Function,D009747
+850,Nutritional Physiological Phenomena,Organ or Tissue Function,D009747
+851,Nutritional Physiological Phenomena,Physiologic Function,D009747
+852,Nutritional Physiological Phenomena,Physiologic Function,D009747
+853,Maternal Nutritional Physiological Phenomena,Organism Function,D039382
+854,Prenatal Nutritional Physiological Phenomena,Organism Function,D039401
+855,Adolescent Nutritional Physiological Phenomena,Organism Function,D017195
+856,Animal Nutritional Physiological Phenomena,Organism Function,D000824
+857,Elder Nutritional Physiological Phenomena,Organism Function,D058620
+858,Child Nutritional Physiological Phenomena,Organism Function,D002664

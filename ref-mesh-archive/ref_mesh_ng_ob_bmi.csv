@@ -1,0 +1,610 @@
+,Preferred Label,Semantic Types Label,mesh_id
+0,Physical Endurance,Temporal Concept,D010807
+1,Nutrition Therapy,Therapeutic or Preventive Procedure,D044623
+2,Nutrition Therapy,Therapeutic or Preventive Procedure,D044623
+3,Nutrition Therapy,Health Care Activity,D044623
+4,Nutrition Therapy,Health Care Activity,D044623
+5,Nutrition Policy,Intellectual Product,D018673
+6,Motor Activity,Daily or Recreational Activity,D009043
+7,"Adipose Tissue, Brown",Tissue,D002001
+8,"Adipose Tissue, Brown",Tissue,D002001
+9,Waist-Hip Ratio,Organism Attribute,D049629
+10,Satiation,Mental Process,D012527
+11,Glycemic Load,Quantitative Concept,D000067940
+12,Nutritional Physiological Phenomena,Organ or Tissue Function,D009747
+13,Nutritional Physiological Phenomena,Organ or Tissue Function,D009747
+14,Nutritional Physiological Phenomena,Physiologic Function,D009747
+15,Nutritional Physiological Phenomena,Physiologic Function,D009747
+16,Prenatal Nutritional Physiological Phenomena,Organism Function,D039401
+17,Sports Nutritional Physiological Phenomena,Organism Function,D064133
+18,Sports Nutritional Physiological Phenomena,Organism Function,D064133
+19,Epidemiologic Research Design,Research Activity,D015340
+20,Epidemiologic Methods,Research Activity,D004812
+21,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
+22,"Diet, Carbohydrate-Restricted",Therapeutic or Preventive Procedure,D050528
+23,"Adipose Tissue, White",Tissue,D052436
+24,"Adipose Tissue, White",Tissue,D052436
+25,Life Style,Disease or Syndrome,D008019
+26,Life Style,Disease or Syndrome,D008019
+27,Life Style,Social Behavior,D008019
+28,Life Style,Social Behavior,D008019
+29,Impulsive Behavior,Mental or Behavioral Dysfunction,D007175
+30,Aptitude,Mental Process,D001076
+31,Aptitude,Mental Process,D001076
+32,Aptitude,Organism Attribute,D001076
+33,Aptitude,Organism Attribute,D001076
+34,Weightlessness Simulation,Research Device,D018474
+35,Weightlessness Simulation,Research Device,D018474
+36,Weightlessness Simulation,Human-caused Phenomenon or Process,D018474
+37,Weightlessness Simulation,Human-caused Phenomenon or Process,D018474
+38,Weightlessness Simulation,Research Device,D018474
+39,Weightlessness Simulation,Research Device,D018474
+40,Weightlessness Simulation,Human-caused Phenomenon or Process,D018474
+41,Weightlessness Simulation,Human-caused Phenomenon or Process,D018474
+42,Weightlessness,Natural Phenomenon or Process,D014893
+43,Gastrointestinal Microbiome,Bacterium,D000069196
+44,Gastrointestinal Microbiome,Bacterium,D000069196
+45,Gastrointestinal Microbiome,Organism,D000069196
+46,Gastrointestinal Microbiome,Organism,D000069196
+47,Metabolome,Natural Phenomenon or Process,D055442
+48,Metabolome,Natural Phenomenon or Process,D055442
+49,Metabolome,Physiologic Function,D055442
+50,Metabolome,Physiologic Function,D055442
+51,Dietary Sucrose,Food,D019422
+52,Dietary Sucrose,Food,D019422
+53,Dietary Approaches To Stop Hypertension,Therapeutic or Preventive Procedure,D000073601
+54,Dietary Approaches To Stop Hypertension,Therapeutic or Preventive Procedure,D000073601
+55,Dietary Approaches To Stop Hypertension,Therapeutic or Preventive Procedure,D000073601
+56,"Diet, Protein-Restricted",Therapeutic or Preventive Procedure,D018753
+57,"Diet, Protein-Restricted",Therapeutic or Preventive Procedure,D018753
+58,"Diet, High-Fat",Therapeutic or Preventive Procedure,D059305
+59,"Diet, High-Fat",Therapeutic or Preventive Procedure,D059305
+60,Energy Metabolism,Physiologic Function,D004734
+61,Energy Metabolism,Physiologic Function,D004734
+62,Energy Metabolism,Organism Function,D004734
+63,Energy Metabolism,Organism Function,D004734
+64,Nutrigenomics,Biomedical Occupation or Discipline,D054647
+65,Metabolic Networks and Pathways,Molecular Function,D053858
+66,Metabolic Networks and Pathways,Molecular Function,D053858
+67,Metabolic Networks and Pathways,Functional Concept,D053858
+68,Metabolic Networks and Pathways,Functional Concept,D053858
+69,Adipogenesis,Molecular Function,D050156
+70,Diet Records,Intellectual Product,D015930
+71,Diet Records,Intellectual Product,D015930
+72,Feeding and Eating Disorders,Disease or Syndrome,D001068
+73,Feeding and Eating Disorders,Disease or Syndrome,D001068
+74,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+75,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+76,Feeding and Eating Disorders,Disease or Syndrome,D001068
+77,Feeding and Eating Disorders,Disease or Syndrome,D001068
+78,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+79,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+80,Feeding and Eating Disorders,Disease or Syndrome,D001068
+81,Feeding and Eating Disorders,Disease or Syndrome,D001068
+82,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+83,Feeding and Eating Disorders,Mental or Behavioral Dysfunction,D001068
+85,Pediatric Obesity,Disease or Syndrome,D063766
+86,Pediatric Obesity,Disease or Syndrome,D063766
+87,Pediatric Obesity,Finding,D063766
+88,Pediatric Obesity,Finding,D063766
+89,Pediatric Obesity,Disease or Syndrome,D063766
+90,Pediatric Obesity,Disease or Syndrome,D063766
+91,Pediatric Obesity,Finding,D063766
+92,Pediatric Obesity,Finding,D063766
+93,"Stress, Psychological",Mental or Behavioral Dysfunction,D013315
+94,"Depression, Postpartum",Mental or Behavioral Dysfunction,D019052
+95,"Depression, Chemical",Mental or Behavioral Dysfunction,D003864
+96,Depression,Mental or Behavioral Dysfunction,D003863
+97,Depression,Mental or Behavioral Dysfunction,D003863
+98,Depression,Sign or Symptom,D003863
+99,Depression,Sign or Symptom,D003863
+100,Long-Term Synaptic Depression,Organ or Tissue Function,D036881
+101,Inbreeding Depression,Natural Phenomenon or Process,D000071422
+102,Cortical Spreading Depression,Clinical Attribute,D013181
+103,Mental Health Recovery,Therapeutic or Preventive Procedure,D000073038
+104,Mental Health Recovery,Therapeutic or Preventive Procedure,D000073038
+105,Mental Health,Mental Process,D008603
+106,Mental Health,Mental Process,D008603
+107,Community Mental Health Centers,Manufactured Object,D003155
+108,Community Mental Health Centers,Manufactured Object,D003155
+109,Community Mental Health Centers,Health Care Related Organization,D003155
+110,Community Mental Health Centers,Health Care Related Organization,D003155
+111,Community Mental Health Centers,Manufactured Object,D003155
+112,Community Mental Health Centers,Manufactured Object,D003155
+113,Community Mental Health Centers,Health Care Related Organization,D003155
+114,Community Mental Health Centers,Health Care Related Organization,D003155
+115,Quality of Life,Idea or Concept,D011788
+116,Healthy People Programs,Intellectual Product,D040361
+117,Healthy People Programs,Intellectual Product,D040361
+118,Healthy People Programs,Health Care Activity,D040361
+119,Healthy People Programs,Health Care Activity,D040361
+120,Health Care Surveys,Intellectual Product,D019538
+121,Health Care Surveys,Intellectual Product,D019538
+122,Health Care Surveys,Intellectual Product,D019538
+123,Health Care Surveys,Research Activity,D019538
+124,Health Care Surveys,Research Activity,D019538
+125,Health Care Surveys,Research Activity,D019538
+126,Health Care Surveys,Health Care Activity,D019538
+127,Health Care Surveys,Health Care Activity,D019538
+128,Health Care Surveys,Health Care Activity,D019538
+129,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+130,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+131,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+132,"Diet, Healthy",Finding,D000072001
+133,"Diet, Healthy",Finding,D000072001
+134,"Diet, Healthy",Finding,D000072001
+135,"Diet, Healthy",Individual Behavior,D000072001
+136,"Diet, Healthy",Individual Behavior,D000072001
+137,"Diet, Healthy",Individual Behavior,D000072001
+138,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+139,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+140,"Diet, Healthy",Therapeutic or Preventive Procedure,D000072001
+141,"Diet, Healthy",Finding,D000072001
+142,"Diet, Healthy",Finding,D000072001
+143,"Diet, Healthy",Finding,D000072001
+144,"Diet, Healthy",Individual Behavior,D000072001
+145,"Diet, Healthy",Individual Behavior,D000072001
+146,"Diet, Healthy",Individual Behavior,D000072001
+147,"Catchment Area, Health",Geographic Area,D002391
+148,Oral Health,Finding,D009909
+149,Family Health,Finding,D005192
+150,"Insurance, Health, Reimbursement",Health Care Related Organization,D007349
+151,"Insurance, Health, Reimbursement",Health Care Related Organization,D007349
+152,"Insurance, Health, Reimbursement",Health Care Activity,D007349
+153,"Insurance, Health, Reimbursement",Health Care Activity,D007349
+154,"Quality Indicators, Health Care",Qualitative Concept,D019984
+155,"Quality Indicators, Health Care",Qualitative Concept,D019984
+156,"Quality Indicators, Health Care",Quantitative Concept,D019984
+157,"Quality Indicators, Health Care",Quantitative Concept,D019984
+158,Access to Healthy Foods,Qualitative Concept,D000091483
+159,"Near Miss, Healthcare",Qualitative Concept,D000067491
+160,"Quality Assurance, Health Care",Qualitative Concept,D011785
+161,Healthcare Disparities,Qualitative Concept,D054625
+162,Health,Qualitative Concept,D006262
+163,Health,Qualitative Concept,D006262
+164,Health,Idea or Concept,D006262
+165,Health,Idea or Concept,D006262
+166,"Outcome Assessment, Health Care",Research Activity,D017063
+167,"Outcome Assessment, Health Care",Research Activity,D017063
+168,"Outcome Assessment, Health Care",Research Activity,D017063
+169,"Outcome Assessment, Health Care",Quantitative Concept,D017063
+170,"Outcome Assessment, Health Care",Quantitative Concept,D017063
+171,"Outcome Assessment, Health Care",Quantitative Concept,D017063
+172,"Outcome Assessment, Health Care",Occupational Activity,D017063
+173,"Outcome Assessment, Health Care",Occupational Activity,D017063
+174,"Outcome Assessment, Health Care",Occupational Activity,D017063
+175,Women's Health,Biomedical Occupation or Discipline,D016387
+176,Environmental Health,Biomedical Occupation or Discipline,D004782
+177,Global Health,Biomedical Occupation or Discipline,D014943
+178,Global Health,Biomedical Occupation or Discipline,D014943
+179,Global Health,Idea or Concept,D014943
+180,Global Health,Idea or Concept,D014943
+181,"Outcome and Process Assessment, Health Care",Health Care Activity,D010043
+182,Comprehensive Health Care,Health Care Activity,D003191
+183,Quality of Health Care,Health Care Activity,D011787
+184,Quality of Health Care,Health Care Activity,D011787
+185,Quality of Health Care,Functional Concept,D011787
+186,Quality of Health Care,Functional Concept,D011787
+187,Tertiary Healthcare,Health Care Activity,D063128
+188,Population Health,Health Care Activity,D000075485
+189,"Insurance, Health",Health Care Activity,D007348
+190,Primary Health Care,Health Care Activity,D011320
+191,"Health Benefit Plans, Employee",Health Care Activity,D006264
+192,Health Care Rationing,Health Care Activity,D015276
+193,Health Care Costs,Quantitative Concept,D017048
+194,Health Behavior,Individual Behavior,D015438
+195,Health Behavior,Individual Behavior,D015438
+196,Health Risk Behaviors,Individual Behavior,D000073599
+197,Healthy Lifestyle,Individual Behavior,D000070497
+198,Healthy Lifestyle,Individual Behavior,D000070497
+199,Attitude to Health,Social Behavior,D001294
+200,Urban Health,Idea or Concept,D014504
+201,One Health,Idea or Concept,D000074823
+202,Public Reporting of Healthcare Data,Governmental or Regulatory Activity,D000079204
+203,Universal Health Care,Governmental or Regulatory Activity,D000080423
+204,Health Care Reform,Governmental or Regulatory Activity,D018166
+205,Men's Health,Group Attribute,D054526
+206,Healthy Aging,Group Attribute,D000073656
+207,"Health Knowledge, Attitudes, Practice",Behavior,D007722
+208,"Diabetes Mellitus, Type 2",Disease or Syndrome,D003924
+209,Metabolic Diseases,Disease or Syndrome,D008659
+210,Body Height,Organism Attribute,D001827
+211,Risk Reduction Behavior,Individual Behavior,D040242
+212,Body Image,Mental Process,D001828
+213,Body Image,Mental Process,D001828
+214,Body Image,Qualitative Concept,D001828
+215,Body Image,Qualitative Concept,D001828
+216,Sports Medicine,Biomedical Occupation or Discipline,D013178
+217,Sports Nutritional Sciences,Biomedical Occupation or Discipline,D064132
+218,Racquet Sports,Daily or Recreational Activity,D015865
+219,Sports,Daily or Recreational Activity,D013177
+220,Leisure Activities,Idea or Concept,D007899
+221,Leisure Activities,Idea or Concept,D007899
+222,Leisure Activities,Daily or Recreational Activity,D007899
+223,Leisure Activities,Daily or Recreational Activity,D007899
+224,Intra-Abdominal Fat,Tissue,D050152
+225,Intra-Abdominal Fat,Tissue,D050152
+226,Glucose Metabolism Disorders,Disease or Syndrome,D044882
+227,Insulin Secretion,Cell Function,D000078790
+228,Insulin Secretion,Cell Function,D000078790
+229,"Insulin, Isophane",Pharmacologic Substance,D007336
+230,"Insulin, Isophane",Pharmacologic Substance,D007336
+231,"Insulin, Isophane",Pharmacologic Substance,D007336
+232,"Insulin, Isophane","Amino Acid, Peptide, or Protein",D007336
+233,"Insulin, Isophane","Amino Acid, Peptide, or Protein",D007336
+234,"Insulin, Isophane","Amino Acid, Peptide, or Protein",D007336
+235,"Insulin, Isophane",Hormone,D007336
+236,"Insulin, Isophane",Hormone,D007336
+237,"Insulin, Isophane",Hormone,D007336
+238,Insulin Detemir,Pharmacologic Substance,D000069057
+239,Insulin Detemir,Pharmacologic Substance,D000069057
+240,Insulin Detemir,Pharmacologic Substance,D000069057
+241,Insulin Detemir,"Amino Acid, Peptide, or Protein",D000069057
+242,Insulin Detemir,"Amino Acid, Peptide, or Protein",D000069057
+243,Insulin Detemir,"Amino Acid, Peptide, or Protein",D000069057
+244,Insulin Detemir,Hormone,D000069057
+245,Insulin Detemir,Hormone,D000069057
+246,Insulin Detemir,Hormone,D000069057
+247,Biphasic Insulins,Pharmacologic Substance,D061265
+248,Biphasic Insulins,Pharmacologic Substance,D061265
+249,Biphasic Insulins,Pharmacologic Substance,D061265
+250,Biphasic Insulins,"Amino Acid, Peptide, or Protein",D061265
+251,Biphasic Insulins,"Amino Acid, Peptide, or Protein",D061265
+252,Biphasic Insulins,"Amino Acid, Peptide, or Protein",D061265
+253,Biphasic Insulins,Hormone,D061265
+254,Biphasic Insulins,Hormone,D061265
+255,Biphasic Insulins,Hormone,D061265
+256,Insulin Lispro,Pharmacologic Substance,D061268
+257,Insulin Lispro,Pharmacologic Substance,D061268
+258,Insulin Lispro,Pharmacologic Substance,D061268
+259,Insulin Lispro,Pharmacologic Substance,D061268
+260,Insulin Lispro,"Amino Acid, Peptide, or Protein",D061268
+261,Insulin Lispro,"Amino Acid, Peptide, or Protein",D061268
+262,Insulin Lispro,"Amino Acid, Peptide, or Protein",D061268
+263,Insulin Lispro,"Amino Acid, Peptide, or Protein",D061268
+264,Insulin Lispro,Hormone,D061268
+265,Insulin Lispro,Hormone,D061268
+266,Insulin Lispro,Hormone,D061268
+267,Insulin Lispro,Hormone,D061268
+268,Insulin Lispro,Medical Device,D061268
+269,Insulin Lispro,Medical Device,D061268
+270,Insulin Lispro,Medical Device,D061268
+271,Insulin Lispro,Medical Device,D061268
+272,"Insulin, Short-Acting",Pharmacologic Substance,D061266
+273,"Insulin, Short-Acting",Pharmacologic Substance,D061266
+274,"Insulin, Short-Acting",Pharmacologic Substance,D061266
+275,"Insulin, Short-Acting","Amino Acid, Peptide, or Protein",D061266
+276,"Insulin, Short-Acting","Amino Acid, Peptide, or Protein",D061266
+277,"Insulin, Short-Acting","Amino Acid, Peptide, or Protein",D061266
+278,"Insulin, Short-Acting",Hormone,D061266
+279,"Insulin, Short-Acting",Hormone,D061266
+280,"Insulin, Short-Acting",Hormone,D061266
+281,Insulin Aspart,Pharmacologic Substance,D061267
+282,Insulin Aspart,Pharmacologic Substance,D061267
+283,Insulin Aspart,Pharmacologic Substance,D061267
+284,Insulin Aspart,"Amino Acid, Peptide, or Protein",D061267
+285,Insulin Aspart,"Amino Acid, Peptide, or Protein",D061267
+286,Insulin Aspart,"Amino Acid, Peptide, or Protein",D061267
+287,Insulin Aspart,Hormone,D061267
+288,Insulin Aspart,Hormone,D061267
+289,Insulin Aspart,Hormone,D061267
+290,Insulin,Pharmacologic Substance,D007328
+291,Insulin,Pharmacologic Substance,D007328
+292,Insulin,Pharmacologic Substance,D007328
+293,Insulin,"Amino Acid, Peptide, or Protein",D007328
+294,Insulin,"Amino Acid, Peptide, or Protein",D007328
+295,Insulin,"Amino Acid, Peptide, or Protein",D007328
+296,Insulin,Hormone,D007328
+297,Insulin,Hormone,D007328
+298,Insulin,Hormone,D007328
+299,Insulin Glargine,Pharmacologic Substance,D000069036
+300,Insulin Glargine,Pharmacologic Substance,D000069036
+301,Insulin Glargine,Pharmacologic Substance,D000069036
+302,Insulin Glargine,"Amino Acid, Peptide, or Protein",D000069036
+303,Insulin Glargine,"Amino Acid, Peptide, or Protein",D000069036
+304,Insulin Glargine,"Amino Acid, Peptide, or Protein",D000069036
+305,Insulin Glargine,Hormone,D000069036
+306,Insulin Glargine,Hormone,D000069036
+307,Insulin Glargine,Hormone,D000069036
+308,"Insulin, Regular, Human",Pharmacologic Substance,D061386
+309,"Insulin, Regular, Human",Pharmacologic Substance,D061386
+310,"Insulin, Regular, Human",Pharmacologic Substance,D061386
+311,"Insulin, Regular, Human","Amino Acid, Peptide, or Protein",D061386
+312,"Insulin, Regular, Human","Amino Acid, Peptide, or Protein",D061386
+313,"Insulin, Regular, Human","Amino Acid, Peptide, or Protein",D061386
+314,"Insulin, Regular, Human",Hormone,D061386
+315,"Insulin, Regular, Human",Hormone,D061386
+316,"Insulin, Regular, Human",Hormone,D061386
+317,Insulins,Pharmacologic Substance,D061385
+318,"Isophane Insulin, Human",Pharmacologic Substance,D000068880
+319,"Isophane Insulin, Human",Pharmacologic Substance,D000068880
+320,"Isophane Insulin, Human",Pharmacologic Substance,D000068880
+321,"Isophane Insulin, Human","Amino Acid, Peptide, or Protein",D000068880
+322,"Isophane Insulin, Human","Amino Acid, Peptide, or Protein",D000068880
+323,"Isophane Insulin, Human","Amino Acid, Peptide, or Protein",D000068880
+324,"Isophane Insulin, Human",Hormone,D000068880
+325,"Isophane Insulin, Human",Hormone,D000068880
+326,"Isophane Insulin, Human",Hormone,D000068880
+327,"Insulin, Long-Acting",Pharmacologic Substance,D049528
+328,"Insulin, Long-Acting",Pharmacologic Substance,D049528
+329,"Insulin, Long-Acting",Pharmacologic Substance,D049528
+330,"Insulin, Long-Acting","Amino Acid, Peptide, or Protein",D049528
+331,"Insulin, Long-Acting","Amino Acid, Peptide, or Protein",D049528
+332,"Insulin, Long-Acting","Amino Acid, Peptide, or Protein",D049528
+333,"Insulin, Long-Acting",Hormone,D049528
+334,"Insulin, Long-Acting",Hormone,D049528
+335,"Insulin, Long-Acting",Hormone,D049528
+336,"Receptor, Insulin","Amino Acid, Peptide, or Protein",D011972
+337,"Receptor, Insulin","Amino Acid, Peptide, or Protein",D011972
+338,"Receptor, Insulin","Amino Acid, Peptide, or Protein",D011972
+339,"Receptor, Insulin",Receptor,D011972
+340,"Receptor, Insulin",Receptor,D011972
+341,"Receptor, Insulin",Receptor,D011972
+342,"Receptor, Insulin",Enzyme,D011972
+343,"Receptor, Insulin",Enzyme,D011972
+344,"Receptor, Insulin",Enzyme,D011972
+345,Insulin Receptor Substrate Proteins,"Amino Acid, Peptide, or Protein",D055504
+346,Insulin Receptor Substrate Proteins,"Amino Acid, Peptide, or Protein",D055504
+347,Insulin Receptor Substrate Proteins,Biologically Active Substance,D055504
+348,Insulin Receptor Substrate Proteins,Biologically Active Substance,D055504
+349,Insulin Infusion Systems,Medical Device,D007332
+350,Insulin Resistance,Pathologic Function,D007333
+351,Insulin Resistance,Pathologic Function,D007333
+352,Insulinoma,Neoplastic Process,D007340
+353,Insulin-Secreting Cells,Cell,D050417
+354,Inflammation Mediators,Pharmacologic Substance,D018836
+355,Neurogenic Inflammation,Injury or Poisoning,D020078
+356,Inflammation,Pathologic Function,D007249
+357,Adipokines,"Amino Acid, Peptide, or Protein",D054392
+358,Adipokines,"Amino Acid, Peptide, or Protein",D054392
+359,Adipokines,Biologically Active Substance,D054392
+360,Adipokines,Biologically Active Substance,D054392
+361,"Neoplasms, Adipose Tissue",Neoplastic Process,D018205
+362,Adipose Tissue,Tissue,D000273
+363,Adipose Tissue,Tissue,D000273
+364,Adipose Tissue,Clinical Attribute,D000273
+365,Adipose Tissue,Clinical Attribute,D000273
+366,"Adipose Tissue, Beige",Tissue,D000069796
+387,Tertiary Prevention,Therapeutic or Preventive Procedure,D055512
+388,Secondary Prevention,Therapeutic or Preventive Procedure,D055502
+389,Primary Prevention,Therapeutic or Preventive Procedure,D011322
+390,Anorexia Nervosa,Mental or Behavioral Dysfunction,D000856
+391,Bulimia Nervosa,Mental or Behavioral Dysfunction,D052018
+392,"Obesity, Metabolically Benign",Sign or Symptom,D000067329
+393,"Obesity, Metabolically Benign",Sign or Symptom,D000067329
+394,Sedentary Behavior,Finding,D057185
+395,Sedentary Behavior,Finding,D057185
+396,Sedentary Behavior,Temporal Concept,D057185
+397,Sedentary Behavior,Temporal Concept,D057185
+398,Body Size,Organism Attribute,D049628
+399,Metabolic Equivalent,Diagnostic Procedure,D055686
+400,Physical Exertion,Organism Function,D005082
+401,Resistance Training,Therapeutic or Preventive Procedure,D055070
+402,Walking Speed,Organism Attribute,D000072797
+403,Walking,Daily or Recreational Activity,D016138
+404,Walking,Daily or Recreational Activity,D016138
+405,Walking,Functional Concept,D016138
+406,Walking,Functional Concept,D016138
+407,Weight-Bearing,Organism Attribute,D016474
+408,Physical Education and Training,Educational Activity,D010806
+409,"Diet, Mediterranean",Therapeutic or Preventive Procedure,D038441
+410,"Diet, Mediterranean",Therapeutic or Preventive Procedure,D038441
+411,"Obesity, Morbid",Disease or Syndrome,D009767
+412,"Obesity, Morbid",Disease or Syndrome,D009767
+413,"Obesity, Abdominal",Finding,D056128
+414,"Obesity, Abdominal",Finding,D056128
+415,"Obesity, Abdominal",Sign or Symptom,D056128
+416,"Obesity, Abdominal",Sign or Symptom,D056128
+417,"Obesity, Abdominal",Finding,D056128
+418,"Obesity, Abdominal",Finding,D056128
+419,"Obesity, Abdominal",Sign or Symptom,D056128
+420,"Obesity, Abdominal",Sign or Symptom,D056128
+421,Metagenomics,Biomedical Occupation or Discipline,D056186
+422,Fecal Microbiota Transplantation,Therapeutic or Preventive Procedure,D000069467
+423,Microbiota,Gene or Genome,D064307
+424,Microbiota,Gene or Genome,D064307
+425,Microbiota,Gene or Genome,D064307
+426,Microbiota,Organism Attribute,D064307
+427,Microbiota,Organism Attribute,D064307
+428,Microbiota,Organism Attribute,D064307
+429,Microbiota,Organism,D064307
+430,Microbiota,Organism,D064307
+431,Microbiota,Organism,D064307
+433,Metabolomics,Biomedical Occupation or Discipline,D055432
+434,Nutrition Assessment,Intellectual Product,D015596
+435,Nutrition Assessment,Intellectual Product,D015596
+436,Nutrition Assessment,Intellectual Product,D015596
+437,Nutrition Assessment,Diagnostic Procedure,D015596
+438,Nutrition Assessment,Diagnostic Procedure,D015596
+439,Nutrition Assessment,Diagnostic Procedure,D015596
+440,Nutrition Assessment,Quantitative Concept,D015596
+441,Nutrition Assessment,Quantitative Concept,D015596
+442,Nutrition Assessment,Quantitative Concept,D015596
+443,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+444,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+445,Dietary Supplements,Food,D019587
+446,Dietary Supplements,Food,D019587
+447,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+448,Dietary Supplements,Therapeutic or Preventive Procedure,D019587
+449,Dietary Supplements,Food,D019587
+450,Dietary Supplements,Food,D019587
+451,"Diet, Reducing",Therapeutic or Preventive Procedure,D004038
+452,"Diet, Reducing",Therapeutic or Preventive Procedure,D004038
+453,Exercise Therapy,Therapeutic or Preventive Procedure,D005081
+454,Exercise Therapy,Therapeutic or Preventive Procedure,D005081
+455,Physical Therapy Modalities,Therapeutic or Preventive Procedure,D026741
+456,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+457,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+458,Diet Therapy,Health Care Activity,D004035
+459,Diet Therapy,Health Care Activity,D004035
+460,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+461,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+462,Diet Therapy,Health Care Activity,D004035
+463,Diet Therapy,Health Care Activity,D004035
+464,Behavior Therapy,Therapeutic or Preventive Procedure,D001521
+465,Weight Reduction Programs,Health Care Activity,D061217
+466,Anti-Obesity Agents,Pharmacologic Substance,D019440
+467,Anti-Obesity Agents,Pharmacologic Substance,D019440
+468,Bariatric Surgery,Therapeutic or Preventive Procedure,D050110
+469,Polycystic Ovary Syndrome,Disease or Syndrome,D011085
+470,Dyslipidemias,Disease or Syndrome,D050171
+471,Dyslipidemias,Disease or Syndrome,D050171
+472,Dyslipidemias,Pathologic Function,D050171
+473,Dyslipidemias,Pathologic Function,D050171
+474,"Hypertension, Renovascular",Disease or Syndrome,D006978
+475,"Hypertension, Portal",Disease or Syndrome,D006975
+476,Hypertension,Disease or Syndrome,D006973
+477,"Hypertension, Renal",Disease or Syndrome,D006977
+478,White Coat Hypertension,Disease or Syndrome,D059466
+479,Essential Hypertension,Disease or Syndrome,D000075222
+480,"Hypertension, Pregnancy-Induced",Disease or Syndrome,D046110
+481,"Hypertension, Pregnancy-Induced",Disease or Syndrome,D046110
+482,"Hypertension, Pregnancy-Induced",Pathologic Function,D046110
+483,"Hypertension, Pregnancy-Induced",Pathologic Function,D046110
+484,Intracranial Hypertension,Finding,D019586
+485,Metabolic Syndrome,Disease or Syndrome,D024821
+486,Hunger,Sign or Symptom,D006815
+487,Peptide YY,"Amino Acid, Peptide, or Protein",D019894
+488,Peptide YY,"Amino Acid, Peptide, or Protein",D019894
+489,Peptide YY,Hormone,D019894
+490,Peptide YY,Hormone,D019894
+491,"Receptors, Ghrelin","Amino Acid, Peptide, or Protein",D054440
+492,"Receptors, Ghrelin","Amino Acid, Peptide, or Protein",D054440
+493,"Receptors, Ghrelin",Receptor,D054440
+494,"Receptors, Ghrelin",Receptor,D054440
+495,Ghrelin,"Amino Acid, Peptide, or Protein",D054439
+496,Ghrelin,"Amino Acid, Peptide, or Protein",D054439
+497,Ghrelin,Hormone,D054439
+498,Ghrelin,Hormone,D054439
+499,"Receptors, Leptin","Amino Acid, Peptide, or Protein",D054411
+500,"Receptors, Leptin","Amino Acid, Peptide, or Protein",D054411
+501,"Receptors, Leptin",Receptor,D054411
+502,"Receptors, Leptin",Receptor,D054411
+503,Leptin,"Amino Acid, Peptide, or Protein",D020738
+504,Leptin,"Amino Acid, Peptide, or Protein",D020738
+505,Leptin,Hormone,D020738
+506,Leptin,Hormone,D020738
+507,Glycemic Index,Quantitative Concept,D038321
+508,Dietary Fiber,Food,D004043
+509,Dietary Fiber,Food,D004043
+510,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
+511,Dietary Proteins,"Amino Acid, Peptide, or Protein",D004044
+512,Dietary Carbohydrates,Organic Chemical,D004040
+513,Dietary Carbohydrates,Organic Chemical,D004040
+514,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+515,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+516,"Dietary Fats, Unsaturated",Food,D004042
+517,"Dietary Fats, Unsaturated",Food,D004042
+518,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+519,"Dietary Fats, Unsaturated",Organic Chemical,D004042
+520,"Dietary Fats, Unsaturated",Food,D004042
+521,"Dietary Fats, Unsaturated",Food,D004042
+522,Dietary Fats,Food,D004041
+523,Dietary Fats,Food,D004041
+524,Caloric Restriction,Therapeutic or Preventive Procedure,D031204
+525,Caloric Restriction,Therapeutic or Preventive Procedure,D031204
+526,Caloric Restriction,Finding,D031204
+527,Caloric Restriction,Finding,D031204
+528,Nutritional Status,Finding,D009752
+529,Food Preferences,Qualitative Concept,D005518
+530,Food Preferences,Qualitative Concept,D005518
+531,Food Preferences,Individual Behavior,D005518
+532,Food Preferences,Individual Behavior,D005518
+533,Feeding Behavior,Individual Behavior,D005247
+534,Feeding Behavior,Individual Behavior,D005247
+535,Feeding Behavior,Organism Function,D005247
+536,Feeding Behavior,Organism Function,D005247
+537,Satiety Response,Mental Process,D012528
+538,Appetite Depressants,Pharmacologic Substance,D001067
+539,Appetite Stimulants,Pharmacologic Substance,D019167
+540,Appetite,Physiologic Function,D001066
+541,Appetite,Physiologic Function,D001066
+542,Appetite,Organism Function,D001066
+543,Appetite,Organism Function,D001066
+544,Appetite Regulation,Organism Function,D001069
+545,Binge-Eating Disorder,Mental or Behavioral Dysfunction,D056912
+546,Eating,Finding,D004435
+547,Eating,Finding,D004435
+548,Eating,Finding,D004435
+549,Eating,Organism Function,D004435
+550,Eating,Organism Function,D004435
+551,Eating,Organism Function,D004435
+552,Eating,Biologic Function,D004435
+553,Eating,Biologic Function,D004435
+554,Eating,Biologic Function,D004435
+555,Recommended Dietary Allowances,Intellectual Product,D064167
+556,"Cholesterol, Dietary",Organic Chemical,D002791
+557,"Diet, Sodium-Restricted",Therapeutic or Preventive Procedure,D004039
+558,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
+559,"Diet, Vegetarian",Therapeutic or Preventive Procedure,D014676
+560,"Diet, Vegetarian",Finding,D014676
+561,"Diet, Vegetarian",Finding,D014676
+562,"Diet, Diabetic",Therapeutic or Preventive Procedure,D003927
+563,"Diet, High-Protein Low-Carbohydrate",Therapeutic or Preventive Procedure,D000076107
+564,"Diet, High-Protein",Therapeutic or Preventive Procedure,D000073600
+565,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
+566,"Diet, Ketogenic",Therapeutic or Preventive Procedure,D055423
+567,"Diet, Carbohydrate Loading",Therapeutic or Preventive Procedure,D000070601
+568,"Diet, Fat-Restricted",Therapeutic or Preventive Procedure,D018752
+569,"Iron, Dietary",Inorganic Chemical,D019266
+570,"Calcium, Dietary",Inorganic Chemical,D002136
+571,Dietary Exposure,Injury or Poisoning,D000074341
+572,"Phosphorus, Dietary","Element, Ion, or Isotope",D016226
+573,Loeys-Dietz Syndrome,Disease or Syndrome,D055947
+574,"Diet, Western",Finding,D066273
+575,"Diet, Vegan",Finding,D000067269
+576,"Diet, Macrobiotic",Finding,D015623
+577,"Diet, Paleolithic",Finding,D066046
+578,"Sodium, Dietary",Food,D012982
+579,"Potassium, Dietary",Food,D017419
+580,Diet,Food,D004032
+581,Dietary Sugars,Food,D000073417
+582,"Sodium Chloride, Dietary",Food,D017673
+583,"Diet, Atherogenic",Research Activity,D004036
+584,Dietetics,Biomedical Occupation or Discipline,D004046
+585,Diet Surveys,Health Care Activity,D004034
+586,Plyometric Exercise,Therapeutic or Preventive Procedure,D059385
+587,Circuit-Based Exercise,Therapeutic or Preventive Procedure,D065327
+588,Circuit-Based Exercise,Therapeutic or Preventive Procedure,D065327
+589,Circuit-Based Exercise,Daily or Recreational Activity,D065327
+590,Circuit-Based Exercise,Daily or Recreational Activity,D065327
+591,Exercise,Therapeutic or Preventive Procedure,D015444
+592,Exercise,Therapeutic or Preventive Procedure,D015444
+593,Exercise,Daily or Recreational Activity,D015444
+594,Exercise,Daily or Recreational Activity,D015444
+595,Muscle Stretching Exercises,Therapeutic or Preventive Procedure,D052580
+596,Breathing Exercises,Therapeutic or Preventive Procedure,D001945
+597,Post-Exercise Hypotension,Finding,D057774
+598,Exercise Test,Diagnostic Procedure,D005080
+599,Exercise Tolerance,Clinical Attribute,D017079
+600,Physical Fitness,Idea or Concept,D010809
+601,Basal Metabolism,Organism Function,D001481
+602,Energy Intake,Quantitative Concept,D002149
+603,Body Fat Distribution,Finding,D050218
+604,Body Composition,Organism Attribute,D001823
+605,"Subcutaneous Fat, Abdominal",Tissue,D050507
+606,Subcutaneous Fat,Tissue,D050151
+607,Abdominal Fat,Tissue,D050153
+608,Adiposity,Organism Attribute,D050154
+609,Waist Circumference,Clinical Attribute,D055105
+610,Body Mass Index,Clinical Attribute,D015992
+611,Weight Loss,Finding,D015431
+612,Weight Gain,Finding,D015430
+613,Gestational Weight Gain,Finding,D000078064
+614,Ideal Body Weight,Medical Device,D056865
+615,Ideal Body Weight,Medical Device,D056865
+616,Ideal Body Weight,Medical Device,D056865
+617,Ideal Body Weight,Quantitative Concept,D056865
+618,Ideal Body Weight,Quantitative Concept,D056865
+619,Ideal Body Weight,Quantitative Concept,D056865
+620,Ideal Body Weight,Clinical Attribute,D056865
+621,Ideal Body Weight,Clinical Attribute,D056865
+622,Ideal Body Weight,Clinical Attribute,D056865
+623,Body Weights and Measures,Diagnostic Procedure,D001837
+624,Body Weights and Measures,Diagnostic Procedure,D001837
+625,Body Weights and Measures,Quantitative Concept,D001837
+626,Body Weights and Measures,Quantitative Concept,D001837
+627,Body Weight,Organism Attribute,D001835
+628,Body Weight Maintenance,Activity,D000068959
+629,Overweight,Finding,D050177
+630,Obesity,Disease or Syndrome,D009765

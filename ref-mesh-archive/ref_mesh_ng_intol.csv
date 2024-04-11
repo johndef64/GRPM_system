@@ -1,0 +1,377 @@
+,Preferred Label,Semantic Types Label,mesh_id
+0,"Fatigue Syndrome, Chronic",Disease or Syndrome,D015673
+1,Migraine Disorders,Disease or Syndrome,D008881
+2,Tension-Type Headache,Disease or Syndrome,D018781
+3,Headache Disorders,Disease or Syndrome,D020773
+4,Cluster Headache,Disease or Syndrome,D003027
+5,"Headache Disorders, Primary",Disease or Syndrome,D051270
+6,"Headache Disorders, Primary",Disease or Syndrome,D051270
+7,"Headache Disorders, Primary",Finding,D051270
+8,"Headache Disorders, Primary",Finding,D051270
+9,"Headache Disorders, Secondary",Disease or Syndrome,D051271
+10,Headache,Sign or Symptom,D006261
+11,Test Anxiety Scale,Intellectual Product,D013732
+12,Anti-Anxiety Agents,Pharmacologic Substance,D014151
+13,Anti-Anxiety Agents,Pharmacologic Substance,D014151
+14,Anti-Anxiety Agents,Physiologic Function,D014151
+15,Anti-Anxiety Agents,Physiologic Function,D014151
+25,Anxiety Disorders,Mental or Behavioral Dysfunction,D001008
+26,"Anxiety, Separation",Mental or Behavioral Dysfunction,D001010
+27,Dental Anxiety,Mental or Behavioral Dysfunction,D016854
+28,"Depression, Postpartum",Mental or Behavioral Dysfunction,D019052
+29,"Depression, Chemical",Mental or Behavioral Dysfunction,D003864
+34,Long-Term Synaptic Depression,Organ or Tissue Function,D036881
+35,Inbreeding Depression,Natural Phenomenon or Process,D000071422
+36,Cortical Spreading Depression,Clinical Attribute,D013181
+41,"Osteoporosis, Postmenopausal",Disease or Syndrome,D015663
+43,Fanconi Anemia Complementation Group Proteins,"Amino Acid, Peptide, or Protein",D051856
+44,Fanconi Anemia Complementation Group Proteins,"Amino Acid, Peptide, or Protein",D051856
+45,Fanconi Anemia Complementation Group Proteins,Biologically Active Substance,D051856
+46,Fanconi Anemia Complementation Group Proteins,Biologically Active Substance,D051856
+47,Fanconi Anemia Complementation Group L Protein,"Amino Acid, Peptide, or Protein",D052240
+48,Fanconi Anemia Complementation Group L Protein,"Amino Acid, Peptide, or Protein",D052240
+49,Fanconi Anemia Complementation Group L Protein,Enzyme,D052240
+50,Fanconi Anemia Complementation Group L Protein,Enzyme,D052240
+51,Fanconi Anemia Complementation Group G Protein,"Amino Acid, Peptide, or Protein",D052241
+52,Fanconi Anemia Complementation Group G Protein,"Amino Acid, Peptide, or Protein",D052241
+53,Fanconi Anemia Complementation Group G Protein,Biologically Active Substance,D052241
+54,Fanconi Anemia Complementation Group G Protein,Biologically Active Substance,D052241
+55,Fanconi Anemia Complementation Group N Protein,"Amino Acid, Peptide, or Protein",D000076164
+56,Fanconi Anemia Complementation Group N Protein,"Amino Acid, Peptide, or Protein",D000076164
+57,Fanconi Anemia Complementation Group N Protein,Biologically Active Substance,D000076164
+58,Fanconi Anemia Complementation Group N Protein,Biologically Active Substance,D000076164
+59,Fanconi Anemia Complementation Group D2 Protein,"Amino Acid, Peptide, or Protein",D052236
+60,Fanconi Anemia Complementation Group D2 Protein,"Amino Acid, Peptide, or Protein",D052236
+61,Fanconi Anemia Complementation Group D2 Protein,Biologically Active Substance,D052236
+62,Fanconi Anemia Complementation Group D2 Protein,Biologically Active Substance,D052236
+63,Fanconi Anemia Complementation Group E Protein,"Amino Acid, Peptide, or Protein",D052239
+64,Fanconi Anemia Complementation Group E Protein,"Amino Acid, Peptide, or Protein",D052239
+65,Fanconi Anemia Complementation Group E Protein,Biologically Active Substance,D052239
+66,Fanconi Anemia Complementation Group E Protein,Biologically Active Substance,D052239
+67,Fanconi Anemia Complementation Group F Protein,"Amino Acid, Peptide, or Protein",D052219
+68,Fanconi Anemia Complementation Group F Protein,"Amino Acid, Peptide, or Protein",D052219
+69,Fanconi Anemia Complementation Group F Protein,Biologically Active Substance,D052219
+70,Fanconi Anemia Complementation Group F Protein,Biologically Active Substance,D052219
+71,Fanconi Anemia Complementation Group C Protein,"Amino Acid, Peptide, or Protein",D052218
+72,Fanconi Anemia Complementation Group C Protein,"Amino Acid, Peptide, or Protein",D052218
+73,Fanconi Anemia Complementation Group C Protein,Biologically Active Substance,D052218
+74,Fanconi Anemia Complementation Group C Protein,Biologically Active Substance,D052218
+75,Fanconi Anemia Complementation Group A Protein,"Amino Acid, Peptide, or Protein",D052217
+76,Fanconi Anemia Complementation Group A Protein,"Amino Acid, Peptide, or Protein",D052217
+77,Fanconi Anemia Complementation Group A Protein,Biologically Active Substance,D052217
+78,Fanconi Anemia Complementation Group A Protein,Biologically Active Substance,D052217
+79,"Anemia, Megaloblastic",Disease or Syndrome,D000749
+80,"Anemia, Hemolytic",Disease or Syndrome,D000743
+81,"Anemia, Dyserythropoietic, Congenital",Disease or Syndrome,D000742
+82,"Anemia, Hypochromic",Disease or Syndrome,D000747
+83,"Anemia, Macrocytic",Disease or Syndrome,D000748
+84,"Anemia, Hemolytic, Autoimmune",Disease or Syndrome,D000744
+85,"Anemia, Aplastic",Disease or Syndrome,D000741
+86,"Anemia, Hemolytic, Congenital",Disease or Syndrome,D000745
+87,Anemia,Disease or Syndrome,D000740
+88,"Anemia, Hemolytic, Congenital Nonspherocytic",Disease or Syndrome,D000746
+89,"Anemia, Diamond-Blackfan",Disease or Syndrome,D029503
+90,"Anemia, Hypoplastic, Congenital",Disease or Syndrome,D029502
+91,"Anemia, Neonatal",Disease or Syndrome,D000751
+92,"Anemia, Refractory",Disease or Syndrome,D000753
+93,"Anemia, Sideroblastic",Disease or Syndrome,D000756
+94,"Anemia, Pernicious",Disease or Syndrome,D000752
+95,"Anemia, Myelophthisic",Disease or Syndrome,D000750
+96,"Anemia, Sickle Cell",Disease or Syndrome,D000755
+97,"Anemia, Iron-Deficiency",Disease or Syndrome,D018798
+98,Fanconi Anemia,Disease or Syndrome,D005199
+100,"Anemia, Refractory, with Excess of Blasts",Neoplastic Process,D000754
+101,Weight Loss,Finding,D015431
+102,Steatorrhea,Finding,D045602
+103,Malabsorption Syndromes,Disease or Syndrome,D008286
+104,Dyspepsia,Sign or Symptom,D004415
+105,Vesico-Ureteral Reflux,Disease or Syndrome,D014718
+106,Gastroesophageal Reflux,Disease or Syndrome,D005764
+107,Postoperative Nausea and Vomiting,Sign or Symptom,D020250
+108,Postoperative Nausea and Vomiting,Sign or Symptom,D020250
+109,Vomiting,Sign or Symptom,D014839
+110,Nausea,Sign or Symptom,D009325
+111,Constipation,Sign or Symptom,D003248
+112,Bovine Virus Diarrhea-Mucosal Disease,Disease or Syndrome,D001912
+113,"Diarrhea Viruses, Bovine Viral",Virus,D001908
+116,Diarrhea,Sign or Symptom,D003967
+117,"Diarrhea, Infantile",Sign or Symptom,D003968
+118,Abdominal Pain,Sign or Symptom,D015746
+119,Gastrointestinal Diseases,Disease or Syndrome,D005767
+120,Fructose,Pharmacologic Substance,D005632
+121,Fructose,Pharmacologic Substance,D005632
+122,Fructose,Organic Chemical,D005632
+123,Fructose,Organic Chemical,D005632
+124,Fructose-Bisphosphate Aldolase,"Amino Acid, Peptide, or Protein",D005634
+125,Fructose-Bisphosphate Aldolase,"Amino Acid, Peptide, or Protein",D005634
+126,Fructose-Bisphosphate Aldolase,Enzyme,D005634
+127,Fructose-Bisphosphate Aldolase,Enzyme,D005634
+128,Fructose-Bisphosphatase,"Amino Acid, Peptide, or Protein",D006597
+129,Fructose-Bisphosphatase,"Amino Acid, Peptide, or Protein",D006597
+130,Fructose-Bisphosphatase,Enzyme,D006597
+131,Fructose-Bisphosphatase,Enzyme,D006597
+132,Glutamine-Fructose-6-Phosphate Transaminase (Isomerizing),"Amino Acid, Peptide, or Protein",D005945
+133,Glutamine-Fructose-6-Phosphate Transaminase (Isomerizing),"Amino Acid, Peptide, or Protein",D005945
+134,Glutamine-Fructose-6-Phosphate Transaminase (Isomerizing),Enzyme,D005945
+135,Glutamine-Fructose-6-Phosphate Transaminase (Isomerizing),Enzyme,D005945
+136,Fructosephosphates,Organic Chemical,D005636
+137,Fructosediphosphates,Organic Chemical,D005635
+138,Fructose Intolerance,Disease or Syndrome,D005633
+139,Fructose Intolerance,Disease or Syndrome,D005633
+140,Fructose Intolerance,Disease or Syndrome,D005633
+141,"Fructose-1,6-Diphosphatase Deficiency",Disease or Syndrome,D015319
+142,"Fructose Metabolism, Inborn Errors",Disease or Syndrome,D015318
+143,High Fructose Corn Syrup,Food,D066248
+144,Lactose,Pharmacologic Substance,D007785
+145,Lactose,Pharmacologic Substance,D007785
+146,Lactose,Pharmacologic Substance,D007785
+147,Lactose,Organic Chemical,D007785
+148,Lactose,Organic Chemical,D007785
+149,Lactose,Organic Chemical,D007785
+150,Lactose,Biologically Active Substance,D007785
+151,Lactose,Biologically Active Substance,D007785
+152,Lactose,Biologically Active Substance,D007785
+153,Lactose Intolerance,Disease or Syndrome,D007787
+154,Lactose Intolerance,Disease or Syndrome,D007787
+155,Lactose Intolerance,Disease or Syndrome,D007787
+156,Lactose Tolerance Test,Laboratory Procedure,D007789
+157,Wheat Germ Agglutinins,"Amino Acid, Peptide, or Protein",D014909
+158,Wheat Germ Agglutinins,"Amino Acid, Peptide, or Protein",D014909
+159,Wheat Germ Agglutinins,"Amino Acid, Peptide, or Protein",D014909
+160,Wheat Germ Agglutinins,"Indicator, Reagent, or Diagnostic Aid",D014909
+161,Wheat Germ Agglutinins,"Indicator, Reagent, or Diagnostic Aid",D014909
+162,Wheat Germ Agglutinins,"Indicator, Reagent, or Diagnostic Aid",D014909
+163,Wheat Germ Agglutinins,Immunologic Factor,D014909
+164,Wheat Germ Agglutinins,Immunologic Factor,D014909
+165,Wheat Germ Agglutinins,Immunologic Factor,D014909
+166,Wheat Germ Agglutinins,"Amino Acid, Peptide, or Protein",D014909
+167,Wheat Germ Agglutinins,"Amino Acid, Peptide, or Protein",D014909
+168,Wheat Germ Agglutinins,"Amino Acid, Peptide, or Protein",D014909
+169,Wheat Germ Agglutinins,"Indicator, Reagent, or Diagnostic Aid",D014909
+170,Wheat Germ Agglutinins,"Indicator, Reagent, or Diagnostic Aid",D014909
+171,Wheat Germ Agglutinins,"Indicator, Reagent, or Diagnostic Aid",D014909
+172,Wheat Germ Agglutinins,Immunologic Factor,D014909
+173,Wheat Germ Agglutinins,Immunologic Factor,D014909
+174,Wheat Germ Agglutinins,Immunologic Factor,D014909
+175,Gliadin,"Amino Acid, Peptide, or Protein",D005903
+176,Gliadin,"Amino Acid, Peptide, or Protein",D005903
+177,Gliadin,Biologically Active Substance,D005903
+178,Gliadin,Biologically Active Substance,D005903
+179,Aspartame,Pharmacologic Substance,D001218
+180,Aspartame,Pharmacologic Substance,D001218
+181,Aspartame,Pharmacologic Substance,D001218
+182,Aspartame,"Amino Acid, Peptide, or Protein",D001218
+183,Aspartame,"Amino Acid, Peptide, or Protein",D001218
+184,Aspartame,"Amino Acid, Peptide, or Protein",D001218
+185,Aspartame,Food,D001218
+186,Aspartame,Food,D001218
+187,Aspartame,Food,D001218
+188,Nitrites,Pharmacologic Substance,D009573
+189,Nitrites,Pharmacologic Substance,D009573
+190,Nitrites,Pharmacologic Substance,D009573
+191,Nitrites,Biologically Active Substance,D009573
+192,Nitrites,Biologically Active Substance,D009573
+193,Nitrites,Biologically Active Substance,D009573
+194,Nitrites,Inorganic Chemical,D009573
+195,Nitrites,Inorganic Chemical,D009573
+196,Nitrites,Inorganic Chemical,D009573
+197,Benzoates,Pharmacologic Substance,D001565
+198,Benzoates,Pharmacologic Substance,D001565
+199,Benzoates,Organic Chemical,D001565
+200,Benzoates,Organic Chemical,D001565
+201,Sulfites,Inorganic Chemical,D013447
+202,Food Additives,Food,D005503
+203,Food-Drug Interactions,Natural Phenomenon or Process,D018565
+204,Food-Drug Interactions,Natural Phenomenon or Process,D018565
+205,Food-Drug Interactions,Pathologic Function,D018565
+206,Food-Drug Interactions,Pathologic Function,D018565
+207,Crustacea,Eukaryote,D003445
+208,Soybean Proteins,Pharmacologic Substance,D030262
+209,Soybean Proteins,Pharmacologic Substance,D030262
+210,Soybean Proteins,Pharmacologic Substance,D030262
+211,Soybean Proteins,"Amino Acid, Peptide, or Protein",D030262
+212,Soybean Proteins,"Amino Acid, Peptide, or Protein",D030262
+213,Soybean Proteins,"Amino Acid, Peptide, or Protein",D030262
+214,Soybean Proteins,Biologically Active Substance,D030262
+215,Soybean Proteins,Biologically Active Substance,D030262
+216,Soybean Proteins,Biologically Active Substance,D030262
+217,Soybean Proteins,Pharmacologic Substance,D030262
+218,Soybean Proteins,Pharmacologic Substance,D030262
+219,Soybean Proteins,Pharmacologic Substance,D030262
+220,Soybean Proteins,"Amino Acid, Peptide, or Protein",D030262
+221,Soybean Proteins,"Amino Acid, Peptide, or Protein",D030262
+222,Soybean Proteins,"Amino Acid, Peptide, or Protein",D030262
+223,Soybean Proteins,Biologically Active Substance,D030262
+224,Soybean Proteins,Biologically Active Substance,D030262
+225,Soybean Proteins,Biologically Active Substance,D030262
+226,"Trypsin Inhibitor, Kunitz Soybean",Pharmacologic Substance,D014360
+227,"Trypsin Inhibitor, Kunitz Soybean",Pharmacologic Substance,D014360
+228,"Trypsin Inhibitor, Kunitz Soybean",Pharmacologic Substance,D014360
+229,"Trypsin Inhibitor, Kunitz Soybean","Amino Acid, Peptide, or Protein",D014360
+230,"Trypsin Inhibitor, Kunitz Soybean","Amino Acid, Peptide, or Protein",D014360
+231,"Trypsin Inhibitor, Kunitz Soybean","Amino Acid, Peptide, or Protein",D014360
+232,"Trypsin Inhibitor, Kunitz Soybean",Biologically Active Substance,D014360
+233,"Trypsin Inhibitor, Kunitz Soybean",Biologically Active Substance,D014360
+234,"Trypsin Inhibitor, Kunitz Soybean",Biologically Active Substance,D014360
+235,"Trypsin Inhibitor, Kunitz Soybean",Pharmacologic Substance,D014360
+236,"Trypsin Inhibitor, Kunitz Soybean",Pharmacologic Substance,D014360
+237,"Trypsin Inhibitor, Kunitz Soybean",Pharmacologic Substance,D014360
+238,"Trypsin Inhibitor, Kunitz Soybean","Amino Acid, Peptide, or Protein",D014360
+239,"Trypsin Inhibitor, Kunitz Soybean","Amino Acid, Peptide, or Protein",D014360
+240,"Trypsin Inhibitor, Kunitz Soybean","Amino Acid, Peptide, or Protein",D014360
+241,"Trypsin Inhibitor, Kunitz Soybean",Biologically Active Substance,D014360
+242,"Trypsin Inhibitor, Kunitz Soybean",Biologically Active Substance,D014360
+243,"Trypsin Inhibitor, Kunitz Soybean",Biologically Active Substance,D014360
+244,Soybean Oil,Pharmacologic Substance,D013024
+245,Soybean Oil,Pharmacologic Substance,D013024
+246,Soybean Oil,Food,D013024
+247,Soybean Oil,Food,D013024
+248,Soybean Oil,Pharmacologic Substance,D013024
+249,Soybean Oil,Pharmacologic Substance,D013024
+250,Soybean Oil,Food,D013024
+251,Soybean Oil,Food,D013024
+252,Soy Milk,Food,D041942
+253,Soy Milk,Food,D041942
+254,Soybeans,Food,D013025
+255,Soybeans,Food,D013025
+256,Soy Foods,Food,D045730
+257,"Fruiting Bodies, Fungal",Fungus,D048690
+258,Fruit,Plant,D005638
+259,Fruit,Plant,D005638
+260,Fruit,Food,D005638
+261,Fruit,Food,D005638
+262,Fruit and Vegetable Juices,Food,D000067030
+263,Phosphoramide Mustards,Pharmacologic Substance,D010752
+264,Phosphoramide Mustards,Pharmacologic Substance,D010752
+265,Phosphoramide Mustards,Organic Chemical,D010752
+266,Phosphoramide Mustards,Organic Chemical,D010752
+267,Mustard Compounds,Pharmacologic Substance,D009150
+268,Mustard Compounds,Pharmacologic Substance,D009150
+269,Mustard Compounds,Pharmacologic Substance,D009150
+270,Mustard Compounds,Organic Chemical,D009150
+271,Mustard Compounds,Organic Chemical,D009150
+272,Mustard Compounds,Organic Chemical,D009150
+273,Mustard Compounds,Hazardous or Poisonous Substance,D009150
+274,Mustard Compounds,Hazardous or Poisonous Substance,D009150
+275,Mustard Compounds,Hazardous or Poisonous Substance,D009150
+276,Nitrogen Mustard Compounds,Pharmacologic Substance,D009588
+277,Nitrogen Mustard Compounds,Pharmacologic Substance,D009588
+278,Nitrogen Mustard Compounds,Pharmacologic Substance,D009588
+279,Nitrogen Mustard Compounds,Organic Chemical,D009588
+280,Nitrogen Mustard Compounds,Organic Chemical,D009588
+281,Nitrogen Mustard Compounds,Organic Chemical,D009588
+282,Nitrogen Mustard Compounds,Hazardous or Poisonous Substance,D009588
+283,Nitrogen Mustard Compounds,Hazardous or Poisonous Substance,D009588
+284,Nitrogen Mustard Compounds,Hazardous or Poisonous Substance,D009588
+285,Mustard Gas,Organic Chemical,D009151
+286,Mustard Gas,Organic Chemical,D009151
+287,Mustard Gas,Hazardous or Poisonous Substance,D009151
+288,Mustard Gas,Hazardous or Poisonous Substance,D009151
+289,Mustard Plant,Plant,D009149
+290,Mustard Plant,Plant,D009149
+291,Mustard Plant,Food,D009149
+292,Mustard Plant,Food,D009149
+293,Shellfish Hypersensitivity,Disease or Syndrome,D000067208
+294,Shellfish,Eukaryote,D012758
+295,Fish Oils,Pharmacologic Substance,D005395
+296,Fish Oils,Pharmacologic Substance,D005395
+297,Fish Oils,Pharmacologic Substance,D005395
+298,Fish Oils,Organic Chemical,D005395
+299,Fish Oils,Organic Chemical,D005395
+300,Fish Oils,Organic Chemical,D005395
+301,Fish Oils,Vitamin,D005395
+302,Fish Oils,Vitamin,D005395
+303,Fish Oils,Vitamin,D005395
+304,Fish Proteins,"Amino Acid, Peptide, or Protein",D029941
+305,Fish Proteins,"Amino Acid, Peptide, or Protein",D029941
+306,Fish Proteins,Biologically Active Substance,D029941
+307,Fish Proteins,Biologically Active Substance,D029941
+308,Miller Fisher Syndrome,Disease or Syndrome,D019846
+309,Fish Diseases,Disease or Syndrome,D005393
+310,Fish Products,Food,D005396
+311,Electric Fish,Fish,D004555
+312,Fishes,Fish,D005399
+313,Fisheries,Organization,D005398
+314,Wheat Hypersensitivity,Disease or Syndrome,D021182
+315,Egg Proteins,"Amino Acid, Peptide, or Protein",D004527
+316,Egg Proteins,"Amino Acid, Peptide, or Protein",D004527
+317,Egg Proteins,Biologically Active Substance,D004527
+318,Egg Proteins,Biologically Active Substance,D004527
+320,Egg Yolk,Food,D004530
+321,Eggs,Food,D004531
+322,Parasite Egg Count,Laboratory Procedure,D010270
+323,Egg Shell,Embryonic Structure,D004528
+324,Milk Proteins,"Amino Acid, Peptide, or Protein",D008894
+325,Milk Proteins,"Amino Acid, Peptide, or Protein",D008894
+326,Milk Proteins,Biologically Active Substance,D008894
+327,Milk Proteins,Biologically Active Substance,D008894
+328,Milk Thistle,Plant,D020944
+329,Cultured Milk Products,Food,D043302
+330,Milk,Food,D008892
+331,Milk,Food,D008892
+332,Milk,Body Substance,D008892
+333,Milk,Body Substance,D008892
+335,"Milk, Human",Body Substance,D008895
+336,Peanut Agglutinin,"Amino Acid, Peptide, or Protein",D019887
+337,Peanut Agglutinin,"Amino Acid, Peptide, or Protein",D019887
+338,Peanut Agglutinin,"Amino Acid, Peptide, or Protein",D019887
+339,Peanut Agglutinin,"Indicator, Reagent, or Diagnostic Aid",D019887
+340,Peanut Agglutinin,"Indicator, Reagent, or Diagnostic Aid",D019887
+341,Peanut Agglutinin,"Indicator, Reagent, or Diagnostic Aid",D019887
+342,Peanut Agglutinin,Biologically Active Substance,D019887
+343,Peanut Agglutinin,Biologically Active Substance,D019887
+344,Peanut Agglutinin,Biologically Active Substance,D019887
+347,Glutens,"Amino Acid, Peptide, or Protein",D005983
+348,Glutens,"Amino Acid, Peptide, or Protein",D005983
+349,Glutens,Biologically Active Substance,D005983
+350,Glutens,Biologically Active Substance,D005983
+351,"Diet, Gluten-Free",Therapeutic or Preventive Procedure,D055050
+352,Anti-Inflammatory Agents,Pharmacologic Substance,D000893
+354,Gastrointestinal Microbiome,Bacterium,D000069196
+355,Gastrointestinal Microbiome,Bacterium,D000069196
+356,Gastrointestinal Microbiome,Organism,D000069196
+357,Gastrointestinal Microbiome,Organism,D000069196
+358,Prebiotics,Organic Chemical,D056692
+359,Probiotics,Bacterium,D019936
+362,"Desensitization, Psychologic",Therapeutic or Preventive Procedure,D003887
+363,Omalizumab,Pharmacologic Substance,D000069444
+364,Omalizumab,Pharmacologic Substance,D000069444
+365,Omalizumab,Pharmacologic Substance,D000069444
+366,Omalizumab,"Amino Acid, Peptide, or Protein",D000069444
+367,Omalizumab,"Amino Acid, Peptide, or Protein",D000069444
+368,Omalizumab,"Amino Acid, Peptide, or Protein",D000069444
+369,Omalizumab,Immunologic Factor,D000069444
+370,Omalizumab,Immunologic Factor,D000069444
+371,Omalizumab,Immunologic Factor,D000069444
+372,Leukotriene Antagonists,Pharmacologic Substance,D020024
+373,Leukotriene Antagonists,Pharmacologic Substance,D020024
+374,Leukotriene Antagonists,Organic Chemical,D020024
+375,Leukotriene Antagonists,Organic Chemical,D020024
+376,Epinephrine,Pharmacologic Substance,D004837
+377,Epinephrine,Pharmacologic Substance,D004837
+378,Epinephrine,Pharmacologic Substance,D004837
+379,Epinephrine,Organic Chemical,D004837
+380,Epinephrine,Organic Chemical,D004837
+381,Epinephrine,Organic Chemical,D004837
+382,Epinephrine,Hormone,D004837
+383,Epinephrine,Hormone,D004837
+384,Epinephrine,Hormone,D004837
+388,Radioallergosorbent Test,Laboratory Procedure,D011852
+389,Patch Tests,Diagnostic Procedure,D010328
+390,Glucose Intolerance,Disease or Syndrome,D018149
+391,Food Intolerance,Disease or Syndrome,D000073923
+392,Food Intolerance,Disease or Syndrome,D000073923
+393,Orthostatic Intolerance,Finding,D054971
+394,Celiac Disease,Disease or Syndrome,D002446
+395,Eosinophilic Esophagitis,Disease or Syndrome,D057765
+396,Anaphylaxis,Disease or Syndrome,D000707
+397,Anaphylaxis,Disease or Syndrome,D000707
+398,Anaphylaxis,Pathologic Function,D000707
+399,Anaphylaxis,Pathologic Function,D000707
+400,Passive Cutaneous Anaphylaxis,Laboratory Procedure,D010323
+401,Irritable Bowel Syndrome,Disease or Syndrome,D043183
+402,Nutritional Status,Finding,D009752
+403,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+404,Diet Therapy,Therapeutic or Preventive Procedure,D004035
+405,Diet Therapy,Health Care Activity,D004035
+406,Diet Therapy,Health Care Activity,D004035

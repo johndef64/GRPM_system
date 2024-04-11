@@ -1,0 +1,970 @@
+,Preferred Label,Semantic Types Label,mesh_id
+0,Egg Proteins,"Amino Acid, Peptide, or Protein",D004527
+1,Egg Proteins,"Amino Acid, Peptide, or Protein",D004527
+2,Egg Proteins,Biologically Active Substance,D004527
+3,Egg Proteins,Biologically Active Substance,D004527
+4,Fallopian Tubes,"Body Part, Organ, or Organ Component",D005187
+5,Cryoprotective Agents,Pharmacologic Substance,D003451
+6,Cryoprotective Agents,Pharmacologic Substance,D003451
+7,Cryoprotective Agents,Physiologic Function,D003451
+8,Cryoprotective Agents,Physiologic Function,D003451
+9,Ovulation Prediction,Diagnostic Procedure,D044384
+10,Ovulation Prediction,Diagnostic Procedure,D044384
+11,"Fertility Agents, Female",Pharmacologic Substance,D005300
+12,"Fertility Agents, Female",Pharmacologic Substance,D005300
+13,"Fertility Agents, Male",Pharmacologic Substance,D005303
+14,"Fertility Agents, Male",Pharmacologic Substance,D005303
+15,Epididymis,"Body Part, Organ, or Organ Component",D004822
+16,Sperm Tail,Cell Component,D013082
+17,Sperm Head,Cell Component,D013077
+18,"Pregnancy, Tubal",Pathologic Function,D011274
+19,"Pregnancy, Tubal",Pathologic Function,D011274
+20,Sperm Retrieval,Therapeutic or Preventive Procedure,D053625
+21,Sperm Retrieval,Therapeutic or Preventive Procedure,D053625
+22,Sperm Retrieval,Health Care Activity,D053625
+23,Sperm Retrieval,Health Care Activity,D053625
+24,Reproduction,Quantitative Concept,D012098
+25,Reproduction,Quantitative Concept,D012098
+26,Reproduction,Quantitative Concept,D012098
+27,Reproduction,Temporal Concept,D012098
+28,Reproduction,Temporal Concept,D012098
+29,Reproduction,Temporal Concept,D012098
+30,Reproduction,Organism Function,D012098
+31,Reproduction,Organism Function,D012098
+32,Reproduction,Organism Function,D012098
+33,Basic Reproduction Number,Quantitative Concept,D050936
+34,"Reproduction, Asexual",Organism Function,D012100
+35,Polycystic Ovary Syndrome,Disease or Syndrome,D011085
+36,Polycystic Ovary Syndrome,Disease or Syndrome,D011085
+37,Ovary,"Body Part, Organ, or Organ Component",D010053
+38,Follicular Atresia,Organ or Tissue Function,D005496
+39,Blastomeres,Embryonic Structure,D001757
+40,Sperm Maturation,Organ or Tissue Function,D013079
+41,Sperm Count,Finding,D013076
+42,Sperm Count,Finding,D013076
+43,Sperm Count,Laboratory Procedure,D013076
+44,Sperm Count,Laboratory Procedure,D013076
+45,Sperm Capacitation,Cell Function,D013075
+46,Semen Preservation,Laboratory Procedure,D012662
+47,Semen Preservation,Laboratory Procedure,D012662
+48,Semen Preservation,Laboratory Procedure,D012662
+49,Semen Preservation,Health Care Activity,D012662
+50,Semen Preservation,Health Care Activity,D012662
+51,Semen Preservation,Health Care Activity,D012662
+52,Semen Preservation,Body Substance,D012662
+53,Semen Preservation,Body Substance,D012662
+54,Semen Preservation,Body Substance,D012662
+55,Semen Preservation,Laboratory Procedure,D012662
+56,Semen Preservation,Laboratory Procedure,D012662
+57,Semen Preservation,Laboratory Procedure,D012662
+58,Semen Preservation,Health Care Activity,D012662
+59,Semen Preservation,Health Care Activity,D012662
+60,Semen Preservation,Health Care Activity,D012662
+61,Semen Preservation,Body Substance,D012662
+62,Semen Preservation,Body Substance,D012662
+63,Semen Preservation,Body Substance,D012662
+64,Semen Analysis,Laboratory Procedure,D055101
+65,Semen Analysis,Laboratory Procedure,D055101
+66,Semen,Body Substance,D012661
+67,Embryo Loss,Pathologic Function,D020964
+68,Embryo Loss,Pathologic Function,D020964
+69,Embryo Loss,Organism Function,D020964
+70,Embryo Loss,Organism Function,D020964
+71,Embryo Loss,Pathologic Function,D020964
+72,Embryo Loss,Pathologic Function,D020964
+73,Embryo Loss,Organism Function,D020964
+74,Embryo Loss,Organism Function,D020964
+75,Zona Pellucida Glycoproteins,"Amino Acid, Peptide, or Protein",D000072216
+76,Zona Pellucida Glycoproteins,"Amino Acid, Peptide, or Protein",D000072216
+77,Zona Pellucida Glycoproteins,Biologically Active Substance,D000072216
+78,Zona Pellucida Glycoproteins,Biologically Active Substance,D000072216
+79,Zona Pellucida,Cell Component,D015044
+80,Egg Yolk,Food,D004530
+81,"Cleavage Stage, Ovum",Embryonic Structure,D002970
+82,Blastocystis Infections,Disease or Syndrome,D016776
+83,Blastocystis,Eukaryote,D016844
+84,Blastocyst Inner Cell Mass,Cell,D053624
+85,Blastocyst,Embryonic Structure,D001755
+86,Follicle Stimulating Hormone,Pharmacologic Substance,D005640
+87,Follicle Stimulating Hormone,Pharmacologic Substance,D005640
+88,Follicle Stimulating Hormone,Pharmacologic Substance,D005640
+89,Follicle Stimulating Hormone,"Amino Acid, Peptide, or Protein",D005640
+90,Follicle Stimulating Hormone,"Amino Acid, Peptide, or Protein",D005640
+91,Follicle Stimulating Hormone,"Amino Acid, Peptide, or Protein",D005640
+92,Follicle Stimulating Hormone,Hormone,D005640
+93,Follicle Stimulating Hormone,Hormone,D005640
+94,Follicle Stimulating Hormone,Hormone,D005640
+95,"Follicle Stimulating Hormone, beta Subunit",Pharmacologic Substance,D037201
+96,"Follicle Stimulating Hormone, beta Subunit",Pharmacologic Substance,D037201
+97,"Follicle Stimulating Hormone, beta Subunit",Pharmacologic Substance,D037201
+98,"Follicle Stimulating Hormone, beta Subunit","Amino Acid, Peptide, or Protein",D037201
+99,"Follicle Stimulating Hormone, beta Subunit","Amino Acid, Peptide, or Protein",D037201
+100,"Follicle Stimulating Hormone, beta Subunit","Amino Acid, Peptide, or Protein",D037201
+101,"Follicle Stimulating Hormone, beta Subunit",Hormone,D037201
+102,"Follicle Stimulating Hormone, beta Subunit",Hormone,D037201
+103,"Follicle Stimulating Hormone, beta Subunit",Hormone,D037201
+104,"Follicle Stimulating Hormone, Human",Pharmacologic Substance,D043373
+105,"Follicle Stimulating Hormone, Human",Pharmacologic Substance,D043373
+106,"Follicle Stimulating Hormone, Human",Pharmacologic Substance,D043373
+107,"Follicle Stimulating Hormone, Human","Amino Acid, Peptide, or Protein",D043373
+108,"Follicle Stimulating Hormone, Human","Amino Acid, Peptide, or Protein",D043373
+109,"Follicle Stimulating Hormone, Human","Amino Acid, Peptide, or Protein",D043373
+110,"Follicle Stimulating Hormone, Human",Hormone,D043373
+111,"Follicle Stimulating Hormone, Human",Hormone,D043373
+112,"Follicle Stimulating Hormone, Human",Hormone,D043373
+113,Follicular Phase,Temporal Concept,D005498
+114,Oocytes,Cell,D009865
+115,Reproductive Medicine,Biomedical Occupation or Discipline,D018456
+116,Pregnancy Rate,Quantitative Concept,D018873
+117,Pregnancy Rate,Quantitative Concept,D018873
+118,Embryo Culture Techniques,Laboratory Procedure,D046149
+119,Embryo Culture Techniques,Laboratory Procedure,D046149
+120,"Urinary Incontinence, Stress",Disease or Syndrome,D014550
+121,"Urinary Incontinence, Urge",Finding,D053202
+122,Urinary Incontinence,Pathologic Function,D014549
+123,Bladder Exstrophy,Disease or Syndrome,D001746
+124,Pelvic Organ Prolapse,Disease or Syndrome,D056887
+125,Pelvic Organ Prolapse,Disease or Syndrome,D056887
+126,Pelvic Organ Prolapse,Acquired Abnormality,D056887
+127,Pelvic Organ Prolapse,Acquired Abnormality,D056887
+128,Carotid-Cavernous Sinus Fistula,Injury or Poisoning,D020216
+129,Carotid-Cavernous Sinus Fistula,Injury or Poisoning,D020216
+130,Carotid-Cavernous Sinus Fistula,Disease or Syndrome,D020216
+131,Carotid-Cavernous Sinus Fistula,Disease or Syndrome,D020216
+132,Pancreatic Fistula,Disease or Syndrome,D010185
+133,Intestinal Fistula,Disease or Syndrome,D007412
+134,Intestinal Fistula,Disease or Syndrome,D007412
+135,Intestinal Fistula,Anatomical Abnormality,D007412
+136,Intestinal Fistula,Anatomical Abnormality,D007412
+137,Arteriovenous Fistula,Anatomical Abnormality,D001164
+138,Respiratory Tract Fistula,Anatomical Abnormality,D016156
+139,Fistula,Anatomical Abnormality,D005402
+140,Tracheoesophageal Fistula,Anatomical Abnormality,D014138
+141,Rectal Fistula,Anatomical Abnormality,D012003
+142,Rectal Fistula,Anatomical Abnormality,D012003
+143,Rectal Fistula,Acquired Abnormality,D012003
+144,Rectal Fistula,Acquired Abnormality,D012003
+145,Cystocele,Disease or Syndrome,D052858
+146,Rectocele,Acquired Abnormality,D020047
+147,Postmenopause,Organism Function,D017698
+148,Androgen-Insensitivity Syndrome,Disease or Syndrome,D013734
+149,Klinefelter Syndrome,Disease or Syndrome,D007713
+150,Klinefelter Syndrome,Disease or Syndrome,D007713
+151,Klinefelter Syndrome,Disease or Syndrome,D007713
+152,Klinefelter Syndrome,Congenital Abnormality,D007713
+153,Klinefelter Syndrome,Congenital Abnormality,D007713
+154,Klinefelter Syndrome,Congenital Abnormality,D007713
+155,Klinefelter Syndrome,Cell or Molecular Dysfunction,D007713
+156,Klinefelter Syndrome,Cell or Molecular Dysfunction,D007713
+157,Klinefelter Syndrome,Cell or Molecular Dysfunction,D007713
+158,Turner Syndrome,Disease or Syndrome,D014424
+159,Primary Ovarian Insufficiency,Disease or Syndrome,D016649
+160,"46, XX Disorders of Sex Development",Disease or Syndrome,D058489
+161,"46, XX Disorders of Sex Development",Disease or Syndrome,D058489
+162,"46, XX Disorders of Sex Development",Congenital Abnormality,D058489
+163,"46, XX Disorders of Sex Development",Congenital Abnormality,D058489
+164,"46, XX Disorders of Sex Development",Disease or Syndrome,D058489
+165,"46, XX Disorders of Sex Development",Disease or Syndrome,D058489
+166,"46, XX Disorders of Sex Development",Congenital Abnormality,D058489
+167,"46, XX Disorders of Sex Development",Congenital Abnormality,D058489
+168,Male Urogenital Diseases,Disease or Syndrome,D052801
+169,Prostatic Intraepithelial Neoplasia,Neoplastic Process,D019048
+170,Adenomyosis,Disease or Syndrome,D062788
+171,Brenner Tumor,Neoplastic Process,D001948
+172,"Cystadenocarcinoma, Mucinous",Neoplastic Process,D018282
+173,"Cystadenocarcinoma, Serous",Neoplastic Process,D018284
+174,Dysgerminoma,Neoplastic Process,D004407
+175,Seminoma,Neoplastic Process,D018239
+176,Sertoli-Leydig Cell Tumor,Neoplastic Process,D018310
+177,Granulosa Cell Tumor,Neoplastic Process,D006106
+178,Sex Cord-Gonadal Stromal Tumors,Neoplastic Process,D018312
+179,"Gonadal Dysgenesis, Mixed",Disease or Syndrome,D006060
+180,"Gonadal Dysgenesis, 46,XY",Disease or Syndrome,D006061
+181,Gonadal Dysgenesis,Congenital Abnormality,D006059
+182,"Gonadal Dysgenesis, 46,XX",Congenital Abnormality,D023961
+183,Choriocarcinoma,Neoplastic Process,D002822
+184,Teratoma,Neoplastic Process,D013724
+185,Embryonal Carcinoma Stem Cells,Cell,D054278
+186,Embryonal Carcinoma Stem Cells,Cell,D054278
+187,"Neoplasms, Germ Cell and Embryonal",Neoplastic Process,D009373
+188,"Neoplasms, Germ Cell and Embryonal",Neoplastic Process,D009373
+189,Urinary Tract Infections,Disease or Syndrome,D014552
+190,Trichomonas Infections,Disease or Syndrome,D014245
+191,Herpes Genitalis,Disease or Syndrome,D006558
+192,Chlamydia Infections,Disease or Syndrome,D002690
+193,Gonorrhea,Disease or Syndrome,D006069
+194,Syphilis,Disease or Syndrome,D013587
+195,Syphilis Serodiagnosis,Diagnostic Procedure,D013588
+196,Syphilis Serodiagnosis,Diagnostic Procedure,D013588
+197,Syphilis Serodiagnosis,Laboratory Procedure,D013588
+198,Syphilis Serodiagnosis,Laboratory Procedure,D013588
+199,HIV Infections,Disease or Syndrome,D015658
+200,Reproductive Tract Infections,Disease or Syndrome,D060737
+201,Congenital Abnormalities,Congenital Abnormality,D000013
+202,"Genetic Diseases, Inborn",Disease or Syndrome,D030342
+203,"Sexual Dysfunctions, Psychological",Mental or Behavioral Dysfunction,D020018
+204,"Sexual Dysfunctions, Psychological",Mental or Behavioral Dysfunction,D020018
+205,"Impotence, Vasculogenic",Disease or Syndrome,D018783
+206,Penile Induration,Disease or Syndrome,D010411
+207,Priapism,Disease or Syndrome,D011317
+208,Penile Neoplasms,Neoplastic Process,D010412
+209,Penile Diseases,Disease or Syndrome,D010409
+210,Premature Ejaculation,Mental or Behavioral Dysfunction,D061686
+211,Premature Ejaculation,Mental or Behavioral Dysfunction,D061686
+212,Prostatitis,Disease or Syndrome,D011472
+213,Prostatic Hyperplasia,Disease or Syndrome,D011470
+214,Prostatic Hyperplasia,Disease or Syndrome,D011470
+215,Prostatic Hyperplasia,Neoplastic Process,D011470
+216,Prostatic Hyperplasia,Neoplastic Process,D011470
+217,Prostatic Diseases,Disease or Syndrome,D011469
+218,Varicocele,Disease or Syndrome,D014646
+219,Testicular Diseases,Disease or Syndrome,D013733
+220,Vulvar Lichen Sclerosus,Disease or Syndrome,D007724
+221,Vulvar Neoplasms,Neoplastic Process,D014846
+222,Endometrial Neoplasms,Neoplastic Process,D016889
+223,Endometritis,Disease or Syndrome,D004716
+224,Endometrial Hyperplasia,Disease or Syndrome,D004714
+225,Pelvic Floor Disorders,Disease or Syndrome,D059952
+226,Pelvic Pain,Sign or Symptom,D017699
+227,Pelvic Inflammatory Disease,Disease or Syndrome,D000292
+228,Uterine Cervical Dysplasia,Disease or Syndrome,D002578
+229,Trichomonas Vaginitis,Disease or Syndrome,D014247
+230,Vaginitis,Disease or Syndrome,D014627
+231,Vaginal Neoplasms,Neoplastic Process,D014625
+232,Vaginal Neoplasms,Neoplastic Process,D014625
+233,Vaginal Diseases,Disease or Syndrome,D014623
+234,Vaginal Diseases,Disease or Syndrome,D014623
+235,Salpingitis,Disease or Syndrome,D012488
+236,Fallopian Tube Diseases,Disease or Syndrome,D005184
+237,Ovarian Hyperstimulation Syndrome,Disease or Syndrome,D016471
+238,Ovarian Cysts,Disease or Syndrome,D010048
+239,Ovarian Diseases,Disease or Syndrome,D010049
+240,Uterine Prolapse,Anatomical Abnormality,D014596
+241,Uterine Prolapse,Anatomical Abnormality,D014596
+242,Uterine Prolapse,Acquired Abnormality,D014596
+243,Uterine Prolapse,Acquired Abnormality,D014596
+244,Uterine Hemorrhage,Pathologic Function,D014592
+245,Uterine Diseases,Disease or Syndrome,D014591
+246,Endometriosis,Disease or Syndrome,D004715
+247,Endometriosis,Disease or Syndrome,D004715
+248,Endometriosis,Neoplastic Process,D004715
+249,Endometriosis,Neoplastic Process,D004715
+250,Premenstrual Syndrome,Disease or Syndrome,D011293
+251,Oligomenorrhea,Pathologic Function,D009839
+252,Dysmenorrhea,Disease or Syndrome,D004412
+253,Amenorrhea,Finding,D000568
+254,Amenorrhea,Finding,D000568
+255,Amenorrhea,Pathologic Function,D000568
+256,Amenorrhea,Pathologic Function,D000568
+257,Menorrhagia,Pathologic Function,D008595
+258,Menstruation Disturbances,Disease or Syndrome,D008599
+259,Menstruation Disturbances,Disease or Syndrome,D008599
+260,Menstruation Disturbances,Disease or Syndrome,D008599
+261,Menstruation Disturbances,Finding,D008599
+262,Menstruation Disturbances,Finding,D008599
+263,Menstruation Disturbances,Finding,D008599
+264,Menstruation Disturbances,Pathologic Function,D008599
+265,Menstruation Disturbances,Pathologic Function,D008599
+266,Menstruation Disturbances,Pathologic Function,D008599
+267,Menstruation Disturbances,Disease or Syndrome,D008599
+268,Menstruation Disturbances,Disease or Syndrome,D008599
+269,Menstruation Disturbances,Disease or Syndrome,D008599
+270,Menstruation Disturbances,Finding,D008599
+271,Menstruation Disturbances,Finding,D008599
+272,Menstruation Disturbances,Finding,D008599
+273,Menstruation Disturbances,Pathologic Function,D008599
+274,Menstruation Disturbances,Pathologic Function,D008599
+275,Menstruation Disturbances,Pathologic Function,D008599
+276,Genetic Predisposition to Disease,Organism Attribute,D020022
+277,Genetic Carrier Screening,Molecular Biology Research Technique,D006580
+278,Preconception Care,Health Care Activity,D016742
+279,Superovulation,Finding,D013480
+280,"Twinning, Monozygotic",Organism Function,D038522
+281,In Vitro Oocyte Maturation Techniques,Therapeutic or Preventive Procedure,D059471
+282,In Vitro Oocyte Maturation Techniques,Therapeutic or Preventive Procedure,D059471
+283,"Sperm Injections, Intracytoplasmic",Therapeutic or Preventive Procedure,D020554
+284,Sperm Banks,Health Care Related Organization,D013074
+285,"Insemination, Artificial, Heterologous",Therapeutic or Preventive Procedure,D007316
+286,"Insemination, Artificial, Heterologous",Therapeutic or Preventive Procedure,D007316
+287,Ovulation Induction,Therapeutic or Preventive Procedure,D010062
+288,Ovulation Induction,Therapeutic or Preventive Procedure,D010062
+289,Pregnancy in Diabetics,Disease or Syndrome,D011254
+290,Pregnancy in Diabetics,Disease or Syndrome,D011254
+291,"Insemination, Artificial",Therapeutic or Preventive Procedure,D007315
+292,Fertilization in Vitro,Therapeutic or Preventive Procedure,D005307
+293,Fertilization in Vitro,Therapeutic or Preventive Procedure,D005307
+294,Fertilization in Vitro,Vertebrate,D005307
+295,Fertilization in Vitro,Vertebrate,D005307
+296,Fertilization in Vitro,Therapeutic or Preventive Procedure,D005307
+297,Fertilization in Vitro,Therapeutic or Preventive Procedure,D005307
+298,Fertilization in Vitro,Vertebrate,D005307
+299,Fertilization in Vitro,Vertebrate,D005307
+300,Embryo Implantation,Organism Function,D010064
+301,Embryo Implantation,Organism Function,D010064
+302,Embryo Implantation,Organism Function,D010064
+303,"Abortifacient Agents, Nonsteroidal",Pharmacologic Substance,D000020
+304,"Contraception, Postcoital",Therapeutic or Preventive Procedure,D044363
+305,"Contraception, Postcoital",Therapeutic or Preventive Procedure,D044363
+306,"Puberty, Precocious",Disease or Syndrome,D011629
+307,"Puberty, Precocious",Disease or Syndrome,D011629
+308,Ovotesticular Disorders of Sex Development,Disease or Syndrome,D050090
+309,Ovotesticular Disorders of Sex Development,Disease or Syndrome,D050090
+310,Ovotesticular Disorders of Sex Development,Congenital Abnormality,D050090
+311,Ovotesticular Disorders of Sex Development,Congenital Abnormality,D050090
+312,Disorders of Sex Development,Disease or Syndrome,D012734
+313,Disorders of Sex Development,Disease or Syndrome,D012734
+314,Disorders of Sex Development,Disease or Syndrome,D012734
+315,Disorders of Sex Development,Congenital Abnormality,D012734
+316,Disorders of Sex Development,Congenital Abnormality,D012734
+317,Disorders of Sex Development,Congenital Abnormality,D012734
+318,Disorders of Sex Development,Social Behavior,D012734
+319,Disorders of Sex Development,Social Behavior,D012734
+320,Disorders of Sex Development,Social Behavior,D012734
+321,"46, XX Testicular Disorders of Sex Development",Congenital Abnormality,D058531
+322,Sex Chromosome Disorders of Sex Development,Congenital Abnormality,D058533
+323,Gonadal Disorders,Disease or Syndrome,D006058
+324,"Genitalia, Female","Body Part, Organ, or Organ Component",D005836
+325,"Genitalia, Female","Body Part, Organ, or Organ Component",D005836
+326,"Genitalia, Female",Body System,D005836
+327,"Genitalia, Female",Body System,D005836
+328,"Genitalia, Male","Body Part, Organ, or Organ Component",D005837
+329,"Genitalia, Male","Body Part, Organ, or Organ Component",D005837
+330,"Genitalia, Male",Body System,D005837
+331,"Genitalia, Male",Body System,D005837
+332,Obstetric Surgical Procedures,Therapeutic or Preventive Procedure,D013513
+333,Obstetric Labor Complications,Pathologic Function,D007744
+334,"Obstetrics and Gynecology Department, Hospital",Health Care Related Organization,D009775
+335,Obstetrics,Biomedical Occupation or Discipline,D009774
+336,Perinatal Mortality,Group Attribute,D054238
+337,Maternal Health Services,Health Care Activity,D008427
+338,Maternal Mortality,Quantitative Concept,D008428
+339,Postpartum Hemorrhage,Pathologic Function,D006473
+340,Puerperal Disorders,Disease or Syndrome,D011644
+341,Postpartum Period,Patient or Disabled Group,D049590
+342,Postpartum Period,Patient or Disabled Group,D049590
+343,Postpartum Period,Temporal Concept,D049590
+344,Postpartum Period,Temporal Concept,D049590
+345,Maternal Nutritional Physiological Phenomena,Organism Function,D039382
+346,Prenatal Nutritional Physiological Phenomena,Organism Function,D039401
+347,Perinatal Care,Health Care Activity,D018743
+348,Prenatal Care,Health Care Activity,D011295
+349,"Pregnancy, Unwanted",Finding,D011275
+350,"Pregnancy, Unwanted",Finding,D011275
+351,Family Planning Services,Finding,D005193
+352,Family Planning Services,Finding,D005193
+353,Family Planning Services,Health Care Activity,D005193
+354,Family Planning Services,Health Care Activity,D005193
+355,Reproductive Health Services,Health Care Activity,D034121
+356,Reproductive Health Services,Health Care Activity,D034121
+357,"Pregnancy, Unplanned",Finding,D049168
+358,"Pregnancy, Unplanned",Finding,D049168
+359,"Pregnancy, Multiple",Finding,D011272
+360,"Pregnancy, Multiple",Finding,D011272
+361,Pregnancy in Adolescence,Finding,D011253
+362,Pregnancy in Adolescence,Finding,D011253
+363,Pregnancy in Adolescence,Organism Function,D011253
+364,Pregnancy in Adolescence,Organism Function,D011253
+365,Pregnancy in Adolescence,Finding,D011253
+366,Pregnancy in Adolescence,Finding,D011253
+367,Pregnancy in Adolescence,Organism Function,D011253
+368,Pregnancy in Adolescence,Organism Function,D011253
+369,"Pregnancy, High-Risk",Pathologic Function,D018566
+370,"Pregnancy, High-Risk",Pathologic Function,D018566
+371,"Pregnancy, Ectopic",Pathologic Function,D011271
+372,"Pregnancy, Ectopic",Pathologic Function,D011271
+373,Fetal Death,Pathologic Function,D005313
+374,Stillbirth,Finding,D050497
+375,"Pregnancy Complications, Parasitic",Disease or Syndrome,D015597
+376,"Pregnancy Complications, Parasitic",Disease or Syndrome,D015597
+377,"Pregnancy Complications, Parasitic",Disease or Syndrome,D015597
+378,"Pregnancy Complications, Neoplastic",Neoplastic Process,D011252
+379,"Pregnancy Complications, Neoplastic",Neoplastic Process,D011252
+380,"Pregnancy Complications, Neoplastic",Neoplastic Process,D011252
+381,"Pregnancy Complications, Cardiovascular",Disease or Syndrome,D011249
+382,"Pregnancy Complications, Cardiovascular",Disease or Syndrome,D011249
+383,"Pregnancy Complications, Cardiovascular",Disease or Syndrome,D011249
+384,"Pregnancy Complications, Hematologic",Disease or Syndrome,D011250
+385,"Pregnancy Complications, Hematologic",Disease or Syndrome,D011250
+386,"Pregnancy Complications, Hematologic",Disease or Syndrome,D011250
+387,"Pregnancy Complications, Infectious",Disease or Syndrome,D011251
+388,"Pregnancy Complications, Infectious",Disease or Syndrome,D011251
+389,"Pregnancy Complications, Infectious",Disease or Syndrome,D011251
+390,"Abortion, Induced",Therapeutic or Preventive Procedure,D000028
+391,"Abortion, Induced",Therapeutic or Preventive Procedure,D000028
+392,"Abortion, Induced",Therapeutic or Preventive Procedure,D000028
+393,"Abortion, Induced",Therapeutic or Preventive Procedure,D000028
+394,"Abortion, Induced",Therapeutic or Preventive Procedure,D000028
+395,"Abortion, Induced",Finding,D000028
+396,"Abortion, Induced",Finding,D000028
+397,"Abortion, Induced",Finding,D000028
+398,"Abortion, Induced",Finding,D000028
+399,"Abortion, Induced",Finding,D000028
+400,"Abortion, Induced",Health Care Related Organization,D000028
+401,"Abortion, Induced",Health Care Related Organization,D000028
+402,"Abortion, Induced",Health Care Related Organization,D000028
+403,"Abortion, Induced",Health Care Related Organization,D000028
+404,"Abortion, Induced",Health Care Related Organization,D000028
+405,"Abortion, Induced",Quantitative Concept,D000028
+406,"Abortion, Induced",Quantitative Concept,D000028
+407,"Abortion, Induced",Quantitative Concept,D000028
+408,"Abortion, Induced",Quantitative Concept,D000028
+409,"Abortion, Induced",Quantitative Concept,D000028
+410,"Abortion, Induced",Pathologic Function,D000028
+411,"Abortion, Induced",Pathologic Function,D000028
+412,"Abortion, Induced",Pathologic Function,D000028
+413,"Abortion, Induced",Pathologic Function,D000028
+414,"Abortion, Induced",Pathologic Function,D000028
+415,"Abortion, Spontaneous",Disease or Syndrome,D000022
+416,"Abortion, Spontaneous",Disease or Syndrome,D000022
+417,"Abortion, Spontaneous",Disease or Syndrome,D000022
+418,"Abortion, Spontaneous",Finding,D000022
+419,"Abortion, Spontaneous",Finding,D000022
+420,"Abortion, Spontaneous",Finding,D000022
+421,"Abortion, Spontaneous",Pathologic Function,D000022
+422,"Abortion, Spontaneous",Pathologic Function,D000022
+423,"Abortion, Spontaneous",Pathologic Function,D000022
+424,Pregnancy Outcome,Finding,D011256
+425,Pregnancy Outcome,Finding,D011256
+426,Pregnancy Complications,Pathologic Function,D011248
+427,Pregnancy Complications,Pathologic Function,D011248
+428,"Sexual Dysfunction, Physiological",Pathologic Function,D012735
+429,"Sexual Dysfunction, Physiological",Pathologic Function,D012735
+430,"Genital Diseases, Female",Disease or Syndrome,D005831
+431,"Genital Diseases, Male",Disease or Syndrome,D005832
+432,Erectile Dysfunction,Disease or Syndrome,D007172
+433,"Infertility, Male",Disease or Syndrome,D007248
+434,"Infertility, Male",Disease or Syndrome,D007248
+435,"Infertility, Male",Disease or Syndrome,D007248
+436,"Infertility, Male",Finding,D007248
+437,"Infertility, Male",Finding,D007248
+438,"Infertility, Male",Finding,D007248
+439,"Infertility, Male",Sign or Symptom,D007248
+440,"Infertility, Male",Sign or Symptom,D007248
+441,"Infertility, Male",Sign or Symptom,D007248
+442,"Infertility, Male",Disease or Syndrome,D007248
+443,"Infertility, Male",Disease or Syndrome,D007248
+444,"Infertility, Male",Disease or Syndrome,D007248
+445,"Infertility, Male",Finding,D007248
+446,"Infertility, Male",Finding,D007248
+447,"Infertility, Male",Finding,D007248
+448,"Infertility, Male",Sign or Symptom,D007248
+449,"Infertility, Male",Sign or Symptom,D007248
+450,"Infertility, Male",Sign or Symptom,D007248
+451,"Infertility, Female",Disease or Syndrome,D007247
+452,"Infertility, Female",Disease or Syndrome,D007247
+453,"Infertility, Female",Disease or Syndrome,D007247
+454,"Infertility, Female",Finding,D007247
+455,"Infertility, Female",Finding,D007247
+456,"Infertility, Female",Finding,D007247
+457,"Infertility, Female",Pathologic Function,D007247
+458,"Infertility, Female",Pathologic Function,D007247
+459,"Infertility, Female",Pathologic Function,D007247
+460,"Infertility, Female",Disease or Syndrome,D007247
+461,"Infertility, Female",Disease or Syndrome,D007247
+462,"Infertility, Female",Disease or Syndrome,D007247
+463,"Infertility, Female",Finding,D007247
+464,"Infertility, Female",Finding,D007247
+465,"Infertility, Female",Finding,D007247
+466,"Infertility, Female",Pathologic Function,D007247
+467,"Infertility, Female",Pathologic Function,D007247
+468,"Infertility, Female",Pathologic Function,D007247
+469,Fertility Preservation,Therapeutic or Preventive Procedure,D059247
+470,Fertility Preservation,Therapeutic or Preventive Procedure,D059247
+471,Oocyte Retrieval,Therapeutic or Preventive Procedure,D054315
+472,Cryopreservation,Laboratory Procedure,D015925
+473,Genetic Counseling,Therapeutic or Preventive Procedure,D005817
+474,Genetic Counseling,Therapeutic or Preventive Procedure,D005817
+475,Genetic Counseling,Biomedical Occupation or Discipline,D005817
+476,Genetic Counseling,Biomedical Occupation or Discipline,D005817
+477,Genetic Testing,Diagnostic Procedure,D005820
+478,Genetic Testing,Diagnostic Procedure,D005820
+479,Genetic Testing,Laboratory Procedure,D005820
+480,Genetic Testing,Laboratory Procedure,D005820
+481,Preimplantation Diagnosis,Diagnostic Procedure,D019836
+482,Preimplantation Diagnosis,Diagnostic Procedure,D019836
+483,Preimplantation Diagnosis,Health Care Activity,D019836
+484,Preimplantation Diagnosis,Health Care Activity,D019836
+485,Prenatal Diagnosis,Diagnostic Procedure,D011296
+486,"Reproductive Techniques, Assisted",Therapeutic or Preventive Procedure,D027724
+487,"Reproductive Techniques, Assisted",Therapeutic or Preventive Procedure,D027724
+488,"Breast Neoplasms, Male",Neoplastic Process,D018567
+489,"Breast Neoplasms, Male",Neoplastic Process,D018567
+490,Inflammatory Breast Neoplasms,Neoplastic Process,D058922
+491,Inflammatory Breast Neoplasms,Neoplastic Process,D058922
+492,Unilateral Breast Neoplasms,Neoplastic Process,D000069584
+493,Unilateral Breast Neoplasms,Neoplastic Process,D000069584
+494,Triple Negative Breast Neoplasms,Neoplastic Process,D064726
+495,Triple Negative Breast Neoplasms,Neoplastic Process,D064726
+496,Breast Neoplasms,Neoplastic Process,D001943
+497,Breast Neoplasms,Neoplastic Process,D001943
+498,Prostatic Neoplasms,Neoplastic Process,D011471
+499,"Prostatic Neoplasms, Castration-Resistant",Neoplastic Process,D064129
+500,Uterine Cervical Neoplasms,Neoplastic Process,D002583
+501,Uterine Neoplasms,Neoplastic Process,D014594
+502,Ovarian Neoplasms,Neoplastic Process,D010051
+503,Testicular Neoplasms,Neoplastic Process,D013736
+504,Sexually Transmitted Diseases,Disease or Syndrome,D012749
+505,"Sexually Transmitted Diseases, Viral",Disease or Syndrome,D015229
+506,"Sexually Transmitted Diseases, Bacterial",Disease or Syndrome,D015231
+507,"Puberty, Delayed",Pathologic Function,D011628
+508,Puberty,Physiologic Function,D011627
+509,Sexual Maturation,Organism Function,D012741
+510,Sex Chromosomes,Cell Component,D012730
+511,Sexual Development,Organism Function,D046468
+512,Libido,Mental Process,D007989
+513,Libido,Mental Process,D007989
+514,Libido,Mental Process,D007989
+515,Libido,Finding,D007989
+516,Libido,Finding,D007989
+517,Libido,Finding,D007989
+518,Libido,Sign or Symptom,D007989
+519,Libido,Sign or Symptom,D007989
+520,Libido,Sign or Symptom,D007989
+521,Sexual Behavior,Individual Behavior,D012725
+522,Sexual Behavior,Individual Behavior,D012725
+523,Sexual Behavior,Individual Behavior,D012725
+524,Sexual Behavior,Organism Attribute,D012725
+525,Sexual Behavior,Organism Attribute,D012725
+526,Sexual Behavior,Organism Attribute,D012725
+527,Sexual Behavior,Behavior,D012725
+528,Sexual Behavior,Behavior,D012725
+529,Sexual Behavior,Behavior,D012725
+530,"Sexual Behavior, Animal",Social Behavior,D012726
+531,Reproductive Behavior,Individual Behavior,D043762
+532,Reproductive Behavior,Individual Behavior,D043762
+533,Reproductive Behavior,Individual Behavior,D043762
+534,Reproductive Behavior,Organism Function,D043762
+535,Reproductive Behavior,Organism Function,D043762
+536,Reproductive Behavior,Organism Function,D043762
+537,Reproductive Behavior,Activity,D043762
+538,Reproductive Behavior,Activity,D043762
+539,Reproductive Behavior,Activity,D043762
+540,Reproductive Health,Biomedical Occupation or Discipline,D060728
+541,Oocyte Donation,Therapeutic or Preventive Procedure,D018587
+542,Embryo Transfer,Therapeutic or Preventive Procedure,D004624
+543,Embryo Transfer,Therapeutic or Preventive Procedure,D004624
+544,Single Embryo Transfer,Therapeutic or Preventive Procedure,D056826
+545,Single Embryo Transfer,Therapeutic or Preventive Procedure,D056826
+546,"Contraceptive Agents, Hormonal",Pharmacologic Substance,D000080066
+547,"Contraceptive Agents, Female",Pharmacologic Substance,D003271
+548,Contraceptive Agents,Pharmacologic Substance,D003270
+549,Contraceptive Agents,Pharmacologic Substance,D003270
+550,Contraceptive Agents,Physiologic Function,D003270
+551,Contraceptive Agents,Physiologic Function,D003270
+552,"Contraceptive Agents, Male",Pharmacologic Substance,D003272
+553,Contraception,Therapeutic or Preventive Procedure,D003267
+554,Infertility,Finding,D007246
+555,Infertility,Finding,D007246
+556,Infertility,Pathologic Function,D007246
+557,Infertility,Pathologic Function,D007246
+558,Plant Infertility,Genetic Function,D051479
+559,Fertility Clinics,Manufactured Object,D000080104
+560,Fertility Clinics,Manufactured Object,D000080104
+561,Fertility Clinics,Health Care Related Organization,D000080104
+562,Fertility Clinics,Health Care Related Organization,D000080104
+563,Fertility,Research Activity,D005298
+564,Fertility,Research Activity,D005298
+565,Fertility,Research Activity,D005298
+566,Fertility,Research Activity,D005298
+567,Fertility,Research Activity,D005298
+568,Fertility,Individual Behavior,D005298
+569,Fertility,Individual Behavior,D005298
+570,Fertility,Individual Behavior,D005298
+571,Fertility,Individual Behavior,D005298
+572,Fertility,Individual Behavior,D005298
+573,Fertility,Organism Function,D005298
+574,Fertility,Organism Function,D005298
+575,Fertility,Organism Function,D005298
+576,Fertility,Organism Function,D005298
+577,Fertility,Organism Function,D005298
+578,Fertility,Organism Attribute,D005298
+579,Fertility,Organism Attribute,D005298
+580,Fertility,Organism Attribute,D005298
+581,Fertility,Organism Attribute,D005298
+582,Fertility,Organism Attribute,D005298
+583,Fertility,Entity,D005298
+584,Fertility,Entity,D005298
+585,Fertility,Entity,D005298
+586,Fertility,Entity,D005298
+587,Fertility,Entity,D005298
+588,"Mammary Glands, Animal","Body Part, Organ, or Organ Component",D008321
+589,"Mammary Glands, Human","Body Part, Organ, or Organ Component",D042361
+590,"Mammary Glands, Human","Body Part, Organ, or Organ Component",D042361
+591,"Mammary Glands, Human",Tissue,D042361
+592,"Mammary Glands, Human",Tissue,D042361
+593,Breast Implantation,Therapeutic or Preventive Procedure,D019928
+594,Breast Implantation,Therapeutic or Preventive Procedure,D019928
+595,Fibrocystic Breast Disease,Disease or Syndrome,D005348
+596,Fibrocystic Breast Disease,Disease or Syndrome,D005348
+597,Fibrocystic Breast Disease,Neoplastic Process,D005348
+598,Fibrocystic Breast Disease,Neoplastic Process,D005348
+599,Breast Cancer Lymphedema,Disease or Syndrome,D000072656
+600,Breast Cancer Lymphedema,Disease or Syndrome,D000072656
+601,Breast Cancer Lymphedema,Pathologic Function,D000072656
+602,Breast Cancer Lymphedema,Pathologic Function,D000072656
+603,Breast Diseases,Disease or Syndrome,D001941
+604,Breast Density,Finding,D000071060
+605,Breast Implants,Medical Device,D018427
+606,Breast Self-Examination,Diagnostic Procedure,D016504
+607,Breast Feeding,Health Care Activity,D001942
+608,Breast Feeding,Health Care Activity,D001942
+609,Breast Feeding,Health Care Activity,D001942
+610,Breast Feeding,Individual Behavior,D001942
+611,Breast Feeding,Individual Behavior,D001942
+612,Breast Feeding,Individual Behavior,D001942
+613,Breast Feeding,Organism Function,D001942
+614,Breast Feeding,Organism Function,D001942
+615,Breast Feeding,Organism Function,D001942
+616,Hereditary Breast and Ovarian Cancer Syndrome,Neoplastic Process,D061325
+617,"Carcinoma, Ductal, Breast",Neoplastic Process,D018270
+618,Breast Carcinoma In Situ,Neoplastic Process,D000071960
+619,Breast,"Body Part, Organ, or Organ Component",D001940
+620,Cesarean Section,Therapeutic or Preventive Procedure,D002585
+621,Cesarean Section,Therapeutic or Preventive Procedure,D002585
+622,Cesarean Section,Temporal Concept,D002585
+623,Cesarean Section,Temporal Concept,D002585
+624,Uterine Contraction,Organ or Tissue Function,D014590
+625,Labor Onset,Finding,D007745
+626,Fetal Growth Retardation,Pathologic Function,D005317
+627,Fetal Nutrition Disorders,Disease or Syndrome,D048070
+628,Fetal Blood,Body Substance,D005312
+629,Umbilical Cord,Embryonic Structure,D014470
+630,Chorionic Gonadotropin,Pharmacologic Substance,D006063
+631,Chorionic Gonadotropin,Pharmacologic Substance,D006063
+632,Chorionic Gonadotropin,Pharmacologic Substance,D006063
+633,Chorionic Gonadotropin,"Amino Acid, Peptide, or Protein",D006063
+634,Chorionic Gonadotropin,"Amino Acid, Peptide, or Protein",D006063
+635,Chorionic Gonadotropin,"Amino Acid, Peptide, or Protein",D006063
+636,Chorionic Gonadotropin,Hormone,D006063
+637,Chorionic Gonadotropin,Hormone,D006063
+638,Chorionic Gonadotropin,Hormone,D006063
+639,"Chorionic Gonadotropin, beta Subunit, Human","Amino Acid, Peptide, or Protein",D018997
+640,"Chorionic Gonadotropin, beta Subunit, Human","Amino Acid, Peptide, or Protein",D018997
+641,"Chorionic Gonadotropin, beta Subunit, Human",Hormone,D018997
+642,"Chorionic Gonadotropin, beta Subunit, Human",Hormone,D018997
+643,Chorionic Villi Sampling,Diagnostic Procedure,D015193
+644,Chorionic Villi,Embryonic Structure,D002824
+645,Chorion,Embryonic Structure,D002823
+646,Amnion,Embryonic Structure,D000650
+647,"Fetal Membranes, Premature Rupture",Disease or Syndrome,D005322
+648,"Fetal Membranes, Premature Rupture",Disease or Syndrome,D005322
+649,"Fetal Membranes, Premature Rupture",Pathologic Function,D005322
+650,"Fetal Membranes, Premature Rupture",Pathologic Function,D005322
+651,Decidua,"Body Part, Organ, or Organ Component",D003656
+652,Placental Hormones,"Amino Acid, Peptide, or Protein",D010926
+653,Placental Hormones,"Amino Acid, Peptide, or Protein",D010926
+654,Placental Hormones,Hormone,D010926
+655,Placental Hormones,Hormone,D010926
+656,Placental Hormones,"Amino Acid, Peptide, or Protein",D010926
+657,Placental Hormones,"Amino Acid, Peptide, or Protein",D010926
+658,Placental Hormones,Hormone,D010926
+659,Placental Hormones,Hormone,D010926
+660,Placental Circulation,Organ or Tissue Function,D021041
+661,Placental Circulation,Organ or Tissue Function,D021041
+662,Placenta Growth Factor,"Amino Acid, Peptide, or Protein",D000072483
+663,Placenta Growth Factor,"Amino Acid, Peptide, or Protein",D000072483
+664,Placenta Growth Factor,Biologically Active Substance,D000072483
+665,Placenta Growth Factor,Biologically Active Substance,D000072483
+666,Placental Lactogen,"Amino Acid, Peptide, or Protein",D010928
+667,Placental Lactogen,"Amino Acid, Peptide, or Protein",D010928
+668,Placental Lactogen,Hormone,D010928
+669,Placental Lactogen,Hormone,D010928
+670,Placental Extracts,Biologically Active Substance,D010924
+671,Placental Insufficiency,Disease or Syndrome,D010927
+672,Placentation,Organ or Tissue Function,D010929
+673,Abruptio Placentae,Pathologic Function,D000037
+674,Placenta Diseases,Pathologic Function,D010922
+675,"Trophoblastic Tumor, Placental Site",Neoplastic Process,D018245
+676,Placenta,Embryonic Structure,D010920
+677,Menstruation,Organism Function,D008598
+678,Estrous Cycle,Organism Function,D030762
+679,"Vaginal Creams, Foams, and Jellies",Biomedical or Dental Material,D014622
+680,Vaginal Smears,Laboratory Procedure,D014626
+681,Vagina,"Body Part, Organ, or Organ Component",D014621
+682,Squamous Intraepithelial Lesions of the Cervix,Finding,D065310
+683,Cervix Uteri,"Body Part, Organ, or Organ Component",D002584
+684,Endometrium,"Body Part, Organ, or Organ Component",D004717
+685,Myometrium,"Body Part, Organ, or Organ Component",D009215
+686,Uterus,"Body Part, Organ, or Organ Component",D014599
+687,Oviducts,"Body Part, Organ, or Organ Component",D010057
+688,Sperm-Ovum Interactions,Organ or Tissue Function,D013084
+689,Sperm-Ovum Interactions,Organ or Tissue Function,D013084
+690,Sperm-Ovum Interactions,Cell Function,D013084
+691,Sperm-Ovum Interactions,Cell Function,D013084
+692,Spermatozoa,Cell,D013094
+693,Seminiferous Tubules,"Body Part, Organ, or Organ Component",D012671
+694,Leydig Cells,Cell,D007985
+695,Sertoli Cells,Cell,D012708
+696,Theca Cells,"Body Part, Organ, or Organ Component",D013799
+697,Theca Cells,"Body Part, Organ, or Organ Component",D013799
+698,Theca Cells,Cell,D013799
+699,Theca Cells,Cell,D013799
+700,Granulosa Cells,Cell,D006107
+701,Corpus Luteum,"Body Part, Organ, or Organ Component",D003338
+702,Ovarian Follicle,"Body Part, Organ, or Organ Component",D006080
+703,Ovarian Reserve,Organ or Tissue Function,D065851
+704,"Menopause, Premature",Disease or Syndrome,D008594
+705,Menopause,Physiologic Function,D008593
+706,Fetal Development,Physiologic Function,D047109
+707,Fetal Development,Physiologic Function,D047109
+708,Fetal Development,Biologic Function,D047109
+709,Fetal Development,Biologic Function,D047109
+710,Embryonic and Fetal Development,Physiologic Function,D005314
+711,Embryonic and Fetal Development,Physiologic Function,D005314
+712,Gonadal Steroid Hormones,Pharmacologic Substance,D012739
+713,Gonadal Steroid Hormones,Pharmacologic Substance,D012739
+714,Gonadal Steroid Hormones,Hormone,D012739
+715,Gonadal Steroid Hormones,Hormone,D012739
+716,Relaxin,Pharmacologic Substance,D012065
+717,Relaxin,Pharmacologic Substance,D012065
+718,Relaxin,Pharmacologic Substance,D012065
+719,Relaxin,"Amino Acid, Peptide, or Protein",D012065
+720,Relaxin,"Amino Acid, Peptide, or Protein",D012065
+721,Relaxin,"Amino Acid, Peptide, or Protein",D012065
+722,Relaxin,Hormone,D012065
+723,Relaxin,Hormone,D012065
+724,Relaxin,Hormone,D012065
+725,Endothelium-Dependent Relaxing Factors,Biologically Active Substance,D045462
+726,Inhibin-beta Subunits,"Amino Acid, Peptide, or Protein",D028322
+727,Inhibin-beta Subunits,"Amino Acid, Peptide, or Protein",D028322
+728,Inhibin-beta Subunits,Biologically Active Substance,D028322
+729,Inhibin-beta Subunits,Biologically Active Substance,D028322
+730,Inhibins,"Amino Acid, Peptide, or Protein",D007265
+731,Inhibins,"Amino Acid, Peptide, or Protein",D007265
+732,Inhibins,Hormone,D007265
+733,Inhibins,Hormone,D007265
+734,Luteinizing Hormone,Pharmacologic Substance,D007986
+735,Luteinizing Hormone,Pharmacologic Substance,D007986
+736,Luteinizing Hormone,Pharmacologic Substance,D007986
+737,Luteinizing Hormone,"Amino Acid, Peptide, or Protein",D007986
+738,Luteinizing Hormone,"Amino Acid, Peptide, or Protein",D007986
+739,Luteinizing Hormone,"Amino Acid, Peptide, or Protein",D007986
+740,Luteinizing Hormone,Hormone,D007986
+741,Luteinizing Hormone,Hormone,D007986
+742,Luteinizing Hormone,Hormone,D007986
+743,"Luteinizing Hormone, beta Subunit",Pharmacologic Substance,D037101
+744,"Luteinizing Hormone, beta Subunit",Pharmacologic Substance,D037101
+745,"Luteinizing Hormone, beta Subunit",Pharmacologic Substance,D037101
+746,"Luteinizing Hormone, beta Subunit","Amino Acid, Peptide, or Protein",D037101
+747,"Luteinizing Hormone, beta Subunit","Amino Acid, Peptide, or Protein",D037101
+748,"Luteinizing Hormone, beta Subunit","Amino Acid, Peptide, or Protein",D037101
+749,"Luteinizing Hormone, beta Subunit",Hormone,D037101
+750,"Luteinizing Hormone, beta Subunit",Hormone,D037101
+751,"Luteinizing Hormone, beta Subunit",Hormone,D037101
+752,Prolactin,Pharmacologic Substance,D011388
+753,Prolactin,Pharmacologic Substance,D011388
+754,Prolactin,Pharmacologic Substance,D011388
+755,Prolactin,"Amino Acid, Peptide, or Protein",D011388
+756,Prolactin,"Amino Acid, Peptide, or Protein",D011388
+757,Prolactin,"Amino Acid, Peptide, or Protein",D011388
+758,Prolactin,Hormone,D011388
+759,Prolactin,Hormone,D011388
+760,Prolactin,Hormone,D011388
+761,Prolactin-Releasing Hormone,Pharmacologic Substance,D056690
+762,Prolactin-Releasing Hormone,Pharmacologic Substance,D056690
+763,Prolactin-Releasing Hormone,Pharmacologic Substance,D056690
+764,Prolactin-Releasing Hormone,"Amino Acid, Peptide, or Protein",D056690
+765,Prolactin-Releasing Hormone,"Amino Acid, Peptide, or Protein",D056690
+766,Prolactin-Releasing Hormone,"Amino Acid, Peptide, or Protein",D056690
+767,Prolactin-Releasing Hormone,Hormone,D056690
+768,Prolactin-Releasing Hormone,Hormone,D056690
+769,Prolactin-Releasing Hormone,Hormone,D056690
+770,"Receptors, Prolactin","Amino Acid, Peptide, or Protein",D011981
+771,"Receptors, Prolactin","Amino Acid, Peptide, or Protein",D011981
+772,"Receptors, Prolactin",Receptor,D011981
+773,"Receptors, Prolactin",Receptor,D011981
+774,Prolactinoma,Neoplastic Process,D015175
+775,Androgens,Pharmacologic Substance,D000728
+776,Androgens,Pharmacologic Substance,D000728
+777,Androgens,Pharmacologic Substance,D000728
+778,Androgens,Hormone,D000728
+779,Androgens,Hormone,D000728
+780,Androgens,Hormone,D000728
+781,Androgens,Physiologic Function,D000728
+782,Androgens,Physiologic Function,D000728
+783,Androgens,Physiologic Function,D000728
+784,"Estrogens, Conjugated (USP)",Pharmacologic Substance,D004966
+785,"Estrogens, Conjugated (USP)",Pharmacologic Substance,D004966
+786,"Estrogens, Conjugated (USP)",Pharmacologic Substance,D004966
+787,"Estrogens, Conjugated (USP)",Organic Chemical,D004966
+788,"Estrogens, Conjugated (USP)",Organic Chemical,D004966
+789,"Estrogens, Conjugated (USP)",Organic Chemical,D004966
+790,"Estrogens, Conjugated (USP)",Hormone,D004966
+791,"Estrogens, Conjugated (USP)",Hormone,D004966
+792,"Estrogens, Conjugated (USP)",Hormone,D004966
+793,Estrogens,Pharmacologic Substance,D004967
+794,Estrogens,Pharmacologic Substance,D004967
+795,Estrogens,Pharmacologic Substance,D004967
+796,Estrogens,Pharmacologic Substance,D004967
+797,Estrogens,Organic Chemical,D004967
+798,Estrogens,Organic Chemical,D004967
+799,Estrogens,Organic Chemical,D004967
+800,Estrogens,Organic Chemical,D004967
+801,Estrogens,Hormone,D004967
+802,Estrogens,Hormone,D004967
+803,Estrogens,Hormone,D004967
+804,Estrogens,Hormone,D004967
+805,Estrogens,Finding,D004967
+806,Estrogens,Finding,D004967
+807,Estrogens,Finding,D004967
+808,Estrogens,Finding,D004967
+809,"Estrogens, Non-Steroidal",Pharmacologic Substance,D004968
+810,"Estrogens, Non-Steroidal",Pharmacologic Substance,D004968
+811,"Estrogens, Non-Steroidal",Pharmacologic Substance,D004968
+812,"Estrogens, Non-Steroidal",Organic Chemical,D004968
+813,"Estrogens, Non-Steroidal",Organic Chemical,D004968
+814,"Estrogens, Non-Steroidal",Organic Chemical,D004968
+815,"Estrogens, Non-Steroidal",Hormone,D004968
+816,"Estrogens, Non-Steroidal",Hormone,D004968
+817,"Estrogens, Non-Steroidal",Hormone,D004968
+818,"Estrogens, Catechol",Organic Chemical,D002393
+819,"Estrogens, Catechol",Organic Chemical,D002393
+820,"Estrogens, Catechol",Hormone,D002393
+821,"Estrogens, Catechol",Hormone,D002393
+822,Progesterone Congeners,Pharmacologic Substance,D045167
+823,Progesterone Congeners,Pharmacologic Substance,D045167
+824,Progesterone Congeners,Pharmacologic Substance,D045167
+825,Progesterone Congeners,Organic Chemical,D045167
+826,Progesterone Congeners,Organic Chemical,D045167
+827,Progesterone Congeners,Organic Chemical,D045167
+828,Progesterone Congeners,Hormone,D045167
+829,Progesterone Congeners,Hormone,D045167
+830,Progesterone Congeners,Hormone,D045167
+831,Progesterone,Pharmacologic Substance,D011374
+832,Progesterone,Pharmacologic Substance,D011374
+833,Progesterone,Pharmacologic Substance,D011374
+834,Progesterone,Pharmacologic Substance,D011374
+835,Progesterone,Organic Chemical,D011374
+836,Progesterone,Organic Chemical,D011374
+837,Progesterone,Organic Chemical,D011374
+838,Progesterone,Organic Chemical,D011374
+839,Progesterone,Biologically Active Substance,D011374
+840,Progesterone,Biologically Active Substance,D011374
+841,Progesterone,Biologically Active Substance,D011374
+842,Progesterone,Biologically Active Substance,D011374
+843,Progesterone,Hormone,D011374
+844,Progesterone,Hormone,D011374
+845,Progesterone,Hormone,D011374
+846,Progesterone,Hormone,D011374
+847,"Receptors, Progesterone","Amino Acid, Peptide, or Protein",D011980
+848,"Receptors, Progesterone","Amino Acid, Peptide, or Protein",D011980
+849,"Receptors, Progesterone",Receptor,D011980
+850,"Receptors, Progesterone",Receptor,D011980
+851,Progesterone Reductase,"Amino Acid, Peptide, or Protein",D011375
+852,Progesterone Reductase,"Amino Acid, Peptide, or Protein",D011375
+853,Progesterone Reductase,Enzyme,D011375
+854,Progesterone Reductase,Enzyme,D011375
+855,"Infant, Small for Gestational Age",Finding,D007236
+856,Gestational Age,Organism Attribute,D005865
+857,Trophoblasts,Embryonic Structure,D014327
+858,Stage-Specific Embryonic Antigens,Immunologic Factor,D055746
+859,Embryonic Development,Organ or Tissue Function,D047108
+860,Embryonic Development,Organ or Tissue Function,D047108
+861,Embryonic Development,Organ or Tissue Function,D047108
+862,Embryonic Development,Physiologic Function,D047108
+863,Embryonic Development,Physiologic Function,D047108
+864,Embryonic Development,Physiologic Function,D047108
+865,Embryonic Development,Biologic Function,D047108
+866,Embryonic Development,Biologic Function,D047108
+867,Embryonic Development,Biologic Function,D047108
+868,Embryonic Development,Organ or Tissue Function,D047108
+869,Embryonic Development,Organ or Tissue Function,D047108
+870,Embryonic Development,Organ or Tissue Function,D047108
+871,Embryonic Development,Physiologic Function,D047108
+872,Embryonic Development,Physiologic Function,D047108
+873,Embryonic Development,Physiologic Function,D047108
+874,Embryonic Development,Biologic Function,D047108
+875,Embryonic Development,Biologic Function,D047108
+876,Embryonic Development,Biologic Function,D047108
+877,Plant Somatic Embryogenesis Techniques,Laboratory Procedure,D058439
+878,Embryo Research,Research Activity,D033041
+879,Embryology,Biomedical Occupation or Discipline,D004626
+880,Embryonic Induction,Cell Function,D004627
+881,"Rhabdomyosarcoma, Embryonal",Neoplastic Process,D018233
+882,"Carcinoma, Embryonal",Neoplastic Process,D018236
+883,Mouse Embryonic Stem Cells,Cell,D000066450
+884,Embryoid Bodies,Cell,D058732
+885,Embryonic Germ Cells,Cell,D000066473
+886,Embryonic Stem Cells,Cell,D053595
+887,Human Embryonic Stem Cells,Cell,D000066449
+888,"Embryo, Nonmammalian",Embryonic Structure,D004625
+889,"Embryo, Mammalian",Embryonic Structure,D004622
+890,Embryonic Structures,Embryonic Structure,D004628
+891,"Organizers, Embryonic",Embryonic Structure,D020897
+892,Chick Embryo,Embryonic Structure,D002642
+893,Zygote,Embryonic Structure,D015053
+894,Sperm Motility,Cell Function,D013081
+895,Ejaculation,Organism Function,D004542
+896,Ovulation,Organ or Tissue Function,D010060
+897,Lactation,Organ or Tissue Function,D007774
+898,Parturition,Organism Function,D036801
+899,Pregnancy-Specific beta 1-Glycoproteins,"Amino Acid, Peptide, or Protein",D011268
+900,Pregnancy-Specific beta 1-Glycoproteins,"Amino Acid, Peptide, or Protein",D011268
+901,Pregnancy-Specific beta 1-Glycoproteins,Biologically Active Substance,D011268
+902,Pregnancy-Specific beta 1-Glycoproteins,Biologically Active Substance,D011268
+903,Pregnancy-Associated Plasma Protein-A,"Amino Acid, Peptide, or Protein",D011266
+904,Pregnancy-Associated Plasma Protein-A,"Amino Acid, Peptide, or Protein",D011266
+905,Pregnancy-Associated Plasma Protein-A,Enzyme,D011266
+906,Pregnancy-Associated Plasma Protein-A,Enzyme,D011266
+907,Pregnancy-Associated alpha 2-Macroglobulins,"Amino Acid, Peptide, or Protein",D045384
+908,Pregnancy-Associated alpha 2-Macroglobulins,"Amino Acid, Peptide, or Protein",D045384
+909,Pregnancy-Associated alpha 2-Macroglobulins,Biologically Active Substance,D045384
+910,Pregnancy-Associated alpha 2-Macroglobulins,Biologically Active Substance,D045384
+911,Pregnancy Proteins,"Amino Acid, Peptide, or Protein",D011257
+912,Pregnancy Proteins,"Amino Acid, Peptide, or Protein",D011257
+913,Pregnancy Proteins,Biologically Active Substance,D011257
+914,Pregnancy Proteins,Biologically Active Substance,D011257
+915,"Hypertension, Pregnancy-Induced",Disease or Syndrome,D046110
+916,"Hypertension, Pregnancy-Induced",Disease or Syndrome,D046110
+917,"Hypertension, Pregnancy-Induced",Pathologic Function,D046110
+918,"Hypertension, Pregnancy-Induced",Pathologic Function,D046110
+919,"Pregnancy, Twin",Finding,D059285
+920,Pregnancy Trimesters,Temporal Concept,D011264
+921,"Pregnancy Trimester, First",Temporal Concept,D011261
+922,"Pregnancy Trimester, Second",Temporal Concept,D011262
+923,"Pregnancy Trimester, Third",Temporal Concept,D011263
+924,Time-to-Pregnancy,Temporal Concept,D061685
+925,"Pregnancy, Prolonged",Pathologic Function,D011273
+926,Pregnancy,Organism Function,D011247
+927,"Pregnancy, Animal",Organism Function,D011270
+928,Pregnancy Maintenance,Organism Function,D011255
+929,"Gonadotropins, Equine",Pharmacologic Substance,D006064
+930,"Gonadotropins, Equine",Pharmacologic Substance,D006064
+931,"Gonadotropins, Equine",Pharmacologic Substance,D006064
+932,"Gonadotropins, Equine","Amino Acid, Peptide, or Protein",D006064
+933,"Gonadotropins, Equine","Amino Acid, Peptide, or Protein",D006064
+934,"Gonadotropins, Equine","Amino Acid, Peptide, or Protein",D006064
+935,"Gonadotropins, Equine",Hormone,D006064
+936,"Gonadotropins, Equine",Hormone,D006064
+937,"Gonadotropins, Equine",Hormone,D006064
+938,Gonadotropins,Pharmacologic Substance,D006062
+939,Gonadotropins,Pharmacologic Substance,D006062
+940,Gonadotropins,Pharmacologic Substance,D006062
+941,Gonadotropins,"Amino Acid, Peptide, or Protein",D006062
+942,Gonadotropins,"Amino Acid, Peptide, or Protein",D006062
+943,Gonadotropins,"Amino Acid, Peptide, or Protein",D006062
+944,Gonadotropins,Hormone,D006062
+945,Gonadotropins,Hormone,D006062
+946,Gonadotropins,Hormone,D006062
+947,"Gonadotropins, Pituitary",Pharmacologic Substance,D006065
+948,"Gonadotropins, Pituitary",Pharmacologic Substance,D006065
+949,"Gonadotropins, Pituitary",Hormone,D006065
+950,"Gonadotropins, Pituitary",Hormone,D006065
+951,Cochlear Implantation,Therapeutic or Preventive Procedure,D019929
+952,"Dental Implantation, Endosseous",Therapeutic or Preventive Procedure,D003758
+953,Dental Implantation,Therapeutic or Preventive Procedure,D003757
+954,Prosthesis Implantation,Therapeutic or Preventive Procedure,D019919
+955,Blood Vessel Prosthesis Implantation,Therapeutic or Preventive Procedure,D019917
+956,Heart Valve Prosthesis Implantation,Therapeutic or Preventive Procedure,D019918
+957,Auditory Brain Stem Implantation,Therapeutic or Preventive Procedure,D038263
+958,"Lens Implantation, Intraocular",Therapeutic or Preventive Procedure,D019654
+959,Fertilization,Natural Phenomenon or Process,D005306
+960,Fertilization,Natural Phenomenon or Process,D005306
+961,Fertilization,Organism Function,D005306
+962,Fertilization,Organism Function,D005306
+963,Gametogenesis,Organ or Tissue Function,D005718
+964,Spermatogenesis,Cell Function,D013091
+965,Menstrual Cycle,Physiologic Function,D008597
+966,Menstrual Cycle,Physiologic Function,D008597
+967,Menstrual Cycle,Organism Function,D008597
+968,Menstrual Cycle,Organism Function,D008597

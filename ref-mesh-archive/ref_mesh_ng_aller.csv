@@ -1,0 +1,151 @@
+,Preferred Label,Semantic Types Label,mesh_id
+0,"Mastocytosis, Cutaneous",Disease or Syndrome,D034701
+1,"Mastocytosis, Cutaneous",Disease or Syndrome,D034701
+2,"Mastocytosis, Cutaneous",Neoplastic Process,D034701
+3,"Mastocytosis, Cutaneous",Neoplastic Process,D034701
+4,Mastocytosis,Disease or Syndrome,D008415
+5,"Mastocytosis, Systemic",Neoplastic Process,D034721
+6,Immunoglobulin D,Pharmacologic Substance,D007072
+7,Immunoglobulin D,Pharmacologic Substance,D007072
+8,Immunoglobulin D,Pharmacologic Substance,D007072
+9,Immunoglobulin D,"Amino Acid, Peptide, or Protein",D007072
+10,Immunoglobulin D,"Amino Acid, Peptide, or Protein",D007072
+11,Immunoglobulin D,"Amino Acid, Peptide, or Protein",D007072
+12,Immunoglobulin D,Immunologic Factor,D007072
+13,Immunoglobulin D,Immunologic Factor,D007072
+14,Immunoglobulin D,Immunologic Factor,D007072
+15,Immunoglobulin Domains,Amino Acid Sequence,D000070557
+16,Immunoglobulin M,"Amino Acid, Peptide, or Protein",D007075
+17,Immunoglobulin M,"Amino Acid, Peptide, or Protein",D007075
+18,Immunoglobulin M,Immunologic Factor,D007075
+19,Immunoglobulin M,Immunologic Factor,D007075
+20,"Immunoglobulin A, Secretory","Amino Acid, Peptide, or Protein",D007071
+21,"Immunoglobulin A, Secretory","Amino Acid, Peptide, or Protein",D007071
+22,"Immunoglobulin A, Secretory",Immunologic Factor,D007071
+23,"Immunoglobulin A, Secretory",Immunologic Factor,D007071
+24,Immunoglobulin A,"Amino Acid, Peptide, or Protein",D007070
+25,Immunoglobulin A,"Amino Acid, Peptide, or Protein",D007070
+26,Immunoglobulin A,Immunologic Factor,D007070
+27,Immunoglobulin A,Immunologic Factor,D007070
+28,Immunoglobulin Allotypes,Immunologic Factor,D007126
+29,Immunoglobulin G,Pharmacologic Substance,D007074
+30,Immunoglobulin G,Pharmacologic Substance,D007074
+31,Immunoglobulin G,Pharmacologic Substance,D007074
+32,Immunoglobulin G,"Amino Acid, Peptide, or Protein",D007074
+33,Immunoglobulin G,"Amino Acid, Peptide, or Protein",D007074
+34,Immunoglobulin G,"Amino Acid, Peptide, or Protein",D007074
+35,Immunoglobulin G,Immunologic Factor,D007074
+36,Immunoglobulin G,Immunologic Factor,D007074
+37,Immunoglobulin G,Immunologic Factor,D007074
+38,Immunoglobulin Gm Allotypes,"Amino Acid, Peptide, or Protein",D007129
+39,Immunoglobulin Gm Allotypes,"Amino Acid, Peptide, or Protein",D007129
+40,Immunoglobulin Gm Allotypes,Immunologic Factor,D007129
+41,Immunoglobulin Gm Allotypes,Immunologic Factor,D007129
+42,Immunoglobulin G4-Related Disease,Disease or Syndrome,D000077733
+43,Chemokines,"Amino Acid, Peptide, or Protein",D018925
+44,Chemokines,"Amino Acid, Peptide, or Protein",D018925
+45,Chemokines,Immunologic Factor,D018925
+46,Chemokines,Immunologic Factor,D018925
+47,"Chemokines, CC","Amino Acid, Peptide, or Protein",D019742
+48,"Chemokines, CC","Amino Acid, Peptide, or Protein",D019742
+49,"Chemokines, CC",Immunologic Factor,D019742
+50,"Chemokines, CC",Immunologic Factor,D019742
+51,"Chemokines, CXC","Amino Acid, Peptide, or Protein",D019743
+52,"Chemokines, CXC","Amino Acid, Peptide, or Protein",D019743
+53,"Chemokines, CXC",Immunologic Factor,D019743
+54,"Chemokines, CXC",Immunologic Factor,D019743
+55,"Chemokines, C","Amino Acid, Peptide, or Protein",D019744
+56,"Chemokines, C","Amino Acid, Peptide, or Protein",D019744
+57,"Chemokines, C",Immunologic Factor,D019744
+58,"Chemokines, C",Immunologic Factor,D019744
+59,"Chemokines, CX3C","Amino Acid, Peptide, or Protein",D020523
+60,"Chemokines, CX3C","Amino Acid, Peptide, or Protein",D020523
+61,"Chemokines, CX3C",Immunologic Factor,D020523
+62,"Chemokines, CX3C",Immunologic Factor,D020523
+63,Cytokines,"Amino Acid, Peptide, or Protein",D016207
+64,Cytokines,"Amino Acid, Peptide, or Protein",D016207
+65,Cytokines,Immunologic Factor,D016207
+66,Cytokines,Immunologic Factor,D016207
+67,Cytokinesis,Cell Function,D048749
+68,"B-Lymphocytes, Regulatory",Cell,D060151
+69,B-Lymphocytes,Cell,D001402
+70,CD4-Positive T-Lymphocytes,Cell,D015496
+71,"T-Lymphocytes, Helper-Inducer",Cell,D006377
+72,"T-Lymphocytes, Cytotoxic",Cell,D013602
+73,T-Lymphocytes,Cell,D013601
+74,CD8-Positive T-Lymphocytes,Cell,D018414
+75,"T-Lymphocytes, Regulatory",Cell,D050378
+76,Basophils,Cell,D001491
+77,Eosinophils,Cell,D004804
+78,Mast Cells,Cell,D008407
+79,Anti-Inflammatory Agents,Pharmacologic Substance,D000893
+80,"Anti-Inflammatory Agents, Non-Steroidal",Pharmacologic Substance,D000894
+81,Gastrointestinal Microbiome,Bacterium,D000069196
+82,Gastrointestinal Microbiome,Bacterium,D000069196
+83,Gastrointestinal Microbiome,Organism,D000069196
+84,Gastrointestinal Microbiome,Organism,D000069196
+85,Prebiotics,Organic Chemical,D056692
+86,Probiotics,Bacterium,D019936
+87,"Desensitization, Immunologic",Therapeutic or Preventive Procedure,D003888
+88,Omalizumab,Pharmacologic Substance,D000069444
+89,Omalizumab,Pharmacologic Substance,D000069444
+90,Omalizumab,Pharmacologic Substance,D000069444
+91,Omalizumab,"Amino Acid, Peptide, or Protein",D000069444
+92,Omalizumab,"Amino Acid, Peptide, or Protein",D000069444
+93,Omalizumab,"Amino Acid, Peptide, or Protein",D000069444
+94,Omalizumab,Immunologic Factor,D000069444
+95,Omalizumab,Immunologic Factor,D000069444
+96,Omalizumab,Immunologic Factor,D000069444
+97,Leukotriene Antagonists,Pharmacologic Substance,D020024
+98,Leukotriene Antagonists,Pharmacologic Substance,D020024
+99,Leukotriene Antagonists,Organic Chemical,D020024
+100,Leukotriene Antagonists,Organic Chemical,D020024
+101,Epinephrine,Pharmacologic Substance,D004837
+102,Epinephrine,Pharmacologic Substance,D004837
+103,Epinephrine,Pharmacologic Substance,D004837
+104,Epinephrine,Organic Chemical,D004837
+105,Epinephrine,Organic Chemical,D004837
+106,Epinephrine,Organic Chemical,D004837
+107,Epinephrine,Hormone,D004837
+108,Epinephrine,Hormone,D004837
+109,Epinephrine,Hormone,D004837
+110,"Immunotherapy, Adoptive",Therapeutic or Preventive Procedure,D016219
+111,"Immunotherapy, Active",Therapeutic or Preventive Procedure,D016233
+112,Immunotherapy,Therapeutic or Preventive Procedure,D007167
+113,Radioallergosorbent Test,Laboratory Procedure,D011852
+114,Patch Tests,Diagnostic Procedure,D010328
+115,Skin Tests,Diagnostic Procedure,D012882
+116,Latex Hypersensitivity,Pathologic Function,D020315
+117,Latex Hypersensitivity,Pathologic Function,D020315
+118,Celiac Disease,Disease or Syndrome,D002446
+119,Eosinophilic Esophagitis,Disease or Syndrome,D057765
+120,Anaphylaxis,Disease or Syndrome,D000707
+121,Anaphylaxis,Disease or Syndrome,D000707
+122,Anaphylaxis,Pathologic Function,D000707
+123,Anaphylaxis,Pathologic Function,D000707
+124,Passive Cutaneous Anaphylaxis,Laboratory Procedure,D010323
+125,Immunoglobulin E,"Amino Acid, Peptide, or Protein",D007073
+126,Immunoglobulin E,"Amino Acid, Peptide, or Protein",D007073
+127,Immunoglobulin E,Immunologic Factor,D007073
+128,Immunoglobulin E,Immunologic Factor,D007073
+129,Allergens,Immunologic Factor,D000485
+130,Shellfish Hypersensitivity,Disease or Syndrome,D000067208
+131,Shellfish Hypersensitivity,Disease or Syndrome,D000067208
+132,Wheat Hypersensitivity,Disease or Syndrome,D021182
+133,Wheat Hypersensitivity,Disease or Syndrome,D021182
+134,Egg Hypersensitivity,Disease or Syndrome,D021181
+135,Egg Hypersensitivity,Disease or Syndrome,D021181
+136,Milk Hypersensitivity,Pathologic Function,D016269
+137,Milk Hypersensitivity,Pathologic Function,D016269
+138,Peanut Hypersensitivity,Disease or Syndrome,D021183
+139,Peanut Hypersensitivity,Disease or Syndrome,D021183
+140,Nut and Peanut Hypersensitivity,Disease or Syndrome,D000074924
+141,Nut and Peanut Hypersensitivity,Disease or Syndrome,D000074924
+142,Drug Hypersensitivity Syndrome,Disease or Syndrome,D063926
+143,Food Hypersensitivity,Pathologic Function,D005512
+144,Food Hypersensitivity,Pathologic Function,D005512
+145,Respiratory Hypersensitivity,Pathologic Function,D012130
+146,Drug Hypersensitivity,Pathologic Function,D004342
+147,"Hypersensitivity, Delayed",Pathologic Function,D006968
+148,Hypersensitivity,Pathologic Function,D006967
+149,"Hypersensitivity, Immediate",Pathologic Function,D006969
