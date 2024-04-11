@@ -2,10 +2,10 @@ topic_terms
 nutritional physiological phenomena
 appetite
 diet
-"diet, high-fat"
-"diet, carbohydrate-restricted"
-"diet, mediterranean"
-"diet, vegetarian"
+diet high-fat
+diet carbohydrate-restricted
+diet mediterranean
+diet vegetarian
 dietary fats
 dietary carbohydrates
 dietary fiber
@@ -37,91 +37,75 @@ body composition
 basal metabolism
 beverages
 carbohydrate metabolism
-"dietary fats, unsaturated"
+dietary fats
+dietary fats unsaturated
 dietary sodium
 dietary sucrose
-"dietary proteins, casein"
-"dietary proteins, milk"
-"dietary fats, saturated"
-"dietary carbohydrates, starch-modified"
-"dietary proteins, vegetable"
-"dietary carbohydrates, non-nutritive"
-"dietary fats, omega-3"
-"dietary fats, omega-6"
-"dietary carbohydrates, simple"
-"dietary fats, monounsaturated"
-"dietary proteins, soybean"
-"dietary fats, unsaturated, omega-6"
-"dietary fats, unsaturated, omega-3"
-"dietary fats, trans"
-"dietary fats, saturated, synthetic"
-"dietary fats, saturated, synthetic, hydrogenated"
-"dietary fats, saturated, synthetic, nonhydrogenated"
-"dietary fats, unsaturated, monounsaturated"
-"dietary fats, unsaturated, polyunsaturated"
-"dietary fats, unsaturated, monounsaturated, synthetic"
-"dietary fats, unsaturated, monounsaturated, natural"
-"dietary fats, unsaturated, polyunsaturated, synthetic"
-"dietary fats, unsaturated, polyunsaturated, natural"
-"dietary fats, unsaturated, omega-9"
-"dietary fats, unsaturated, omega-9, synthetic"
-"dietary fats, unsaturated, omega-9, natural"
-"dietary fats, unsaturated, omega-6, synthetic"
-"dietary fats, unsaturated, omega-6, natural"
-"dietary fats, unsaturated, omega-3, synthetic"
-"dietary fats, unsaturated, omega-3, natural"
-"dietary proteins, sulfur amino acids"
-"dietary proteins, methionine-restricted"
-"dietary proteins, plant"
-"dietary proteins, milk, human"
-"dietary proteins, essential"
-"dietary proteins, wheat-germ"
-"dietary proteins, egg"
-"dietary proteins, fish"
-"dietary proteins, insect"
-"dietary proteins, poultry"
-"dietary proteins, red-meat"
-"dietary proteins, beef"
-"dietary proteins, pork"
-"dietary proteins, shellfish"
-"dietary proteins, gelatin"
-"dietary proteins, myofibril"
-"dietary proteins, collagen"
-"dietary proteins, milk, bovine"
-"dietary proteins, milk, human, colostrum"
-"dietary proteins, milk, human, secretory"
-"dietary proteins, milk, human, transitional"
-"dietary proteins, milk, human, mature"
-"dietary proteins, milk, human, late"
-"dietary proteins, milk, human, colostrum, bovine"
-"dietary proteins, milk, human, secretory, bovine"
-"dietary proteins, milk, human, transitional, bovine"
-"dietary proteins, milk, human, mature, bovine"
-"dietary proteins, milk, human, late, bovine"
-"dietary proteins, soybean, fermented"
-"dietary proteins, soybean, defatted"
-"dietary proteins, soybean, isolated"
-"dietary proteins, soybean, hydrolyzed"
-"dietary proteins, soybean, concentrated"
-"anemia, iron-deficiency"
+dietary proteins casein
+dietary proteins milk
+dietary fats saturated
+dietary carbohydrates starch-modified
+dietary proteins vegetable
+dietary carbohydrates non-nutritive
+dietary fats omega-3
+dietary fats omega-6
+dietary carbohydrates simple
+dietary fats monounsaturated
+dietary proteins soybean
+dietary fats unsaturated omega-6
+dietary fats unsaturated omega-3
+dietary fats trans
+dietary fats saturated synthetic
+dietary fats saturated synthetic hydrogenated
+dietary fats saturated synthetic nonhydrogenated
+dietary fats unsaturated monounsaturated
+dietary fats unsaturated polyunsaturated
+dietary fats unsaturated monounsaturated
+dietary fats unsaturated omega-9
+dietary fats unsaturated omega-6
+dietary fats unsaturated omega-3
+dietary proteins sulfur amino acids
+dietary proteins methionine-restricted
+dietary proteins plant
+dietary proteins milk human
+dietary proteins essential
+dietary proteins wheat-germ
+dietary proteins egg
+dietary proteins fish
+dietary proteins insect
+dietary proteins poultry
+dietary proteins red-meat
+dietary proteins beef
+dietary proteins pork
+dietary proteins shellfish
+dietary proteins gelatin
+dietary proteins myofibril
+dietary proteins collagen
+dietary proteins milk bovine
+dietary proteins milk human
+dietary proteins soybean
+anemia iron-deficiency
 anorexia
 anorexia nervosa
 binge-eating disorder
 bulimia nervosa
 cachexia
-"carbohydrate metabolism, inborn errors"
+carbohydrate metabolism inborn errors
 cardiovascular diseases
 child nutrition disorders
 diabetes mellitus
-"diabetes mellitus, experimental"
-"diabetes mellitus, type 1"
-"diabetes mellitus, type 2"
-"diet, fat-restricted"
-"diet, gluten-free"
-"diet, high-protein"
-"diet, ketogenic"
-"diet, reducing"
-"diet, sodium-restricted"
+diabetes mellitus experimental
+diabetes mellitus type 1
+diabetes mellitus type 2
+diet fat-restricted
+diet gluten-free
+diet high-protein
+diet ketogenic
+diet reducing
+diet sodium-restricted
+diet
+dietary
+dietetics
 dyslipidemias
 eating disorders
 feeding and eating disorders
@@ -150,20 +134,21 @@ weight loss
 adiposity
 alcoholism
 anemia
-"anemia, megaloblastic"
-"anemia, pernicious"
-"anemia, sickle cell"
-"anemia, hemolytic"
+anemia megaloblastic
+anemia pernicious
+anemia sickle cell
+anemia hemolytic
 celiac disease
-"colitis, ulcerative"
+colitis ulcerative
 constipation
 crohn disease
-"diverticulosis, colonic"
+diverticulosis colonic
 esophageal diseases
 fatty liver
 gastroenteritis
 gastroesophageal reflux
 gout
+gouty
 growth disorders
 heart diseases
 hyperglycemic hyperosmolar nonketotic coma
@@ -172,19 +157,19 @@ hypoglycemic agents
 inflammatory bowel diseases
 intra-abdominal fat
 iron overload
-"kidney failure, chronic"
+kidney failure chronic
 liver cirrhosis
 liver neoplasms
 malocclusion
 metabolic syndrome x
 micronutrient deficiencies
 neoplasms
-"obesity, abdominal"
+obesity abdominal
 pancreatic diseases
 peptic ulcer
 porphyrias
 premature birth
-"renal insufficiency, chronic"
+renal insufficiency chronic
 rickets
 sepsis
 stroke
@@ -199,7 +184,7 @@ binge eating
 body weight
 carbohydrates
 child nutrition sciences
-"cholesterol, dietary"
+cholesterol dietary
 cooking
 diet records
 diet surveys
@@ -210,7 +195,7 @@ food
 food analysis
 food labeling
 food supply
-"food, formulated"
+food formulated
 fruit
 gastrointestinal transit
 healthy diet
@@ -229,7 +214,7 @@ probiotics
 reduced caloric intake
 satiation
 snacks
-"sodium, dietary"
+sodium dietary
 sports nutritional physiological phenomena
 sports nutritional sciences
 sucrose
@@ -238,7 +223,5 @@ supervised feeding
 sweets
 vegetables
 weight reduction programs
-"zinc, dietary"
+zinc dietary
 carbohydrate-restricted diet
-dietary
-dietetics

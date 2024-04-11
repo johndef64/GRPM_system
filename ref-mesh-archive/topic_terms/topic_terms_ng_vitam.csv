@@ -35,17 +35,16 @@ thiamine pyrophosphate
 thiamine triphosphate
 thiamine monophosphate chloride
 thiamine hydrochloride
-thiamine propyl disulfide benzoate (1:1)
-thiamine disulfide dicarboxylate hydrochloride (1:1)
-thiamine disulfide dicarboxylate (1:1)
-thiamine propyl disulfide (1:1)
-thiamine tetrahydrofurfuryl disulfide hydrochloride (1:1)
-thiamine tetrahydrofurfuryl disulfide (1:1)
-thiamine triphosphate chloride (1:1)
-thiamine pyrophosphate chloride (1:1)
-thiamine mononitrate (1:1)
-thiamine nitrate (2:3)
-thiamine nitrate hydrochloride (2:3)
+thiamine propyl disulfide benzoate
+thiamine disulfide dicarboxylate hydrochloride
+thiamine disulfide dicarboxylate
+thiamine propyl disulfide
+thiamine tetrahydrofurfuryl disulfide
+thiamine triphosphate chloride
+thiamine pyrophosphate chloride
+thiamine mononitrate
+thiamine nitrate
+thiamine nitrate hydrochloride
 thiamine
 tocopherols
 tocotrienols
@@ -151,16 +150,16 @@ cobalt compounds
 fluorides
 borates
 silicon dioxide
-"anemia, iron-deficiency"
-"anemia, megaloblastic"
-"anemia, pernicious"
-"anemia, sideroblastic"
+anemia iron-deficiency
+anemia megaloblastic
+anemia pernicious
+anemia sideroblastic
 ariboflavinosis
 avitaminosis
 beriberi
 biotinidase deficiency
-"blindness, cortical"
-"carnitine deficiency, systemic primary"
+blindness cortical
+carnitine deficiency systemic primary
 cerebral creatine deficiency syndrome
 cobalamin-related inborn errors of metabolism
 copper-transporting atpases
@@ -170,13 +169,13 @@ erythrocyte macrocytosis
 glucosephosphate dehydrogenase deficiency
 glycine n-methyltransferase deficiency
 hartnup disease
-"hemoglobinuria, paroxysmal"
+hemoglobinuria paroxysmal
 homocystinuria
 hyperhomocysteinemia
 hypervitaminosis a
 hypervitaminosis d
 hypophosphatasia
-"hypophosphatemia, familial"
+hypophosphatemia familial
 hypovitaminosis a
 iodine deficiency disorders
 kwashiorkor
@@ -186,6 +185,9 @@ malabsorption syndromes
 malnutrition-related diabetes mellitus
 maple syrup urine disease
 menkes kinky hair syndrome
-"methemoglobinemia, beta-globin type"
+methemoglobinemia beta-globin type
 methionine adenosyltransferase i/iii deficiency disease
 dietary
+biotinylation
+biotinidase
+cholinergic

@@ -24,7 +24,7 @@ satiety response
 sensory receptor cells
 sensory system
 smell
-"sodium, dietary"
+sodium dietary
 starvation
 sweetening agents
 taste
@@ -45,14 +45,16 @@ carbohydrates
 carotenoids
 coffee
 diet
+dietary
+dietetics
 dietary fiber
 dietary fats
 dietary proteins
 dietary sucrose
 dietary supplements
 drinking
-"eating disorders, anorexia nervosa"
-"eating disorders, bulimia nervosa"
+eating disorders anorexia nervosa
+eating disorders bulimia nervosa
 feeding and eating disorders
 fermentation
 flavoring agents
@@ -63,7 +65,7 @@ food microbiology
 food packaging
 food poisoning
 food preservation
-"food processors, domestic"
+food processors domestic
 food quality
 food safety management
 food technology
@@ -71,6 +73,7 @@ foodborne diseases
 glutamic acid
 meat
 mouth
+mouthwashes
 nutrigenomics
 nutritional physiological phenomena
 nutritional status
@@ -100,15 +103,18 @@ appetite stimulants
 appetite depressants
 bulimia nervosa
 anorexia nervosa
-feeding and eating disorders of childhood
-avoidant/restrictive food intake disorder
+food intake disorder
+feeding and eating disorders
+restrictive food intake disorder
+avoidant food intake disorder
 pica
 rumination disorder
-"sweeteners, artificial"
+sweeteners artificial
 sucrose
 fructose
 glucose
-"sodium chloride, dietary"
+glucosephosphate
+fructosephosphate
 salt preference
 salt-tolerance test
 sodium-restricted diet
@@ -117,7 +123,7 @@ monosodium glutamate
 inosine monophosphate
 guanosine monophosphate
 sourness perception test
-"acids, noncarboxylic"
+acids noncarboxylic
 citric acid
 lactic acid
 malic acid
@@ -144,7 +150,7 @@ menthol
 eucalyptol
 spearmint oil
 peppermint oil
-"flavors, artificial"
+flavors artificial
 vanilla extract
 lemon extract
 orange extract
@@ -157,7 +163,7 @@ maple syrup extract
 caramel extract
 licorice extract
 anise oil
-"aroma compounds, volatile"
+aroma compounds volatile
 limonene
 linalool
 eugenol
@@ -179,5 +185,3 @@ olfactory bulb
 olfactory nerve
 olfactory receptor neurons
 olfactory mucosa
-dietary
-dietetics

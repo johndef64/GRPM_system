@@ -3,8 +3,7 @@ xenobiotics
 metabolism
 biotransformation
 cytochrome p-450 enzyme system
-phase i metabolic detoxication
-phase ii metabolic detoxication
+metabolic detoxication
 oxidation-reduction
 hydroxylation
 dealkylation
@@ -17,7 +16,7 @@ sulfation
 methylation
 acetylation
 glutathione transferase
-"conjugation, genetic"
+conjugation genetic
 absorption
 excretion
 half-life
@@ -29,7 +28,7 @@ blood-retinal barrier
 blood-testis barrier
 placental barrier
 biological transport
-"active transport, cell nucleus"
+active transport cell nucleus
 facilitated diffusion
 endocytosis
 exocytosis
@@ -42,8 +41,8 @@ liver
 toxicity tests
 metabolomics
 liver microsomes
-"liver neoplasms, experimental"
-"polymorphism, genetic"
+liver neoplasms experimental
+polymorphism genetic
 toxicity
 hepatocytes
 carboxylesterase
@@ -52,41 +51,39 @@ mixed function oxygenases
 uridine diphosphate glucuronic acid
 glutathione
 metabolome
-"receptors, aryl hydrocarbon"
+receptors aryl hydrocarbon
 p-glycoprotein
 cytochrome p-450
 cyp1a2
 oxidative stress
 liver diseases
-"liver cirrhosis, experimental"
+liver cirrhosis experimental
 liver failure
 liver function tests
 liver regeneration
 toxicology
-"liver diseases, alcoholic"
+liver diseases alcoholic
 liver transplantation
 polypharmacy
 toxicogenetics
-"toxicology, environmental"
-"toxicology, forensic"
-"toxicology, legal"
-"toxicology, veterinary"
+toxicology environmental
+toxicology forensic
+toxicology legal
+toxicology veterinary
 toxicology tests
-"toxicology, clinical"
-"toxicity tests, acute"
-"toxicity tests, chronic"
-"toxicity tests, subacute"
-"toxicity tests, subchronic"
-"toxicity tests, sublethal"
-"toxicity tests, mutagenicity"
-"toxicity tests, reproduction"
-"toxicity tests, teratogenicity"
+toxicology clinical
+toxicity tests acute
+toxicity tests chronic
+toxicity tests subacute
+toxicity tests subchronic
+toxicity tests sublethal
+toxicity tests mutagenicity
+toxicity tests reproduction
+toxicity tests teratogenicity
 environmental pollutants
-"water pollutants, chemical"
+water pollutants chemical
 soil pollutants
 air pollutants
 pesticides
 food additives
-"radiation, ionizing"
-"radiation, nonionizing"
 cytochrome p-450 cyp1a2

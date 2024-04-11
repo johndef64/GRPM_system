@@ -3,9 +3,10 @@ adipose tissue
 angiogenesis
 angiography
 angiotensin ii
+angiotensin iii
 anticoagulants
 apoptosis
-"arrhythmias, cardiac"
+arrhythmias cardiac
 arterial pressure
 arteries
 atherosclerosis
@@ -26,21 +27,22 @@ cardiovascular agents
 cardiovascular diseases
 cardiovascular physiological phenomena
 cardiovascular system
-chemokines
 cholesterol
 collagen
 coronary artery disease
 coronary circulation
 coronary vessels
-cytokines
 diabetes mellitus
 diet
+dietary
+dietetics
+
 dyslipidemias
 echocardiography
 eicosanoids
 electrocardiography
 endothelial cells
-"endothelium, vascular"
+endothelium vascular
 exercise
 extracellular matrix
 fatty acids
@@ -52,7 +54,7 @@ heart rate
 hemodynamics
 hemostasis
 hypertension
-"hypertrophy, left ventricular"
+hypertrophy left ventricular
 inflammation
 insulin resistance
 intercellular signaling peptides and proteins
@@ -64,7 +66,7 @@ macrophages
 matrix metalloproteinases
 microcirculation
 mitochondria
-"muscle, smooth, vascular"
+muscle smooth vascular
 myocardial contraction
 myocardial infarction
 myocardial ischemia
@@ -91,17 +93,17 @@ receptors ldl
 receptors purinergic
 receptors thrombin
 renin-angiotensin system
-"smooth muscle, vascular"
+smooth muscle vascular
 sodium-hydrogen exchanger 1
 stroke volume
 thrombosis
 thromboxanes
 toll-like receptors
-transforming growth factor beta
+transforming growth factor
 vascular calcification
 vascular cell adhesion molecules
 vascular diseases
-vascular endothelial growth factor a
+vascular endothelial growth factor
 vascular resistance
 vasoconstriction
 vasodilation
@@ -117,14 +119,14 @@ apolipoprotein e4
 apolipoproteins
 blood lipids
 cholesterol ester transfer proteins
-"cholesterol, hdl"
-"cholesterol, ldl"
-"cholesterol, vldl"
+cholesterol hdl
+cholesterol ldl
+cholesterol vldl
 fatty acid-binding proteins
-"fatty acids, monounsaturated"
-"fatty acids, omega-3"
-"fatty acids, omega-6"
-"fatty acids, unsaturated"
+fatty acids monounsaturated
+fatty acids omega-3
+fatty acids omega-6
+fatty acids unsaturated
 fatty liver
 hyperlipidemias
 hypertriglyceridemia
@@ -134,9 +136,9 @@ lipids
 lipogenesis
 lipoprotein(a)
 lipoprotein lipase
-"lipoproteins, hdl"
-"lipoproteins, ldl"
-"lipoproteins, vldl"
+lipoproteins hdl
+lipoproteins ldl
+lipoproteins vldl
 metabolic syndrome
 phospholipids
 reverse cholesterol transport
@@ -180,9 +182,6 @@ oxidation-reduction
 peroxisomal disorders
 phosphatidate phosphatase
 stearoyl-coa desaturase
-sterol regulatory element-binding protein 1
-sterol regulatory element-binding protein 2
+sterol regulatory element-binding protein
 triglyceride lipase
 vldl receptors
-dietary
-dietetics
