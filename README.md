@@ -16,7 +16,7 @@ GRPM (Gene-Rsid-Pmid-Mesh) system is a comprehensive tool designed to integrate 
 
 ## Introduction
 
-GRPM System aims to build a comprehensive dataset of human genetic polymorphisms associated with nutrition. By combining data from multiple sources and utilizing MeSH terms as a framework, the system enables researchers to explore the vast genetic literature in search of variants significantly associated with a specific biomedical subject.
+GRPM System is a Python framework able to build a comprehensive dataset of human genetic polymorphisms associated with nutrition. By combining data from multiple sources and utilizing MeSH terms as a framework, this workflow enables researchers to explore the vast genetic literature in search of variants significantly associated with a specific biomedical subject.
 The main purpose of developing this resource was to assist nutritionists in investigating gene-diet interactions and implementing personalized nutrition interventions.
 
 ![Graphical Abstract](misc_data/graphical_abstract_s.png)
