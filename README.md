@@ -49,13 +49,19 @@ The GRPM Dataset available on Zenodo is a snapshot of [LitVar1](https://www.ncbi
 
 ## Installation
 
-To install GRPM System, clone the repository to your local machine:
+It is possible to query the datasets produced via the Py package by executing the command:
+```
+pip install git+https://github.com/johndef64/GRPM_system.git
+```
+Examples of queries can be found in the `test' directory.
+
+Otherwise, run each module separately in Google Colab importing Google Drive to keep-up your progress.
+
+To explore the entire repo, clone it locally:
 
 ```
 git clone https://github.com/johndef64/GRPM_system.git
 ```
-Otherwise, run each module separately in Google Colab importing Google Drive to keep-up your progress.
-
 
 ## Usage
 
