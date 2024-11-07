@@ -6,11 +6,7 @@ setup(
     version='0.1',
     packages=find_packages(),  # Automatically find packages in your project
     install_requires=[
-        #'os',
-        #'io',
-        #'sys',
-        'glob',
-        'zipfile',
+        # 'os', 'io', 'sys', 'datetime', and 'zipfile' are standard libraries and do not need to be listed
         'requests',
         'pyarrow',
         'numpy',
@@ -18,9 +14,9 @@ setup(
         'seaborn',
         'matplotlib',
         'tqdm',
-        'datetime',
         'pyperclip'
     ],
+
     #entry_points={             # Optional: command-line scripts
     #    'console_scripts': [
     #        'your-command=your_package.module:function',
