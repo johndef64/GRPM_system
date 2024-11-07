@@ -1,0 +1,259 @@
+,gpt_terms,series
+0,Vitamin A,gpt_phys
+1,Vitamin A Deficiency,gpt_phys
+2,Vitamin B 12,gpt_phys
+3,Vitamin B 12 Deficiency,gpt_phys
+4,Vitamin B 6,gpt_phys
+5,Vitamin B 6 Deficiency,gpt_phys
+6,Vitamin B Complex,gpt_phys
+7,Vitamin B Deficiency,gpt_phys
+8,Vitamin C,gpt_phys
+9,Vitamin C Deficiency,gpt_phys
+10,Vitamin D,gpt_phys
+11,Vitamin D Deficiency,gpt_phys
+12,Vitamin E,gpt_phys
+13,Vitamin E Deficiency,gpt_phys
+14,Vitamin K,gpt_phys
+15,Vitamin K Deficiency,gpt_phys
+16,Vitamins,gpt_phys
+17,Ascorbic Acid,gpt_phys
+18,Biotin,gpt_phys
+19,Calcifediol,gpt_phys
+20,Calcitriol,gpt_phys
+21,Cholecalciferol,gpt_phys
+22,Cobamides,gpt_phys
+23,Ergocalciferols,gpt_phys
+24,Folic Acid,gpt_phys
+25,Niacin,gpt_phys
+26,Niacinamide,gpt_phys
+27,Pantothenic Acid,gpt_phys
+28,Pyridoxal Phosphate,gpt_phys
+29,Pyridoxamine,gpt_phys
+30,Pyridoxine,gpt_phys
+31,Riboflavin,gpt_phys
+32,Thiamine Pyrophosphate,gpt_phys
+33,Thiamine Triphosphate,gpt_phys
+34,Thiamine Monophosphate Chloride,gpt_phys
+35,Thiamine Hydrochloride,gpt_phys
+36,Thiamine Propyl Disulfide Benzoate (1:1),gpt_phys
+37,Thiamine Disulfide Dicarboxylate Hydrochloride (1:1),gpt_phys
+38,Thiamine Disulfide Dicarboxylate (1:1),gpt_phys
+39,Thiamine Propyl Disulfide (1:1),gpt_phys
+40,Thiamine Tetrahydrofurfuryl Disulfide Hydrochloride (1:1),gpt_phys
+41,Thiamine Tetrahydrofurfuryl Disulfide (1:1),gpt_phys
+42,Thiamine Triphosphate Chloride (1:1),gpt_phys
+43,Thiamine Pyrophosphate Chloride (1:1),gpt_phys
+44,Thiamine Mononitrate (1:1),gpt_phys
+45,Thiamine Nitrate (2:3),gpt_phys
+46,Thiamine Nitrate Hydrochloride (2:3),gpt_phys
+47,Thiamine,gpt_phys
+48,Tocopherols,gpt_phys
+49,Tocotrienols,gpt_phys
+50,Ubiquinone,gpt_phys
+51,Vegetables,gpt_phys
+52,Fruit,gpt_phys
+53,Nutritional Requirements,gpt_phys
+54,Dietary Supplements,gpt_phys
+56,Dietary Proteins,gpt_phys
+59,Dietary Calcium,gpt_phys
+60,Dietary Iron,gpt_phys
+61,Dietary Magnesium,gpt_phys
+62,Dietary Phosphorus,gpt_phys
+63,Dietary Potassium,gpt_phys
+64,Dietary Sodium,gpt_phys
+65,Dietary Zinc,gpt_phys
+66,Dietary Copper,gpt_phys
+67,Dietary Manganese,gpt_phys
+68,Dietary Selenium,gpt_phys
+69,Dietary Iodine,gpt_phys
+70,Dietary Chromium,gpt_phys
+71,Dietary Fluoride,gpt_phys
+72,Dietary Molybdenum,gpt_phys
+73,Malnutrition,gpt_phys
+74,Overnutrition,gpt_phys
+75,Nutrition Assessment,gpt_phys
+76,Nutrition Policy,gpt_phys
+77,Nutrition Surveys,gpt_phys
+78,Nutritional Status,gpt_phys
+79,Nutritional Support,gpt_phys
+80,Nutritional Physiological Phenomena,gpt_phys
+81,Metabolic Diseases,gpt_phys
+82,Metabolic Syndrome X,gpt_phys
+0,Micronutrients,gpt_path
+1,Vitamin A,gpt_path
+2,Vitamin B Complex,gpt_path
+3,Vitamin B 12,gpt_path
+4,Vitamin B 6,gpt_path
+5,Biotin,gpt_path
+6,Folic Acid,gpt_path
+7,Niacin,gpt_path
+8,Pantothenic Acid,gpt_path
+9,Riboflavin,gpt_path
+10,Thiamine,gpt_path
+11,Vitamin B 12 Deficiency,gpt_path
+12,Vitamin B 6 Deficiency,gpt_path
+13,Folic Acid Deficiency,gpt_path
+14,Niacinamide,gpt_path
+15,Pyridoxal Phosphate,gpt_path
+16,Pyridoxamine,gpt_path
+17,Pyridoxine,gpt_path
+18,Vitamin C,gpt_path
+19,Ascorbic Acid Deficiency,gpt_path
+20,Scurvy,gpt_path
+21,Dehydroascorbic Acid,gpt_path
+22,Erythorbic Acid,gpt_path
+23,Calcium Ascorbate,gpt_path
+24,Sodium Ascorbate,gpt_path
+25,Vitamin D,gpt_path
+26,Calcifediol,gpt_path
+27,Calcitriol,gpt_path
+28,Ergocalciferols,gpt_path
+29,Cholecalciferol,gpt_path
+30,Hydroxycholecalciferols,gpt_path
+31,Parathyroid Hormone-Related Protein,gpt_path
+32,Rickets,gpt_path
+33,Osteomalacia,gpt_path
+34,Hypocalcemia,gpt_path
+35,Hypophosphatemia,gpt_path
+36,Vitamin E,gpt_path
+37,alpha-Tocopherol,gpt_path
+38,gamma-Tocopherol,gpt_path
+39,Tocopherols,gpt_path
+40,Tocotrienols,gpt_path
+41,Vitamin,gpt_path
+42,Vitamin E Deficiency,gpt_path
+43,Vitamin K,gpt_path
+44,Phylloquinone,gpt_path
+45,Menaquinones,gpt_path
+46,Vitamin K 1,gpt_path
+47,Vitamin K 2,gpt_path
+48,Vitamin K 3,gpt_path
+49,Vitamin K Deficiency,gpt_path
+50,Vitamin K Deficiency Bleeding,gpt_path
+51,Dietary Sodium,gpt_path
+52,Dietary Zinc,gpt_path
+53,Dietary Copper,gpt_path
+54,Dietary Manganese,gpt_path
+55,Dietary Selenium,gpt_path
+56,Dietary Iodine,gpt_path
+57,Dietary Chromium,gpt_path
+58,Dietary Fluoride,gpt_path
+59,Dietary Calcium,gpt_path
+60,Dietary Magnesium,gpt_path
+61,Dietary Iron,gpt_path
+62,Dietary Potassium,gpt_path
+63,Dietary Phosphorus,gpt_path
+65,Dietary Proteins,gpt_path
+68,Dietary Supplements,gpt_path
+69,Vitamin A,gpt_path
+70,Vitamin B Complex,gpt_path
+71,Vitamin B 12,gpt_path
+72,Vitamin B 6,gpt_path
+73,Vitamin C,gpt_path
+74,Vitamin D,gpt_path
+75,Vitamin E,gpt_path
+76,Vitamin K,gpt_path
+77,Folic Acid,gpt_path
+78,Niacin,gpt_path
+79,Pantothenic Acid,gpt_path
+80,Riboflavin,gpt_path
+81,Thiamine,gpt_path
+82,Biotin,gpt_path
+83,Choline,gpt_path
+84,Carnitine,gpt_path
+85,Taurine,gpt_path
+86,Inositol,gpt_path
+87,Coenzyme Q10,gpt_path
+88,Lipoic Acid,gpt_path
+89,Glutathione,gpt_path
+90,Creatine,gpt_path
+91,Sodium Metabolism Disorders,gpt_path
+92,Zinc Metabolism Disorders,gpt_path
+93,Copper Metabolism Disorders,gpt_path
+94,Manganese Metabolism Disorders,gpt_path
+95,Selenium Metabolism Disorders,gpt_path
+96,Iodine Metabolism Disorders,gpt_path
+97,Chromium Metabolism Disorders,gpt_path
+98,Fluoride Metabolism Disorders,gpt_path
+99,Calcium Metabolism Disorders,gpt_path
+100,Magnesium Metabolism Disorders,gpt_path
+101,Iron Metabolism Disorders,gpt_path
+102,Potassium Metabolism Disorders,gpt_path
+103,Phosphorus Metabolism Disorders,gpt_path
+104,Lipid Metabolism Disorders,gpt_path
+105,Protein-Energy Malnutrition,gpt_path
+108,Vitamin A Deficiency,gpt_path
+109,Vitamin B 12 Deficiency,gpt_path
+110,Vitamin B 6 Deficiency,gpt_path
+111,Scurvy,gpt_path
+112,Rickets,gpt_path
+113,Vitamin E Deficiency,gpt_path
+114,Vitamin K Deficiency,gpt_path
+115,Folic Acid Deficiency,gpt_path
+116,Pellagra,gpt_path
+117,Pantothenic Acid Deficiency,gpt_path
+118,Riboflavin Deficiency,gpt_path
+119,Thiamine Deficiency,gpt_path
+120,Biotin Deficiency,gpt_path
+121,Choline Deficiency,gpt_path
+122,Carnitine Deficiency,gpt_path
+123,Taurine Deficiency,gpt_path
+124,Inositol Deficiency,gpt_path
+125,Coenzyme Q10 Deficiency,gpt_path
+126,Lipoic Acid Deficiency,gpt_path
+127,Glutathione Deficiency,gpt_path
+128,Creatine Deficiency,gpt_path
+129,Zinc Compounds,gpt_path
+130,Copper Compounds,gpt_path
+131,Iron Compounds,gpt_path
+132,Selenium Compounds,gpt_path
+133,Iodine Compounds,gpt_path
+134,Magnesium Compounds,gpt_path
+135,Manganese Compounds,gpt_path
+136,Molybdenum Compounds,gpt_path
+137,Chromium Compounds,gpt_path
+138,Cobalt Compounds,gpt_path
+139,Fluorides,gpt_path
+140,Borates,gpt_path
+141,Silicon Dioxide,gpt_path
+0,"Anemia, Iron-Deficiency",gpt_jolly
+1,"Anemia, Megaloblastic",gpt_jolly
+2,"Anemia, Pernicious",gpt_jolly
+3,"Anemia, Sideroblastic",gpt_jolly
+4,Ariboflavinosis,gpt_jolly
+5,Ascorbic Acid Deficiency,gpt_jolly
+6,Avitaminosis,gpt_jolly
+7,Beriberi,gpt_jolly
+8,Biotinidase Deficiency,gpt_jolly
+9,"Blindness, Cortical",gpt_jolly
+10,"Carnitine Deficiency, Systemic Primary",gpt_jolly
+11,Cerebral Creatine Deficiency Syndrome,gpt_jolly
+12,Choline Deficiency,gpt_jolly
+13,Cobalamin-Related Inborn Errors of Metabolism,gpt_jolly
+14,Copper-Transporting ATPases,gpt_jolly
+15,Cystathioninuria,gpt_jolly
+16,Deficiency Diseases,gpt_jolly
+17,Erythrocyte Macrocytosis,gpt_jolly
+18,Folic Acid Deficiency,gpt_jolly
+19,Glucosephosphate Dehydrogenase Deficiency,gpt_jolly
+20,Glycine N-Methyltransferase Deficiency,gpt_jolly
+21,Hartnup Disease,gpt_jolly
+22,"Hemoglobinuria, Paroxysmal",gpt_jolly
+23,Homocystinuria,gpt_jolly
+24,Hyperhomocysteinemia,gpt_jolly
+25,Hypervitaminosis A,gpt_jolly
+26,Hypervitaminosis D,gpt_jolly
+27,Hypophosphatasia,gpt_jolly
+28,"Hypophosphatemia, Familial",gpt_jolly
+29,Hypovitaminosis A,gpt_jolly
+30,Iodine Deficiency Disorders,gpt_jolly
+31,Iron Metabolism Disorders,gpt_jolly
+32,Kwashiorkor,gpt_jolly
+33,Lipoylation Defects,gpt_jolly
+34,Magnesium Deficiency,gpt_jolly
+35,Malabsorption Syndromes,gpt_jolly
+36,Malnutrition-Related Diabetes Mellitus,gpt_jolly
+37,Maple Syrup Urine Disease,gpt_jolly
+38,Menkes Kinky Hair Syndrome,gpt_jolly
+39,"Methemoglobinemia, Beta-Globin Type",gpt_jolly
+40,Methionine Adenosyltransferase I/III Deficiency Disease,gpt_jolly

@@ -1,0 +1,190 @@
+,gpt_terms,series
+0,Adipose Tissue,gpt_phys
+1,Angiogenesis,gpt_phys
+2,Angiography,gpt_phys
+3,Angiotensin II,gpt_phys
+4,Anticoagulants,gpt_phys
+5,Apoptosis,gpt_phys
+6,"Arrhythmias, Cardiac",gpt_phys
+7,Arterial Pressure,gpt_phys
+8,Arteries,gpt_phys
+9,Atherosclerosis,gpt_phys
+10,Autonomic Nervous System,gpt_phys
+11,Blood Coagulation,gpt_phys
+12,Blood Flow Velocity,gpt_phys
+13,Blood Platelets,gpt_phys
+14,Blood Pressure,gpt_phys
+15,Blood Vessels,gpt_phys
+16,Body Weight,gpt_phys
+17,Calcium Signaling,gpt_phys
+18,Capillaries,gpt_phys
+19,Cardiac Output,gpt_phys
+20,Cardiac Surgical Procedures,gpt_phys
+21,Cardiomyopathies,gpt_phys
+22,Cardiopulmonary Resuscitation,gpt_phys
+23,Cardiovascular Agents,gpt_phys
+24,Cardiovascular Diseases,gpt_phys
+25,Cardiovascular Physiological Phenomena,gpt_phys
+26,Cardiovascular System,gpt_phys
+27,Cell Communication,gpt_phys
+28,Cell Differentiation,gpt_phys
+29,Cell Proliferation,gpt_phys
+30,Chemokines,gpt_phys
+31,Cholesterol,gpt_phys
+32,Collagen,gpt_phys
+33,Coronary Artery Disease,gpt_phys
+34,Coronary Circulation,gpt_phys
+35,Coronary Vessels,gpt_phys
+36,Cytokines,gpt_phys
+37,Diabetes Mellitus,gpt_phys
+38,Diet,gpt_phys
+39,Dyslipidemias,gpt_phys
+40,Echocardiography,gpt_phys
+41,Eicosanoids,gpt_phys
+42,Electrocardiography,gpt_phys
+43,Endothelial Cells,gpt_phys
+44,"Endothelium, Vascular",gpt_phys
+45,Exercise,gpt_phys
+46,Extracellular Matrix,gpt_phys
+47,Fatty Acids,gpt_phys
+48,Fibrinolysis,gpt_phys
+49,Glycogen Metabolism,gpt_phys
+50,Heart,gpt_phys
+51,Heart Failure,gpt_phys
+52,Heart Rate,gpt_phys
+53,Hemodynamics,gpt_phys
+54,Hemostasis,gpt_phys
+55,Hypertension,gpt_phys
+56,"Hypertrophy, Left Ventricular",gpt_phys
+57,Inflammation,gpt_phys
+58,Insulin Resistance,gpt_phys
+59,Intercellular Signaling Peptides and Proteins,gpt_phys
+60,Intracellular Signaling Peptides and Proteins,gpt_phys
+61,Ischemia,gpt_phys
+62,Lipid Metabolism,gpt_phys
+63,Lipoproteins,gpt_phys
+64,Macrophages,gpt_phys
+65,Matrix Metalloproteinases,gpt_phys
+66,Microcirculation,gpt_phys
+67,Mitochondria,gpt_phys
+68,"Muscle, Smooth, Vascular",gpt_phys
+69,Myocardial Contraction,gpt_phys
+70,Myocardial Infarction,gpt_phys
+71,Myocardial Ischemia,gpt_phys
+72,Myocardium,gpt_phys
+73,Natriuretic Peptides,gpt_phys
+74,Nitric Oxide,gpt_phys
+75,Obesity,gpt_phys
+76,Oxidative Stress,gpt_phys
+77,Peptide Hormones,gpt_phys
+78,Pericardium,gpt_phys
+79,Pericytes,gpt_phys
+80,Phosphatidylinositol 3-Kinases,gpt_phys
+81,Platelet Activation,gpt_phys
+82,Platelet Aggregation,gpt_phys
+83,Platelet Function Tests,gpt_phys
+84,Plasminogen Activators,gpt_phys
+85,Protein Kinase C,gpt_phys
+86,Protein Transport,gpt_phys
+87,Proteolysis,gpt_phys
+88,Reactive Oxygen Species,gpt_phys
+89,"Receptors, Adrenergic",gpt_phys
+90,"Receptors, Angiotensin",gpt_phys
+91,"Receptors, LDL",gpt_phys
+92,"Receptors, Purinergic",gpt_phys
+93,"Receptors, Thrombin",gpt_phys
+94,Renin-Angiotensin System,gpt_phys
+95,"Smooth Muscle, Vascular",gpt_phys
+96,Sodium-Hydrogen Exchanger 1,gpt_phys
+97,Stroke Volume,gpt_phys
+98,Thrombosis,gpt_phys
+99,Thromboxanes,gpt_phys
+100,Toll-Like Receptors,gpt_phys
+101,Transforming Growth Factor beta,gpt_phys
+102,Vascular Calcification,gpt_phys
+103,Vascular Cell Adhesion Molecules,gpt_phys
+104,Vascular Diseases,gpt_phys
+105,Vascular Endothelial Growth Factor A,gpt_phys
+106,Vascular Resistance,gpt_phys
+107,Vasoconstriction,gpt_phys
+108,Vasodilation,gpt_phys
+109,Vasodilator Agents,gpt_phys
+110,Ventricular Function,gpt_phys
+111,Ventricular Remodeling,gpt_phys
+112,Ventricular Dysfunction,gpt_phys
+113,Vitamin D,gpt_phys
+114,Vitamin K,gpt_phys
+115,Wound Healing,gpt_phys
+116,Apolipoprotein B-100,gpt_phys
+117,Apolipoprotein E4,gpt_phys
+118,Apolipoproteins,gpt_phys
+119,Blood Lipids,gpt_phys
+120,Cholesterol Ester Transfer Proteins,gpt_phys
+121,"Cholesterol, HDL",gpt_phys
+122,"Cholesterol, LDL",gpt_phys
+123,"Cholesterol, VLDL",gpt_phys
+124,Fatty Acid-Binding Proteins,gpt_phys
+125,"Fatty Acids, Monounsaturated",gpt_phys
+126,"Fatty Acids, Omega-3",gpt_phys
+127,"Fatty Acids, Omega-6",gpt_phys
+128,"Fatty Acids, Unsaturated",gpt_phys
+129,Fatty Liver,gpt_phys
+130,Hyperlipidemias,gpt_phys
+131,Hypertriglyceridemia,gpt_phys
+132,Lecithin Cholesterol Acyltransferase,gpt_phys
+133,Lipid Peroxidation,gpt_phys
+134,Lipids,gpt_phys
+135,Lipogenesis,gpt_phys
+136,Lipoprotein(a),gpt_phys
+137,Lipoprotein Lipase,gpt_phys
+138,"Lipoproteins, HDL",gpt_phys
+139,"Lipoproteins, LDL",gpt_phys
+140,"Lipoproteins, VLDL",gpt_phys
+141,Metabolic Syndrome,gpt_phys
+142,Phospholipids,gpt_phys
+143,Reverse Cholesterol Transport,gpt_phys
+144,Serum Amyloid A Protein,gpt_phys
+145,Sterol Regulatory Element-Binding Proteins,gpt_phys
+146,Triglycerides,gpt_phys
+147,Very-Low-Density Lipoproteins,gpt_phys
+148,Acyl-CoA Dehydrogenases,gpt_phys
+149,Acyltransferases,gpt_phys
+150,Adipocytes,gpt_phys
+151,Adiponectin,gpt_phys
+152,Apolipoprotein A-I,gpt_phys
+153,Apolipoprotein C-III,gpt_phys
+154,Apolipoproteins B,gpt_phys
+155,Apolipoproteins C,gpt_phys
+156,Apolipoproteins E,gpt_phys
+157,Apolipoproteins E2,gpt_phys
+158,Apolipoproteins E3,gpt_phys
+159,Apolipoproteins E4,gpt_phys
+160,Arachidonate 5-Lipoxygenase,gpt_phys
+161,Carnitine O-Palmitoyltransferase,gpt_phys
+162,Ceramides,gpt_phys
+163,Cholesterol 7-alpha-Hydroxylase,gpt_phys
+164,Cholesterol Acyltransferase,gpt_phys
+165,Cholesterol Ester Storage Disease,gpt_phys
+166,Cholesterol Esters,gpt_phys
+167,Cholesterol Side-Chain Cleavage Enzyme,gpt_phys
+168,Coenzyme A Ligases,gpt_phys
+169,Coenzyme A-Transferases,gpt_phys
+170,Fatty Acid Desaturases,gpt_phys
+171,Fatty Acid Transport Proteins,gpt_phys
+172,Hydroxymethylglutaryl-CoA Reductase Inhibitors,gpt_phys
+173,Lipase,gpt_phys
+174,Lipid Droplets,gpt_phys
+175,Lipolysis,gpt_phys
+176,Lipopeptides,gpt_phys
+177,Lipopolysaccharides,gpt_phys
+178,Liposomes,gpt_phys
+179,Lysophosphatidylcholines,gpt_phys
+180,Oxidation-Reduction,gpt_phys
+181,Peroxisomal Disorders,gpt_phys
+182,Phosphatidate Phosphatase,gpt_phys
+183,Plasma,gpt_phys
+184,Stearoyl-CoA Desaturase,gpt_phys
+185,Sterol Regulatory Element-Binding Protein 1,gpt_phys
+186,Sterol Regulatory Element-Binding Protein 2,gpt_phys
+187,Triglyceride Lipase,gpt_phys
+188,VLDL Receptors,gpt_phys

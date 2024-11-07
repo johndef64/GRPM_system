@@ -1,0 +1,140 @@
+,gpt_terms,series
+0,"Diabetes Mellitus, Type 2",gpt_phys
+1,Metabolic Syndrome,gpt_phys
+2,Insulin Resistance,gpt_phys
+3,Hyperglycemia,gpt_phys
+4,Glucose Intolerance,gpt_phys
+5,Obesity,gpt_phys
+6,Dyslipidemias,gpt_phys
+7,Hypertension,gpt_phys
+8,Cardiovascular Diseases,gpt_phys
+9,Adiposity,gpt_phys
+10,Abdominal Obesity,gpt_phys
+11,Visceral Fat,gpt_phys
+12,Insulin,gpt_phys
+13,Glucose,gpt_phys
+14,Glycemic Control,gpt_phys
+15,Blood Glucose,gpt_phys
+16,Pancreas,gpt_phys
+17,Insulin Secretion,gpt_phys
+18,Insulin Sensitivity,gpt_phys
+19,Insulin Receptor,gpt_phys
+20,Glucagon,gpt_phys
+21,Adipokines,gpt_phys
+22,Adiponectin,gpt_phys
+23,Leptin,gpt_phys
+24,Interleukin-6,gpt_phys
+25,Tumor Necrosis Factor-alpha,gpt_phys
+26,Adipocytes,gpt_phys
+27,Inflammation,gpt_phys
+28,Inflammatory Markers,gpt_phys
+29,C-Reactive Protein,gpt_phys
+30,Oxidative Stress,gpt_phys
+31,Antioxidants,gpt_phys
+32,Lipotoxicity,gpt_phys
+33,Fatty Acids,gpt_phys
+34,Triglycerides,gpt_phys
+35,Cholesterol,gpt_phys
+36,LDL Cholesterol,gpt_phys
+37,HDL Cholesterol,gpt_phys
+38,Apolipoproteins,gpt_phys
+39,Microvascular Complications,gpt_phys
+40,Nephropathy,gpt_phys
+41,Retinopathy,gpt_phys
+42,Neuropathy,gpt_phys
+43,Macrovascular Complications,gpt_phys
+44,Coronary Artery Disease,gpt_phys
+45,Peripheral Vascular Diseases,gpt_phys
+46,Stroke,gpt_phys
+47,Obstructive Sleep Apnea,gpt_phys
+48,Non-alcoholic Fatty Liver Disease,gpt_phys
+49,Polycystic Ovary Syndrome,gpt_phys
+50,Hyperinsulinemia,gpt_phys
+51,Beta-Cell Function,gpt_phys
+52,"Glycosylation End Products, Advanced",gpt_phys
+53,Pancreatic Beta Cells,gpt_phys
+54,Glycogen,gpt_phys
+55,Glycogenolysis,gpt_phys
+56,Gluconeogenesis,gpt_phys
+57,Glycolysis,gpt_phys
+58,Ketogenesis,gpt_phys
+59,Amylin,gpt_phys
+60,Metformin,gpt_phys
+61,Sulfonylurea Compounds,gpt_phys
+62,Thiazolidinediones,gpt_phys
+63,Dipeptidyl Peptidase 4 Inhibitors,gpt_phys
+64,Glucagon-Like Peptide 1,gpt_phys
+65,Sodium-Glucose Transport Proteins,gpt_phys
+66,Glucose Transporter Type 4,gpt_phys
+67,Insulin Infusion Systems,gpt_phys
+68,Bariatric Surgery,gpt_phys
+69,Exercise,gpt_phys
+70,Diet,gpt_phys
+71,Weight Loss,gpt_phys
+72,Lifestyle Modification,gpt_phys
+73,Physical Activity,gpt_phys
+74,Nutrition Therapy,gpt_phys
+75,Pharmacotherapy,gpt_phys
+76,Antidiabetic Agents,gpt_phys
+77,Hypoglycemic Agents,gpt_phys
+78,Blood Pressure,gpt_phys
+79,Lipids,gpt_phys
+80,Glycated Hemoglobin A,gpt_phys
+81,Fasting Blood Glucose,gpt_phys
+82,Postprandial Blood Glucose,gpt_phys
+83,Glycemic Index,gpt_phys
+84,Glycemic Load,gpt_phys
+85,Diabetic Complications,gpt_phys
+86,Diabetic Nephropathies,gpt_phys
+87,Diabetic Retinopathy,gpt_phys
+88,Diabetic Neuropathies,gpt_phys
+89,Diabetic Foot,gpt_phys
+90,Diabetic Ketoacidosis,gpt_phys
+91,Diabetic Angiopathies,gpt_phys
+92,Gestational Diabetes,gpt_phys
+93,Prediabetic State,gpt_phys
+94,Diabetes Self-Management,gpt_phys
+95,Diabetes Education,gpt_phys
+96,"Diabetes Mellitus, Experimental",gpt_phys
+97,Insulinoma,gpt_phys
+98,Pancreatic Neoplasms,gpt_phys
+99,Islets of Langerhans Transplantation,gpt_phys
+100,Glucose Clamp Technique,gpt_phys
+101,Hyperinsulinism,gpt_phys
+102,Glucose Tolerance Test,gpt_phys
+103,Oral Glucose Tolerance Test,gpt_phys
+104,"Hemoglobin A, Glycosylated",gpt_phys
+105,Homeostasis,gpt_phys
+106,Mitochondria,gpt_phys
+107,Proinsulin,gpt_phys
+108,Hepatocytes,gpt_phys
+109,Adipose Tissue,gpt_phys
+110,"Glycation End Products, Advanced",gpt_phys
+111,Insulin-Like Growth Factor I,gpt_phys
+112,PPAR gamma,gpt_phys
+113,PPAR alpha,gpt_phys
+114,AMP-Activated Protein Kinases,gpt_phys
+115,Cellular Senescence,gpt_phys
+116,Mitochondrial Dysfunction,gpt_phys
+117,Autophagy,gpt_phys
+118,Ghrelin,gpt_phys
+119,Osteopontin,gpt_phys
+120,Perilipin-1,gpt_phys
+121,Angiotensin II,gpt_phys
+122,Insulin Antagonists,gpt_phys
+123,Intercellular Signaling Peptides and Proteins,gpt_phys
+124,MicroRNAs,gpt_phys
+126,Adiponectin Receptor 1,gpt_phys
+127,Adiponectin Receptor 2,gpt_phys
+128,"Muscle, Skeletal",gpt_phys
+129,Glucose Metabolism Disorders,gpt_phys
+130,Mitochondrial Proteins,gpt_phys
+131,Insulin Receptor Substrate Proteins,gpt_phys
+132,Inositol,gpt_phys
+133,Mitochondrial Membrane Transport Proteins,gpt_phys
+134,ATP-Binding Cassette Transporters,gpt_phys
+135,Dietary Fats,gpt_phys
+136,Polyunsaturated Fatty Acids,gpt_phys
+137,Monounsaturated Fatty Acids,gpt_phys
+138,Gastrointestinal Microbiome,gpt_phys
+139,Metabolomics,gpt_phys

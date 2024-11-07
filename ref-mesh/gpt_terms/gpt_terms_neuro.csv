@@ -1,0 +1,293 @@
+,gpt_terms,series
+0,Action Potentials,gpt_phys
+1,Adrenoleukodystrophy,gpt_phys
+2,Alzheimer Disease,gpt_phys
+3,Amyloid beta-Peptides,gpt_phys
+4,Amyloid beta-Protein Precursor,gpt_phys
+5,Amyloidosis,gpt_phys
+6,Amyotrophic Lateral Sclerosis,gpt_phys
+7,Ataxia,gpt_phys
+8,Axons,gpt_phys
+9,Basal Ganglia,gpt_phys
+10,Blood-Brain Barrier,gpt_phys
+11,Brain,gpt_phys
+12,Brain Injuries,gpt_phys
+13,Brain-Derived Neurotrophic Factor,gpt_phys
+14,Calcium Signaling,gpt_phys
+15,Cerebellum,gpt_phys
+16,Cerebral Amyloid Angiopathy,gpt_phys
+17,Cerebral Cortex,gpt_phys
+18,Charcot-Marie-Tooth Disease,gpt_phys
+19,Cholinergic Neurons,gpt_phys
+20,Cognition,gpt_phys
+21,Copper,gpt_phys
+22,Cortical Spreading Depression,gpt_phys
+23,Creutzfeldt-Jakob Syndrome,gpt_phys
+24,Dementia,gpt_phys
+25,Dementia with Lewy Bodies,gpt_phys
+26,Dentate Gyrus,gpt_phys
+27,Depression,gpt_phys
+28,Dopamine,gpt_phys
+29,Dopaminergic Neurons,gpt_phys
+30,Electrophysiology,gpt_phys
+31,Encephalitis,gpt_phys
+32,Epilepsy,gpt_phys
+33,Excitatory Amino Acid Antagonists,gpt_phys
+34,Excitatory Postsynaptic Potentials,gpt_phys
+35,GABAergic Neurons,gpt_phys
+36,Gangliosidoses,gpt_phys
+37,Glial Fibrillary Acidic Protein,gpt_phys
+38,Gliosis,gpt_phys
+39,Glycine Plasma Membrane Transport Proteins,gpt_phys
+40,Hippocampus,gpt_phys
+41,Huntington Disease,gpt_phys
+42,Intracellular Signaling Peptides and Proteins,gpt_phys
+43,Ion Channels,gpt_phys
+44,Ischemia,gpt_phys
+45,Limbic System,gpt_phys
+46,Lipid Metabolism,gpt_phys
+47,Long-Term Potentiation,gpt_phys
+48,Manganese Poisoning,gpt_phys
+49,Membrane Potentials,gpt_phys
+50,Membrane Proteins,gpt_phys
+51,Memory,gpt_phys
+52,Mental Disorders,gpt_phys
+53,Microglia,gpt_phys
+54,Mitochondria,gpt_phys
+55,Molecular Chaperones,gpt_phys
+56,Molecular Motor Proteins,gpt_phys
+57,Motor Neurons,gpt_phys
+58,Multiple Sclerosis,gpt_phys
+59,"Muscular Atrophy, Spinal",gpt_phys
+60,Myelin Sheath,gpt_phys
+61,Nerve Degeneration,gpt_phys
+62,Nerve Growth Factors,gpt_phys
+63,Nerve Regeneration,gpt_phys
+64,Nerve Tissue Proteins,gpt_phys
+65,Nervous System Diseases,gpt_phys
+66,Neural Inhibition,gpt_phys
+67,Neural Pathways,gpt_phys
+68,Neurofibrillary Tangles,gpt_phys
+69,Neurogenesis,gpt_phys
+70,Neuroglia,gpt_phys
+71,Neuronal Plasticity,gpt_phys
+72,Neurons,gpt_phys
+73,Neuroprotective Agents,gpt_phys
+74,Neurosecretion,gpt_phys
+75,Neurotransmitter Agents,gpt_phys
+76,Nicotinic Receptors,gpt_phys
+77,Nitric Oxide,gpt_phys
+78,Nuclear Proteins,gpt_phys
+79,Oligodendroglia,gpt_phys
+80,Oxidative Stress,gpt_phys
+81,Parkinson Disease,gpt_phys
+82,Phosphatidylinositol 3-Kinases,gpt_phys
+83,Phosphorylation,gpt_phys
+84,Pituitary-Adrenal System,gpt_phys
+85,Presenilin-1,gpt_phys
+86,Presynaptic Terminals,gpt_phys
+87,Protein Aggregates,gpt_phys
+88,Protein Folding,gpt_phys
+89,Protein Transport,gpt_phys
+90,Protein-Serine-Threonine Kinases,gpt_phys
+91,Protein-Tyrosine Kinases,gpt_phys
+92,"Receptor, Adenosine A2A",gpt_phys
+93,"Receptor, Muscarinic M1",gpt_phys
+94,"Receptor, Nerve Growth Factor",gpt_phys
+95,"Receptors, AMPA",gpt_phys
+96,"Receptors, Dopamine",gpt_phys
+97,"Receptors, Glutamate",gpt_phys
+98,"Receptors, GABA-A",gpt_phys
+99,"Receptors, GABA-B",gpt_phys
+100,"Receptors, Metabotropic Glutamate",gpt_phys
+101,"Receptors, N-Methyl-D-Aspartate",gpt_phys
+102,"Receptors, Nicotinic",gpt_phys
+103,"Receptors, Serotonin",gpt_phys
+104,Hippocampus,gpt_phys
+105,Amygdala,gpt_phys
+106,Cerebellum,gpt_phys
+107,Brain Stem,gpt_phys
+108,Substantia Nigra,gpt_phys
+109,Basal Ganglia,gpt_phys
+110,Corpus Striatum,gpt_phys
+111,Thalamus,gpt_phys
+112,Hypothalamus,gpt_phys
+113,Limbic System,gpt_phys
+114,Synapse,gpt_phys
+115,Neurotransmitter,gpt_phys
+116,Excitatory Postsynaptic Potential,gpt_phys
+117,Inhibitory Postsynaptic Potential,gpt_phys
+118,Action Potential,gpt_phys
+119,Ion Channels,gpt_phys
+120,Glutamate,gpt_phys
+121,GABA,gpt_phys
+122,Dopamine,gpt_phys
+123,Serotonin,gpt_phys
+124,Acetylcholine,gpt_phys
+125,Norepinephrine,gpt_phys
+126,Epinephrine,gpt_phys
+127,Histamine,gpt_phys
+128,Neuropeptides,gpt_phys
+129,Neuropeptide Y,gpt_phys
+130,Substance P,gpt_phys
+131,Cholecystokinin,gpt_phys
+132,Enkephalins,gpt_phys
+133,Beta-endorphins,gpt_phys
+134,Neuronal Plasticity,gpt_phys
+135,Long-Term Potentiation,gpt_phys
+136,Long-Term Depression,gpt_phys
+137,Neurogenesis,gpt_phys
+138,Neuronal Migration,gpt_phys
+139,Neuronal Differentiation,gpt_phys
+140,Axon Guidance,gpt_phys
+141,Neuronal Survival,gpt_phys
+142,Neural Circuits,gpt_phys
+143,Neural Networks,gpt_phys
+144,Neural Coding,gpt_phys
+145,Central Pattern Generators,gpt_phys
+146,Neuronal Oscillations,gpt_phys
+147,Brain Waves,gpt_phys
+148,Gamma Waves,gpt_phys
+149,Theta Waves,gpt_phys
+150,Delta Waves,gpt_phys
+151,Alpha Waves,gpt_phys
+152,Beta Waves,gpt_phys
+153,Sleep,gpt_phys
+154,REM Sleep,gpt_phys
+155,Non-REM Sleep,gpt_phys
+156,Sleep Disorders,gpt_phys
+157,Insomnia,gpt_phys
+158,Sleep Apnea,gpt_phys
+159,Narcolepsy,gpt_phys
+160,Cataplexy,gpt_phys
+161,Cataplexy,gpt_phys
+162,Restless Legs Syndrome,gpt_phys
+163,Parkinsonism,gpt_phys
+164,Parkinsonian Tremor,gpt_phys
+165,Parkinsonian Rigidity,gpt_phys
+166,Parkinsonian Bradykinesia,gpt_phys
+167,Parkinsonian Akinesia,gpt_phys
+168,Parkinsonian Gait,gpt_phys
+169,Parkinsonian Posture,gpt_phys
+170,"Parkinsonism, Secondary",gpt_phys
+171,Huntington Disease,gpt_phys
+172,Choreiform Disorders,gpt_phys
+173,Chorea,gpt_phys
+174,Athetosis,gpt_phys
+175,Dystonia,gpt_phys
+176,Myoclonus,gpt_phys
+177,Tics,gpt_phys
+178,Tourette Syndrome,gpt_phys
+179,Friedreich Ataxia,gpt_phys
+180,Spinocerebellar Ataxias,gpt_phys
+181,Cerebellar Ataxia,gpt_phys
+182,Ataxia Telangiectasia,gpt_phys
+183,Restless Legs Syndrome,gpt_phys
+184,Periodic Limb Movements,gpt_phys
+185,Peripheral Neuropathies,gpt_phys
+186,Autonomic Neuropathy,gpt_phys
+187,Diabetic Neuropathies,gpt_phys
+188,Charcot-Marie-Tooth Disease,gpt_phys
+189,Guillain-Barre Syndrome,gpt_phys
+190,Chronic Inflammatory Demyelinating Polyneuropathy,gpt_phys
+191,Multiple Mononeuropathy,gpt_phys
+192,Mononeuritis Multiplex,gpt_phys
+193,Carpal Tunnel Syndrome,gpt_phys
+194,Brachial Plexus Neuropathies,gpt_phys
+195,Amyotrophic Lateral Sclerosis,gpt_phys
+196,Spinal Muscular Atrophy,gpt_phys
+197,Progressive Bulbar Palsy,gpt_phys
+198,Progressive Supranuclear Palsy,gpt_phys
+199,Corticobasal Degeneration,gpt_phys
+200,Multiple System Atrophy,gpt_phys
+201,Lewy Body Disease,gpt_phys
+202,Frontotemporal Dementia,gpt_phys
+203,Alzheimer Disease,gpt_phys
+204,Vascular Dementia,gpt_phys
+0,Alzheimer Disease,gpt_path
+1,Amyotrophic Lateral Sclerosis,gpt_path
+2,Ataxia,gpt_path
+3,Basal Ganglia Diseases,gpt_path
+4,Brain Diseases,gpt_path
+5,Brain Infarction,gpt_path
+6,"Brain Injury, Chronic",gpt_path
+7,Cauda Equina Syndrome,gpt_path
+8,Central Nervous System Diseases,gpt_path
+9,Cerebellar Diseases,gpt_path
+10,Cerebral Amyloid Angiopathy,gpt_path
+11,Cerebral Hemorrhage,gpt_path
+12,Cerebral Palsy,gpt_path
+13,Cerebrovascular Disorders,gpt_path
+14,Charcot-Marie-Tooth Disease,gpt_path
+15,Chorea,gpt_path
+16,Cortical Blindness,gpt_path
+17,Creutzfeldt-Jakob Syndrome,gpt_path
+18,Dementia,gpt_path
+19,Diffuse Axonal Injury,gpt_path
+20,Dystonia,gpt_path
+21,Encephalitis,gpt_path
+22,Encephalomyelitis,gpt_path
+23,Epilepsy,gpt_path
+24,Essential Tremor,gpt_path
+25,Friedreich Ataxia,gpt_path
+26,"Gait Disorders, Neurologic",gpt_path
+27,Gerstmann-Straussler-Scheinker Disease,gpt_path
+28,Hallervorden-Spatz Syndrome,gpt_path
+29,Hemiplegia,gpt_path
+30,Hereditary Sensory and Autonomic Neuropathies,gpt_path
+31,Huntington Disease,gpt_path
+32,Hydrocephalus,gpt_path
+33,Intracranial Aneurysm,gpt_path
+34,Intracranial Arteriovenous Malformations,gpt_path
+35,Intracranial Embolism and Thrombosis,gpt_path
+36,Intracranial Hemorrhages,gpt_path
+37,Intracranial Hypertension,gpt_path
+38,Kuru,gpt_path
+39,Leigh Disease,gpt_path
+40,Leukoencephalopathies,gpt_path
+41,Lewy Body Disease,gpt_path
+42,Locked-In Syndrome,gpt_path
+43,Meningitis,gpt_path
+44,Meningoencephalitis,gpt_path
+45,Migraine Disorders,gpt_path
+46,Mild Cognitive Impairment,gpt_path
+47,Motor Neuron Disease,gpt_path
+48,Multiple Sclerosis,gpt_path
+49,Muscle Spasticity,gpt_path
+50,Muscular Atrophy,gpt_path
+51,Muscular Dystrophies,gpt_path
+52,Myasthenia Gravis,gpt_path
+53,Myoclonus,gpt_path
+54,Neuroaxonal Dystrophies,gpt_path
+55,Neurodegenerative Diseases,gpt_path
+56,Neurogenic Inflammation,gpt_path
+57,Neuromuscular Diseases,gpt_path
+58,Neuronal Ceroid-Lipofuscinoses,gpt_path
+59,Neuropathic Pain,gpt_path
+60,Neuropil Disorders,gpt_path
+61,Neurosyphilis,gpt_path
+62,Normal Pressure Hydrocephalus,gpt_path
+63,Parkinson Disease,gpt_path
+64,Peripheral Nervous System Diseases,gpt_path
+65,Phantom Limb,gpt_path
+66,Poliomyelitis,gpt_path
+67,Post-Concussion Syndrome,gpt_path
+68,Prion Diseases,gpt_path
+69,Progressive Bulbar Palsy,gpt_path
+70,Progressive Supranuclear Palsy,gpt_path
+71,Reflex Sympathetic Dystrophy,gpt_path
+72,Restless Legs Syndrome,gpt_path
+73,Retinal Diseases,gpt_path
+74,Retinal Ganglion Cell Loss,gpt_path
+75,Schilder Disease,gpt_path
+76,Shy-Drager Syndrome,gpt_path
+77,Spinal Cord Diseases,gpt_path
+78,Spinal Cord Injuries,gpt_path
+79,Spinal Muscular Atrophies of Childhood,gpt_path
+80,Stiff-Person Syndrome,gpt_path
+81,Stroke,gpt_path
+82,Subarachnoid Hemorrhage,gpt_path
+83,Subdural Hematoma,gpt_path
+84,Syringomyelia,gpt_path
+85,Tay-Sachs Disease,gpt_path
+86,Tourette Syndrome,gpt_path
