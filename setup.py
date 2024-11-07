@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='pygrpm',
-    #version='0.1',
+    version='0.1',
     packages=find_packages(),  # Automatically find packages in your project
     install_requires=[
-        'os',
-        'io',
-        'sys',
+        #'os',
+        #'io',
+        #'sys',
         'glob',
         'zipfile',
         'requests',
