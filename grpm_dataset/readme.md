@@ -1,8 +1,8 @@
 ## Datasets
 
-This folder contains the datasets built through Module 1.
+This folder contains GRPM Dataset built through Module 1.
 
-### Download Pre-made Dataset
+### Download GRPM Dataset
 
 You can download the pre-made dataset from Zenodo:
 

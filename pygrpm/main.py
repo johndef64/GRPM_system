@@ -32,10 +32,13 @@ def get_gitfile(url, flag='', dir = os.getcwd()):
         print("Unable to download the file.")
 
 
-def get_from_zenodo(file, dir=os.getcwd(), record_id='8205724'):
-    print('Requesting file to Zenodo...')
+releases = {'0.1':'8205724',
+            '0.2':'14052302'}
+
+def get_from_zenodo(file, record_id=releases['0.2'], dir=os.getcwd()): # 14052302
     # Construct the download URL
     url = f'https://zenodo.org/record/{record_id}/files/{file}?download=1'
+    print(f'Downloading {file} from {url}')
     extracted_folder_name = dir
     # Define the output path for the file
     output_path = os.path.join(extracted_folder_name, file)
@@ -43,16 +46,16 @@ def get_from_zenodo(file, dir=os.getcwd(), record_id='8205724'):
     gdown.download(url, output_path, quiet=False)
     return output_path
 
-def get_and_extract(file, dir=os.getcwd(), record_id='8205724', ext='.zip', remove_zip=True):
+def get_and_extract(file, record_id=releases['0.2'], dir=os.getcwd(), ext='.zip', remove_zip=True):
     zip_file_name = file + ext
     extracted_folder_name = dir
     # Download the ZIP file using get_from_zenodo
-    zip_file_path = get_from_zenodo(file + ext, dir, record_id)
+    zip_file_path = get_from_zenodo(file + ext, record_id, dir)
     # Extract the ZIP contents
     with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
         print('Extracting...')
         zip_ref.extractall(extracted_folder_name)
-    print(f"ZIP file '{zip_file_name}' extracted to '{extracted_folder_name}' successfully.")
+    print(f"ZIP file '{zip_file_name}' extracted in '{extracted_folder_name}' successfully.")
     # Remove the ZIP file after extraction
     if remove_zip: os.remove(zip_file_path)
 
@@ -103,3 +106,4 @@ def get_stats(ds, group_by = 'gene', sublevel = 'unique'):
 def query_dataset(ds, my_tuple, field = 'mesh'):
     ds = ds[ds[field].isin(my_tuple)].drop_duplicates()
     return ds
+#%%
