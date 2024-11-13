@@ -47,9 +47,9 @@ The GRPM Dataset accessible on Zenodo represents a version of [LitVar1](https://
 
 You can query the developed datasets by installing the package via:
 
-###
+```
 pip install git+https://github.com/johndef64/GRPM_system.git
-###
+```
 
 Example queries are available in the `test` directory.
 
@@ -57,9 +57,9 @@ Alternatively, execute each module separately in Google Colab with Google Drive 
 
 To explore the complete repository, clone it locally:
 
-###
+```
 git clone https://github.com/johndef64/GRPM_system.git
-###
+```
 
 ## Usage
 
