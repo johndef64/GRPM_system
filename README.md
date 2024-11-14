@@ -19,6 +19,29 @@ The GRPM System is a Python-based framework capable of constructing a comprehens
 
 ![Graphical Abstract](misc_data/graphical_abstract_s.png)
 
+
+## Installation
+
+You can query the developed datasets by installing the package via:
+
+```
+pip install git+https://github.com/johndef64/GRPM_system.git
+```
+
+Example queries are available in the `test` directory. Try it in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/test.ipynb) 
+
+Alternatively, execute each module separately in Google Colab with Google Drive synchronization to preserve progress.
+
+To explore the complete repository, clone it locally:
+
+```
+git clone https://github.com/johndef64/GRPM_system.git
+```
+
+## Usage
+
+Comprehensive instructions for the usage of each module within the GRPM System are found within the respective Jupyter Notebooks within the repository. Follow the guidelines closely and install the necessary Python packages specified for each module.
+
 ## Modules
 
 The GRPM System is composed of five distinct modules, each executing a crucial function to assist in the integration and analysis of genetic polymorphism data associated with nutrition. The modules are outlined below:
@@ -39,31 +62,13 @@ Each Jupyter notebook includes code to download and install the necessary depend
 
 These modules form an exhaustive framework enabling researchers and nutritionists to analyze genetic polymorphism data and derive insights into gene-diet interactions and personalized nutrition interventions.
 
+
+
+
 ## Updates
 
 The GRPM Dataset accessible on Zenodo represents a version of [LitVar1](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/LitVar/help.html), which has since been deprecated and replaced by [LitVar2](https://www.ncbi.nlm.nih.gov/research/litvar2/). Module 1 ([Dataset Builder](https://github.com/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb)) has been updated for compatibility with LitVar2. The other modules in the pipeline remain operational using the original GRPM Dataset as available on Zenodo.
 
-## Installation
-
-You can query the developed datasets by installing the package via:
-
-```
-pip install git+https://github.com/johndef64/GRPM_system.git
-```
-
-Example queries are available in the `test` directory.
-
-Alternatively, execute each module separately in Google Colab with Google Drive synchronization to preserve progress.
-
-To explore the complete repository, clone it locally:
-
-```
-git clone https://github.com/johndef64/GRPM_system.git
-```
-
-## Usage
-
-Comprehensive instructions for the usage of each module within the GRPM System are found within the respective Jupyter Notebooks within the repository. Follow the guidelines closely and install the necessary Python packages specified for each module.
 
 ## Requirements
 
