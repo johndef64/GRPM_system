@@ -2,8 +2,9 @@ from pygrpm import *
 
 #%%
 ### GET Datasets ###
-get_and_extract('grpm_dataset', record_id='8205724')
-get_and_extract('nutrigenetic_dataset', record_id='8205724')
+get_and_extract('grpm_dataset', record_id='14052302')
+#%%
+get_and_extract('nutrigenetic_dataset', record_id='14052302')
 
 #%%
 ### LOAD Datasets ###
