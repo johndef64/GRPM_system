@@ -19,7 +19,7 @@ def simple_bool(message):
     your_bool = choose in ["y", "yes","yea","sure"]
     return your_bool
 
-def get_gitfile(url, flag='', dir = os.getcwd()):
+def get_gitfile(url: str, flag='', dir = os.getcwd(), print_=True):
     url = url.replace('blob','raw')
     response = requests.get(url)
     file_name = flag + url.rsplit('/',1)[1]
@@ -27,7 +27,7 @@ def get_gitfile(url, flag='', dir = os.getcwd()):
     if response.status_code == 200:
         with open(file_path, 'wb') as file:
             file.write(response.content)
-        print(f"File downloaded successfully. Saved as {file_name}")
+        if print_: print(f"File downloaded successfully. Saved as {file_name}")
     else:
         print("Unable to download the file.")
 
@@ -35,7 +35,7 @@ def get_gitfile(url, flag='', dir = os.getcwd()):
 releases = {'0.1':'8205724',
             '0.2':'14052302'}
 
-def get_from_zenodo(file, record_id=releases['0.2'], dir=os.getcwd()): # 14052302
+def get_from_zenodo(file: str, record_id=releases['0.2'], dir=os.getcwd()): # 14052302
     # Construct the download URL
     url = f'https://zenodo.org/record/{record_id}/files/{file}?download=1'
     print(f'Downloading {file} from {url}')
@@ -46,7 +46,7 @@ def get_from_zenodo(file, record_id=releases['0.2'], dir=os.getcwd()): # 1405230
     gdown.download(url, output_path, quiet=False)
     return output_path
 
-def get_and_extract(file, record_id=releases['0.2'], dir=os.getcwd(), ext='.zip', remove_zip=True):
+def get_and_extract(file: str, record_id=releases['0.2'], dir=os.getcwd(), ext='.zip', remove_zip=True):
     zip_file_name = file + ext
     extracted_folder_name = dir
     # Download the ZIP file using get_from_zenodo
@@ -59,6 +59,23 @@ def get_and_extract(file, record_id=releases['0.2'], dir=os.getcwd(), ext='.zip'
     # Remove the ZIP file after extraction
     if remove_zip: os.remove(zip_file_path)
 
+
+
+def get_topic_terms():
+    files = ["topic_terms_nutri_old.csv",
+             "topic_terms_ng_xeno.csv",
+             "topic_terms_ng_vitam.csv",
+             "topic_terms_ng_oxi_stress.csv",
+             "topic_terms_ng_ob_bmi.csv",
+             "topic_terms_ng_nutri.csv",
+             "topic_terms_ng_intol.csv",
+             "topic_terms_ng_eat_taste.csv",
+             "topic_terms_ng_dmt2_ms.csv",
+             "topic_terms_ng_cvd.csv",
+             "topic_terms_ng_aller.csv",]
+    for file in files :
+        url = f"https://github.com/johndef64/GRPM_system/blob/main/ref-mesh/topic_terms/{file}"
+        get_gitfile(url, flag='', dir = 'ref-mesh/topic_terms', print_=False)
 
 ##### Specific Functions ####
 def grpm_importer():
@@ -92,6 +109,13 @@ def nutrig_importer():
 
     return   grpm_nutrigen, grpm_nutrigen_int, grpm_nutrigen_int_gwas
 
+def mesh_importer():
+    grpm_mesh = pd.read_csv('ref-mesh/MESH_STY_LITVAR1.csv', index_col=0)
+    print('GRPM MeSH count:', grpm_mesh['Preferred Label'].nunique())
+    print('semantic types:', grpm_mesh['Semantic Types Label'].nunique())
+    grpm_mesh = grpm_mesh[['Preferred Label', 'Semantic Types Label', 'Class ID', 'mesh_id','Semantic Types']]
+    return grpm_mesh
+
 #%%
 def get_stats(ds, group_by = 'gene', sublevel = 'unique'):
     print('Computing Stats...')
@@ -106,4 +130,85 @@ def get_stats(ds, group_by = 'gene', sublevel = 'unique'):
 def query_dataset(ds, my_tuple, field = 'mesh'):
     ds = ds[ds[field].isin(my_tuple)].drop_duplicates()
     return ds
+#%%
+
+#%%
+## SEMANTIC SIMILARITY
+
+from sentence_transformers import SentenceTransformer
+
+def load_language_model(language_model = 'dmis-lab/biobert-v1.1'):
+    # Choose embedding model
+    return SentenceTransformer(language_model)
+
+def extract_embedding(input_text, sentence_transformer):
+    # Encode the input text to get the embedding
+    embedding = sentence_transformer.encode(input_text, show_progress_bar=True)
+    return embedding
+
+# Function to compute cosine similarity
+def cosine_similarity(vec1, vec2):
+    dot_product = np.dot(vec1, vec2)
+    norm_vec1 = np.linalg.norm(vec1)
+    norm_vec2 = np.linalg.norm(vec2)
+    return dot_product / (norm_vec1 * norm_vec2)
+
+def cosine_distance(array1, array2):
+    # Calculate the cosine similarities
+    similarities = np.zeros((array1.shape[0], array2.shape[0]))
+    for i in tqdm(range(array1.shape[0])):
+        for j in range(array2.shape[0]):
+            similarities[i, j] = cosine_similarity(array1[i], array2[j])
+    return similarities
+
+
+def create_corr_table(series1, series2, sentence_transformer, series2_embeddings = []):
+    array1 = extract_embedding(series1.to_list(), sentence_transformer)
+    if len(series2_embeddings) > 1:
+        array2 = series2_embeddings
+    else:
+        array2 = extract_embedding(series2.to_list(), sentence_transformer)
+
+
+    # Calculate the cosine similarities
+    similarities = np.zeros((array1.shape[0], array2.shape[0]))
+    for i in tqdm(range(array1.shape[0])):
+        for j in range(array2.shape[0]):
+            similarities[i, j] = cosine_similarity(array1[i], array2[j])
+
+    # Create a DataFrame with the similarities
+    similarities_df = pd.DataFrame(similarities, index=[i for i in range(array1.shape[0])],
+                                   columns=[j for j in range(array2.shape[0])])
+
+    # Find the index of the maximum value in each row
+    max_indices = similarities_df.idxmax(axis=1)
+    # Find the maximum value in each row
+    max_values = similarities_df.max(axis=1)
+
+    # Create a DataFrame with the correspondence between row index and column values
+    correspondence_table = pd.DataFrame({
+        "list1_id": max_indices.index,
+        "list2_id": max_indices.values,
+        "Max Value": max_values.values
+    })
+
+    data_rows = []  # List to store each row as a dictionary
+
+    for i in range(len(correspondence_table)):  # Loop over index range
+        list1_id = correspondence_table['list1_id'][i]
+        list2_id = correspondence_table['list2_id'][i]
+        sim_value = correspondence_table['Max Value'][i]
+
+        # Create a dictionary for the new row
+        new_row = {
+            'list1': series1[list1_id],
+            'list2': series2[list2_id],
+            'similarity': sim_value
+        }
+
+        data_rows.append(new_row)  # Append to list of rows
+
+    df = pd.DataFrame(data_rows)
+    df.sort_values(by=['similarity'], ascending=False)
+    return df
 #%%

@@ -1,3 +1,5 @@
+import pandas as pd
+
 from pygrpm import *
 
 #%%
@@ -21,27 +23,59 @@ result = get_stats(grpm_nutrigen, group_by = 'gene')
 print(result)
 
 #%%
+## Build MeSH Query ##
+get_and_extract('ref-mesh', record_id='14052302')
+get_topic_terms()
+#%%
+# LOAD MeSH
+grpm_mesh = mesh_importer()
+
+# LOAD Language Model
+sentence_transformer = load_language_model('dmis-lab/biobert-v1.1')
+
+# Get MeSH embeddings
+series2 = grpm_mesh['Preferred Label'].reset_index(drop=True)
+mesh_embeddings = extract_embedding(series2.to_list(), sentence_transformer)
+#%%
+# User defined Topic Terms
+topic_terms_sample = ["diet ketogenic",
+                      "diet reducing",
+                      "diet sodium-restricted",
+                      "diet",
+                      "dietary",
+                      "dietetics",
+                      "dyslipidemias",
+                      "eating disorders",
+                      "feeding and eating disorde",
+                      "food hypersensitivity",
+                      "foodborne diseases",
+                      "gastrointestinal diseases",
+                      "hypercholesterolemia",
+                      "hyperglycemia",
+                      "hyperlipidemias",
+                      "hyperphagia",
+                      "hypoglycemia",
+                      "hypophagia",
+                      "insulin resistance",
+                      "kidney diseases",
+                      ]
+series1 = pd.Series(topic_terms_sample)
+
+#%%
+# Define MeSH Query
+tab = create_corr_table(series1, series2, sentence_transformer, mesh_embeddings)
+mesh_query = tab[tab.similarity >= 0.90].list2.to_list()
+print(mesh_query)
+#%%
 ### QUERY Datasets ###
 
-# MeSH Query on GRPM ds
-my_mesh = (
-    'Sodium-Coupled Vitamin C Transporters',
-    'Micronutrients',
-    'Biotinidase Deficiency',
-    'Lipid Metabolism Disorders',
-    'Vitamin D-Binding Protein',
-    'Pyridoxal Phosphate',
-    'Choline-Phosphate Cytidyltransferase',
-    'Vitamin D3 24-Hydroxylase'
-)
-
 # Filter and get unique results
-result = query_dataset(pcg_grpm, my_mesh, 'mesh')
+result = query_dataset(pcg_grpm, mesh_query, 'mesh')
 print(result)
 
 #%%
 
-# Gene Query on Nutrigenetic ds
+# Gene Query on Nutrigenetic dataset
 my_genes = (
     'FTO',
     'APOB',
@@ -55,3 +89,6 @@ print(result)
 # Gene Query on Nutrigenetic-GWAS ds
 result = query_dataset(grpm_nutrigen_int_gwas, my_genes, 'GRPM_GENE')
 print(result)
+
+#%%
+

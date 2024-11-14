@@ -14,7 +14,8 @@ setup(
         'seaborn',
         'matplotlib',
         'tqdm',
-        'pyperclip'
+        'pyperclip',
+        'sentence_transformers'
     ],
 
     #entry_points={             # Optional: command-line scripts
