@@ -17,7 +17,7 @@ The GRPM (Gene-Rsid-Pmid-Mesh) system is an advanced tool designed for the integ
 
 The GRPM System is a Python-based framework capable of constructing a comprehensive dataset of human genetic polymorphisms associated with nutrition. By integrating data from multiple sources and utilizing MeSH ontology as an organizational structure, this workflow enables researchers to investigate genetic variants with significant associations to specified biomedical subjects. The primary objective of developing this resource was to support nutritionists in exploring gene-diet interactions and implementing personalized nutrition strategies.
 
-![Graphical Abstract](misc_data/graphical_abstract_s.png)
+![Graphical Abstract](misc/graphical_abstract_s.png)
 
 
 ## Installation
@@ -58,7 +58,7 @@ Each Jupyter notebook includes code to download and install the necessary depend
 | 4. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_04_data_analysis.ipynb) | [Data Analysis](https://github.com/johndef64/GRPM_system/blob/main/GRPM_04_grpm-data_analyzer.ipynb) | Analyzes retrieved data and computes survey metrics using `matplotlib` and `seaborn` for data visualization. |
 | 5. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_integration.ipynb) | [GWAS Data Integration](https://github.com/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_merger.ipynb) | Merges GWAS data, associating phenotypes and potential risk/effect alleles with the GRPM Dataset. |
 
-![GRPM system: Integrating Genetic Polymorphism Data with PMIDs and MeSH Terms to Retrieve Genes and rsIDs for Biomedical Research Fields. GRPM Dataset: pcg, protein coding genes; rna, RNA genes; pseudo, pseudogenes; in parentheses, dataset shape.](misc_data/grpm_system_v2.png)
+![GRPM system: Integrating Genetic Polymorphism Data with PMIDs and MeSH Terms to Retrieve Genes and rsIDs for Biomedical Research Fields. GRPM Dataset: pcg, protein coding genes; rna, RNA genes; pseudo, pseudogenes; in parentheses, dataset shape.](misc/grpm_system_v2.png)
 
 These modules form an exhaustive framework enabling researchers and nutritionists to analyze genetic polymorphism data and derive insights into gene-diet interactions and personalized nutrition interventions.
 
