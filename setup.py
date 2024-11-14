@@ -14,6 +14,8 @@ setup(
         'seaborn',
         'matplotlib',
         'tqdm',
+        'gdown',
+        'nltk',
         'pyperclip',
         'sentence_transformers'
     ],
@@ -24,11 +26,11 @@ setup(
     #    ],
     #},
     author='JohnDef64',
-    author_email='youremail@example.com',
-    description='A short description of the package',
+    author_email='giovannimaria.defilippis@unina.it',
+    description='The GRPM System is a Python-based framework capable of constructing a comprehensive dataset of human genetic polymorphisms associated with nutrition. By integrating data from multiple sources and utilizing MeSH ontology as an organizational structure, this workflow enables researchers to investigate genetic variants with significant associations to specified biomedical subjects. The primary objective of developing this resource was to support nutritionists in exploring gene-diet interactions and implementing personalized nutrition strategies.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/johndef64/pychatgpt',
+    url='https://github.com/johndef64/GRPM_system',
     classifiers=[  # Optional: supply classifiers for search indexing
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',

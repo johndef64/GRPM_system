@@ -1,5 +1,6 @@
 seaborn
 numpy
+gdown
 gzip
 datetime
 pyperclip
@@ -11,6 +12,7 @@ io
 bs4
 nbib
 json
+tqdm
 os
 wordcloud
 nltk
@@ -26,6 +28,7 @@ re
 gensim.utils
 time
 gensim.parsing.preprocessing
+sentence_transformers
 Bio
 nltk.stem
 nltk.tokenize

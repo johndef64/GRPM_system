@@ -7,10 +7,10 @@ The GRPM (Gene-Rsid-Pmid-Mesh) system is an advanced tool designed for the integ
 ## Overview
 
 - [Introduction](#introduction)
-- [Modules](#modules)
-- [Updates](#updates)
 - [Installation](#installation)
+- [Module Description](#modules)
 - [Usage](#usage)
+- [Updates](#updates)
 - [Requirements](#requirements)
 
 ## Introduction
@@ -22,48 +22,42 @@ The GRPM System is a Python-based framework capable of constructing a comprehens
 
 ## Installation
 
-You can query the developed datasets by installing the package via:
+You can ***visualize*** and ***query*** the developed datasets by installing our package via:
 
 ```
 pip install git+https://github.com/johndef64/GRPM_system.git
 ```
 
-Example queries are available in the `test` directory. Try it in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/test.ipynb) 
+Example queries are available in the `tests` directory. 
 
-Alternatively, execute each module separately in Google Colab with Google Drive synchronization to preserve progress.
+Try it in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/test.ipynb) 
 
-To explore the complete repository, clone it locally:
 
-```
-git clone https://github.com/johndef64/GRPM_system.git
-```
 
-## Usage
+## Module Description
 
-Comprehensive instructions for the usage of each module within the GRPM System are found within the respective Jupyter Notebooks within the repository. Follow the guidelines closely and install the necessary Python packages specified for each module.
-
-## Modules
-
-The GRPM System is composed of five distinct modules, each executing a crucial function to assist in the integration and analysis of genetic polymorphism data associated with nutrition. The modules are outlined below:
+The workflow is composed of five distinct modules, each executing a crucial function to assist in the integration and analysis of genetic polymorphism data associated with nutrition. The modules are outlined below:
 
 To evaluate the our pipeline, execute each module individually by selecting the "Open in Colab" option. Ensure that all necessary dependencies and files are imported. Google Drive synchronization is available.
 
-Each Jupyter notebook includes code to download and install the necessary dependencies for execution.
+Each Jupyter notebook includes commands to download and install the necessary dependencies for execution.
 
-| No. | Notebook | Module | Description |
-| --- | --- | --- |-------------|
-| 1. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_01_main_dataset_build.ipynb) | [Dataset Builder](https://github.com/johndef64/GRPM_system/blob/main/GRPM_01_dataset_builder.ipynb) | Retrieves and consolidates data from the LitVar and PubMed databases into a CSV format. |
-| 2. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_02_mesh_selection.ipynb) | [MeSH Term Selection](https://github.com/johndef64/GRPM_system/blob/main/GRPM_02_ref-mesh_builder.ipynb) | Develops a coherent list of MeSH terms for information retrieval across the complete GRPM Dataset using NLP techniques. |
-| 3. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_03_dataset_querying.ipynb) | [Dataset Querying](https://github.com/johndef64/GRPM_system/blob/main/GRPM_03_dataset_survey.ipynb) | Utilizes MeSH terms for querying the GRPM dataset, extracting a subset of matched entities, and generating a data report. |
-| 4. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_04_data_analysis.ipynb) | [Data Analysis](https://github.com/johndef64/GRPM_system/blob/main/GRPM_04_grpm-data_analyzer.ipynb) | Analyzes retrieved data and computes survey metrics using `matplotlib` and `seaborn` for data visualization. |
-| 5. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_integration.ipynb) | [GWAS Data Integration](https://github.com/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_merger.ipynb) | Merges GWAS data, associating phenotypes and potential risk/effect alleles with the GRPM Dataset. |
+| No. | Notebook | Module                                                                                                          | Description                                                                                                            |
+| --- | --- |-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| 1. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_01_main_dataset_build.ipynb) | [Dataset Builder](https://github.com/johndef64/GRPM_system/blob/main/GRPM_01_main_dataset_build.ipynb)          | Retrieves and integrates data from the LitVar and PubMed databases in a structured format.                             |
+| 2. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_02_mesh_selection.ipynb) | [MeSH Term Selection](https://github.com/johndef64/GRPM_system/blob/main/GRPM_02_mesh_selection.ipynb)          | Extracts a coherent MeSH lists to query the GRPM Dataset starting from simple biomedial terms collections (NLP based). |
+| 3. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_03_dataset_querying.ipynb) | [Dataset Querying](https://github.com/johndef64/GRPM_system/blob/main/GRPM_03_dataset_querying.ipynb)           | Exexute ***MeSH query*** in the GRPM dataset, extracting a subset of matching entities, and generates a data report.   |
+| 4. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_04_data_analysis.ipynb) | [Gene Prioritization](https://github.com/johndef64/GRPM_system/blob/main/GRPM_04_data_analysis.ipynb)  | Analyzes retrieved data and computes ***gene interest index*** to filter significative results.                        |
+| 5. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_integration.ipynb) | [GWAS Data Integration](https://github.com/johndef64/GRPM_system/blob/main/GRPM_05_gwas_grpm_integration.ipynb) | Merges ***GWAS data***, associating phenotypes and potential risk/effect alleles with the GRPM data (BioBERT based).   |
 
 ![GRPM system: Integrating Genetic Polymorphism Data with PMIDs and MeSH Terms to Retrieve Genes and rsIDs for Biomedical Research Fields. GRPM Dataset: pcg, protein coding genes; rna, RNA genes; pseudo, pseudogenes; in parentheses, dataset shape.](misc/grpm_system_v2.png)
 
 These modules form an exhaustive framework enabling researchers and nutritionists to analyze genetic polymorphism data and derive insights into gene-diet interactions and personalized nutrition interventions.
 
 
+## Usage
 
+Comprehensive instructions for the usage of each module are found within the respective Jupyter Notebooks provided. Follow the guidelines closely and install the necessary Python packages specified for each module.
 
 ## Updates
 
@@ -72,17 +66,4 @@ The GRPM Dataset accessible on Zenodo represents a version of [LitVar1](https://
 
 ## Requirements
 
-The GRPM System has the following prerequisites:
-
-- `Python 3.9 or above`
-- `pandas`
-- `requests`
-- `biopython`
-- `nbib`
-- `beautifulsoup`
-- `openai`
-- `matplotlib`
-- `seaborn`
-- `nltk`
-- `transformers`
-
+All requirements are outlines in  `requirements.txt` and in  `setup.py`
