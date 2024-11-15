@@ -4,6 +4,7 @@ import sys
 import glob
 import zipfile
 import requests
+import importlib
 import gdown
 import pyarrow
 import numpy as np
@@ -19,6 +20,22 @@ def simple_bool(message):
     your_bool = choose in ["y", "yes","yea","sure"]
     return your_bool
 
+def check_and_install_module(module_name):
+    try:
+        # Check if the module is already installed
+        importlib.import_module(module_name)
+        print(f"The module '{module_name}' is already installed.")
+    except ImportError:
+        # If the module is not installed, try installing it
+        x = simple_bool(
+            "\n" + module_name + "  module is not installed.\nwould you like to install it?")
+        if x:
+            import subprocess
+            subprocess.check_call(["pip", "install", module_name])
+            print(f"The module '{module_name}' was installed correctly.")
+        else:
+            pass
+
 def get_gitfile(url: str, flag='', dir = os.getcwd(), print_=True):
     url = url.replace('blob','raw')
     response = requests.get(url)
@@ -30,6 +47,16 @@ def get_gitfile(url: str, flag='', dir = os.getcwd(), print_=True):
         if print_: print(f"File downloaded successfully. Saved as {file_name}")
     else:
         print("Unable to download the file.")
+
+def get_file(url, file_name, dir = os.getcwd()):
+    url = url
+    file_name = file_name
+    response = requests.get(url)
+    if response.status_code == 200:
+        content = response.content
+        file_path = os.path.join(dir, file_name)
+        with open(file_path, 'wb') as file:
+            file.write(content)
 
 
 releases = {'0.1':'8205724',
@@ -76,6 +103,7 @@ def get_topic_terms():
     for file in files :
         url = f"https://github.com/johndef64/GRPM_system/blob/main/ref-mesh/topic_terms/{file}"
         get_gitfile(url, flag='', dir = 'ref-mesh/topic_terms', print_=False)
+
 
 ##### Specific Functions ####
 def grpm_importer():

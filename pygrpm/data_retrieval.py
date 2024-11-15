@@ -12,16 +12,7 @@ from io import StringIO
 from Bio import Entrez
 import time
 
-class MioClass:
-    # Questa è una classe di esempio
 
-    def __init__(self, valore):
-        # Metodo iniziale per impostare il valore iniziale
-        self.valore = valore
-
-    def mostra_valore(self):
-        # Metodo per mostrare il valore
-        print(f"Il valore è: {self.valore}")
 
 # Define Functions  ================
 def transform_string(string):
