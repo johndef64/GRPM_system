@@ -2,7 +2,7 @@
 
 The GRPM (Gene-Rsid-Pmid-Mesh) system is an advanced tool designed for the integration and analysis of genetic polymorphism data corresponding to specific biomedical domains. It consists of five modular components that facilitate data retrieval, merging, analysis, and the incorporation of GWAS data.
 
-[![medrxiv Manuscript](https://img.shields.io/badge/medrxiv-10.1101/2023.08.04.23293659-blue.svg)](https://www.medrxiv.org/content/10.1101/2023.08.04.23293659v3.full.pdf+html) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14052302.svg)](https://doi.org/10.5281/zenodo.14052302)
+[![medrxiv Manuscript](https://img.shields.io/badge/medrxiv-10.1101/2023.08.04.23293659-blue.svg)](https://www.medrxiv.org/content/10.1101/2023.08.04.23293659v3.full.pdf+html) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14052302.svg)](https://doi.org/10.5281/zenodo.14052302) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johndef64/GRPM_system/blob/main/test.ipynb)
 
 ## Overview
 
