@@ -17,7 +17,8 @@ setup(
         'gdown',
         'nltk',
         'pyperclip',
-        'sentence_transformers'
+        'sentence-transformers',
+        'bs4'
     ],
 
     #entry_points={             # Optional: command-line scripts
