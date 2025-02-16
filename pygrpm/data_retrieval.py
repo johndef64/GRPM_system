@@ -110,6 +110,18 @@ def build_pubmed_query(pmid_l, limit = 1300):
                  query_build(pmid_l07)]
     return query
 
+def GetPubmedData(page, pmid):
+    page = str(page)
+    url = 'https://pubmed.ncbi.nlm.nih.gov/?term=' + pmid + '&format=pubmed&size=200&page='+ page
+    output = rq.get(url)
+    html = output.text
+    soup = BeautifulSoup(html, features="html.parser")
+    for script in soup(["script", "style"]):
+        script.extract()
+    text = soup.get_text()
+    postString = text.split("\n\n\n\n\n\n\n\n\n\n",2)[2]
+    nbib01 = postString.replace('\n\n','')
+    return nbib01
 
 def save_checkpoint(complete_df, complete_nbibtable, db_path):
     complete_df = complete_df.reindex(columns=['gene','rsid', 'pmid', 'mesh', 'qualifier', 'major'])
