@@ -169,9 +169,9 @@ def load_language_model(language_model = 'dmis-lab/biobert-v1.1'):
     # Choose embedding model
     return SentenceTransformer(language_model)
 
-def extract_embedding(input_text, sentence_transformer):
+def extract_embedding(input_text, model):
     # Encode the input text to get the embedding
-    embedding = sentence_transformer.encode(input_text, show_progress_bar=True)
+    embedding = model.encode(input_text, show_progress_bar=True)
     return embedding
 
 # Function to compute cosine similarity
@@ -190,12 +190,12 @@ def cosine_distance(array1, array2):
     return similarities
 
 
-def create_corr_table(series1, series2, sentence_transformer, series2_embeddings = []):
-    array1 = extract_embedding(series1.to_list(), sentence_transformer)
+def create_corr_table(series1, series2, model, series2_embeddings = []):
+    array1 = extract_embedding(series1.to_list(), model)
     if len(series2_embeddings) > 1:
         array2 = series2_embeddings
     else:
-        array2 = extract_embedding(series2.to_list(), sentence_transformer)
+        array2 = extract_embedding(series2.to_list(), model)
 
 
     # Calculate the cosine similarities
