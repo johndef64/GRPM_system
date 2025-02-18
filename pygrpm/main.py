@@ -203,8 +203,16 @@ def calculate_cos_sim_tensor(tesor1, tensor2):
     cosine_scores = util.pytorch_cos_sim(tesor1, tensor2)
     return cosine_scores
 
-
+### METHOD 1 ###
 def create_corr_table(series1, series2, model, series2_embeddings = []):
+    """
+
+    :param series1:
+    :param series2:
+    :param model:
+    :param series2_embeddings:
+    :return:
+    """
     array1 = extract_embedding(series1.to_list(), model)
     if len(series2_embeddings) > 1:
         array2 = series2_embeddings
@@ -251,3 +259,69 @@ def create_corr_table(series1, series2, model, series2_embeddings = []):
     df.sort_values(by=['similarity'], ascending=False)
     return df
 #%%
+
+### METHOD 2 ###
+import torch
+
+def get_mesh_rankings(user_query,  #"Enter your query here"
+                      mesh_terms,
+                      model,
+                      mesh_embeddings=None,
+                      ):
+    """
+    :param user_query: textual query e.c. "Diabetic Disorders, insulin resistance"
+    :param mesh_terms: fixed mesh term list
+    :param model: llm model
+    :param mesh_embeddings: pre-made mesh embeddings (as numpy.array)
+    :return: mesh ranking dataframe
+    """
+    # User query
+
+    # Get embeddings for the query and MESH terms
+    query_embedding = model.encode(user_query, convert_to_tensor=True, show_progress_bar=True)
+    if mesh_embeddings:
+        mesh_embeddings = torch.from_numpy(mesh_embeddings)
+    else:
+        mesh_embeddings = model.encode(mesh_terms, convert_to_tensor=True, show_progress_bar=True)
+
+    # Get the default device (GPU if available, else CPU)
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    # Move tensors to the same device
+    query_embedding = query_embedding.to(device)
+    mesh_embeddings = mesh_embeddings.to(device)
+
+    # Calculate cosine similarities
+    cosine_scores = util.pytorch_cos_sim(query_embedding, mesh_embeddings)
+
+    df = pd.DataFrame({
+        'mesh_terms': mesh_terms,
+        'cosine_scores': cosine_scores.tolist()[0]
+    })
+    return df
+
+
+# def filter_mesh_scores(mesh_terms, cosine_scores, threshold=0.88):
+#     # Select relevant terms based on similarity threshold
+#     cosine_threshold = threshold # Adjust threshold according to tests
+#     pertinent_terms = [mesh_terms[i] for i in range(len(mesh_terms)) if cosine_scores[0][i] > cosine_threshold]
+#
+#     print("Relevant terms:", pertinent_terms)
+#     return pertinent_terms
+
+
+def filter_mesh_scores(df, threshold=0.88 ):
+    """
+    :param df: output of get_mesh_rankings()
+    :param threshold: Adjust threshold according to tests
+    :return: mesh list
+    """
+
+    # Select relevant terms based on similarity threshold
+    pertinent_terms = df[df.cosine_scores > threshold].mesh_terms.to_list()
+
+    print("Relevant terms:", pertinent_terms)
+    return pertinent_terms
+
+
+
