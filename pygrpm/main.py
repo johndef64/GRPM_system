@@ -163,7 +163,7 @@ def query_dataset(ds, my_tuple, field = 'mesh'):
 #%%
 ## SEMANTIC SIMILARITY
 
-from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer, util
 
 def load_language_model(language_model = 'dmis-lab/biobert-v1.1'):
     # Choose embedding model
@@ -190,6 +190,20 @@ def cosine_distance(array1, array2):
     return similarities
 
 
+def calculate_cos_sim(array1, array2):
+    # Calculate the cosine similarities
+    similarities = np.zeros((array1.shape[0], array2.shape[0]))
+    for i in tqdm(range(array1.shape[0])):
+        for j in range(array2.shape[0]):
+            similarities[i, j] = cosine_similarity(array1[i], array2[j])
+    return similarities
+
+def calculate_cos_sim_tensor(tesor1, tensor2):
+    # Calculate cosine similarities
+    cosine_scores = util.pytorch_cos_sim(tesor1, tensor2)
+    return cosine_scores
+
+
 def create_corr_table(series1, series2, model, series2_embeddings = []):
     array1 = extract_embedding(series1.to_list(), model)
     if len(series2_embeddings) > 1:
@@ -199,10 +213,7 @@ def create_corr_table(series1, series2, model, series2_embeddings = []):
 
 
     # Calculate the cosine similarities
-    similarities = np.zeros((array1.shape[0], array2.shape[0]))
-    for i in tqdm(range(array1.shape[0])):
-        for j in range(array2.shape[0]):
-            similarities[i, j] = cosine_similarity(array1[i], array2[j])
+    similarities = calculate_cos_sim(array1, array2)
 
     # Create a DataFrame with the similarities
     similarities_df = pd.DataFrame(similarities, index=[i for i in range(array1.shape[0])],
