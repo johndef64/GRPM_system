@@ -165,6 +165,12 @@ def get_stats(ds, group_by = 'gene', sublevel = 'unique'):
 
 #%%
 def query_dataset(ds, my_tuple, field = 'mesh'):
+    """
+    :param ds: dataset
+    :param my_tuple: query by element list
+    :param field: query field
+    :return: filtered dataset
+    """
     ds = ds[ds[field].isin(my_tuple)].drop_duplicates()
     return ds
 #%%
@@ -329,7 +335,7 @@ def filter_mesh_scores(df, threshold=0.88 ):
     # Select relevant terms based on similarity threshold
     pertinent_terms = df[df.cosine_scores > threshold].mesh_terms.to_list()
 
-    print("Relevant terms:", pertinent_terms)
+    print("Related MeSH:", pertinent_terms)
     return pertinent_terms
 
 
