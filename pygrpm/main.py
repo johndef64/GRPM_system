@@ -86,7 +86,16 @@ def get_and_extract(file: str, record_id=releases['0.2'], dir=os.getcwd(), ext='
     # Remove the ZIP file after extraction
     if remove_zip: os.remove(zip_file_path)
 
+def import_mesh_embeddings():
+    file_path = 'ref-mesh/GrpmMeshEmbeddings_biobert-v1.1.pkl'
+    url ="https://github.com/johndef64/GRPM_system/raw/refs/heads/main/ref-mesh/GrpmMeshEmbeddings_biobert-v1.1.pkl"
+    if not os.path.exists(file_path):
+        gdown.download(url, file_path, quiet=False)
 
+    # Import the mesh_embeddings back from the pickle file
+    with open(file_path, "rb") as file:
+        grpm_mesh_embeddings = pickle.load(file)
+    return grpm_mesh_embeddings
 
 def get_topic_terms():
     files = ["topic_terms_nutri_old.csv",
