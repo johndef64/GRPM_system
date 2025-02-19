@@ -88,15 +88,17 @@ def get_and_extract(file: str, record_id=releases['0.2'], dir=os.getcwd(), ext='
     # Remove the ZIP file after extraction
     if remove_zip: os.remove(zip_file_path)
 
-def import_mesh_embeddings():
-    file_path = 'ref-mesh/GrpmMeshEmbeddings_biobert-v1.1.pkl'
+def import_mesh_embeddings(file_path = 'ref-mesh/GrpmMeshEmbeddings_biobert-v1.1.pkl'):
     url ="https://github.com/johndef64/GRPM_system/raw/refs/heads/main/ref-mesh/GrpmMeshEmbeddings_biobert-v1.1.pkl"
     if not os.path.exists(file_path):
+        print('Downloading...')
         gdown.download(url, file_path, quiet=False)
 
     # Import the mesh_embeddings back from the pickle file
     with open(file_path, "rb") as file:
         grpm_mesh_embeddings = pickle.load(file)
+
+    print("Done")
     return grpm_mesh_embeddings
 
 ####
@@ -151,12 +153,26 @@ def nutrig_importer():
 
     return   grpm_nutrigen, grpm_nutrigen_int, grpm_nutrigen_int_gwas
 
-def mesh_importer():
-    grpm_mesh = pd.read_csv('ref-mesh/MESH_STY_LITVAR1.csv', index_col=0)
+
+def get_latest_mesh_data():
+    gdown.download("https://data.bioontology.org/ontologies/MESH/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=csv", output="ref-mesh/MESH.gz")
+
+def import_grpm_mesh(file_path = "ref-mesh/GrpmMesh.parquet"):
+    if not os.path.isfile(file_path):
+        gdown.download("https://github.com/johndef64/GRPM_system/raw/refs/heads/main/ref-mesh/GrpmMesh.parquet", output=file_path)
+    grpm_mesh_data = pd.read_parquet(file_path)
+    print('GRPM MeSH count:', grpm_mesh_data['Preferred Label'].nunique())
+    return grpm_mesh_data
+
+def import_grpm_mesh_zenodo(file_path='ref-mesh/MESH_STY_LITVAR1.csv'):
+    if not os.path.exists(file_path):
+        get_and_extract('ref-mesh', record_id='14052302')
+    grpm_mesh = pd.read_csv(file_path, index_col=0)
     print('GRPM MeSH count:', grpm_mesh['Preferred Label'].nunique())
     print('semantic types:', grpm_mesh['Semantic Types Label'].nunique())
     grpm_mesh = grpm_mesh[['Preferred Label', 'Semantic Types Label', 'Class ID', 'mesh_id','Semantic Types']]
     return grpm_mesh
+
 
 #%%
 def get_stats(dataset, group_by = 'gene', sublevel = 'unique', gi_sort=False):
@@ -202,6 +218,13 @@ def query_dataset(ds, my_tuple, field = 'mesh'):
 #%%
 ## SEMANTIC SIMILARITY
 
+def test_cuda():
+    print("Torch version:",torch.__version__)
+    print("Is CUDA enabled?",torch.cuda.is_available())
+    # if torch.cuda.is_available():
+    #     print(torch.randn(1).cuda())
+    # else:
+    #     print("""if CUDA not available and Windows system: uninstall torch and install "pip3 install torch --index-url https://download.pytorch.org/whl/cu118""")
 
 def load_language_model(language_model = 'dmis-lab/biobert-v1.1'):
     # Choose embedding model
@@ -212,7 +235,7 @@ def extract_embedding(input_text, model):
     embedding = model.encode(input_text, show_progress_bar=True)
     return embedding
 
-def get_mesh_embeddings(grpm_mesh, model, file_path):
+def get_mesh_embeddings(grpm_mesh, model, file_path, retrain =False, definitions=False, synonyms=False):
     """
 
     :param grpm_mesh: GRPM Mesh DataFrame
@@ -221,12 +244,23 @@ def get_mesh_embeddings(grpm_mesh, model, file_path):
     :return: mesh embeddings dict
     """
 
-    if torch.cuda.is_available() and not os.path.isfile(file_path):
+    if torch.cuda.is_available() and not os.path.isfile(file_path) or retrain:
         print("Is CUDA enabled?",torch.cuda.is_available())
         print("No embeddings. Generating embeddings...")
         # Generate MeSH Embeddings
-        grpm_meshes = list(grpm_mesh['Preferred Label'].drop_duplicates().reset_index(drop=True))
-        mesh_embeddings = extract_embedding(grpm_meshes, model)
+        grpm_meshes = list(grpm_mesh['Preferred Label'])
+        if definitions:
+            grpm_mesh['Definitions'] = grpm_mesh['Definitions'].fillna(" ")
+            grpm_mesh['combined'] = grpm_mesh['Preferred Label'] + ": " + grpm_mesh['Definitions']
+            grpm_meshes_to_encode = list(grpm_mesh['combined'])
+        elif synonyms:
+            grpm_mesh['Synonyms'] = grpm_mesh['Synonyms'].fillna(" ")
+            grpm_mesh['combined'] = grpm_mesh['Preferred Label'] + "; " + grpm_mesh['Synonyms']
+            grpm_meshes_to_encode = list(grpm_mesh['combined'])
+        else:
+            grpm_meshes_to_encode = grpm_meshes
+
+        mesh_embeddings = extract_embedding(grpm_meshes_to_encode, model)
         grpm_mesh_embeddings = {"meshes":grpm_meshes, "embeddings":mesh_embeddings}
 
         # Open the file in write-binary mode to store the pickle
@@ -237,8 +271,8 @@ def get_mesh_embeddings(grpm_mesh, model, file_path):
     else:
         # Download and import MeSH Embeddings
         print("Importing pretrained embeddings...")
-        grpm_mesh_embeddings = import_mesh_embeddings()
-        print("Done")
+        grpm_mesh_embeddings = import_mesh_embeddings(file_path)
+
 
     return grpm_mesh_embeddings
 
@@ -276,7 +310,6 @@ def calculate_cos_sim_tensor(tesor1, tensor2):
 ### METHOD 1 ###
 def create_corr_table(series1, series2, model, series2_embeddings = []):
     """
-
     :param series1:
     :param series2:
     :param model:
@@ -348,8 +381,8 @@ def get_mesh_rankings(user_query,  #"Enter your query here"
     # User query
 
     # Get embeddings for the query and MESH terms
-    query_embedding = model.encode(user_query, convert_to_tensor=True, show_progress_bar=True)
-    if mesh_embeddings:
+    query_embedding = model.encode(user_query, convert_to_tensor=True, show_progress_bar=False)
+    if mesh_embeddings is not None:
         mesh_embeddings = torch.from_numpy(mesh_embeddings)
     else:
         mesh_embeddings = model.encode(mesh_terms, convert_to_tensor=True, show_progress_bar=True)
@@ -394,4 +427,12 @@ def filter_mesh_scores(df, threshold=0.88 ):
     return pertinent_terms
 
 
+def get_mesh_query(user_query,
+                   mesh_terms,
+                   model,
+                   mesh_embeddings=None,
+                   threshold=0.88):
+    df = get_mesh_rankings(user_query,  mesh_terms, model, mesh_embeddings=mesh_embeddings,)
+    pertinent_terms = filter_mesh_scores(df, threshold=threshold)
+    return pertinent_terms
 
