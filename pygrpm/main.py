@@ -2,18 +2,20 @@ import os
 import io
 import sys
 import glob
+import torch
+import gdown
+import pickle
+import pyarrow
 import zipfile
 import requests
 import importlib
-import gdown
-import pyarrow
 import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 from datetime import datetime
-import pyperclip as pc
+from sentence_transformers import SentenceTransformer, util
 
 def simple_bool(message):
     choose = input(message+" (y/n): ").lower()
@@ -97,6 +99,9 @@ def import_mesh_embeddings():
         grpm_mesh_embeddings = pickle.load(file)
     return grpm_mesh_embeddings
 
+####
+
+
 def get_topic_terms():
     files = ["topic_terms_nutri_old.csv",
              "topic_terms_ng_xeno.csv",
@@ -154,14 +159,33 @@ def mesh_importer():
     return grpm_mesh
 
 #%%
-def get_stats(ds, group_by = 'gene', sublevel = 'unique'):
+def get_stats(dataset, group_by = 'gene', sublevel = 'unique', gi_sort=False):
+    """
+    :param dataset: dataset to get stats for
+    :param group_by: column to group by
+    :param sublevel: sublevel to display
+    :param gi_sort: sort results by GI
+    :return: stats dataframe
+    """
     print('Computing Stats...')
     t1 = datetime.now()
-    ds = ds.groupby(group_by).describe(include=['object'])
+    group = dataset.groupby(group_by).describe(include=['object'])
     def norm_describe(df, sublevel):
         return df.loc[:, df.columns.get_level_values(1) == sublevel]
+
     print('runtime: ', datetime.now() - t1)
-    return norm_describe(ds, sublevel)
+
+    stats = norm_describe(group, sublevel)
+
+    if gi_sort:
+        # Create a sorted index by finding the order of elements in 'gene_sorted_gi'
+        gene_sorted_gi = dataset.gene.drop_duplicates().to_list()
+        sorted_index = stats.index.map(lambda x: gene_sorted_gi.index(x) if x in gene_sorted_gi else float('inf'))
+
+        # Sort 'stats' based on the created sorted index
+        stats = stats.iloc[sorted_index.argsort()]
+
+    return stats
 
 #%%
 def query_dataset(ds, my_tuple, field = 'mesh'):
@@ -178,7 +202,6 @@ def query_dataset(ds, my_tuple, field = 'mesh'):
 #%%
 ## SEMANTIC SIMILARITY
 
-from sentence_transformers import SentenceTransformer, util
 
 def load_language_model(language_model = 'dmis-lab/biobert-v1.1'):
     # Choose embedding model
@@ -188,6 +211,38 @@ def extract_embedding(input_text, model):
     # Encode the input text to get the embedding
     embedding = model.encode(input_text, show_progress_bar=True)
     return embedding
+
+def get_mesh_embeddings(grpm_mesh, model, file_path):
+    """
+
+    :param grpm_mesh: GRPM Mesh DataFrame
+    :param model: SentenceTransformer(language_model)
+    :param file_path: mesh_embeddings.pkl file path
+    :return: mesh embeddings dict
+    """
+
+    if torch.cuda.is_available() and not os.path.isfile(file_path):
+        print("Is CUDA enabled?",torch.cuda.is_available())
+        print("No embeddings. Generating embeddings...")
+        # Generate MeSH Embeddings
+        grpm_meshes = list(grpm_mesh['Preferred Label'].drop_duplicates().reset_index(drop=True))
+        mesh_embeddings = extract_embedding(grpm_meshes, model)
+        grpm_mesh_embeddings = {"meshes":grpm_meshes, "embeddings":mesh_embeddings}
+
+        # Open the file in write-binary mode to store the pickle
+        with open(file_path, 'wb') as file:
+            print("Saving embeddings in {}".format(file_path))
+            # Use pickle to dump the dictionary into the file
+            pickle.dump(grpm_mesh_embeddings, file)
+    else:
+        # Download and import MeSH Embeddings
+        print("Importing pretrained embeddings...")
+        grpm_mesh_embeddings = import_mesh_embeddings()
+        print("Done")
+
+    return grpm_mesh_embeddings
+
+
 
 # Function to compute cosine similarity
 def cosine_similarity(vec1, vec2):
