@@ -158,6 +158,7 @@ def get_latest_mesh_data():
     gdown.download("https://data.bioontology.org/ontologies/MESH/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb&download_format=csv", output="ref-mesh/MESH.gz")
 
 def import_grpm_mesh(file_path = "ref-mesh/GrpmMesh.parquet"):
+    os.makedirs('ref-mesh', exist_ok=True)
     if not os.path.isfile(file_path):
         gdown.download("https://github.com/johndef64/GRPM_system/raw/refs/heads/main/ref-mesh/GrpmMesh.parquet", output=file_path)
     grpm_mesh_data = pd.read_parquet(file_path)
