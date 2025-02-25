@@ -309,12 +309,16 @@ def calculate_cos_sim_tensor(tesor1, tensor2):
     return cosine_scores
 
 ### METHOD 1 ###
-def create_corr_table(series1, series2, model, series2_embeddings = []):
+
+def create_corr_table(series1, series2, model, series2_embeddings = [], n=3):
     """
+    Returns only the top correspondence for each "series1" element
+
     :param series1:
     :param series2:
     :param model:
     :param series2_embeddings:
+    :param n: number of top matches
     :return:
     """
     array1 = extract_embedding(series1.to_list(), model)
@@ -331,37 +335,28 @@ def create_corr_table(series1, series2, model, series2_embeddings = []):
     similarities_df = pd.DataFrame(similarities, index=[i for i in range(array1.shape[0])],
                                    columns=[j for j in range(array2.shape[0])])
 
-    # Find the index of the maximum value in each row
-    max_indices = similarities_df.idxmax(axis=1)
-    # Find the maximum value in each row
-    max_values = similarities_df.max(axis=1)
+    #####
+    # List to store rows for the correspondence table
+    data_rows = []
 
-    # Create a DataFrame with the correspondence between row index and column values
-    correspondence_table = pd.DataFrame({
-        "list1_id": max_indices.index,
-        "list2_id": max_indices.values,
-        "Max Value": max_values.values
-    })
+    # Loop through each row to find top N correspondences
+    for row_index in similarities_df.index:
+        # Get the top N similarities for each row
+        top_n_similarities = similarities_df.loc[row_index].nlargest(n)
+        for col_index, sim_value in top_n_similarities.items():
+            # Create a new row entry
+            new_row = {
+                'list1': series1[row_index],
+                'list2': series2[col_index],
+                'similarity': sim_value
+            }
+            data_rows.append(new_row)  # Append new row to list
 
-    data_rows = []  # List to store each row as a dictionary
+    # Create DataFrame from accumulated rows
+    correspondence_df = pd.DataFrame(data_rows)
 
-    for i in range(len(correspondence_table)):  # Loop over index range
-        list1_id = correspondence_table['list1_id'][i]
-        list2_id = correspondence_table['list2_id'][i]
-        sim_value = correspondence_table['Max Value'][i]
-
-        # Create a dictionary for the new row
-        new_row = {
-            'list1': series1[list1_id],
-            'list2': series2[list2_id],
-            'similarity': sim_value
-        }
-
-        data_rows.append(new_row)  # Append to list of rows
-
-    df = pd.DataFrame(data_rows)
-    df.sort_values(by=['similarity'], ascending=False)
-    return df
+    # Sort by 'similarity' column
+    return correspondence_df.sort_values(by=['similarity'], ascending=False)
 #%%
 
 ### METHOD 2 ###
