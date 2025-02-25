@@ -194,9 +194,9 @@ def get_stats(dataset, group_by = 'gene', sublevel = 'unique', gi_sort=False):
 
     stats = norm_describe(group, sublevel)
 
-    if gi_sort:
+    if gi_sort and group_by in ['gene', 'GRPM_GENE']:
         # Create a sorted index by finding the order of elements in 'gene_sorted_gi'
-        gene_sorted_gi = dataset.gene.drop_duplicates().to_list()
+        gene_sorted_gi = dataset[group_by].drop_duplicates().to_list()
         sorted_index = stats.index.map(lambda x: gene_sorted_gi.index(x) if x in gene_sorted_gi else float('inf'))
 
         # Sort 'stats' based on the created sorted index
