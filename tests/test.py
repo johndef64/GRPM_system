@@ -47,20 +47,25 @@ grpm_nutrigen, grpm_nutrigen_int, grpm_nutrigen_int_gwas = nutrig_importer()
 
 # In[4]:
 
-
-get_ipython().run_cell_magic('time', '', "# Full GRPM Dataset Build\npcg_grpm_stats = get_stats(pcg_grpm, group_by = 'gene')\ndisplay(grpm_nutrigen_int.head(10))\ndisplay(pcg_grpm_stats.head(20))\n")
+# Full GRPM Dataset Build
+pcg_grpm_stats = get_stats(pcg_grpm, group_by = 'gene')
+display(grpm_nutrigen_int.head(10))
+display(pcg_grpm_stats.head(20))
 
 
 # In[7]:
 
-
-get_ipython().run_cell_magic('time', '', "# Nutrigenetic Dataset (10 Topics)\ngrpm_nutrigen_stats = get_stats(grpm_nutrigen, group_by = 'gene', gi_sort=True)\ndisplay(grpm_nutrigen.head(10))\ndisplay(grpm_nutrigen_stats.head(20))\n")
-
+# Nutrigenetic Dataset (10 Topics)
+grpm_nutrigen_stats = get_stats(grpm_nutrigen, group_by = 'gene', gi_sort=True)
+display(grpm_nutrigen.head(10))
+display(grpm_nutrigen_stats.head(20))
 
 # In[5]:
 
-
-get_ipython().run_cell_magic('time', '', "# Nutrigenetic Dataset + GWAS\ngrpm_nutrigen_int_gwas_stats = get_stats(grpm_nutrigen_int_gwas, group_by='GRPM_GENE', gi_sort=True)\ndisplay(grpm_nutrigen_int_gwas.head(10))\ndisplay(grpm_nutrigen_int_gwas_stats.head(20))\n")
+# Nutrigenetic Dataset + GWAS
+grpm_nutrigen_int_gwas_stats = get_stats(grpm_nutrigen_int_gwas, group_by='GRPM_GENE', gi_sort=True)
+display(grpm_nutrigen_int_gwas.head(10))
+display(grpm_nutrigen_int_gwas_stats.head(20))
 
 
 # # QUERY GRPM Dataset
@@ -262,3 +267,5 @@ my_genes = "VDR, PNPLA3, PNPLA3"
 gene_panel = query_dataset(query_result, my_genes.split(','), 'gene')
 display(gene_panel)
 
+
+#%%
